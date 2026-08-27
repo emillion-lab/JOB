@@ -4,11 +4,16 @@ import { buildProfile } from './profile.mjs';
 import { collectAll } from './sources/index.mjs';
 import { dedupe, isFresh } from './normalize.mjs';
 import { prefilter } from './prefilter.mjs';
-import { matchJobs } from './match.mjs';
+import { matchJobs, keywordVerdict } from './match.mjs';
 import { loadState, splitSeen, rehydrate, saveState } from './state.mjs';
 import { writeReport, digest } from './report.mjs';
 
 const settings = await loadSettings();
+
+// On a public repository everything committed is readable by anyone, including
+// the model's verdicts about the candidate. This strips them at the source.
+const redactJob = job => settings.publicReport !== true ? job
+  : { ...job, reason: '', next_action: '', matched: [], gaps: [], disqualifiers: [] };
 
 // A scheduled run must be able to build its own profile. The placeholder that
 // ships with the repository is not a profile, and parsing it is not a success.
@@ -39,13 +44,22 @@ const reused = known.map(j => rehydrate(j, state)).filter(Boolean);
 const rescore = known.filter(j => !rehydrate(j, state));
 log(`${fresh.length} new to score, ${reused.length} reused from previous runs`);
 
-const scored = await matchJobs(
-  [...fresh, ...rescore].map(j => ({ ...j, isNew: !state[j.id] })),
-  profile,
-  { maxJobs: settings.maxLlmJobs ?? settings.prefilterKeep ?? 60 }
-);
+// Hybrid: the keyword score decides who is worth paying the model for.
+// Everything else still appears, ranked, labelled as keyword-only.
+const candidates = [...fresh, ...rescore].map(j => ({ ...j, isNew: !state[j.id] }));
+const floor = settings.llmMinKeywordScore ?? 0;
+const toScore = settings.useLlm === false
+  ? []
+  : candidates.filter(j => (j.prefilter?.score ?? 0) >= floor).slice(0, settings.maxLlmJobs ?? 40);
+const cheap = candidates.filter(j => !toScore.includes(j));
+log(`Model scoring ${toScore.length}, keyword-only ${cheap.length}`);
 
-await saveState(state, scored);
+const scored = [
+  ...(toScore.length ? await matchJobs(toScore, profile, { maxJobs: toScore.length }) : []),
+  ...cheap.map(j => keywordVerdict(j))
+];
+
+await saveState(state, scored, { redact: settings.publicReport === true });
 
 const all = [...scored, ...reused]
   .filter(j => (j.score || 0) >= settings.minimumScore)
@@ -65,7 +79,7 @@ const report = {
   llmScored: scored.filter(j => j.scoredBy === 'llm').length,
   totalMatched: all.length,
   totalNew: all.filter(j => j.isNew).length,
-  jobs: all.map(({ prefilter: pf, ...j }) => ({ ...j, keywordScore: pf?.score ?? null }))
+  jobs: all.map(({ prefilter: pf, ...j }) => redactJob({ ...j, keywordScore: pf?.score ?? null }))
 };
 
 await writeReport(report);
