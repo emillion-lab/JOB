@@ -1,0 +1,22 @@
+{
+  "countries": ["ch"],
+  "locations": ["Zurich"],
+  "remote": true,
+  "maxQueries": 8,
+  "resultsPerQuery": 25,
+  "maxJobAgeDays": 30,
+  "prefilterKeep": 60,
+  "maxLlmJobs": 40,
+  "minimumScore": 45,
+  "excludedTerms": ["internship", "praktikum", "werkstudent"],
+  "preferredTerms": [],
+  "sources": {
+    "adzuna": { "enabled": true },
+    "arbeitnow": { "enabled": true, "pages": 3 },
+    "remotive": { "enabled": true },
+    "feeds": { "enabled": false, "urls": [] },
+    "greenhouse": { "enabled": false, "boards": [] },
+    "lever": { "enabled": false, "boards": [] },
+    "ashby": { "enabled": false, "boards": [] }
+  }
+}
