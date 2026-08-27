@@ -6,8 +6,13 @@
   "resultsPerQuery": 25,
   "maxJobAgeDays": 30,
   "prefilterKeep": 60,
-  "maxLlmJobs": 40,
   "minimumScore": 45,
+
+  "useLlm": true,
+  "llmMinKeywordScore": 55,
+  "maxLlmJobs": 10,
+  "publicReport": true,
+
   "excludedTerms": ["internship", "praktikum", "werkstudent"],
   "preferredTerms": [],
   "sources": {
