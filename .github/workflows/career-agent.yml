@@ -1,0 +1,61 @@
+name: Career Agent
+
+on:
+  workflow_dispatch:
+    inputs:
+      rebuild_profile:
+        description: Rebuild the profile from the CV before searching
+        type: boolean
+        default: false
+  schedule:
+    - cron: '17 5 * * 1-5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: career-agent
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    env:
+      CV_TEXT_B64: ${{ secrets.CV_TEXT_B64 }}
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
+      LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+      LLM_MODEL: ${{ vars.LLM_MODEL }}
+      ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+      ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+      REBUILD_PROFILE: ${{ inputs.rebuild_profile }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Unit tests
+        run: npm test
+
+      # The profile is rebuilt inside run.mjs when it is missing or stale, so a
+      # scheduled run is never left holding a placeholder.
+      - name: Find and rank jobs
+        run: npm run run
+
+      # data/profile.json is CV-derived and gitignored. It stays in the run only.
+      - name: Keep the profile out of git, available for 1 day
+        uses: actions/upload-artifact@v4
+        with:
+          name: career-profile
+          path: data/profile.json
+          retention-days: 1
+          if-no-files-found: ignore
+
+      - name: Publish report
+        run: |
+          git config user.name  "career-agent[bot]"
+          git config user.email "career-agent[bot]@users.noreply.github.com"
+          git add -A data docs   # cv.txt and profile.json are gitignored
+          git diff --cached --quiet || git commit -m "bot: refresh job matches"
+          git push
