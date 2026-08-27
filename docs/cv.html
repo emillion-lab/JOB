@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CV to secret — career agent</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet">
+<style>
+  :root{--steel:#DCE1E6;--card:#fff;--ink:#0E1620;--muted:#5B6875;--rule:#B9C2CB;--signal:#E8940C}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--steel);color:var(--ink);font:400 16px/1.55 Barlow,system-ui,sans-serif}
+  .wrap{max-width:760px;margin:0 auto;padding:20px 16px 64px}
+  h1{font:700 22px/1 'Barlow Condensed',sans-serif;letter-spacing:.08em;text-transform:uppercase;
+     background:var(--ink);color:#EDF1F4;margin:0;padding:14px 16px;border-radius:3px}
+  h1 span{color:var(--signal)}
+  .card{background:var(--card);border:1px solid var(--rule);border-radius:3px;padding:16px;margin:12px 0}
+  p{margin:0 0 10px}
+  .muted{color:var(--muted);font-size:14px}
+  input[type=file]{font:400 14px Barlow,sans-serif}
+  textarea{width:100%;min-height:150px;font:400 12px/1.5 'JetBrains Mono',monospace;
+    border:1px solid var(--rule);border-radius:2px;padding:10px;resize:vertical;background:#F8FAFB}
+  button{font:600 14px Barlow,sans-serif;background:var(--ink);color:#fff;border:0;
+    padding:10px 14px;border-radius:2px;cursor:pointer}
+  button:disabled{background:#93A1AD;cursor:not-allowed}
+  button.ghost{background:var(--card);color:var(--ink);border:1px solid var(--rule)}
+  .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+  :focus-visible{outline:2px solid var(--signal);outline-offset:2px}
+  code{font:400 13px 'JetBrains Mono',monospace;background:#F1F4F6;padding:1px 4px}
+  .status{font:400 13px 'JetBrains Mono',monospace;color:var(--muted);margin-top:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>CV <span>→</span> CV_TEXT_B64</h1>
+
+  <div class="card">
+    <p>Pick your CV. The file is read in this browser tab and never uploaded — the page has no
+      backend. Copy the Base64 result into the repository secret <code>CV_TEXT_B64</code>.</p>
+    <p class="muted">PDF, plain text and Markdown all work. Scanned PDFs with no text layer will
+      come out empty; paste the text yourself in that case.</p>
+    <input type="file" id="file" accept=".pdf,.txt,.md">
+    <p class="status" id="status">Waiting for a file.</p>
+  </div>
+
+  <div class="card">
+    <p><strong>1. Extracted text</strong> — edit out anything you would rather the agent not read.</p>
+    <textarea id="text" spellcheck="false" placeholder="Extracted CV text appears here."></textarea>
+    <div class="row"><button id="encode">Encode to Base64</button></div>
+  </div>
+
+  <div class="card">
+    <p><strong>2. Secret value</strong> — paste this into Settings → Secrets and variables → Actions.</p>
+    <textarea id="b64" spellcheck="false" readonly placeholder="Base64 output appears here."></textarea>
+    <div class="row">
+      <button id="copy" disabled>Copy to clipboard</button>
+      <button id="clear" class="ghost">Clear both boxes</button>
+    </div>
+    <p class="status" id="out"></p>
+  </div>
+</div>
+
+<script type="module">
+const $ = id => document.getElementById(id);
+
+$('file').addEventListener('change', async e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  $('status').textContent = `Reading ${file.name} in this tab…`;
+  try {
+    $('text').value = file.type === 'application/pdf' || /\.pdf$/i.test(file.name)
+      ? await readPdf(file)
+      : await file.text();
+    const chars = $('text').value.length;
+    $('status').textContent = chars > 200
+      ? `${file.name} — ${chars.toLocaleString()} characters extracted.`
+      : `${file.name} produced almost no text. If it is a scan, paste the text by hand.`;
+  } catch (err) {
+    $('status').textContent = `Could not read that file (${err.message}). Paste the text by hand.`;
+  }
+});
+
+async function readPdf(file){
+  const pdfjs = await import('https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs');
+  pdfjs.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs';
+  const pdf = await pdfjs.getDocument({ data: await file.arrayBuffer() }).promise;
+  let out = '';
+  for (let p = 1; p <= pdf.numPages; p++){
+    const content = await (await pdf.getPage(p)).getTextContent();
+    out += content.items.map(i => i.str).join(' ') + '\n';
+  }
+  return out.replace(/[ \t]+/g, ' ').trim();
+}
+
+$('encode').addEventListener('click', () => {
+  const text = $('text').value.trim();
+  if (!text) { $('out').textContent = 'Nothing to encode yet.'; return; }
+  $('b64').value = btoa(String.fromCharCode(...new TextEncoder().encode(text)));
+  $('copy').disabled = false;
+  $('out').textContent = `Encoded ${text.length.toLocaleString()} characters.`;
+});
+
+$('copy').addEventListener('click', async () => {
+  await navigator.clipboard.writeText($('b64').value);
+  $('out').textContent = 'Copied. Paste it into the CV_TEXT_B64 secret.';
+});
+
+$('clear').addEventListener('click', () => {
+  $('text').value = ''; $('b64').value = ''; $('copy').disabled = true;
+  $('status').textContent = 'Waiting for a file.'; $('out').textContent = 'Cleared.';
+});
+</script>
+</body>
+</html>
