@@ -1,0 +1,14 @@
+{
+  "name": "universal-career-agent",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "profile": "node src/profile.mjs",
+    "run": "node src/run.mjs",
+    "test": "node --test \"test/**/*.test.mjs\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
