@@ -25,7 +25,7 @@ export function rehydrate(job, state) {
   return prev?.match ? { ...job, ...prev.match, firstSeen: prev.firstSeen, isNew: false } : null;
 }
 
-export async function saveState(state, scored) {
+export async function saveState(state, scored, { redact = false } = {}) {
   const now = new Date().toISOString();
   for (const job of scored) {
     const prev = state[job.id];
@@ -34,12 +34,15 @@ export async function saveState(state, scored) {
       lastSeen: now,
       title: job.title,
       company: job.company,
-      match: {
-        score: job.score ?? null, fit: job.fit ?? null,
-        matched: job.matched || [], gaps: job.gaps || [],
-        disqualifiers: job.disqualifiers || [], reason: job.reason || '',
-        next_action: job.next_action || ''
-      }
+      // seen.json is committed too, so it is redacted on the same rule as the report.
+      match: redact
+        ? { score: job.score ?? null, fit: job.fit ?? null, matched: [], gaps: [], disqualifiers: [], reason: '', next_action: '' }
+        : {
+            score: job.score ?? null, fit: job.fit ?? null,
+            matched: job.matched || [], gaps: job.gaps || [],
+            disqualifiers: job.disqualifiers || [], reason: job.reason || '',
+            next_action: job.next_action || ''
+          }
     };
   }
   const cutoff = Date.now() - KEEP_DAYS * 86400000;
