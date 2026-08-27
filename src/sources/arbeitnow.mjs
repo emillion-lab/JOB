@@ -1,0 +1,30 @@
+import { getJson } from '../lib.mjs';
+import { toJob } from '../normalize.mjs';
+
+/** Arbeitnow free job board API: strong DACH coverage, no key required. */
+export default {
+  id: 'arbeitnow',
+  async collect({ settings, config }) {
+    const pages = Math.max(1, Math.min(config.pages ?? 3, 10));
+    const jobs = [];
+    for (let page = 1; page <= pages; page++) {
+      const u = new URL('https://www.arbeitnow.com/api/job-board-api');
+      u.searchParams.set('page', String(page));
+      const data = await getJson(u, { label: `arbeitnow:p${page}` });
+      if (!data?.data?.length) break;
+      for (const j of data.data) {
+        const job = toJob({
+          title: j.title, company: j.company_name, location: j.location,
+          remote: j.remote, description: j.description, url: j.url,
+          posted: j.created_at, sourceId: j.slug
+        }, 'arbeitnow');
+        if (job) jobs.push(job);
+      }
+    }
+    // Board-wide feed: keep only what is plausibly in scope.
+    const wanted = (settings.locations || []).map(x => x.toLowerCase());
+    return wanted.length
+      ? jobs.filter(j => j.remote || wanted.some(w => `${j.location}`.toLowerCase().includes(w)))
+      : jobs;
+  }
+};
