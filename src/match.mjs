@@ -49,14 +49,7 @@ export async function matchJobs(jobs, profile, { maxJobs = 60 } = {}) {
 
   return subject.map(job => {
     const v = verdicts.get(job.id);
-    if (!v) {
-      return {
-        ...job, score: job.prefilter?.score ?? 0, fit: 'unscored',
-        matched: job.prefilter?.hits || [], gaps: [], disqualifiers: [],
-        reason: 'Keyword score only — the language model did not return a verdict for this advertisement.',
-        next_action: 'Read the advertisement yourself before deciding.', scoredBy: 'prefilter'
-      };
-    }
+    if (!v) return keywordVerdict(job, 'Keyword score only — the model returned no verdict for this advertisement.');
     return {
       ...job,
       score: clampScore(v.score), fit: v.fit || 'unrated',
@@ -65,6 +58,20 @@ export async function matchJobs(jobs, profile, { maxJobs = 60 } = {}) {
       scoredBy: 'llm'
     };
   });
+}
+
+/** The cheap verdict: used when a job never reaches the model, and when a batch fails. */
+export function keywordVerdict(job, reason = 'Keyword score only — below the threshold for model scoring.') {
+  return {
+    ...job,
+    score: job.prefilter?.score ?? 0,
+    fit: 'unscored',
+    matched: job.prefilter?.hits || [],
+    gaps: [], disqualifiers: [],
+    reason,
+    next_action: 'Read the advertisement yourself before deciding.',
+    scoredBy: 'prefilter'
+  };
 }
 
 const arr = v => (Array.isArray(v) ? v.map(String) : []);
