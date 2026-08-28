@@ -22,12 +22,23 @@ if (willUseLlm && !process.env.LLM_API_KEY) {
 
 const sources = Object.entries(settings.sources || {}).filter(([, c]) => c?.enabled).map(([id]) => id);
 if (!sources.length) problems.push('No sources are enabled in config/settings.json.');
+if (!settings.markets?.length) problems.push('No markets configured.');
 if (settings.sources?.adzuna?.enabled && !process.env.ADZUNA_APP_ID) {
   log('! adzuna is enabled but ADZUNA_APP_ID is missing — that source will be skipped.');
+}
+if (settings.sources?.nav?.enabled && !process.env.NAV_TOKEN) {
+  log('! nav is enabled without NAV_TOKEN — the rotating public token will be used. Request your own from nav.team.arbeidsplassen@nav.no');
+}
+
+const requests = (settings.markets || [])
+  .reduce((n, m) => n + Math.max(1, (m.locations || []).length) * (settings.maxQueries ?? 8), 0);
+if (settings.sources?.adzuna?.enabled && requests > (settings.sources.adzuna.maxRequests ?? 60)) {
+  log(`! adzuna would need ${requests} requests but is capped; later markets will be cut short.`);
 }
 
 log(`Profile: ${haveProfile ? profile.headline : 'to be built from CV'}`);
 log(`Scoring: ${willUseLlm ? `model above keyword ${settings.llmMinKeywordScore ?? 0}, max ${settings.maxLlmJobs ?? 40}/run` : 'keyword only, no API calls'}`);
+log(`Markets: ${(settings.markets || []).map(m => `${m.country}(${(m.locations || []).length})`).join(' ')}`);
 log(`Sources: ${sources.join(', ')}`);
 log(`Report: ${settings.publicReport === true ? 'redacted for a public repository' : 'full detail'}`);
 
