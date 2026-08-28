@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-08-28T07:43:15.225Z",
+  "generatedAt": "2026-08-28T07:59:25.040Z",
   "settings": {
     "countries": [
       "ch"
     ],
     "locations": [
-      "Zurich"
+      "Zurich",
+      "Zug",
+      "Winterthur",
+      "Basel",
+      "Bern",
+      "Luzern"
     ],
-    "minimumScore": 45,
-    "maxJobAgeDays": 30
+    "minimumScore": 40,
+    "maxJobAgeDays": 60
   },
   "profileSummary": {
     "headline": "Service delivery and IT service management professional",
@@ -19,7 +24,9 @@
       "Incident and Problem Manager",
       "ServiceNow Process Consultant",
       "Service Operations Lead",
-      "Project Manager, IT services"
+      "Project Manager, IT services",
+      "Application Manager",
+      "Service Owner"
     ]
   },
   "searchedQueries": [
@@ -35,26 +42,195 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 34,
+      "collected": 90,
       "status": "ok"
     },
     {
       "source": "arbeitnow",
-      "collected": 46,
-      "status": "ok"
-    },
-    {
-      "source": "remotive",
-      "collected": 144,
+      "collected": 41,
       "status": "ok"
     }
   ],
-  "totalCollected": 90,
-  "totalScored": 60,
+  "totalCollected": 109,
+  "totalScored": 27,
   "llmScored": 0,
-  "totalMatched": 3,
-  "totalNew": 0,
+  "totalMatched": 11,
+  "totalNew": 6,
   "jobs": [
+    {
+      "title": "IT Service Manager/in 80-100%",
+      "company": "Manpower",
+      "location": "Basel, Basel-Stadt",
+      "remote": false,
+      "description": "Manpower ​ Experis ist ein weltweit führender Anbieter von IT-Personalvermittlung, Festanstellungen, Projektlösungen und Managed Services. Mit über 25 Jahren Erfahrung in der Schweiz und Standorten in Zürich, Basel und Genf verbinden wir führende Unternehmen mit erstklassigen IT-Fachkräften. Unsere Mission ist es, Talente dabei zu unterstützen, ihr Potenzial zu entfalten und erfolgreiche, zukunftsorientierte Karrieren zu gestalten. ​ Ihre Aufgaben In dieser verantwortungsvollen Funktion gestalt…",
+      "url": "https://www.adzuna.ch/details/5823814837?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-01T12:29:26.000Z",
+      "source": "adzuna",
+      "sourceId": "5823814837",
+      "query": "service manager",
+      "id": "aa291dcdd31e3a80",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
+    {
+      "title": "ICT-Service-Manager/-in / ICT Projektleiter/-in",
+      "company": "Bundesamt für Bauten und Logistik BBL",
+      "location": "Bern, Bern-Mittelland",
+      "remote": false,
+      "description": "ICT-Service-Manager/-in / ICT Projektleiter/-in Bern, Schweiz (und Homeoffice) | 80-100% Diesen Beitrag können Sie leisten Analysieren von Anforderungen mit den Fachteams sowie Konzipieren und Umsetzen spezifischer IT-Betriebs- und Service-Strukturen Betreuen und Optimieren aller Wartungs- und Lizenzverträge für die genutzten ICT-Produkte und -Services Überprüfen der vereinbarten SLAs und OLAs hinsichtlich der Verfügbarkeit und Performance von Services, Systemen, Netzwerken und Applikationen Le…",
+      "url": "https://www.adzuna.ch/land/ad/5835562362?se=2LkzYbai8RGhLffPfv7Txw&utm_medium=api&utm_source=8209e0ff&v=97161B2088AFC3ABC5CD7FE671C6AD3AB74E67FE",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-10T14:57:37.000Z",
+      "source": "adzuna",
+      "sourceId": "5835562362",
+      "query": "service manager",
+      "id": "d7d69eca33a8fddb",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
+    {
+      "title": "Senior Service Manager Workplace",
+      "company": "Bedag Informatik AG",
+      "location": "Bern, Bern-Mittelland",
+      "remote": false,
+      "description": "Senior Service Manager Workplace (a) Was du hier tust, macht Sinn. Wir entwickeln keine «Fancy Apps», sondern clevere ICT, die den Menschen nützt. Du passt perfekt zu uns, wenn du Kontinuität als Ansporn nimmst, um zu Höchstform aufzulaufen und dich weder in einem Grosskonzern noch in einem Start-up siehst. Dein neuer Job Als zentrale Ansprechperson für unsere Kunden die Workplace Services verantworten und als Schnittstelle zu den internen Fachbereichen agieren. Ermitteln von Bedürfnissen und A…",
+      "url": "https://www.adzuna.ch/land/ad/5847249018?se=2LkzYbai8RGhLffPfv7Txw&utm_medium=api&utm_source=8209e0ff&v=C5B003588348D1EF43BF8C2D974CAD7DAFC7933B",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-18T23:41:13.000Z",
+      "source": "adzuna",
+      "sourceId": "5847249018",
+      "query": "service manager",
+      "id": "970b7d28e3ef2b68",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
+    {
+      "title": "Senior Service Manager Workplace (a)",
+      "company": "Bedag Informatik AG",
+      "location": "Bern, Bern-Mittelland",
+      "remote": false,
+      "description": "Was du hier tust, macht Sinn. Wir entwickeln keine «Fancy Apps», sondern clevere ICT, die den Menschen nützt. Du passt perfekt zu uns, wenn du Kontinuität als Ansporn nimmst, um zu Höchstform aufzulaufen und dich weder in einem Grosskonzern noch in einem Start-up siehst. Dein neuer Job Als zentrale Ansprechperson für unsere Kunden die Workplace Services verantworten und als Schnittstelle zu den internen Fachbereichen agieren. Ermitteln von Bedürfnissen und Anforderungen, Bewerten der Machbarkei…",
+      "url": "https://www.adzuna.ch/details/5848038736?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-19T12:15:29.000Z",
+      "source": "adzuna",
+      "sourceId": "5848038736",
+      "query": "service manager",
+      "id": "19776f9638295507",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
+    {
+      "title": "ICT-Service-Manager/-in / ICT Projektleiter/-in 80-100%",
+      "company": "Job-Room",
+      "location": "Bern, Bern-Mittelland",
+      "remote": false,
+      "description": "Diesen Beitrag können Sie leisten * Analysieren von Anforderungen mit den Fachteams sowie Konzipieren und Umsetzen spezifischer IT-Betriebs- und Service-Strukturen * Betreuen und Optimieren aller Wartungs- und Lizenzverträge für die genutzten ICT-Produkte und -Services * Überprüfen der vereinbarten SLAs und OLAs hinsichtlich der Verfügbarkeit und Performance von Services, Systemen, Netzwerken und Applikationen * Leiten von ICT-Vorhaben und ICT-Projekten, vom Konzept über die Realisierung, der E…",
+      "url": "https://www.adzuna.ch/details/5841777809?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-14T13:24:35.000Z",
+      "source": "adzuna",
+      "sourceId": "5841777809",
+      "query": "service manager",
+      "id": "95fdf0cf8049be00",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
+    {
+      "title": "Application Manager / Service Family Owner (Application & Business Support) 80 - 100 % (m/w/d)",
+      "company": "Caritas Schweiz",
+      "location": "Luzern, Luzern-Stadt",
+      "remote": false,
+      "description": "Das Richtige tun. In der Schweiz und in rund 20 Ländern auf vier Kontinenten. Engagieren Sie sich mit uns für die Vision einer solidarischen Gesellschaft, als Application Manager / Service Family Owner (Application & Business Support) 80 - 100 % (m/w/d) Die ICT & Digital Organisation von Caritas Schweiz befindet sich in einer Transformation hin zu einer serviceorientierten Organisation mit klaren Services, Verantwortlichkeiten und Governance-Strukturen. Mit dieser Rolle übernimmst du die fachli…",
+      "url": "https://www.adzuna.ch/details/5841648664?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-14T12:22:46.000Z",
+      "source": "adzuna",
+      "sourceId": "5841648664",
+      "query": "service manager",
+      "id": "1c2269183acaef33",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
     {
       "title": "Applications-Manager/Service-Manager",
       "company": "Coopers Group AG",
@@ -73,17 +249,15 @@
       "sources": [
         "adzuna"
       ],
-      "isNew": false,
       "score": 55,
       "fit": "unscored",
-      "matched": [
-        "service manager"
-      ],
+      "matched": [],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "Keyword score only — below the threshold for model scoring.",
-      "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T07:23:58.615Z",
+      "isNew": false,
       "keywordScore": 55
     },
     {
@@ -104,18 +278,15 @@
       "sources": [
         "adzuna"
       ],
-      "isNew": false,
       "score": 45,
       "fit": "unscored",
-      "matched": [
-        "itsm manager",
-        "servicenow"
-      ],
+      "matched": [],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "Keyword score only — below the threshold for model scoring.",
-      "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T07:23:58.615Z",
+      "isNew": false,
       "keywordScore": 45
     },
     {
@@ -136,19 +307,74 @@
       "sources": [
         "adzuna"
       ],
-      "isNew": false,
       "score": 45,
       "fit": "unscored",
-      "matched": [
-        "servicenow consultant",
-        "servicenow"
-      ],
+      "matched": [],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "Keyword score only — below the threshold for model scoring.",
-      "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T07:23:58.615Z",
+      "isNew": false,
       "keywordScore": 45
+    },
+    {
+      "title": "Service Operation Manager/-in",
+      "company": "Kantonale Verwaltung Zürich",
+      "location": "Zürich",
+      "remote": false,
+      "description": "Service Operation Manager/-in Steueramt Service Operation Manager/-in 100% Willkommen in der faszinierenden Welt der Steuern! Das kantonale Steueramt erhebt gemeinsam mit den Gemeindesteuerämtern die Steuern für den Bund, den Kanton und die Gemeinden. Wir unterstützen Privatpersonen und Unternehmen im gesamten Steuererhebungsprozess. Dafür engagieren sich rund 800 qualifizierte Mitarbeitende am Standort in Zürich Altstetten. Mit deinem Team sorgst du dafür, dass unsere Daten-Services reibungslo…",
+      "url": "https://www.adzuna.ch/land/ad/5833434163?se=JrjlXbai8RGfx5bEd-nhPg&utm_medium=api&utm_source=8209e0ff&v=F2E6EE385ED7621A25E6D55B6D10C73088AFE987",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-08T14:27:31.000Z",
+      "source": "adzuna",
+      "sourceId": "5833434163",
+      "query": "service manager",
+      "id": "85002fa37c171e23",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T07:23:58.615Z",
+      "isNew": false,
+      "keywordScore": 40
+    },
+    {
+      "title": "Innenarchitekt /Einrichtungs-Berater als RETAIL-MANAGER \"Sales Store & Service\"",
+      "company": "Mooser & Partner AG Personalberatung",
+      "location": "Zürich",
+      "remote": false,
+      "description": "Innenarchitekt /Einrichtungs-Berater als RETAIL-MANAGER \"Sales Store & Service\" (w/m) Premium-Konsumgüter im Fokus Ihrer neuen, Herausforderung! Moderne Designs, innovative Kreationen und eine überzeugende Marktstellung zeichnen die qualitäts- und trendmässig einzigartigen Produkte und Dienstleistungen meines Kunden, ein national bestens bekanntes und lokal verankertes Unternehmen mit Pionierstatus im Segment von hochwertigen und langlebigen Konsumgütern aus dem Büro- und Wohnbereich mit grosse…",
+      "url": "https://www.adzuna.ch/land/ad/5853478073?se=JrjlXbai8RGfx5bEd-nhPg&utm_medium=api&utm_source=8209e0ff&v=5EBBAD855E09EBAA93EE690F0E4C2232F32BA443",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-23T11:02:52.000Z",
+      "source": "adzuna",
+      "sourceId": "5853478073",
+      "query": "service manager",
+      "id": "01a805de49f558e9",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T07:23:58.615Z",
+      "isNew": false,
+      "keywordScore": 40
     }
   ]
 }

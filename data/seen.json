@@ -1294,5 +1294,464 @@
       "reason": "Keyword score only — below the threshold for model scoring.",
       "next_action": "Read the advertisement yourself before deciding."
     }
+  },
+  "aa291dcdd31e3a80": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "IT Service Manager/in 80-100%",
+    "company": "Manpower",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d7d69eca33a8fddb": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "ICT-Service-Manager/-in / ICT Projektleiter/-in",
+    "company": "Bundesamt für Bauten und Logistik BBL",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "970b7d28e3ef2b68": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Senior Service Manager Workplace",
+    "company": "Bedag Informatik AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "19776f9638295507": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Senior Service Manager Workplace (a)",
+    "company": "Bedag Informatik AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "95fdf0cf8049be00": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "ICT-Service-Manager/-in / ICT Projektleiter/-in 80-100%",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1c2269183acaef33": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Application Manager / Service Family Owner (Application & Business Support) 80 - 100 % (m/w/d)",
+    "company": "Caritas Schweiz",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fe61b00f34783f0d": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Building Services Project Manager",
+    "company": "Losinger Marazzi",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 17,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a6926aa4c573eb72": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Professional Customer Development Manager (IT Services, 80-100%, Remote-First Within Switzerland) - ID260723",
+    "company": "Adfinis AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 17,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5054bce290aa4119": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "ICT Services and Integration Manager",
+    "company": "Archives fédérales suisses AFS",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c6abb80f85e49cf3": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "SAP Technical Service Delivery Lead 100% (f/m/d)",
+    "company": "Rieter",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6b475cd25a77f544": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "SAP Technical Service Delivery Lead 100%",
+    "company": "Rieter",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "87f2fe7f14fbacd3": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Manager des services et de l'intégration TIC",
+    "company": "Archives fédérales suisses AFS",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "58042d2ab429568d": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "IT Support Specialist",
+    "company": "Umanova SA",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9cd5b5ec21a2b6ad": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Senior Teleoperations Lead",
+    "company": "TSMG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "77ff23a3b997c4a7": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Cross-Product Platform Owner",
+    "company": "Crypto Finance AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d0b3d1368b2fe93d": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "SOC Analyst Professional/Senior (a) 60-100% | Projektmandat",
+    "company": "cyberunity AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fbb002bc02680db1": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "DevOps Engineer/Expert",
+    "company": "RM IT Professional Resources AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a34c06352a40dfb4": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Data Center Technician - Switzerland - Zug - On-site",
+    "company": "RM Staffing B.V.",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f41eb9d5a13d7c7a": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Head of IT Service & Portfolio Management (f/m/d) 100%",
+    "company": "Burckhardt Compression AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "15f179cd95924063": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Head of IT Service & Portfolio Management 100%",
+    "company": "Burckhardt Compression AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "06a4431ada83ffd8": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Direktionsassistenz im Departement Gesundheit: Mutterschaftsvertretung mit anschliessender langfristiger Perspektive ab September 202",
+    "company": "ZHAW",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "acff509f031bcf46": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Data Center Technician - Switzerland - Winterthur - On-site",
+    "company": "RM Staffing B.V.",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "54d2450755e20f99": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Ingénieur Cloud AWS",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b57d00e090542f07": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "(Ingénieur Plateforme) Senior - Linux / Kubernetes",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "30d6a7510b09a293": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Direktionsassistenz im Departement Gesundheit: Mutterschaftsvertretung (80 %) mit anschliessender langfristiger Perspektive (50-60 %) ab September 2027",
+    "company": "ZHAW",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "32d74ce4741d21c9": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Audit Senior Associate / Assistant Manager - Trade, Industries & Services",
+    "company": "Aequor Consulting GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "81bf182a7e1982ca": {
+    "firstSeen": "2026-08-28T07:59:25.039Z",
+    "lastSeen": "2026-08-28T07:59:25.039Z",
+    "title": "Facility Coordinator",
+    "company": "ISS Schweiz AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

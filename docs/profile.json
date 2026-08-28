@@ -1,0 +1,79 @@
+{
+  "headline": "Service delivery and IT service management professional",
+  "seniority": "senior",
+  "years_total": 20,
+  "domains": [
+    "IT service management",
+    "service delivery",
+    "incident management",
+    "problem management",
+    "change management",
+    "SLA management",
+    "vendor management",
+    "enterprise support"
+  ],
+  "skills": [
+    { "name": "ITIL" },
+    { "name": "PRINCE2" },
+    { "name": "ServiceNow" },
+    { "name": "Jira" },
+    { "name": "incident management" },
+    { "name": "problem management" },
+    { "name": "change management" },
+    { "name": "SLA" },
+    { "name": "KPI reporting" },
+    { "name": "stakeholder management" },
+    { "name": "escalation management" },
+    { "name": "process improvement" },
+    { "name": "service desk" },
+    { "name": "vendor management" }
+  ],
+  "industries": ["enterprise IT", "managed services", "outsourcing"],
+  "languages": ["Bulgarian", "English"],
+  "certifications": ["ITIL", "PRINCE2"],
+  "constraints": [],
+  "transferable_strengths": [
+    "running services under contractual targets",
+    "coordinating across vendors and internal teams",
+    "turning recurring incidents into process change"
+  ],
+  "target_roles": [
+    {
+      "title": "Service Delivery Manager",
+      "queries": ["service delivery manager", "service manager"]
+    },
+    {
+      "title": "IT Service Manager",
+      "queries": ["it service manager", "itsm manager"]
+    },
+    {
+      "title": "Incident and Problem Manager",
+      "queries": ["incident manager", "problem manager", "major incident manager"]
+    },
+    {
+      "title": "ServiceNow Process Consultant",
+      "queries": ["servicenow consultant", "servicenow process"]
+    },
+    {
+      "title": "Service Operations Lead",
+      "queries": ["service operations manager", "support operations manager"]
+    },
+    {
+      "title": "Project Manager, IT services",
+      "queries": ["it project manager", "prince2 project manager"]
+    },
+    {
+      "title": "Application Manager",
+      "queries": ["application manager", "applications manager"]
+    },
+    {
+      "title": "Service Owner",
+      "queries": ["service owner"]
+    }
+  ],
+  "unknowns": [
+    "Edit this with docs/profile.html, or by hand — it is a starting point, not built from your CV.",
+    "target_roles drive the searches; maxQueries in settings.json caps how many phrases are used.",
+    "This file is committed and public."
+  ]
+}
