@@ -1,4 +1,5 @@
 import { clean, fingerprint } from './lib.mjs';
+import { detectLanguage } from './language.mjs';
 
 const MAX_DESCRIPTION = 4000;
 
@@ -22,6 +23,8 @@ export function toJob(raw, source) {
     salary_max: numeric(raw.salary_max),
     salary_text: clean(raw.salary_text) || null,
     posted: isoDate(raw.posted),
+    language: detectLanguage(`${title} ${clean(raw.description)}`),
+    country: raw.country || null,
     source,
     sourceId: raw.sourceId ? String(raw.sourceId) : null,
     query: raw.query || null
@@ -55,6 +58,7 @@ export function dedupe(jobs) {
     existing.salary_max ??= job.salary_max;
     existing.salary_text ??= job.salary_text;
     existing.posted ??= job.posted;
+    if (existing.language === 'unknown') existing.language = job.language;
   }
   return [...byId.values()];
 }
