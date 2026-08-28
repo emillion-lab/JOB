@@ -28,6 +28,7 @@ async function accessToken() {
 
 export default {
   id: 'francetravail',
+  country: 'fr',
   needs: ['FRANCETRAVAIL_ID', 'FRANCETRAVAIL_SECRET'],
   async collect({ queries, settings }) {
     const token = await accessToken();
