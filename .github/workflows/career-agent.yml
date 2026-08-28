@@ -33,7 +33,18 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
+
+      - name: Check required secrets are present
+        run: |
+          missing=""
+          [ -n "$CV_TEXT_B64" ] || missing="$missing CV_TEXT_B64"
+          [ -n "$LLM_API_KEY" ] || missing="$missing LLM_API_KEY"
+          if [ -n "$missing" ]; then
+            echo "Missing repository secret(s):$missing" >&2
+            exit 1
+          fi
+          echo "Provider: ${LLM_PROVIDER:-inferred}, model: ${LLM_MODEL:-default}"
 
       - name: Unit tests
         run: npm test
