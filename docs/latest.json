@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:13:49.421Z",
+  "generatedAt": "2026-08-28T12:21:14.507Z",
   "settings": {
     "markets": [
       {
@@ -87,7 +87,7 @@
     "unknown": 5,
     "fr": 1
   },
-  "totalScored": 16,
+  "totalScored": 0,
   "llmScored": 0,
   "totalMatched": 6,
   "totalNew": 0,
