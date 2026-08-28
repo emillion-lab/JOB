@@ -257,5 +257,34 @@
         "status": "ok"
       }
     ]
+  },
+  {
+    "at": "2026-08-28T12:24:18.992Z",
+    "collected": 149,
+    "matched": 15,
+    "new": 9,
+    "llmCalls": 0,
+    "sources": [
+      {
+        "source": "adzuna",
+        "collected": 212,
+        "status": "ok"
+      },
+      {
+        "source": "nav",
+        "collected": 0,
+        "status": "ok"
+      },
+      {
+        "source": "jobtech",
+        "collected": 80,
+        "status": "ok"
+      },
+      {
+        "source": "arbeitnow",
+        "collected": 161,
+        "status": "ok"
+      }
+    ]
   }
 ]

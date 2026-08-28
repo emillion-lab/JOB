@@ -3640,5 +3640,209 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "f8ac282810405834": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "IT INCIDENT MANAGER",
+    "company": "Scandinavian Airlines System Denmark -Norway-Swe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 90,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fde552bd15001cbd": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "Senior Operational Lead / Service Delivery Manager",
+    "company": "Norvion Systems AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 75,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5c300c8be7bb46bd": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "HR IT Service Delivery Manager - 18881 - Upplands Väsby",
+    "company": "Veritaz AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 75,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4c89df0daa7f73b4": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "ServiceNow ITSM Product Specialist - 18889",
+    "company": "Veritaz AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 70,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2fdf9088084f4c7f": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "Senior ServiceNow Consultant",
+    "company": "Cognizant Technology Solutions Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f9473c5ef1680fad": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "Customer Service Manager Scandinavia - Kiilto",
+    "company": "Gruffman Recruitment & Consulting AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "39e2b72fe00ebb91": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "Umbraco Web Application Manager / Application Management Team",
+    "company": "I-Ray IT Solutions AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "74058b84fc1ec975": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "Project Manager Service",
+    "company": "RaySearch Laboratories AB (publ)",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9dad23340d0bccfc": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "Cybersecurity Project Manager - Service",
+    "company": "Hitachi Energy Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ae936f58cd35df08": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "Consultant Acquisition Specialist",
+    "company": "Incluso AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fa4543e2c720d7a0": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "Consultant Acquisition Specialist",
+    "company": "Avaron AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e79151042b247ec1": {
+    "firstSeen": "2026-08-28T12:24:18.990Z",
+    "lastSeen": "2026-08-28T12:24:18.990Z",
+    "title": "Customer Experience Consultant",
+    "company": "Maersk Sverige Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
