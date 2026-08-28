@@ -1,6 +1,9 @@
 import { clean } from './lib.mjs';
 
-const norm = s => clean(s).toLowerCase().replace(/[^a-z0-9+#.\-\s]/g, ' ').replace(/\s+/g, ' ').trim();
+// Hyphens and slashes glue words together in German job titles:
+// "Applications-Manager/Service-Manager" must tokenise to four words, or it
+// never matches "service manager".
+const norm = s => clean(s).toLowerCase().replace(/[^a-z0-9+#.\s]/g, ' ').replace(/\s+/g, ' ').trim();
 const words = s => norm(s).split(' ').filter(Boolean);
 
 /** Whole-word match. Substring matching finds "it" inside "facility" and "sla" inside "translate". */
@@ -19,7 +22,7 @@ function hasPhrase(hayWords, phraseWords) {
 
 /**
  * Vocabulary comes from the candidate's own profile, never from a hard-coded
- * taxonomy: skill names, domains, languages, certifications and target titles.
+ * taxonomy: skill names, domains, certifications and target titles.
  */
 export function profileVocabulary(profile) {
   const push = (list, v) => { const w = words(v); if (w.length && norm(v).length > 2) list.push({ text: norm(v), words: w }); };
@@ -28,8 +31,9 @@ export function profileVocabulary(profile) {
 
   for (const s of profile.skills || []) push(skills, s?.name ?? s);
   for (const d of profile.domains || []) push(skills, d);
-  for (const l of profile.languages || []) push(skills, typeof l === 'string' ? l : l?.name);
   for (const c of profile.certifications || []) push(skills, typeof c === 'string' ? c : c?.name);
+  // Languages are deliberately left out: "English" appears in almost every
+  // remote advertisement and separates nothing.
   for (const r of profile.target_roles || []) {
     push(titles, r?.title ?? r);
     for (const q of r?.queries || []) push(titles, q);
