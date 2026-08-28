@@ -61,11 +61,19 @@
     {
       "title": "Project Manager, IT services",
       "queries": ["it project manager", "prince2 project manager"]
+    },
+    {
+      "title": "Application Manager",
+      "queries": ["application manager", "applications manager"]
+    },
+    {
+      "title": "Service Owner",
+      "queries": ["service owner"]
     }
   ],
   "unknowns": [
-    "Edit this file: it is a hand-written starting point, not built from your CV.",
-    "Add or remove skills and target_roles to change what the agent searches for.",
-    "This file is committed. On a public repository it is readable by anyone."
+    "Edit this with docs/profile.html, or by hand — it is a starting point, not built from your CV.",
+    "target_roles drive the searches; maxQueries in settings.json caps how many phrases are used.",
+    "This file is committed and public."
   ]
 }
