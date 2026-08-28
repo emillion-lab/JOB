@@ -3,8 +3,32 @@ name: Career Agent
 on:
   workflow_dispatch:
     inputs:
+      locations:
+        description: Where to search
+        type: choice
+        default: 'Zurich, Zug, Winterthur, Basel, Bern, Luzern'
+        options:
+          - 'Zurich'
+          - 'Zurich, Zug, Winterthur'
+          - 'Zurich, Zug, Winterthur, Basel, Bern, Luzern'
+          - 'Zurich, Zug, Winterthur, Basel, Bern, Luzern, Genève, Lausanne, St. Gallen'
+      min_score:
+        description: Lowest score to report
+        type: choice
+        default: '40'
+        options: ['30', '35', '40', '45', '55']
+      max_age_days:
+        description: How far back to look
+        type: choice
+        default: '60'
+        options: ['14', '30', '60', '90']
+      use_model:
+        description: Score with the language model (needs LLM_API_KEY and credit)
+        type: choice
+        default: 'as configured'
+        options: ['as configured', 'true', 'false']
       rebuild_profile:
-        description: Rebuild the profile from the CV before searching (needs an API key)
+        description: Rebuild the profile from the CV first (needs an API key)
         type: boolean
         default: false
   schedule:
@@ -29,6 +53,11 @@ jobs:
       ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
       ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
       REBUILD_PROFILE: ${{ inputs.rebuild_profile }}
+      # Empty on a scheduled run, so the file settings apply unchanged.
+      OVERRIDE_LOCATIONS: ${{ inputs.locations }}
+      OVERRIDE_MIN_SCORE: ${{ inputs.min_score }}
+      OVERRIDE_MAX_AGE_DAYS: ${{ inputs.max_age_days }}
+      OVERRIDE_USE_LLM: ${{ inputs.use_model == 'as configured' && '' || inputs.use_model }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
