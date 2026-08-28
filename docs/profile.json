@@ -40,11 +40,11 @@
   "target_roles": [
     {
       "title": "Service Delivery Manager",
-      "queries": ["service delivery manager", "service manager"]
+      "queries": ["service delivery manager", "service manager", "servicemanager"]
     },
     {
       "title": "IT Service Manager",
-      "queries": ["it service manager", "itsm manager"]
+      "queries": ["it service manager", "itsm manager", "it service management"]
     },
     {
       "title": "Incident and Problem Manager",
@@ -52,28 +52,29 @@
     },
     {
       "title": "ServiceNow Process Consultant",
-      "queries": ["servicenow consultant", "servicenow process"]
+      "queries": ["servicenow consultant", "servicenow process", "servicenow"]
     },
     {
       "title": "Service Operations Lead",
-      "queries": ["service operations manager", "support operations manager"]
+      "queries": ["service operations manager", "operations manager", "betriebsleiter"]
     },
     {
       "title": "Project Manager, IT services",
-      "queries": ["it project manager", "prince2 project manager"]
+      "queries": ["it project manager", "projektleiter it", "prosjektleder"]
     },
     {
       "title": "Application Manager",
-      "queries": ["application manager", "applications manager"]
+      "queries": ["application manager", "applications manager", "applikationsmanager"]
     },
     {
       "title": "Service Owner",
-      "queries": ["service owner"]
+      "queries": ["service owner", "service delivery lead"]
     }
   ],
   "unknowns": [
     "Edit this with docs/profile.html, or by hand — it is a starting point, not built from your CV.",
     "target_roles drive the searches; maxQueries in settings.json caps how many phrases are used.",
+    "Queries in German and Norwegian matter now that DE, AT and NO are in scope.",
     "This file is committed and public."
   ]
 }

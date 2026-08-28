@@ -161,5 +161,29 @@
         "status": "ok"
       }
     ]
+  },
+  {
+    "at": "2026-08-28T08:16:02.691Z",
+    "collected": 551,
+    "matched": 53,
+    "new": 42,
+    "llmCalls": 0,
+    "sources": [
+      {
+        "source": "adzuna",
+        "collected": 213,
+        "status": "ok"
+      },
+      {
+        "source": "nav",
+        "collected": 0,
+        "status": "ok"
+      },
+      {
+        "source": "arbeitnow",
+        "collected": 450,
+        "status": "ok"
+      }
+    ]
   }
 ]
