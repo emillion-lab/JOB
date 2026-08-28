@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import { toJob, dedupe, isFresh } from '../src/normalize.mjs';
 import { prefilter, profileVocabulary } from '../src/prefilter.mjs';
 import { splitSeen, rehydrate } from '../src/state.mjs';
+import { detectLanguage, languageAllowed } from '../src/language.mjs';
 import { clean, fingerprint, profileIsUsable } from '../src/lib.mjs';
 
 const profile = {
@@ -97,4 +98,21 @@ test('a paid model verdict survives a scoring-formula change', () => {
   const job = ad();
   const state = { [job.id]: { firstSeen: '2026-01-01', lastSeen: '2026-01-02', by: 'llm', v: 1, match: { score: 88, fit: 'strong' } } };
   assert.equal(rehydrate(job, state).score, 88);
+});
+
+test('advertisement language is detected and filtered', () => {
+  const de = 'Für unseren Kunden in Zürich suchen wir einen erfahrenen Service Manager. Sie stellen den stabilen Betrieb sicher und koordinieren die Aktivitäten mit den Fachbereichen im Unternehmen.';
+  const en = 'We are looking for a Service Delivery Manager to join our team. You will own the service relationship with our clients and make sure that the agreed targets are met every single month.';
+  const no = 'Vi ser etter en dyktig prosjektleder som vil jobbe med våre kunder i Oslo. Du har erfaring med IT prosjekter og er ikke redd for å ta ansvar. Vi tilbyr gode betingelser og et hyggelig arbeidsmiljø.';
+  assert.equal(detectLanguage(de), 'de');
+  assert.equal(detectLanguage(en), 'en');
+  assert.equal(detectLanguage(no), 'no');
+  assert.equal(languageAllowed({ language: 'de' }, ['en']), false);
+  assert.equal(languageAllowed({ language: 'en' }, ['en']), true);
+});
+
+test('an unrecognised language is kept rather than silently dropped', () => {
+  assert.equal(detectLanguage('Service Manager wanted.'), 'unknown');
+  assert.equal(languageAllowed({ language: 'unknown' }, ['en']), true);
+  assert.equal(languageAllowed({ language: 'de' }, []), true);
 });
