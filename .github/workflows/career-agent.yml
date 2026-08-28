@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       rebuild_profile:
-        description: Rebuild the profile from the CV before searching
+        description: Rebuild the profile from the CV before searching (needs an API key)
         type: boolean
         default: false
   schedule:
@@ -35,22 +35,13 @@ jobs:
         with:
           node-version: 22
 
-      - name: Check required secrets are present
-        run: |
-          missing=""
-          [ -n "$CV_TEXT_B64" ] || missing="$missing CV_TEXT_B64"
-          [ -n "$LLM_API_KEY" ] || missing="$missing LLM_API_KEY"
-          if [ -n "$missing" ]; then
-            echo "Missing repository secret(s):$missing" >&2
-            exit 1
-          fi
-          echo "Provider: ${LLM_PROVIDER:-inferred}, model: ${LLM_MODEL:-default}"
+      # Checks only what this configuration actually needs, and says what is missing.
+      - name: Preflight
+        run: npm run preflight
 
       - name: Unit tests
         run: npm test
 
-      # The profile is rebuilt inside run.mjs when it is missing or stale, so a
-      # scheduled run is never left holding a placeholder.
       - name: Find and rank jobs
         run: npm run run
 
