@@ -1,9 +1,57 @@
 {
-  "generatedAt": null,
-  "profileSummary": { "headline": "No run yet", "target_roles": [] },
-  "searchedQueries": [],
-  "sources": [],
-  "totalCollected": 0,
+  "generatedAt": "2026-08-28T07:23:58.617Z",
+  "settings": {
+    "countries": [
+      "ch"
+    ],
+    "locations": [
+      "Zurich"
+    ],
+    "minimumScore": 45,
+    "maxJobAgeDays": 30
+  },
+  "profileSummary": {
+    "headline": "Service delivery and IT service management professional",
+    "seniority": "senior",
+    "target_roles": [
+      "Service Delivery Manager",
+      "IT Service Manager",
+      "Incident and Problem Manager",
+      "ServiceNow Process Consultant",
+      "Service Operations Lead",
+      "Project Manager, IT services"
+    ]
+  },
+  "searchedQueries": [
+    "service delivery manager",
+    "service manager",
+    "it service manager",
+    "itsm manager",
+    "incident manager",
+    "problem manager",
+    "major incident manager",
+    "servicenow consultant"
+  ],
+  "sources": [
+    {
+      "source": "adzuna",
+      "collected": 34,
+      "status": "ok"
+    },
+    {
+      "source": "arbeitnow",
+      "collected": 46,
+      "status": "ok"
+    },
+    {
+      "source": "remotive",
+      "collected": 144,
+      "status": "ok"
+    }
+  ],
+  "totalCollected": 90,
+  "totalScored": 60,
+  "llmScored": 0,
   "totalMatched": 0,
   "totalNew": 0,
   "jobs": []
