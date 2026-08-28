@@ -13,6 +13,7 @@ const KEY = 'jobboerse-jobsuche';
 
 export default {
   id: 'arbeitsagentur',
+  country: 'de',
   async collect({ queries, settings, config }) {
     const size = Math.min(settings.resultsPerQuery ?? 25, 100);
     const cities = (settings.markets || []).filter(m => m.country === 'de').flatMap(m => m.locations || []);
