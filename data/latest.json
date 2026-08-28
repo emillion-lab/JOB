@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T07:37:55.344Z",
+  "generatedAt": "2026-08-28T07:43:15.225Z",
   "settings": {
     "countries": [
       "ch"
@@ -50,11 +50,42 @@
     }
   ],
   "totalCollected": 90,
-  "totalScored": 0,
+  "totalScored": 60,
   "llmScored": 0,
-  "totalMatched": 2,
+  "totalMatched": 3,
   "totalNew": 0,
   "jobs": [
+    {
+      "title": "Applications-Manager/Service-Manager",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "remote": false,
+      "description": "Für unseren Kunden in Zürich suchen wir eine:n erfahrene:n Applications-Manager / Service-Manager. Der Einsatz startet mit einer 100%-Auslastung während der Onboarding-Phase (ca. 2 Monate) und wird anschliessend auf 50% reduziert. Deine Aufgaben: Sicherstellen des stabilen Betriebs und Monitorings von Applikationen Koordination und Überwachung von Aktivitäten zur Sicherstellung von Verfügbarkeit, Wiederherstellbarkeit, Performance und Ressourcenverbrauch Analyse und Behebung von Applikationsst…",
+      "url": "https://www.adzuna.ch/details/5820145783?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-07-29T21:28:52.000Z",
+      "source": "adzuna",
+      "sourceId": "5820145783",
+      "query": "service manager",
+      "id": "6acd0c71df8b9cf1",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": false,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [
+        "service manager"
+      ],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding.",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
     {
       "title": "ServiceNow Project Manager - ITSM, Agile",
       "company": "RM IT Professional Resources AG",
@@ -73,6 +104,7 @@
       "sources": [
         "adzuna"
       ],
+      "isNew": false,
       "score": 45,
       "fit": "unscored",
       "matched": [
@@ -83,8 +115,7 @@
       "disqualifiers": [],
       "reason": "Keyword score only — below the threshold for model scoring.",
       "next_action": "Read the advertisement yourself before deciding.",
-      "firstSeen": "2026-08-28T07:23:58.615Z",
-      "isNew": false,
+      "scoredBy": "prefilter",
       "keywordScore": 45
     },
     {
@@ -105,6 +136,7 @@
       "sources": [
         "adzuna"
       ],
+      "isNew": false,
       "score": 45,
       "fit": "unscored",
       "matched": [
@@ -115,8 +147,7 @@
       "disqualifiers": [],
       "reason": "Keyword score only — below the threshold for model scoring.",
       "next_action": "Read the advertisement yourself before deciding.",
-      "firstSeen": "2026-08-28T07:23:58.615Z",
-      "isNew": false,
+      "scoredBy": "prefilter",
       "keywordScore": 45
     }
   ]
