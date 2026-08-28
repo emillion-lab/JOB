@@ -1,11 +1,14 @@
 {
-  "countries": ["ch"],
-  "locations": ["Zurich", "Zug", "Winterthur", "Basel", "Bern", "Luzern"],
+  "markets": [
+    { "country": "ch", "locations": ["Zurich", "Zug", "Basel", "Bern", "Luzern"] },
+    { "country": "de", "locations": ["Munich", "Stuttgart", "Hamburg", "Berlin"] },
+    { "country": "at", "locations": ["Vienna", "Graz", "Linz"] }
+  ],
   "remote": true,
-  "maxQueries": 8,
+  "maxQueries": 10,
   "resultsPerQuery": 25,
   "maxJobAgeDays": 60,
-  "prefilterKeep": 60,
+  "prefilterKeep": 80,
   "minimumScore": 40,
 
   "useLlm": false,
@@ -16,7 +19,8 @@
   "excludedTerms": ["internship", "praktikum", "werkstudent"],
   "preferredTerms": [],
   "sources": {
-    "adzuna": { "enabled": true },
+    "adzuna": { "enabled": true, "maxRequests": 60 },
+    "nav": { "enabled": true, "pages": 4 },
     "arbeitnow": { "enabled": true, "pages": 3 },
     "remotive": { "enabled": false },
     "feeds": { "enabled": false, "urls": [] },
