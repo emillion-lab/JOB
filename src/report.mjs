@@ -1,5 +1,5 @@
 import fs from 'node:fs/promises';
-import { writeJson } from './lib.mjs';
+import { writeJson, warn } from './lib.mjs';
 
 const esc = s => String(s || '').replace(/\|/g, '\\|');
 
@@ -9,6 +9,8 @@ export async function writeReport(report) {
   await fs.mkdir('docs', { recursive: true });
   await fs.copyFile('data/latest.json', 'docs/latest.json');
 
+  await writeStandalone(report);
+
   const history = 'data/history.json';
   const past = await fs.readFile(history, 'utf8').then(JSON.parse).catch(() => []);
   past.push({
@@ -17,6 +19,22 @@ export async function writeReport(report) {
     llmCalls: report.llmScored, sources: report.sources
   });
   await writeJson(history, past.slice(-180));
+}
+
+/**
+ * A single file with the data baked in. GitHub Pages is not available on a
+ * private repository, and index.html opened from disk cannot fetch latest.json
+ * because the browser blocks it. This one just opens.
+ */
+async function writeStandalone(report) {
+  try {
+    const template = await fs.readFile('docs/index.html', 'utf8');
+    const payload = JSON.stringify(report).replace(/</g, '\\u003c');
+    const tag = `<script id="report-data" type="application/json">${payload}</script>\n<script type="module">`;
+    await fs.writeFile('docs/report.html', template.replace('<script type="module">', tag));
+  } catch (e) {
+    warn(`Could not write the standalone report: ${e.message}`);
+  }
 }
 
 export function digest(report) {
