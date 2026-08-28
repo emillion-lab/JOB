@@ -1,12 +1,12 @@
 {
   "countries": ["ch"],
-  "locations": ["Zurich"],
+  "locations": ["Zurich", "Zug", "Winterthur", "Basel", "Bern", "Luzern"],
   "remote": true,
   "maxQueries": 8,
   "resultsPerQuery": 25,
-  "maxJobAgeDays": 30,
+  "maxJobAgeDays": 60,
   "prefilterKeep": 60,
-  "minimumScore": 45,
+  "minimumScore": 40,
 
   "useLlm": false,
   "llmMinKeywordScore": 55,
@@ -18,7 +18,7 @@
   "sources": {
     "adzuna": { "enabled": true },
     "arbeitnow": { "enabled": true, "pages": 3 },
-    "remotive": { "enabled": true },
+    "remotive": { "enabled": false },
     "feeds": { "enabled": false, "urls": [] },
     "greenhouse": { "enabled": false, "boards": [] },
     "lever": { "enabled": false, "boards": [] },
