@@ -14,6 +14,7 @@ const text = v => (typeof v === 'string' ? v : v?.text || '');
 
 export default {
   id: 'jobtech',
+  country: 'se',
   async collect({ queries, settings, config }) {
     const limit = Math.min(settings.resultsPerQuery ?? 25, 100);
     const jobs = [];
