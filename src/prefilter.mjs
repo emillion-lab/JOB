@@ -37,10 +37,13 @@ export function prefilterScore(job, vocab, settings) {
   const titleHits = vocab.titles.filter(t => titleHay.includes(t) || t.split(' ').every(w => titleHay.includes(w)));
   const preferred = (settings.preferredTerms || []).map(norm).filter(t => t && haystack.includes(t));
 
-  const skillRatio = vocab.skills.length ? hits.length / Math.min(vocab.skills.length, 14) : 0;
+  // A job title that matches what you are looking for is the strongest single
+  // signal there is, so it carries the most weight. Requiring hits across the
+  // whole skill list was too harsh: a handful of them already means a lot.
+  const skillRatio = vocab.skills.length ? hits.length / Math.min(vocab.skills.length, 8) : 0;
   const score = Math.round(Math.min(100,
-    Math.min(1, skillRatio) * 55 +
-    Math.min(titleHits.length, 2) * 15 +
+    Math.min(titleHits.length, 2) * 20 +
+    Math.min(1, skillRatio) * 45 +
     Math.min(preferred.length, 3) * 5 +
     (job.description.length > 300 ? 5 : 0)
   ));
