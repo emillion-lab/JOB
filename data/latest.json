@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T07:32:18.218Z",
+  "generatedAt": "2026-08-28T07:37:55.344Z",
   "settings": {
     "countries": [
       "ch"
@@ -50,7 +50,7 @@
     }
   ],
   "totalCollected": 90,
-  "totalScored": 60,
+  "totalScored": 0,
   "llmScored": 0,
   "totalMatched": 2,
   "totalNew": 0,
@@ -73,7 +73,6 @@
       "sources": [
         "adzuna"
       ],
-      "isNew": false,
       "score": 45,
       "fit": "unscored",
       "matched": [
@@ -84,7 +83,8 @@
       "disqualifiers": [],
       "reason": "Keyword score only — below the threshold for model scoring.",
       "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
+      "firstSeen": "2026-08-28T07:23:58.615Z",
+      "isNew": false,
       "keywordScore": 45
     },
     {
@@ -105,7 +105,6 @@
       "sources": [
         "adzuna"
       ],
-      "isNew": false,
       "score": 45,
       "fit": "unscored",
       "matched": [
@@ -116,7 +115,8 @@
       "disqualifiers": [],
       "reason": "Keyword score only — below the threshold for model scoring.",
       "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
+      "firstSeen": "2026-08-28T07:23:58.615Z",
+      "isNew": false,
       "keywordScore": 45
     }
   ]
