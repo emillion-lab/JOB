@@ -2756,5 +2756,617 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "7c20c1af6f63f4e4": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Privacy Analyst",
+    "company": "Kraken",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fa5b16e4adfc99c0": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "(Senior) Expert Software Sourcing & Value Creation (m/f/d)",
+    "company": "Huz",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8bfc85afbb49cf9c": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Senior Product Manager/Consultant (f/m/ x)",
+    "company": "Thiga",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "25aabc60ce80b0ad": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Engineering Professional - Aerospace",
+    "company": "AXISCADES Technologies Ltd.",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f918ed5f6c3ea96a": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "RGM Director",
+    "company": "Sharkninjaoperatingllc",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "42bc22ea71dcee80": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Head of Finance & Accounting (all genders)",
+    "company": "Wemolo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cf627028ded31406": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Product & Business Analyst",
+    "company": "Matchspace (Music) AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "79bd9a7a37ddbb11": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "RGM Director",
+    "company": "Sharkninjaoperatingllc",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e2f2d0a5f30c573d": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Senior Product Manager",
+    "company": "Verve",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "acc5877ab2afc4b4": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Application Support Analyst",
+    "company": "Zilch",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4aa7551ad9cef8cf": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Senior Game Producer (Casual Games) - Fully Remote",
+    "company": "SOFTGAMES",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a860e89e21bc4a01": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Senior Manager, Data Center EHSQ",
+    "company": "Radiant",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "57311e801629a8ae": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Organizational Effectiveness Manager",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a5ec62ef22afc208": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Talent Management Manager, OKRs & Performance",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d05bbf95268fc214": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "People & Performance Manager",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a72cd1fa549eb4d3": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "(Senior) Director UX, Operations",
+    "company": "hellofresh",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e7ee245d4dc903a4": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Senior Product Owner – CRM (m/f/d)",
+    "company": "Dishdigital",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3f78519e5db450dd": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "MEP Construction Manager",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cbbff015a344602e": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Business Analyst - Swift, Financial Messaging",
+    "company": "RM IT Professional Resources AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "91cd2b524a0ef6e0": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Strategic Buyer - Professional Services",
+    "company": "SThree Germany",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a414d3e5db00a1a3": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Mainframe System Controller / Mainframe Batch Operator",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "01e4fc5b251aabdc": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "IntOps Payment Terminal Engineer",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6acf7feff6cadca7": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Nutanix Engineer / Networking IT Support Engineer - Switzerland",
+    "company": "ITProposal",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "48509f66d6f77bba": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Head of IT - English & German speaker",
+    "company": "Avanda Solutions",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0d830f13fe27c699": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Head of IT and InfoSec",
+    "company": "Apex.AI",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a52b7e0183f763a1": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Senior Institutional Sales (f/m/d)",
+    "company": "SIEMENS",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "666b5bb06a34e942": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Economist - Sales Manager (m/f/d)",
+    "company": "Siemens Aktiengesellschaft",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f2fcb5e993db2566": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Services Sales Manager",
+    "company": "Check Point Software Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8fc226383cf8c597": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "IT Manager (f/m/d)",
+    "company": "Metronomia Clinical Research",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c0b28bc7ed00a7df": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Senior Web Administrator and Team Leader (all genders)",
+    "company": "LexCom Informationssysteme GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9807208f4cedb1bf": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Senior Teleoperations Lead",
+    "company": "TSMG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f81c2d6d1b862cfd": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Customer Support Manager (all genders)",
+    "company": "Avelios Medical GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ed12cdc74bd4b88f": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Facilities & Workplace Manager",
+    "company": "Spire",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fdb80d3a8d6f5c70": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Business Continuity Officer (f/m/d)",
+    "company": "E.ON Digital Technology GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8b86ac0ec4e76e15": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Senior Software Integration Engineer - Warehouse Automation",
+    "company": "Exotec",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d65178afa7102566": {
+    "firstSeen": "2026-08-28T12:12:27.275Z",
+    "lastSeen": "2026-08-28T12:12:27.275Z",
+    "title": "Dutch-Speaking Customer Support Specialist",
+    "company": "WW Talents",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
