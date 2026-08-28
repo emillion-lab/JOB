@@ -16,7 +16,13 @@ export default {
         const job = toJob({
           title: j.title, company: j.company_name, location: j.location,
           remote: j.remote, description: j.description, url: j.url,
-          posted: j.created_at, sourceId: j.slug
+          posted: j.created_at, sourceId: j.slug,
+          // This feed states a city, not a country, so it is inferred for the
+          // dashboard filter. Unknown stays null rather than guessing.
+          country: /schweiz|switzerland|zurich|zürich|basel|bern|zug|luzern/i.test(j.location || '') ? 'ch'
+                 : /österreich|austria|wien|vienna|graz|linz/i.test(j.location || '') ? 'at'
+                 : /deutschland|germany|münchen|munich|berlin|hamburg|stuttgart/i.test(j.location || '') ? 'de'
+                 : null
         }, 'arbeitnow');
         if (job) jobs.push(job);
       }
