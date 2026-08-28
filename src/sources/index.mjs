@@ -4,11 +4,14 @@ import arbeitnow from './arbeitnow.mjs';
 import feeds from './feeds.mjs';
 import nav from './nav.mjs';
 import jobtech from './jobtech.mjs';
+import arbeitsagentur from './arbeitsagentur.mjs';
+import francetravail from './francetravail.mjs';
 import { atsSource, vendors } from './ats.mjs';
 import { warn, log } from '../lib.mjs';
 
 const REGISTRY = Object.fromEntries(
-  [adzuna, remotive, arbeitnow, nav, jobtech, feeds, ...vendors.map(atsSource)].map(s => [s.id, s])
+  [adzuna, remotive, arbeitnow, nav, jobtech, arbeitsagentur, francetravail, feeds, ...vendors.map(atsSource)]
+    .map(s => [s.id, s])
 );
 
 /** Runs every enabled source. A dead source degrades the run, it does not end it. */
