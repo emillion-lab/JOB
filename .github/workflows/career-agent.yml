@@ -14,6 +14,11 @@ on:
           - 'ch,no'
           - 'de,at'
           - 'ch,de,at'
+      languages:
+        description: Advertisement language
+        type: choice
+        default: 'as configured'
+        options: ['as configured', 'en', 'en,no', 'en,de', 'any']
       min_score:
         description: Lowest score to report
         type: choice
@@ -56,11 +61,13 @@ jobs:
       ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
       NAV_TOKEN: ${{ secrets.NAV_TOKEN }}
       REBUILD_PROFILE: ${{ inputs.rebuild_profile }}
-      # Empty on a scheduled run, so the file settings apply unchanged.
-      OVERRIDE_COUNTRIES: ${{ inputs.countries == 'all' && '' || inputs.countries }}
+      # Sentinels ("all", "as configured") are interpreted in loadSettings,
+      # because Actions expressions have no ternary and drop empty strings.
+      OVERRIDE_COUNTRIES: ${{ inputs.countries }}
+      OVERRIDE_LANGUAGES: ${{ inputs.languages }}
       OVERRIDE_MIN_SCORE: ${{ inputs.min_score }}
       OVERRIDE_MAX_AGE_DAYS: ${{ inputs.max_age_days }}
-      OVERRIDE_USE_LLM: ${{ inputs.use_model == 'as configured' && '' || inputs.use_model }}
+      OVERRIDE_USE_LLM: ${{ inputs.use_model }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
