@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:31:55.218Z",
+  "generatedAt": "2026-08-28T13:06:45.597Z",
   "settings": {
     "markets": [
       {
@@ -28,6 +28,14 @@
           "Graz",
           "Linz"
         ]
+      },
+      {
+        "country": "se",
+        "locations": []
+      },
+      {
+        "country": "no",
+        "locations": []
       }
     ],
     "languages": [
@@ -119,11 +127,11 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 149,
-  "totalBeforeLanguageFilter": 375,
+  "totalCollected": 150,
+  "totalBeforeLanguageFilter": 374,
   "byLanguage": {
-    "de": 190,
-    "en": 144,
+    "de": 188,
+    "en": 145,
     "unknown": 5,
     "fr": 1,
     "no": 35
