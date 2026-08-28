@@ -11,6 +11,10 @@ export async function writeReport(report) {
 
   await writeStandalone(report);
 
+  // Pages serves /docs only, so the editor page needs its own copy of the
+  // hand-written profile. The CV-derived one is never published.
+  await fs.copyFile('config/profile.json', 'docs/profile.json').catch(() => {});
+
   const history = 'data/history.json';
   const past = await fs.readFile(history, 'utf8').then(JSON.parse).catch(() => []);
   past.push({
