@@ -3,15 +3,17 @@ name: Career Agent
 on:
   workflow_dispatch:
     inputs:
-      locations:
-        description: Where to search
+      countries:
+        description: Which markets to search
         type: choice
-        default: 'Zurich, Zug, Winterthur, Basel, Bern, Luzern'
+        default: 'all'
         options:
-          - 'Zurich'
-          - 'Zurich, Zug, Winterthur'
-          - 'Zurich, Zug, Winterthur, Basel, Bern, Luzern'
-          - 'Zurich, Zug, Winterthur, Basel, Bern, Luzern, Genève, Lausanne, St. Gallen'
+          - 'all'
+          - 'ch'
+          - 'no'
+          - 'ch,no'
+          - 'de,at'
+          - 'ch,de,at'
       min_score:
         description: Lowest score to report
         type: choice
@@ -52,9 +54,10 @@ jobs:
       LLM_MODEL: ${{ vars.LLM_MODEL }}
       ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
       ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+      NAV_TOKEN: ${{ secrets.NAV_TOKEN }}
       REBUILD_PROFILE: ${{ inputs.rebuild_profile }}
       # Empty on a scheduled run, so the file settings apply unchanged.
-      OVERRIDE_LOCATIONS: ${{ inputs.locations }}
+      OVERRIDE_COUNTRIES: ${{ inputs.countries == 'all' && '' || inputs.countries }}
       OVERRIDE_MIN_SCORE: ${{ inputs.min_score }}
       OVERRIDE_MAX_AGE_DAYS: ${{ inputs.max_age_days }}
       OVERRIDE_USE_LLM: ${{ inputs.use_model == 'as configured' && '' || inputs.use_model }}
