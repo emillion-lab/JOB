@@ -4,6 +4,7 @@
     { "country": "de", "locations": ["Munich", "Stuttgart", "Hamburg", "Berlin"] },
     { "country": "at", "locations": ["Vienna", "Graz", "Linz"] }
   ],
+  "languages": ["en"],
   "remote": true,
   "maxQueries": 10,
   "resultsPerQuery": 25,
