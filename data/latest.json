@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:24:18.992Z",
+  "generatedAt": "2026-08-28T12:31:55.218Z",
   "settings": {
     "markets": [
       {
@@ -79,8 +79,43 @@
       "status": "ok"
     },
     {
+      "source": "arbeitsagentur",
+      "collected": 0,
+      "status": "ok"
+    },
+    {
       "source": "arbeitnow",
       "collected": 161,
+      "status": "ok"
+    },
+    {
+      "source": "greenhouse",
+      "collected": 0,
+      "status": "ok"
+    },
+    {
+      "source": "lever",
+      "collected": 0,
+      "status": "ok"
+    },
+    {
+      "source": "ashby",
+      "collected": 0,
+      "status": "ok"
+    },
+    {
+      "source": "workable",
+      "collected": 0,
+      "status": "ok"
+    },
+    {
+      "source": "smartrecruiters",
+      "collected": 0,
+      "status": "ok"
+    },
+    {
+      "source": "recruitee",
+      "collected": 0,
       "status": "ok"
     }
   ],
@@ -93,10 +128,10 @@
     "fr": 1,
     "no": 35
   },
-  "totalScored": 12,
+  "totalScored": 0,
   "llmScored": 0,
   "totalMatched": 15,
-  "totalNew": 9,
+  "totalNew": 0,
   "jobs": [
     {
       "title": "IT INCIDENT MANAGER",
@@ -118,7 +153,6 @@
       "sources": [
         "jobtech"
       ],
-      "isNew": true,
       "score": 90,
       "fit": "unscored",
       "matched": [],
@@ -126,7 +160,8 @@
       "disqualifiers": [],
       "reason": "",
       "next_action": "",
-      "scoredBy": "prefilter",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "isNew": false,
       "keywordScore": 90
     },
     {
@@ -149,7 +184,6 @@
       "sources": [
         "jobtech"
       ],
-      "isNew": true,
       "score": 75,
       "fit": "unscored",
       "matched": [],
@@ -157,7 +191,8 @@
       "disqualifiers": [],
       "reason": "",
       "next_action": "",
-      "scoredBy": "prefilter",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "isNew": false,
       "keywordScore": 75
     },
     {
@@ -180,7 +215,6 @@
       "sources": [
         "jobtech"
       ],
-      "isNew": true,
       "score": 75,
       "fit": "unscored",
       "matched": [],
@@ -188,7 +222,8 @@
       "disqualifiers": [],
       "reason": "",
       "next_action": "",
-      "scoredBy": "prefilter",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "isNew": false,
       "keywordScore": 75
     },
     {
@@ -211,7 +246,6 @@
       "sources": [
         "jobtech"
       ],
-      "isNew": true,
       "score": 70,
       "fit": "unscored",
       "matched": [],
@@ -219,7 +253,8 @@
       "disqualifiers": [],
       "reason": "",
       "next_action": "",
-      "scoredBy": "prefilter",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "isNew": false,
       "keywordScore": 70
     },
     {
@@ -242,7 +277,6 @@
       "sources": [
         "jobtech"
       ],
-      "isNew": true,
       "score": 65,
       "fit": "unscored",
       "matched": [],
@@ -250,132 +284,9 @@
       "disqualifiers": [],
       "reason": "",
       "next_action": "",
-      "scoredBy": "prefilter",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "isNew": false,
       "keywordScore": 65
-    },
-    {
-      "title": "Customer Service Manager Scandinavia - Kiilto",
-      "company": "Gruffman Recruitment & Consulting AB",
-      "location": "Malmö, Skåne län",
-      "remote": false,
-      "description": "A hands-on Customer Service role for you who enjoy daily operations, teamwork and continuous improvement. At Kiilto, Customer Service plays an important role in creating a smooth and reliable customer experience. We are now looking for an experienced Customer Service or Supply Chain professional who enjoys working close to the daily business, leading the Scandinavian Customer Service team and helping improve common ways of working across the region. Role overview In this role, you will lead Customer Service operations for the Scandinavian region, covering Kiilto’s markets in Denmark, Norway and Sweden. You will work closely with a small, experienced team and support high-quality service throughout the order-to-cash process. The position combines coordination, daily operational work and continuous improvement. You will help set priorities, follow up on KPIs and support the team in meeting agreed service levels. You will also be involved in improving processes, systems and ways of working. You will be part of an international Logistics and Warehousing team and collaborate with colleagues in Logistics, Supply Chain, Finance and the Business Areas. The role is focused on the Scandinavian region, while also contributing to selected regional and global improvement initiatives where relevant. Your key responsibilities · Support and develop the Scandinavian Customer Service team in daily operations. · Ensure effective day-to-day Customer Service operations, including sales order management, claims handling and customer requests. · Set priorities, follow up on KPIs and support agreed service levels. · Improve and harmonize Customer Service processes and ways of working across the Scandinavian markets. · Support organizational and cultural change initiatives to enable effective cross-border collaboration. · Analyze Customer Service performance and implement corrective actions and improvements where needed. · Collaborate closely with Logistics, Warehousing, other parts of the supply chain function, Finance and Business Area teams to strengthen the overall order-to-cash process. · Contribute to regional and selected global improvement projects. What we expect · Relevant academic degree in Supply Chain Management, Engineering, Business Administration, or a related field, higher vocational education (KY/YH), or equivalent experience · Several years of experience in Customer Service operations, Supply Chain or a similar area. · Experience from working in an international team and supporting or leading people in a cross-cultural environment. · Experience of leading change and developing processes, systems and ways of working. · Strong analytical skills and experience using KPIs and data to drive performance and improvement. · Good understanding of ERP systems, Office tools and BI solutions. · Strong communication and collaboration skills in an international, cross-functional environment. · Fluency in English and Swedish. Why Kiilto? At Kiilto, you will be part of a growing international family-owned company with a long-term perspective, an open culture and a strong team spirit. We value collaboration, continuous learning and opportunities to develop together with the company. Employees are encouraged to contribute ideas, take initiative and grow through Kiilto’s innovation and training programs. The role is based in Malmö, Sweden and requires regular collaboration across the Nordic region, including some travel within the Kiilto countries, mainly within the Nordics. How to apply If this opportunity sounds right for you, we look forward to hearing from you. We are partnering with Gruffman Recruitment & Consulting in this recruitment process. We encourage you to apply as soon as possible as we apply ongoing selection. Latest day for applying is September 14. For questions about the role, contact Ulrika Gruffman at ulrika@gruffman.nu. Kiilto is a growing Finnish family-owned company with over 100 years of history and a vision extending to the ye",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31408406",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-28T08:30:15.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31408406",
-      "query": "service manager",
-      "id": "f9473c5ef1680fad",
-      "sources": [
-        "jobtech"
-      ],
-      "isNew": true,
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 55
-    },
-    {
-      "title": "Umbraco Web Application Manager / Application Management Team",
-      "company": "I-Ray IT Solutions AB",
-      "location": "Solna, Stockholms län",
-      "remote": false,
-      "description": "Umbraco Web Application Manager / Application Management Team We are looking for an experienced supplier or team with strong knowledge of Umbraco Cloud and web application management for a long-term remote assignment. Assignment period: Immediate – 30 September 2027 Possible extension: Until 30 September 2030 Extent: 100% Location: Remote About the assignment The assignment involves the ongoing management, maintenance and support of an external website built on Umbraco Cloud. The responsibility includes ensuring that the web solution remains stable, secure and well maintained, as well as supporting continuous improvements and further development. The work will cover: Application management and technical support Maintenance and troubleshooting of the web solution Security and stability management Further development and improvements Development, testing and deployment Work across Development, Staging and Production environments Coordination of application management activities The website is hosted on Umbraco Cloud, with Microsoft Azure as the underlying cloud infrastructure. Management of the underlying cloud/operating environment is not included in this assignment. Required experience We are looking for a supplier/team with: Strong experience with Umbraco CMS / Umbraco Cloud Experience in web application management Experience with website maintenance and further development Knowledge of Microsoft Azure environments Experience with development, testing and deployment processes Good troubleshooting and problem-solving skills Experience providing ongoing application support Language requirement The Project Manager and other members of the application management team must be able to communicate effectively in Swedish, both verbally and in writing. This is a long-term assignment suitable for an experienced Umbraco specialist, application management team or IT service provider. Interested candidates or suppliers are welcome to submit their CV/profile and relevant experience to careers@i-raysolutions.com.",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31374839",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-20T08:43:45.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31374839",
-      "query": "it service management",
-      "id": "39e2b72fe00ebb91",
-      "sources": [
-        "jobtech"
-      ],
-      "isNew": true,
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 55
-    },
-    {
-      "title": "Project Manager Service",
-      "company": "RaySearch Laboratories AB (publ)",
-      "location": "Stockholm, Stockholms län",
-      "remote": false,
-      "description": "RaySearch develops innovative software solutions to improve cancer care. About 1000 clinics in more than 40 countries use RaySearch software to improve treatments and quality of life for patients. RaySearch was founded in 2000 and is listed on Nasdaq Stockholm. The headquarters is located in Stockholm, with subsidiaries in the US, Europe and Asia - Pacific. Today we are more than 400 employees with a common vision of improving cancer care with innovative software. Our great staff is crucial for our success and we offer a fantastic working environment in modern offices, flexibility and good opportunities for development. We believe in equal opportunities, value diversity and work actively to prevent discrimination. Do you want to improve cancer care with innovative software? As Project Manager at RaySearch's Service Department, you will work with full product delivery and project implementation while collaborating with customers and colleagues globally. Join us in a quest to fight cancer! About the role As our Project Manager, you will belong to an expanding service organization and be part of our Global Service team. You will work with product deliveries across the RaySearch product suite, supporting clinics in Europe in implementing and deploying our oncology software solutions. You will lead several projects in parallel and work closely with Application Specialists, IT Specialists and other Project Managers. You will also collaborate with colleagues in Development, Finance and Sales Operations throughout your projects. When you start your position, you will get an introduction by your manager and work closely with a mentor who will help you familiarize yourself with our organization and ways of working. You will be part of a growing Service department in a growing company that drives innovation in the MedTech industry. This is a full-time position at RaySearch’s head office located in Stockholm. Your main tasks: Be the link between RaySearch and our customers during projects + lead the implementation and upgrade of projects. Be responsible for planning and coordination as well as follow-up on actions and deadlines. Act as intermediary between team members from Service, Development and Sales to coordinate the projects, and to participate in the allocation of resources in collaboration with Team Managers. Communicate with customers and internal stakeholders. Participate in activities to continuously improve internal processes and routines. Your profile To be successful in this position we think that you are a team player with excellent interpersonal skills who understand the importance of communication. Also, we believe that you are interested in innovative technology and curious to learn more about our products and the use and utility for our customers. You are not afraid of challenges, and you easily adapt to new situations and solve problems as they arise. Multitasking comes natural for you as you are both a strong organizer and administrator. Requirements: 2+ years’ experience from project delivery management within IT/MedTech. University degree (or equivalent) in relevant field. Experience in leadership and from working with structured project methodology. Great verbal and written communication skills in English. A service minded, positive attitude and ability to work independently. Experience from maintaining compliance and project documentation. It is meriting if you have: Experience from the medtech and/or healthcare industry. Project management certifications. Our Culture Culture at RaySeach is the driving force behind our organization, where everything we do is driven by a shared passion for innovation and the fight against cancer. Our dedication is reflected in our ability to deliver exceptional results, pay close attention to detail, and consistently go the extra mile. Our employees stand out as experts in their field, driven by a relentless focus on solving problems, no matter how complex. At RaySearch, we take pr",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31334244",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-10T11:35:33.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31334244",
-      "query": "service manager",
-      "id": "74058b84fc1ec975",
-      "sources": [
-        "jobtech"
-      ],
-      "isNew": true,
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 40
-    },
-    {
-      "title": "Cybersecurity Project Manager - Service",
-      "company": "Hitachi Energy Sweden AB",
-      "location": "Västerås, Västmanlands län",
-      "remote": false,
-      "description": "The opportunity You will be a part of the future Energy Transformation as a Cybersecurity project manager at Hitachi Energy. You will be responsible for overseeing and driving the successful execution of various cybersecurity activities within our delivery projects You will ensure that activities are performed on time, within budget and meet the high-security standards expected from a global technology leader. “We are proud to deliver HVDC system solutions that are supporting the energy transition all over the world. As a Cybersecurity Project Manager, you will be an important player in our delivery of Critical National Infrastructure, CNI, and support the Project Director and the team with customer activities as well as making sure Cybersecurity activities are on time. This is your chance to make a difference”- Björn Stenberg, Cybersecurity Operations Manager at HVDC How you’ll make an impact Lead the planning, execution, and closing of cybersecurity activities, including but not limited to security incident response, customer dialogue in relation to requirements for Cybersecurity and standards, vulnerability management, risk assessments, and operational security process improvements. Execute project activities according to base time schedule and targets. Define resource requirements in collaboration with stakeholders across various technical disciplines. Manage comprehensive project plans, schedules, and budgets, tracking progress and reporting on key milestones and risks to Project Directors and management. Identify, assess, and mitigate project risks and issues, developing contingency plans and escalating critical concerns as necessary Facilitate effective communication and collaboration among project team members, vendors, and internal and external stakeholders. Your background As a Project Manager you are structured, open-minded and communicative. Proven working experience in relevant field e.g. within HVDC Project Management, Cybersecurity, or similar. Bachelor’s degree in a technical field or have equivalent work experience. As you will be part of a company that operates on a global arena, fluency in English is required. Swedish is strongly preferable for collaboration with local stakeholders. Good communication skills in Swedish and English, both written and verbal. You are a curious person with the drive to challenge yourself and the organization for continuous development in both short and long term. Contract Management experience and experience from field operations, C&P engineering and main circuit equipment is considered valuable What we offer Collective agreement Flexible working time Health care and wellness allowance Fantastic career possibilities within Hitachi Energy both within Sweden and globally Mentor to support you throughout onboard phase Various trainings and education supporting employee development​ Diversified company with over 70+ nationalities working in Sweden Supplementary compensation for parental leave Employee Benefit Portal with thousands of discounts and perks More about us Are you ready for a new exciting challenge? Does the above description sound like you? Welcome to apply! Applications will be reviewed on an ongoing basis, so don’t delay – apply today! Recruiting Manager Björn Stenberg bjorn.c.stenberg@hitachienergy.com will answer your questions about the position. Union representatives - Sveriges Ingenjörer: Nawzad Rashid , +46 107-38 91 48; Unionen: Ingrid Rinaldo, +46 107-38 58 19; Ledarna: Frank Hollstedt, +46 107-38 70 43. All other questions can be directed to Talent Acquisition Partner Fredrik Söder, fredrik.soder@hitachienergy.com.",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31343810",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-12T11:16:30.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31343810",
-      "query": "service manager",
-      "id": "9dad23340d0bccfc",
-      "sources": [
-        "jobtech"
-      ],
-      "isNew": true,
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 40
     },
     {
       "title": "IT Project Manager & Project Management Office (w/m/d)",
@@ -471,6 +382,68 @@
       "keywordScore": 55
     },
     {
+      "title": "Customer Service Manager Scandinavia - Kiilto",
+      "company": "Gruffman Recruitment & Consulting AB",
+      "location": "Malmö, Skåne län",
+      "remote": false,
+      "description": "A hands-on Customer Service role for you who enjoy daily operations, teamwork and continuous improvement. At Kiilto, Customer Service plays an important role in creating a smooth and reliable customer experience. We are now looking for an experienced Customer Service or Supply Chain professional who enjoys working close to the daily business, leading the Scandinavian Customer Service team and helping improve common ways of working across the region. Role overview In this role, you will lead Customer Service operations for the Scandinavian region, covering Kiilto’s markets in Denmark, Norway and Sweden. You will work closely with a small, experienced team and support high-quality service throughout the order-to-cash process. The position combines coordination, daily operational work and continuous improvement. You will help set priorities, follow up on KPIs and support the team in meeting agreed service levels. You will also be involved in improving processes, systems and ways of working. You will be part of an international Logistics and Warehousing team and collaborate with colleagues in Logistics, Supply Chain, Finance and the Business Areas. The role is focused on the Scandinavian region, while also contributing to selected regional and global improvement initiatives where relevant. Your key responsibilities · Support and develop the Scandinavian Customer Service team in daily operations. · Ensure effective day-to-day Customer Service operations, including sales order management, claims handling and customer requests. · Set priorities, follow up on KPIs and support agreed service levels. · Improve and harmonize Customer Service processes and ways of working across the Scandinavian markets. · Support organizational and cultural change initiatives to enable effective cross-border collaboration. · Analyze Customer Service performance and implement corrective actions and improvements where needed. · Collaborate closely with Logistics, Warehousing, other parts of the supply chain function, Finance and Business Area teams to strengthen the overall order-to-cash process. · Contribute to regional and selected global improvement projects. What we expect · Relevant academic degree in Supply Chain Management, Engineering, Business Administration, or a related field, higher vocational education (KY/YH), or equivalent experience · Several years of experience in Customer Service operations, Supply Chain or a similar area. · Experience from working in an international team and supporting or leading people in a cross-cultural environment. · Experience of leading change and developing processes, systems and ways of working. · Strong analytical skills and experience using KPIs and data to drive performance and improvement. · Good understanding of ERP systems, Office tools and BI solutions. · Strong communication and collaboration skills in an international, cross-functional environment. · Fluency in English and Swedish. Why Kiilto? At Kiilto, you will be part of a growing international family-owned company with a long-term perspective, an open culture and a strong team spirit. We value collaboration, continuous learning and opportunities to develop together with the company. Employees are encouraged to contribute ideas, take initiative and grow through Kiilto’s innovation and training programs. The role is based in Malmö, Sweden and requires regular collaboration across the Nordic region, including some travel within the Kiilto countries, mainly within the Nordics. How to apply If this opportunity sounds right for you, we look forward to hearing from you. We are partnering with Gruffman Recruitment & Consulting in this recruitment process. We encourage you to apply as soon as possible as we apply ongoing selection. Latest day for applying is September 14. For questions about the role, contact Ulrika Gruffman at ulrika@gruffman.nu. Kiilto is a growing Finnish family-owned company with over 100 years of history and a vision extending to the ye",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31408406",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-28T08:30:15.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31408406",
+      "query": "service manager",
+      "id": "f9473c5ef1680fad",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "isNew": false,
+      "keywordScore": 55
+    },
+    {
+      "title": "Umbraco Web Application Manager / Application Management Team",
+      "company": "I-Ray IT Solutions AB",
+      "location": "Solna, Stockholms län",
+      "remote": false,
+      "description": "Umbraco Web Application Manager / Application Management Team We are looking for an experienced supplier or team with strong knowledge of Umbraco Cloud and web application management for a long-term remote assignment. Assignment period: Immediate – 30 September 2027 Possible extension: Until 30 September 2030 Extent: 100% Location: Remote About the assignment The assignment involves the ongoing management, maintenance and support of an external website built on Umbraco Cloud. The responsibility includes ensuring that the web solution remains stable, secure and well maintained, as well as supporting continuous improvements and further development. The work will cover: Application management and technical support Maintenance and troubleshooting of the web solution Security and stability management Further development and improvements Development, testing and deployment Work across Development, Staging and Production environments Coordination of application management activities The website is hosted on Umbraco Cloud, with Microsoft Azure as the underlying cloud infrastructure. Management of the underlying cloud/operating environment is not included in this assignment. Required experience We are looking for a supplier/team with: Strong experience with Umbraco CMS / Umbraco Cloud Experience in web application management Experience with website maintenance and further development Knowledge of Microsoft Azure environments Experience with development, testing and deployment processes Good troubleshooting and problem-solving skills Experience providing ongoing application support Language requirement The Project Manager and other members of the application management team must be able to communicate effectively in Swedish, both verbally and in writing. This is a long-term assignment suitable for an experienced Umbraco specialist, application management team or IT service provider. Interested candidates or suppliers are welcome to submit their CV/profile and relevant experience to careers@i-raysolutions.com.",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31374839",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-20T08:43:45.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31374839",
+      "query": "it service management",
+      "id": "39e2b72fe00ebb91",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "isNew": false,
+      "keywordScore": 55
+    },
+    {
       "title": "Technical Operations Manager (f/m/x)",
       "company": "Circus SE",
       "location": "Au-Haidhausen, München",
@@ -562,6 +535,68 @@
       "firstSeen": "2026-08-28T07:23:58.615Z",
       "isNew": false,
       "keywordScore": 60
+    },
+    {
+      "title": "Project Manager Service",
+      "company": "RaySearch Laboratories AB (publ)",
+      "location": "Stockholm, Stockholms län",
+      "remote": false,
+      "description": "RaySearch develops innovative software solutions to improve cancer care. About 1000 clinics in more than 40 countries use RaySearch software to improve treatments and quality of life for patients. RaySearch was founded in 2000 and is listed on Nasdaq Stockholm. The headquarters is located in Stockholm, with subsidiaries in the US, Europe and Asia - Pacific. Today we are more than 400 employees with a common vision of improving cancer care with innovative software. Our great staff is crucial for our success and we offer a fantastic working environment in modern offices, flexibility and good opportunities for development. We believe in equal opportunities, value diversity and work actively to prevent discrimination. Do you want to improve cancer care with innovative software? As Project Manager at RaySearch's Service Department, you will work with full product delivery and project implementation while collaborating with customers and colleagues globally. Join us in a quest to fight cancer! About the role As our Project Manager, you will belong to an expanding service organization and be part of our Global Service team. You will work with product deliveries across the RaySearch product suite, supporting clinics in Europe in implementing and deploying our oncology software solutions. You will lead several projects in parallel and work closely with Application Specialists, IT Specialists and other Project Managers. You will also collaborate with colleagues in Development, Finance and Sales Operations throughout your projects. When you start your position, you will get an introduction by your manager and work closely with a mentor who will help you familiarize yourself with our organization and ways of working. You will be part of a growing Service department in a growing company that drives innovation in the MedTech industry. This is a full-time position at RaySearch’s head office located in Stockholm. Your main tasks: Be the link between RaySearch and our customers during projects + lead the implementation and upgrade of projects. Be responsible for planning and coordination as well as follow-up on actions and deadlines. Act as intermediary between team members from Service, Development and Sales to coordinate the projects, and to participate in the allocation of resources in collaboration with Team Managers. Communicate with customers and internal stakeholders. Participate in activities to continuously improve internal processes and routines. Your profile To be successful in this position we think that you are a team player with excellent interpersonal skills who understand the importance of communication. Also, we believe that you are interested in innovative technology and curious to learn more about our products and the use and utility for our customers. You are not afraid of challenges, and you easily adapt to new situations and solve problems as they arise. Multitasking comes natural for you as you are both a strong organizer and administrator. Requirements: 2+ years’ experience from project delivery management within IT/MedTech. University degree (or equivalent) in relevant field. Experience in leadership and from working with structured project methodology. Great verbal and written communication skills in English. A service minded, positive attitude and ability to work independently. Experience from maintaining compliance and project documentation. It is meriting if you have: Experience from the medtech and/or healthcare industry. Project management certifications. Our Culture Culture at RaySeach is the driving force behind our organization, where everything we do is driven by a shared passion for innovation and the fight against cancer. Our dedication is reflected in our ability to deliver exceptional results, pay close attention to detail, and consistently go the extra mile. Our employees stand out as experts in their field, driven by a relentless focus on solving problems, no matter how complex. At RaySearch, we take pr",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31334244",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-10T11:35:33.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31334244",
+      "query": "service manager",
+      "id": "74058b84fc1ec975",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "isNew": false,
+      "keywordScore": 40
+    },
+    {
+      "title": "Cybersecurity Project Manager - Service",
+      "company": "Hitachi Energy Sweden AB",
+      "location": "Västerås, Västmanlands län",
+      "remote": false,
+      "description": "The opportunity You will be a part of the future Energy Transformation as a Cybersecurity project manager at Hitachi Energy. You will be responsible for overseeing and driving the successful execution of various cybersecurity activities within our delivery projects You will ensure that activities are performed on time, within budget and meet the high-security standards expected from a global technology leader. “We are proud to deliver HVDC system solutions that are supporting the energy transition all over the world. As a Cybersecurity Project Manager, you will be an important player in our delivery of Critical National Infrastructure, CNI, and support the Project Director and the team with customer activities as well as making sure Cybersecurity activities are on time. This is your chance to make a difference”- Björn Stenberg, Cybersecurity Operations Manager at HVDC How you’ll make an impact Lead the planning, execution, and closing of cybersecurity activities, including but not limited to security incident response, customer dialogue in relation to requirements for Cybersecurity and standards, vulnerability management, risk assessments, and operational security process improvements. Execute project activities according to base time schedule and targets. Define resource requirements in collaboration with stakeholders across various technical disciplines. Manage comprehensive project plans, schedules, and budgets, tracking progress and reporting on key milestones and risks to Project Directors and management. Identify, assess, and mitigate project risks and issues, developing contingency plans and escalating critical concerns as necessary Facilitate effective communication and collaboration among project team members, vendors, and internal and external stakeholders. Your background As a Project Manager you are structured, open-minded and communicative. Proven working experience in relevant field e.g. within HVDC Project Management, Cybersecurity, or similar. Bachelor’s degree in a technical field or have equivalent work experience. As you will be part of a company that operates on a global arena, fluency in English is required. Swedish is strongly preferable for collaboration with local stakeholders. Good communication skills in Swedish and English, both written and verbal. You are a curious person with the drive to challenge yourself and the organization for continuous development in both short and long term. Contract Management experience and experience from field operations, C&P engineering and main circuit equipment is considered valuable What we offer Collective agreement Flexible working time Health care and wellness allowance Fantastic career possibilities within Hitachi Energy both within Sweden and globally Mentor to support you throughout onboard phase Various trainings and education supporting employee development​ Diversified company with over 70+ nationalities working in Sweden Supplementary compensation for parental leave Employee Benefit Portal with thousands of discounts and perks More about us Are you ready for a new exciting challenge? Does the above description sound like you? Welcome to apply! Applications will be reviewed on an ongoing basis, so don’t delay – apply today! Recruiting Manager Björn Stenberg bjorn.c.stenberg@hitachienergy.com will answer your questions about the position. Union representatives - Sveriges Ingenjörer: Nawzad Rashid , +46 107-38 91 48; Unionen: Ingrid Rinaldo, +46 107-38 58 19; Ledarna: Frank Hollstedt, +46 107-38 70 43. All other questions can be directed to Talent Acquisition Partner Fredrik Söder, fredrik.soder@hitachienergy.com.",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31343810",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-12T11:16:30.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31343810",
+      "query": "service manager",
+      "id": "9dad23340d0bccfc",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "isNew": false,
+      "keywordScore": 40
     }
   ]
 }
