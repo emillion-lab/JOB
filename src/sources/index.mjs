@@ -24,6 +24,14 @@ export async function collectAll({ queries, settings }) {
     const source = REGISTRY[id];
     if (!source) { warn(`Unknown source "${id}" in settings.json`); continue; }
 
+    // A source tied to one country is pointless when that country is not in
+    // the active markets — otherwise picking "ch" still returns Swedish jobs.
+    const countries = (settings.markets || []).map(m => m.country);
+    if (source.country && !countries.includes(source.country)) {
+      log(`  ${id}: skipped, ${source.country} is not in the active markets`);
+      continue;
+    }
+
     const missing = (source.needs || []).filter(k => !process.env[k]);
     if (missing.length) {
       warn(`Skipping ${id}: missing ${missing.join(', ')}`);
