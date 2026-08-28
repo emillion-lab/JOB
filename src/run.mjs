@@ -3,6 +3,7 @@ import { loadSettings, readJson, log, warn, profileIsUsable } from './lib.mjs';
 import { buildProfile } from './profile.mjs';
 import { collectAll } from './sources/index.mjs';
 import { dedupe, isFresh } from './normalize.mjs';
+import { languageAllowed } from './language.mjs';
 import { prefilter } from './prefilter.mjs';
 import { matchJobs, keywordVerdict } from './match.mjs';
 import { loadState, splitSeen, rehydrate, saveState } from './state.mjs';
@@ -39,8 +40,12 @@ log(`Markets: ${settings.markets.map(m => m.country).join(', ')}`);
 
 log('Collecting:');
 const { jobs: raw, stats } = await collectAll({ queries, settings });
-const collected = dedupe(raw).filter(j => isFresh(j, settings.maxJobAgeDays));
-log(`Collected ${raw.length} records -> ${collected.length} unique, in-date vacancies`);
+const unique = dedupe(raw).filter(j => isFresh(j, settings.maxJobAgeDays));
+const collected = unique.filter(j => languageAllowed(j, settings.languages));
+const byLanguage = unique.reduce((acc, j) => ({ ...acc, [j.language]: (acc[j.language] || 0) + 1 }), {});
+log(`Collected ${raw.length} records -> ${unique.length} unique, in-date vacancies`);
+log(`Languages: ${Object.entries(byLanguage).map(([l, n]) => `${l} ${n}`).join(', ')}`);
+if (collected.length !== unique.length) log(`Language filter kept ${collected.length} (${settings.languages.join(', ')})`);
 
 const { kept, dropped, excluded } = prefilter(collected, profile, settings);
 log(`Pre-filter kept ${kept.length} (dropped ${dropped}, ${excluded} on excluded terms)`);
@@ -74,7 +79,7 @@ const all = [...scored, ...reused]
 
 const report = {
   generatedAt: new Date().toISOString(),
-  settings: { markets: settings.markets, minimumScore: settings.minimumScore, maxJobAgeDays: settings.maxJobAgeDays },
+  settings: { markets: settings.markets, languages: settings.languages, minimumScore: settings.minimumScore, maxJobAgeDays: settings.maxJobAgeDays },
   profileSummary: {
     headline: profile.headline, seniority: profile.seniority ?? null,
     target_roles: (profile.target_roles || []).map(r => r.title)
@@ -82,6 +87,8 @@ const report = {
   searchedQueries: queries,
   sources: stats,
   totalCollected: collected.length,
+  totalBeforeLanguageFilter: unique.length,
+  byLanguage,
   totalScored: scored.length,
   llmScored: scored.filter(j => j.scoredBy === 'llm').length,
   totalMatched: all.length,
