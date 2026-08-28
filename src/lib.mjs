@@ -30,7 +30,7 @@ export async function http(url, { retries = 3, timeout = 20000, label = '', ...i
       const r = await fetch(url, {
         ...init,
         signal: ac.signal,
-        headers: { 'user-agent': 'universal-career-agent/0.5', accept: 'application/json, text/xml, */*', ...(init.headers || {}) }
+        headers: { 'user-agent': 'universal-career-agent/0.6', accept: 'application/json, text/xml, */*', ...(init.headers || {}) }
       });
       if (r.ok) return r;
       if (r.status === 429 || r.status >= 500) {
@@ -131,7 +131,7 @@ export async function readCv() {
 }
 
 const DEFAULTS = {
-  countries: ['ch'], locations: ['Zurich'], remote: true,
+  markets: [], remote: true,
   maxQueries: 8, resultsPerQuery: 25, maxJobAgeDays: 30,
   prefilterKeep: 60, minimumScore: 45,
   excludedTerms: [], preferredTerms: [],
@@ -140,14 +140,21 @@ const DEFAULTS = {
 
 /**
  * Settings come from the file; a few knobs can be overridden per run from the
- * workflow dropdowns, so a different city or threshold does not need a commit.
+ * workflow dropdowns, so a different market or threshold does not need a commit.
  */
 export async function loadSettings() {
   const raw = JSON.parse(await fs.readFile('config/settings.json', 'utf8'));
   const settings = { ...DEFAULTS, ...raw, sources: { ...raw.sources } };
 
-  const list = process.env.OVERRIDE_LOCATIONS?.split(',').map(s => s.trim()).filter(Boolean);
-  if (list?.length) settings.locations = list;
+  // Older configs used countries + locations, which searched every city in every
+  // country. Markets pair a country with its own cities.
+  if (!settings.markets?.length && settings.countries?.length) {
+    settings.markets = settings.countries.map(country => ({ country, locations: settings.locations || [] }));
+  }
+  if (!settings.markets.length) settings.markets = [{ country: 'gb', locations: [] }];
+
+  const only = process.env.OVERRIDE_COUNTRIES?.split(',').map(s => s.trim().toLowerCase()).filter(Boolean);
+  if (only?.length) settings.markets = settings.markets.filter(m => only.includes(m.country));
   const num = (env, key) => {
     const v = Number(process.env[env]);
     if (Number.isFinite(v) && v > 0) settings[key] = v;
