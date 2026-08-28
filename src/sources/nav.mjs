@@ -32,6 +32,7 @@ const adOf = item => item?.content?.ad || item?.ad || item?.content || item || {
 
 export default {
   id: 'nav',
+  country: 'no',
   async collect({ queries, config }) {
     const key = await token();
     if (!key) return [];
