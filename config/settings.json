@@ -23,11 +23,18 @@
     "adzuna": { "enabled": true, "maxRequests": 60 },
     "nav": { "enabled": true, "pages": 4 },
     "jobtech": { "enabled": true },
+    "arbeitsagentur": { "enabled": true, "radiusKm": 25 },
+    "francetravail": { "enabled": false },
     "arbeitnow": { "enabled": true, "pages": 3 },
-    "remotive": { "enabled": false },
+
+    "greenhouse": { "enabled": true, "boards": [] },
+    "lever": { "enabled": true, "boards": [] },
+    "ashby": { "enabled": true, "boards": [] },
+    "workable": { "enabled": true, "boards": [] },
+    "smartrecruiters": { "enabled": true, "boards": [] },
+    "recruitee": { "enabled": true, "boards": [] },
+
     "feeds": { "enabled": false, "urls": [] },
-    "greenhouse": { "enabled": false, "boards": [] },
-    "lever": { "enabled": false, "boards": [] },
-    "ashby": { "enabled": false, "boards": [] }
+    "remotive": { "enabled": false }
   }
 }
