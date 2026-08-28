@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T07:23:58.617Z",
+  "generatedAt": "2026-08-28T07:27:53.003Z",
   "settings": {
     "countries": [
       "ch"
@@ -50,7 +50,7 @@
     }
   ],
   "totalCollected": 90,
-  "totalScored": 60,
+  "totalScored": 0,
   "llmScored": 0,
   "totalMatched": 0,
   "totalNew": 0,
