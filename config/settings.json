@@ -11,7 +11,7 @@
   "useLlm": false,
   "llmMinKeywordScore": 55,
   "maxLlmJobs": 10,
-  "publicReport": false,
+  "publicReport": true,
 
   "excludedTerms": ["internship", "praktikum", "werkstudent"],
   "preferredTerms": [],
