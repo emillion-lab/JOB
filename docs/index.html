@@ -140,6 +140,9 @@
 
   <div class="controls">
     <input type="search" id="q" placeholder="Filter by role, company or skill" aria-label="Filter results">
+    <select id="country" aria-label="Country">
+      <option value="">All countries</option>
+    </select>
     <select id="fit" aria-label="Minimum fit">
       <option value="0">Any score</option>
       <option value="60">60 and above</option>
@@ -161,6 +164,8 @@
 <script type="module">
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+// "zurich" must find "Zürich", and "goteborg" must find "Göteborg".
+const fold = s => String(s ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 let report = { jobs: [] };
 
 function meter(score){
@@ -195,7 +200,8 @@ function docket(j){
 }
 
 function render(){
-  const q = $('q').value.trim().toLowerCase();
+  const q = fold($('q').value.trim());
+  const country = $('country').value;
   const min = Number($('fit').value);
   const onlyNew = $('onlyNew').checked;
   const sort = $('sort').value;
@@ -203,7 +209,8 @@ function render(){
   let rows = report.jobs.filter(j =>
     (j.score ?? 0) >= min &&
     (!onlyNew || j.isNew) &&
-    (!q || `${j.title} ${j.company} ${(j.matched||[]).join(' ')} ${j.location}`.toLowerCase().includes(q))
+    (!country || j.country === country) &&
+    (!q || fold(`${j.title} ${j.company} ${(j.matched||[]).join(' ')} ${j.location}`).includes(q))
   );
 
   rows.sort((a,b) =>
@@ -226,6 +233,14 @@ function head(){
   $('s-profile').textContent = report.profileSummary?.headline || '—';
   $('sources').innerHTML = (report.sources || []).map(s =>
     `<span class="pill${s.status === 'ok' ? '' : ' err'}">${esc(s.source)} <b>${s.collected}</b>${s.status === 'ok' ? '' : ' · ' + esc(s.status)}</span>`).join('');
+
+  const NAMES = { ch: 'Switzerland', de: 'Germany', at: 'Austria', se: 'Sweden', no: 'Norway', fr: 'France' };
+  const counts = new Map();
+  for (const j of report.jobs || []) if (j.country) counts.set(j.country, (counts.get(j.country) || 0) + 1);
+  $('country').innerHTML = `<option value="">All countries (${report.jobs?.length ?? 0})</option>` +
+    [...counts.entries()].sort((a, b) => b[1] - a[1])
+      .map(([c, n]) => `<option value="${esc(c)}">${esc(NAMES[c] || c.toUpperCase())} (${n})</option>`).join('');
+
   $('foot').textContent = report.searchedQueries?.length
     ? `Searched: ${report.searchedQueries.join(' · ')} — scores are advisory, not a hiring decision.`
     : 'Scores are advisory, not a hiring decision.';
@@ -246,7 +261,7 @@ if (embedded) {
 }
 head();
 if (report.jobs?.length) render();
-for (const el of ['q','fit','sort','onlyNew']) $(el).addEventListener('input', render);
+for (const el of ['q','country','fit','sort','onlyNew']) $(el).addEventListener('input', render);
 </script>
 </body>
 </html>
