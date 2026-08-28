@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Edit profile — career agent</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root{--steel:#DCE1E6;--card:#fff;--ink:#0E1620;--muted:#5B6875;--rule:#B9C2CB;--signal:#E8940C;--dead:#B23B32}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--steel);color:var(--ink);font:400 16px/1.5 Barlow,system-ui,sans-serif}
+  .wrap{max-width:820px;margin:0 auto;padding:20px 16px 72px}
+  h1{font:700 22px/1 'Barlow Condensed',sans-serif;letter-spacing:.08em;text-transform:uppercase;
+     background:var(--ink);color:#EDF1F4;margin:0;padding:14px 16px;border-radius:3px}
+  h1 span{color:var(--signal)}
+  h2{font:600 15px/1 'Barlow Condensed',sans-serif;letter-spacing:.08em;text-transform:uppercase;
+     margin:0 0 4px;color:var(--muted)}
+  .card{background:var(--card);border:1px solid var(--rule);border-radius:3px;padding:16px;margin:12px 0}
+  p{margin:0 0 10px}
+  .muted{color:var(--muted);font-size:14px}
+  label{display:block;font-size:13px;color:var(--muted);margin:10px 0 3px}
+  input[type=text],textarea{width:100%;font:400 15px/1.45 Barlow,sans-serif;color:var(--ink);
+    border:1px solid var(--rule);border-radius:2px;padding:9px 10px;background:#F8FAFB}
+  textarea{font:400 13px/1.6 'JetBrains Mono',monospace;min-height:110px;resize:vertical}
+  #json{min-height:180px;font-size:12px}
+  button{font:600 14px Barlow,sans-serif;background:var(--ink);color:#fff;border:0;
+    padding:10px 14px;border-radius:2px;cursor:pointer}
+  button.ghost{background:var(--card);color:var(--ink);border:1px solid var(--rule)}
+  button.tiny{padding:6px 9px;font-size:12px;background:var(--card);color:var(--dead);border:1px solid var(--rule)}
+  .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .role{border:1px solid var(--rule);border-radius:2px;padding:11px;margin:8px 0;background:#F8FAFB}
+  .role .head{display:flex;justify-content:space-between;align-items:center;gap:8px}
+  .role .head strong{font:600 13px 'JetBrains Mono',monospace}
+  .preset{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 0}
+  .preset button{font:400 12px 'JetBrains Mono',monospace;background:var(--card);color:var(--ink);
+    border:1px solid var(--rule);padding:6px 8px}
+  .preset button:hover{border-color:var(--signal)}
+  a{color:var(--ink)}
+  .status{font:400 13px 'JetBrains Mono',monospace;color:var(--muted);margin-top:10px}
+  :focus-visible{outline:2px solid var(--signal);outline-offset:2px}
+  code{font:400 13px 'JetBrains Mono',monospace;background:#F1F4F6;padding:1px 4px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Edit <span>·</span> career profile</h1>
+
+  <div class="card">
+    <p>This page has no backend and cannot save on its own. Edit here, copy the JSON at the
+      bottom, and paste it over <code>config/profile.json</code> in the repository.</p>
+    <p class="muted">The target roles are what the agent actually searches for. The queries under
+      each role are the phrases it sends to the job boards, so write them the way they appear in
+      real job titles.</p>
+    <p class="status" id="loaded">Loading the current profile…</p>
+  </div>
+
+  <div class="card">
+    <h2>Headline</h2>
+    <input type="text" id="headline" placeholder="How you would describe yourself in one line">
+  </div>
+
+  <div class="card">
+    <h2>Target roles</h2>
+    <div id="roles"></div>
+    <div class="row"><button id="addRole" class="ghost">Add a role</button></div>
+    <p class="muted" style="margin-top:12px">Common additions for this profile:</p>
+    <div class="preset" id="presets"></div>
+  </div>
+
+  <div class="card">
+    <h2>Skills</h2>
+    <p class="muted">One per line. These are matched as whole words against the advertisement text.</p>
+    <textarea id="skills" spellcheck="false"></textarea>
+    <label for="domains">Domains, one per line</label>
+    <textarea id="domains" spellcheck="false"></textarea>
+    <label for="certs">Certifications, one per line</label>
+    <textarea id="certs" spellcheck="false"></textarea>
+  </div>
+
+  <div class="card">
+    <h2>Result</h2>
+    <textarea id="json" spellcheck="false" readonly></textarea>
+    <div class="row">
+      <button id="copy">Copy JSON</button>
+      <button id="open" class="ghost">Open the file on GitHub</button>
+    </div>
+    <p class="status" id="out">Change anything above and the JSON updates.</p>
+  </div>
+</div>
+
+<script type="module">
+const $ = id => document.getElementById(id);
+const lines = s => s.split('\n').map(x => x.trim()).filter(Boolean);
+const asLines = a => (a || []).map(x => (typeof x === 'string' ? x : x?.name ?? '')).filter(Boolean).join('\n');
+
+const PRESETS = [
+  ['Application Manager', 'application manager, applications manager'],
+  ['Service Owner', 'service owner'],
+  ['Delivery Manager', 'delivery manager'],
+  ['Operations Manager', 'operations manager, service operations manager'],
+  ['Head of IT Operations', 'head of it operations, leiter it betrieb'],
+  ['Change Manager', 'change manager, change management'],
+  ['ITSM Consultant', 'itsm consultant, itil consultant'],
+  ['Support Manager', 'support manager, technical support manager']
+];
+
+let profile = { headline: '', target_roles: [], skills: [], domains: [], certifications: [] };
+
+function roleRow(role, index){
+  const el = document.createElement('div');
+  el.className = 'role';
+  el.innerHTML = `
+    <div class="head"><strong>Role ${index + 1}</strong><button class="tiny" data-remove="${index}">Remove</button></div>
+    <label>Title</label>
+    <input type="text" data-title="${index}">
+    <label>Search phrases, separated by commas</label>
+    <input type="text" data-queries="${index}">`;
+  el.querySelector(`[data-title="${index}"]`).value = role.title || '';
+  el.querySelector(`[data-queries="${index}"]`).value = (role.queries || []).join(', ');
+  return el;
+}
+
+function drawRoles(){
+  const box = $('roles');
+  box.innerHTML = '';
+  profile.target_roles.forEach((r, i) => box.appendChild(roleRow(r, i)));
+  box.querySelectorAll('[data-remove]').forEach(b => b.addEventListener('click', e => {
+    profile.target_roles.splice(Number(e.target.dataset.remove), 1);
+    drawRoles(); emit();
+  }));
+  box.querySelectorAll('[data-title]').forEach(inp => inp.addEventListener('input', e => {
+    profile.target_roles[Number(e.target.dataset.title)].title = e.target.value; emit();
+  }));
+  box.querySelectorAll('[data-queries]').forEach(inp => inp.addEventListener('input', e => {
+    profile.target_roles[Number(e.target.dataset.queries)].queries =
+      e.target.value.split(',').map(s => s.trim()).filter(Boolean);
+    emit();
+  }));
+}
+
+function drawPresets(){
+  $('presets').innerHTML = '';
+  for (const [title, queries] of PRESETS){
+    if (profile.target_roles.some(r => (r.title || '').toLowerCase() === title.toLowerCase())) continue;
+    const b = document.createElement('button');
+    b.textContent = '+ ' + title;
+    b.addEventListener('click', () => {
+      profile.target_roles.push({ title, queries: queries.split(',').map(s => s.trim()) });
+      drawRoles(); drawPresets(); emit();
+    });
+    $('presets').appendChild(b);
+  }
+}
+
+function emit(){
+  const out = {
+    ...profile,
+    headline: $('headline').value.trim(),
+    skills: lines($('skills').value).map(name => ({ name })),
+    domains: lines($('domains').value),
+    certifications: lines($('certs').value),
+    target_roles: profile.target_roles.filter(r => r.title)
+  };
+  delete out.unknowns;
+  delete out.builtAt;
+  $('json').value = JSON.stringify(out, null, 2);
+}
+
+function fill(p){
+  profile = { target_roles: [], ...p };
+  $('headline').value = p.headline || '';
+  $('skills').value = asLines(p.skills);
+  $('domains').value = asLines(p.domains);
+  $('certs').value = asLines(p.certifications);
+  drawRoles(); drawPresets(); emit();
+}
+
+$('addRole').addEventListener('click', () => {
+  profile.target_roles.push({ title: '', queries: [] });
+  drawRoles(); emit();
+});
+for (const id of ['headline','skills','domains','certs']) $(id).addEventListener('input', emit);
+
+$('copy').addEventListener('click', async () => {
+  await navigator.clipboard.writeText($('json').value);
+  $('out').textContent = 'Copied. Paste it over config/profile.json and commit.';
+});
+
+// On Pages the URL is owner.github.io/repo, which is enough to build the edit link.
+$('open').addEventListener('click', () => {
+  const owner = location.hostname.split('.')[0];
+  const repo = location.pathname.split('/').filter(Boolean)[0];
+  const url = owner && repo
+    ? `https://github.com/${owner}/${repo}/edit/main/config/profile.json`
+    : 'https://github.com';
+  window.open(url, '_blank', 'noopener');
+});
+
+try {
+  const r = await fetch('./profile.json', { cache: 'no-store' });
+  if (!r.ok) throw new Error(r.status);
+  fill(await r.json());
+  $('loaded').textContent = 'Loaded the profile currently in the repository.';
+} catch {
+  fill({ headline: '', target_roles: [{ title: '', queries: [] }], skills: [], domains: [], certifications: [] });
+  $('loaded').textContent = 'Could not load the current profile, so this is an empty form.';
+}
+</script>
+</body>
+</html>
