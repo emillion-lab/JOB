@@ -61,9 +61,14 @@ test('a matching job outranks an unrelated one', () => {
   assert.ok(kept[0].prefilter.score > kept[1].prefilter.score);
 });
 
+test('a title match alone clears the default threshold', () => {
+  const { kept } = prefilter([ad()], profile, { prefilterKeep: 10 });
+  assert.ok(kept[0].prefilter.score >= 45);
+});
+
 test('a job already scored is not sent to the model again', () => {
   const job = ad();
-  const state = { [job.id]: { firstSeen: '2026-01-01', lastSeen: '2026-01-02', match: { score: 71, fit: 'plausible', matched: ['itil'] } } };
+  const state = { [job.id]: { firstSeen: '2026-01-01', lastSeen: '2026-01-02', by: 'llm', match: { score: 71, fit: 'plausible', matched: ['itil'] } } };
   const { fresh, known } = splitSeen([job], state);
   assert.equal(fresh.length, 0);
   assert.equal(rehydrate(known[0], state).score, 71);
@@ -72,4 +77,16 @@ test('a job already scored is not sent to the model again', () => {
 test('the shipped placeholder is not treated as a profile', () => {
   assert.equal(profileIsUsable({ headline: 'Profile not built yet', target_roles: [] }), false);
   assert.equal(profileIsUsable(profile), true);
+});
+
+test('a stale keyword score is not reused after the formula changes', () => {
+  const job = ad();
+  const state = { [job.id]: { firstSeen: '2026-01-01', lastSeen: '2026-01-02', by: 'prefilter', v: 1, match: { score: 12, fit: 'unscored' } } };
+  assert.equal(rehydrate(job, state), null);
+});
+
+test('a paid model verdict survives a scoring-formula change', () => {
+  const job = ad();
+  const state = { [job.id]: { firstSeen: '2026-01-01', lastSeen: '2026-01-02', by: 'llm', v: 1, match: { score: 88, fit: 'strong' } } };
+  assert.equal(rehydrate(job, state).score, 88);
 });
