@@ -56,7 +56,7 @@
     },
     {
       "title": "Service Operations Lead",
-      "queries": ["service operations manager", "operations manager", "betriebsleiter"]
+      "queries": ["service operations manager", "it operations manager", "service desk manager"]
     },
     {
       "title": "Project Manager, IT services",
@@ -74,7 +74,7 @@
   "unknowns": [
     "Edit this with docs/profile.html, or by hand — it is a starting point, not built from your CV.",
     "target_roles drive the searches; maxQueries in settings.json caps how many phrases are used.",
-    "Queries in German and Norwegian matter now that DE, AT and NO are in scope.",
+    "Keep queries specific: a bare 'operations manager' matches every operations role in Europe.",
     "This file is committed and public."
   ]
 }

@@ -3368,5 +3368,277 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "7988bff2f088d7e3": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Senior HR Regional Partner FTC, Corporate HR Partner",
+    "company": "Amazon Deutschland Services GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ffb2a97e54cdb4f3": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Senior HR Regional Partner FTC, Corporate HR Partner",
+    "company": "Amazon",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c09c582f8f09474e": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Entrepreneur in Residence (m/w/d)",
+    "company": "Beam AI",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fcb3ba9779c322a9": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Chief of Staff (m/w/d)",
+    "company": "Beam AI",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9ab2a36adff5d816": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Senior Product Manager (all genders)",
+    "company": "Avelios Medical GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "83e69465c1deb960": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Studio Engineer - Exterior",
+    "company": "Avatr",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "594753754008cf11": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Studio Engineer - Exterior",
+    "company": "AVATR Global Design Center",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "831e0fac55333e54": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Platform Engineer (m/f/d)",
+    "company": "AssetMetrix",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "55c9aec616f6a009": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Chief of Staff (m/w/d)",
+    "company": "P3A",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "045a66f29b04e775": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Data Engineer - Tracking Infrastructure (m/f/d)",
+    "company": "Statista",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e668ab9314e8cce2": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Head of Strategic Partnerships & Ecosystem",
+    "company": "Rohlik",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a6eb4d123ff53dba": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Senior Solutions Consultant",
+    "company": "Rohlik",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2d9990c45f3f430b": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Customer Success Leader, Southern Europe & DACH",
+    "company": "Harvey",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bba68dc714ef029e": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Senior Partner Manager SI, Southern Europe",
+    "company": "N8N",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "763cc5d90a17e722": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Engineering Manager (f/m/d/x)",
+    "company": "EMIL Group GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b9759dd15def1ecb": {
+    "firstSeen": "2026-08-28T12:13:49.419Z",
+    "lastSeen": "2026-08-28T12:13:49.419Z",
+    "title": "Marketing Coordinator",
+    "company": "Pmmalliance",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

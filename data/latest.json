@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:12:27.276Z",
+  "generatedAt": "2026-08-28T12:13:49.421Z",
   "settings": {
     "markets": [
       {
@@ -75,54 +75,23 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 450,
+      "collected": 161,
       "status": "ok"
     }
   ],
-  "totalCollected": 317,
-  "totalBeforeLanguageFilter": 601,
+  "totalCollected": 129,
+  "totalBeforeLanguageFilter": 320,
   "byLanguage": {
-    "de": 283,
-    "en": 312,
+    "de": 190,
+    "en": 124,
     "unknown": 5,
     "fr": 1
   },
-  "totalScored": 36,
+  "totalScored": 16,
   "llmScored": 0,
-  "totalMatched": 9,
+  "totalMatched": 6,
   "totalNew": 0,
   "jobs": [
-    {
-      "title": "People Operations Manager, OKRs & Performance",
-      "company": "Bjak",
-      "location": "United Kingdom",
-      "remote": false,
-      "description": "About A1 There are over 5 billion users using basic applications today such email, notes, tasks that are not AI-native. Our mission is to build a proactive smart assistant for everyday users to bring intelligence to conversations, errands, organising and workflows, with minimal prompting. Our product focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. The system must handle multi-step reasoning, interact with external tools, and remain reliable despite non-deterministic model behavior. Our objective is to help users complete tasks daily enjoyable with over ~90%* reduced time. About the Role You will own the systems, processes and frameworks that drive performance across the company. You will lead company-wide OKR planning and review cycles, design scalable performance management processes, analyze organizational data, and ensure our culture and values are consistently reflected in how we hire, evaluate and develop people. You will work closely with leadership across the business to improve execution, increase accountability and help teams perform at their highest level. What You Will Be Doing Own and continuously improve the company's performance management framework. Lead company-wide OKR planning, tracking and quarterly review cycles. Design and implement scalable people processes that improve organizational effectiveness. Analyze people, performance and operational data to identify trends, measure outcomes and recommend improvements. Build dashboards and reports that provide meaningful insights into organizational performance. Define business requirements for HR systems, reporting tools and workflow automation. Partner with leaders across the company to improve team performance and execution. Develop frameworks for performance reviews, calibration, promotions and career development. Drive initiatives that strengthen accountability, ownership and a high-performance culture. Ensure company values are embedded throughout employee programs, performance evaluations and day-to-day operations. Continuously identify opportunities to simplify processes, eliminate inefficiencies and improve the employee experience. Support strategic people initiatives and organizational projects as the company grows. What You Will Need Bachelor's degree or equivalent practical experience. Experience in People Operations, People Analytics, Organizational Effectiveness, HR Strategy, Business Operations, Management Consulting or a related field. Strong analytical skills with the ability to interpret data and translate insights into action. Experience designing or improving performance management frameworks, OKRs or organizational processes. Excellent problem-solving and structured thinking skills. Ability to write clear business requirements and improve operational workflows. Strong project management skills with the ability to manage multiple initiatives simultaneously. Excellent communication and stakeholder management skills. Comfortable working in a fast-paced, high-growth environment with evolving priorities. High ownership, attention to detail and a bias toward execution. How We Work The best products in the world are built by small, highly capable teams. We operate with high talent density, high ownership and high standards. We value people who can think independently, move quickly and solve problems without waiting for instructions. This is a hands-on environment. Everyone is expected to contribute directly to the company's success. Interview Process If there appears to be a fit, we will schedule up to 3 interviews. Applications are reviewed by members of our leadership and hiring teams. Interviews may be conducted virtually or onsite. We value speed, transparency and decisiveness throughout the process. Find Jobs in United Kingdom on Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/people-operations-manager-okrs-performance-london-406230",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-28T00:40:25.000Z",
-      "language": "en",
-      "country": null,
-      "source": "arbeitnow",
-      "sourceId": "people-operations-manager-okrs-performance-london-406230",
-      "query": null,
-      "id": "3102695208d8d6a6",
-      "sources": [
-        "arbeitnow"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-08-28T08:16:02.689Z",
-      "isNew": false,
-      "keywordScore": 60
-    },
     {
       "title": "IT Project Manager & Project Management Office (w/m/d)",
       "company": "River Advice AG",
@@ -245,69 +214,7 @@
       "next_action": "",
       "firstSeen": "2026-08-28T08:16:02.689Z",
       "isNew": false,
-      "keywordScore": 55
-    },
-    {
-      "title": "Product and Research Operations Manager, Voices",
-      "company": "Cartesia",
-      "location": "London",
-      "remote": false,
-      "description": "About Cartesia Our mission is to architect AI that learns from and interacts with the world like humans do. We're pioneering the model architectures that will make this possible. Our founding team met as PhDs at the Stanford AI Lab, where we invented State Space Models or SSMs, a new primitive for training efficient, large-scale foundation models. Our team combines deep expertise in model innovation and systems engineering paired with a design-minded product engineering team to build and ship cutting edge models and experiences. We're funded by leading investors at Index Ventures and Lightspeed Venture Partners, along with Factory, Conviction, A Star, General Catalyst, SV Angel, Databricks and others. We're fortunate to have the support of many amazing advisors, and 90+ angels across many industries, including the world's foremost experts in AI. The Role We're looking for a Product and Research Operations Manager to run the operational backbone of Cartesia's Voice function - supporting voice production for customers, talent sourcing and logistics, and voice delivery for Go-To-Market and Customer Success. You'll work directly alongside our Voice Production Lead and Voice Library Lead, and provide hands-on support across their respective work-streams. Part of your time will go toward cross-functional ad-hoc operations, including supporting growth initiatives. Your Impact Voice Production & Library - Support execution of voice production runs alongside the Voice Production Lead. Over time, you'll own day-to-day production and library health reporting, take on more locales and volume, and build automations to streamline the process. Sourcing & Talent logistics - Support voice sourcing alongside the Voice Library Lead. Build the systems to source, vet, and create voices for the voice library with voice acting talent as well as vendors. Customer Voice Delivery & Enablement - Own customer-facing voice engagements end to end, driving customers to be successful with our models. Drive voice-related GTM enablement. Ad-hoc Strategy and Growth Projects - Support ad-hoc strategy & operations work, including helping run events and marketing initiatives for Cartesia in London. Support Cartesia’s growth in international markets on a project by project basis. What We're Looking For 3 - 6 years as an operator at a high-growth tech startup or in strategy consulting (MBB or similar) High agency - a proactive self-starter who can operate autonomously to get things done in ambiguous environments Customer-facing chops, with the ability to drive conversations with executives Semi-technical - comfortable using tools like Cursor, Claude Code, etc to build lightweight systems, and understands core concepts of system design Genuine interest in operating with founder-level hunger, and real enthusiasm for voice and audio technology - you have opinions on it, not just interest What makes a strong candidate: Experience in the AI industry, especially in AI Strategy and Operations or Product Operations roles A track record of going out of your way to get things done proactively Builds lightweight systems autonomously Detail-oriented under volume; maintains attention to detail even with large volume of tasks Credible in front of GTM teams and customers without needing a lead in the room More Details 🏢 In-office policy: We’re an in-person team based out of offices in 🇺🇸 San Francisco, 🇬🇧 London and 🇮🇳 Bangalore. We love being in the office, hanging out together, and learning from each other every day. 🌎 Visa sponsorship: We provide visa sponsorship support and assess each circumstance on a case-by-case basis. However, visa sponsorship is dependent on many factors, including the role you are applying for, and the location you are going to be based, and so we can't always guarantee success. Your Recruiter will work with you to understand your visa sponsorship needs from the first call. 🚢 We ship fast. All of our work is novel and cutting edge, and executio",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cartesia/product-and-research-operations-manager-voices-london-404404",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-28T06:40:11.000Z",
-      "language": "en",
-      "country": null,
-      "source": "arbeitnow",
-      "sourceId": "product-and-research-operations-manager-voices-london-404404",
-      "query": null,
-      "id": "0c198900fc2d0c51",
-      "sources": [
-        "arbeitnow"
-      ],
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-08-28T08:16:02.689Z",
-      "isNew": false,
-      "keywordScore": 55
-    },
-    {
-      "title": "Strategy & Operations Manager, Customer Experience",
-      "company": "Deliveroo",
-      "location": "London - The River Building HQ",
-      "remote": false,
-      "description": "About the team As one of DoorDash's core operations teams, Customer Experience ensures that when there are bumps in the last mile, there's always someone there to help make things right. Our team designs and implements DoorDash's automated support solutions, with the ultimate goal of delivering an outstanding customer experience as reliably and efficiently as possible. About the role Our team is looking to hire a Manager to lead the expansion of support automation in international markets. This Manager will own the end-to-end strategy and implementation of automated support features across new markets — leveraging DoorDash's extensive automation expertise to drive measurable automated resolution rate while building a scalable foundation for ongoing global expansion. This Manager will serve as the S&O Expansion Program Lead: the central DRI for developing DoorDash's international automation rollout plan, owning reporting for North Star metric, and working closely with cross-functional partners across Product, Engineering, Analytics, and country teams. This role is a great opportunity for someone who wants to operationalize complex, multi-market solutions and have a direct impact on DoorDash's global support strategy What you'll be doing Lead strategy. Define and drive DoorDash's support automation expansion strategy for international markets: determining use cases, prioritization frameworks, and the approach to scaling automations across countries in a repeatable, compliant, and operationally efficient way. Own the metric. Own the goal end-to-end, tracking progress weekly, identifying gaps, and driving corrective action across the cross-functional team. Build the foundation. Build a strong foundation partnering with Product and Engineering to enable feature parity and market customization, and creating the playbook for scaling across new use cases and automation channels. Enable experimentation. Partner with Analytics to design, launch, and evaluate experiments that measure impact and drive ship decisions in alignment with stakeholders. Navigate cross-functional complexity. Identify and manage interdependencies with Product, Engineering, Analytics, Legal, and country leads — ensuring automation strategy is built in alignment with local market requirements, regulatory constraints, and broader business priorities. Communicate and influence. Represent the automation expansion program in weekly business reviews and executive forums, clearly articulating progress, risks, and decisions needed from senior leadership. Requirements You're organized. You thrive in creating structure out of ambiguity — defining clear ownership, milestones, and processes in a complex, multi-team environment. You solve problems from first principles. You're excited to tackle challenges in new markets and resist \"this is how it's always been done\" thinking. You're analytical. You let data win arguments, and you're comfortable pulling your own data in SQL or modeling in Excel to size opportunity, track performance, and inform decisions. You're persuasive. You are an effective communicator — speaking as if you're right and listening as if you're wrong. You can influence across DRIs at all levels, from country leads to senior leadership. You act with urgency. Speed excites you. You move quickly, make decisions with imperfect information, and hold teams accountable to timelines. You're relentless. You do what it takes to drive outcomes, no matter how many teams or time zones are involved. You have 5+ years of experience in strategy, operations, management consulting, or a related field — and have successfully delivered results in complex, cross-functional environments. Experience in support strategy, automation, or international expansion is a plus. Why Deliveroo Our mission is to transform the way you shop and eat, bringing the neighbourhood to your door by connecting consumers, restaurants, shops and riders. We are transforming the way the world eats and shops",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/strategy-operations-manager-customer-experience-london-288762",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-28T04:00:12.000Z",
-      "language": "en",
-      "country": null,
-      "source": "arbeitnow",
-      "sourceId": "strategy-operations-manager-customer-experience-london-288762",
-      "query": null,
-      "id": "5b13859778ce7102",
-      "sources": [
-        "arbeitnow"
-      ],
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-08-28T08:16:02.689Z",
-      "isNew": false,
-      "keywordScore": 55
+      "keywordScore": 5
     },
     {
       "title": "ServiceNow Project Manager - ITSM, Agile",
