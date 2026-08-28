@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T13:06:45.597Z",
+  "generatedAt": "2026-08-28T17:27:49.986Z",
   "settings": {
     "markets": [
       {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 80,
+      "collected": 79,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 161,
+      "collected": 163,
       "status": "ok"
     },
     {
@@ -127,16 +127,16 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 150,
+  "totalCollected": 155,
   "totalBeforeLanguageFilter": 374,
   "byLanguage": {
-    "de": 188,
-    "en": 145,
-    "unknown": 5,
+    "de": 183,
+    "en": 149,
+    "unknown": 6,
     "fr": 1,
     "no": 35
   },
-  "totalScored": 0,
+  "totalScored": 6,
   "llmScored": 0,
   "totalMatched": 15,
   "totalNew": 0,

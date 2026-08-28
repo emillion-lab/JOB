@@ -3844,5 +3844,107 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "c48cedd369128bc2": {
+    "firstSeen": "2026-08-28T17:27:49.985Z",
+    "lastSeen": "2026-08-28T17:27:49.985Z",
+    "title": "Project Manager: in Building Services Engineering (HVACSE) 80-100% | Zug Region",
+    "company": "Losinger Marazzi",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 17,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "84fa30fd56a5d401": {
+    "firstSeen": "2026-08-28T17:27:49.985Z",
+    "lastSeen": "2026-08-28T17:27:49.985Z",
+    "title": "Workiva Functional Consultant (m/f/d) (Ref.Nr.: 47554)",
+    "company": "Wavestone Germany AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f5f9beab3bc7071d": {
+    "firstSeen": "2026-08-28T17:27:49.985Z",
+    "lastSeen": "2026-08-28T17:27:49.985Z",
+    "title": "Engineering Manager, Rider (m/f/d)",
+    "company": "freenow",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "718a33b3dee6f87e": {
+    "firstSeen": "2026-08-28T17:27:49.985Z",
+    "lastSeen": "2026-08-28T17:27:49.985Z",
+    "title": "Founding Product Manager",
+    "company": "TechBiz Global GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "618d4d842d2e7f9e": {
+    "firstSeen": "2026-08-28T17:27:49.985Z",
+    "lastSeen": "2026-08-28T17:27:49.985Z",
+    "title": "Employment Taxes TOM Consultant (m/f/d) (Ref.Nr.: 47552)",
+    "company": "Wavestone Germany AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "34bf577426367e55": {
+    "firstSeen": "2026-08-28T17:27:49.985Z",
+    "lastSeen": "2026-08-28T17:27:49.985Z",
+    "title": "Senior/Principal Statistical Programmer/Analyst Consultant (Cardiovascular, Renal)-Remote -Outside IR35",
+    "company": "Clinchoice",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
