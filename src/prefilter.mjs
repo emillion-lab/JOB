@@ -1,15 +1,30 @@
 import { clean } from './lib.mjs';
 
-const norm = s => clean(s).toLowerCase().replace(/[^a-z0-9+#.\-\s]/g, ' ').replace(/\s+/g, ' ');
+const norm = s => clean(s).toLowerCase().replace(/[^a-z0-9+#.\-\s]/g, ' ').replace(/\s+/g, ' ').trim();
+const words = s => norm(s).split(' ').filter(Boolean);
+
+/** Whole-word match. Substring matching finds "it" inside "facility" and "sla" inside "translate". */
+const hasWord = (haySet, word) => haySet.has(word);
+
+/** Multi-word terms must appear as a contiguous run, so "service manager" ≠ "Services ... Manager". */
+function hasPhrase(hayWords, phraseWords) {
+  if (!phraseWords.length) return false;
+  if (phraseWords.length === 1) return hayWords.includes(phraseWords[0]);
+  outer: for (let i = 0; i + phraseWords.length <= hayWords.length; i++) {
+    for (let j = 0; j < phraseWords.length; j++) if (hayWords[i + j] !== phraseWords[j]) continue outer;
+    return true;
+  }
+  return false;
+}
 
 /**
  * Vocabulary comes from the candidate's own profile, never from a hard-coded
  * taxonomy: skill names, domains, languages, certifications and target titles.
  */
 export function profileVocabulary(profile) {
-  const push = (set, v) => { const t = norm(v); if (t.length > 2) set.add(t); };
-  const skills = new Set();
-  const titles = new Set();
+  const push = (list, v) => { const w = words(v); if (w.length && norm(v).length > 2) list.push({ text: norm(v), words: w }); };
+  const skills = [];
+  const titles = [];
 
   for (const s of profile.skills || []) push(skills, s?.name ?? s);
   for (const d of profile.domains || []) push(skills, d);
@@ -19,7 +34,8 @@ export function profileVocabulary(profile) {
     push(titles, r?.title ?? r);
     for (const q of r?.queries || []) push(titles, q);
   }
-  return { skills: [...skills], titles: [...titles] };
+  const uniq = list => [...new Map(list.map(t => [t.text, t])).values()];
+  return { skills: uniq(skills), titles: uniq(titles) };
 }
 
 /**
@@ -27,28 +43,41 @@ export function profileVocabulary(profile) {
  * not judging fit — that stays with the match stage.
  */
 export function prefilterScore(job, vocab, settings) {
-  const haystack = norm(`${job.title} ${job.company} ${job.description}`);
-  const titleHay = norm(job.title);
+  const hayWords = words(`${job.title} ${job.company} ${job.description}`);
+  const haySet = new Set(hayWords);
+  const titleWords = words(job.title);
+  const titleSet = new Set(titleWords);
 
-  const excluded = (settings.excludedTerms || []).map(norm).filter(t => t && haystack.includes(t));
+  const excluded = (settings.excludedTerms || [])
+    .map(t => ({ text: norm(t), words: words(t) }))
+    .filter(t => t.text && hasPhrase(hayWords, t.words))
+    .map(t => t.text);
   if (excluded.length) return { score: 0, hits: [], excluded };
 
-  const hits = vocab.skills.filter(t => haystack.includes(t));
-  const titleHits = vocab.titles.filter(t => titleHay.includes(t) || t.split(' ').every(w => titleHay.includes(w)));
-  const preferred = (settings.preferredTerms || []).map(norm).filter(t => t && haystack.includes(t));
+  // How well does the job title match a role the candidate is actually after?
+  let titlePoints = 0;
+  let bestTitle = null;
+  for (const t of vocab.titles) {
+    const covered = t.words.filter(w => titleSet.has(w)).length / t.words.length;
+    const points = covered === 1 ? (hasPhrase(titleWords, t.words) ? 50 : 35) : covered >= 0.75 ? 12 : 0;
+    if (points > titlePoints) { titlePoints = points; bestTitle = t.text; }
+  }
 
-  // A job title that matches what you are looking for is the strongest single
-  // signal there is, so it carries the most weight. Requiring hits across the
-  // whole skill list was too harsh: a handful of them already means a lot.
-  const skillRatio = vocab.skills.length ? hits.length / Math.min(vocab.skills.length, 8) : 0;
+  const hits = vocab.skills.filter(s => (s.words.length === 1 ? hasWord(haySet, s.words[0]) : hasPhrase(hayWords, s.words)));
+  const preferred = (settings.preferredTerms || [])
+    .map(t => ({ text: norm(t), words: words(t) }))
+    .filter(t => t.text && hasPhrase(hayWords, t.words));
+
+  const skillRatio = vocab.skills.length ? Math.min(1, hits.length / Math.min(vocab.skills.length, 8)) : 0;
   const score = Math.round(Math.min(100,
-    Math.min(titleHits.length, 2) * 20 +
-    Math.min(1, skillRatio) * 45 +
+    titlePoints +
+    skillRatio * 40 +
     Math.min(preferred.length, 3) * 5 +
     (job.description.length > 300 ? 5 : 0)
   ));
 
-  return { score, hits: [...new Set([...titleHits, ...hits])].slice(0, 12), excluded: [] };
+  const hitNames = [...new Set([...(bestTitle ? [bestTitle] : []), ...hits.map(h => h.text)])];
+  return { score, hits: hitNames.slice(0, 12), excluded: [] };
 }
 
 /** Rank by cheap signal, keep the top slice, and report what was dropped and why. */
