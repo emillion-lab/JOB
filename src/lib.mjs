@@ -153,16 +153,24 @@ export async function loadSettings() {
   }
   if (!settings.markets.length) settings.markets = [{ country: 'gb', locations: [] }];
 
-  const only = process.env.OVERRIDE_COUNTRIES?.split(',').map(s => s.trim().toLowerCase()).filter(Boolean);
-  if (only?.length) settings.markets = settings.markets.filter(m => only.includes(m.country));
+  // GitHub Actions has no ternary, so the sentinel values arrive as-is and are
+  // interpreted here. A filter that matches nothing is ignored, never fatal.
+  const wanted = (process.env.OVERRIDE_COUNTRIES || '').trim().toLowerCase();
+  if (wanted && wanted !== 'all') {
+    const only = wanted.split(',').map(s => s.trim()).filter(Boolean);
+    const kept = settings.markets.filter(m => only.includes(m.country));
+    if (kept.length) settings.markets = kept;
+    else warn(`OVERRIDE_COUNTRIES=${wanted} matched no configured market; searching all of them`);
+  }
   const num = (env, key) => {
     const v = Number(process.env[env]);
     if (Number.isFinite(v) && v > 0) settings[key] = v;
   };
   num('OVERRIDE_MIN_SCORE', 'minimumScore');
   num('OVERRIDE_MAX_AGE_DAYS', 'maxJobAgeDays');
-  if (process.env.OVERRIDE_USE_LLM === 'true') settings.useLlm = true;
-  if (process.env.OVERRIDE_USE_LLM === 'false') settings.useLlm = false;
+  const useLlm = (process.env.OVERRIDE_USE_LLM || '').trim().toLowerCase();
+  if (useLlm === 'true') settings.useLlm = true;
+  if (useLlm === 'false') settings.useLlm = false;
 
   return settings;
 }
