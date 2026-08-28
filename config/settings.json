@@ -2,7 +2,9 @@
   "markets": [
     { "country": "ch", "locations": ["Zurich", "Zug", "Basel", "Bern", "Luzern"] },
     { "country": "de", "locations": ["Munich", "Stuttgart", "Hamburg", "Berlin"] },
-    { "country": "at", "locations": ["Vienna", "Graz", "Linz"] }
+    { "country": "at", "locations": ["Vienna", "Graz", "Linz"] },
+    { "country": "se", "locations": [] },
+    { "country": "no", "locations": [] }
   ],
   "languages": ["en"],
   "remote": true,
