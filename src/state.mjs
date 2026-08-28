@@ -5,7 +5,7 @@ const KEEP_DAYS = 120;
 
 // Bump this whenever the keyword scoring formula changes. Cached keyword scores
 // are then recomputed, while paid model verdicts survive untouched.
-const SCORER_VERSION = 2;
+const SCORER_VERSION = 3;
 
 /**
  * Memory between runs. Two jobs it does: never pay the LLM twice for the same
