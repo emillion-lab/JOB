@@ -35,6 +35,7 @@ const queries = [...new Set(
 
 if (!queries.length) throw new Error('Profile produced no search queries. Check data/profile.json.');
 log(`Queries: ${queries.join(' | ')}`);
+log(`Markets: ${settings.markets.map(m => m.country).join(', ')}`);
 
 log('Collecting:');
 const { jobs: raw, stats } = await collectAll({ queries, settings });
@@ -73,7 +74,7 @@ const all = [...scored, ...reused]
 
 const report = {
   generatedAt: new Date().toISOString(),
-  settings: { countries: settings.countries, locations: settings.locations, minimumScore: settings.minimumScore, maxJobAgeDays: settings.maxJobAgeDays },
+  settings: { markets: settings.markets, minimumScore: settings.minimumScore, maxJobAgeDays: settings.maxJobAgeDays },
   profileSummary: {
     headline: profile.headline, seniority: profile.seniority ?? null,
     target_roles: (profile.target_roles || []).map(r => r.title)
