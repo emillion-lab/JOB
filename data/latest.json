@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T07:29:27.123Z",
+  "generatedAt": "2026-08-28T07:32:18.218Z",
   "settings": {
     "countries": [
       "ch"
@@ -52,7 +52,7 @@
   "totalCollected": 90,
   "totalScored": 60,
   "llmScored": 0,
-  "totalMatched": 7,
+  "totalMatched": 2,
   "totalNew": 0,
   "jobs": [
     {
@@ -74,38 +74,34 @@
         "adzuna"
       ],
       "isNew": false,
-      "score": 56,
+      "score": 45,
       "fit": "unscored",
       "matched": [
-        "service manager",
-        "it service manager",
         "itsm manager",
-        "it project manager",
-        "servicenow",
-        "sla"
+        "servicenow"
       ],
       "gaps": [],
       "disqualifiers": [],
       "reason": "Keyword score only — below the threshold for model scoring.",
       "next_action": "Read the advertisement yourself before deciding.",
       "scoredBy": "prefilter",
-      "keywordScore": 56
+      "keywordScore": 45
     },
     {
-      "title": "Facility Services Manager 100%",
+      "title": "Consultant ServiceNow - Technology Strategy & Transformation",
       "company": "Job-Room",
       "location": "Zürich",
       "remote": false,
-      "description": "Facility Services Manager 100% \\\\- Sicherstellung einer reibungslosen und vertragskonformen Erbringung der Facility Services inkl. Kosten- und Budgetverantwortung im eigenen Portfolio \\\\- Aktives Stakeholdermanagement, Beratung und Betreuung des Kunden in allen Fragen rund um das Facility Management und die Gebäudetechnik \\\\- Kontinuierliche Sicherstellung und Steigerung der Kundenzufriedenheit durch innovative und lösungsorientierte Ansätze \\\\- Personelle und fachliche Führung, Betreuung und W…",
-      "url": "https://www.adzuna.ch/details/5843063686?utm_medium=api&utm_source=8209e0ff",
+      "description": "Basic information Business line Technology & Transformation City Zurich Experience level Graduate Working time percentage 80% - 100% Date published 25-Aug-2026 Req \\\\ 24789 Job description Location: Zurich Switzerland Work Pattern Percentage: 80-100% Advance cutting-edge business areas with your expertise Deloitte Consulting, you support organizations together with our other specialists in technology strategy and transformation to develop strategies and implement systems that create busine…",
+      "url": "https://www.adzuna.ch/details/5858191355?utm_medium=api&utm_source=8209e0ff",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-08-15T13:31:29.000Z",
+      "posted": "2026-08-27T13:03:20.000Z",
       "source": "adzuna",
-      "sourceId": "5843063686",
-      "query": "service manager",
-      "id": "642a017c5ea5909a",
+      "sourceId": "5858191355",
+      "query": "servicenow consultant",
+      "id": "355c99ef6c39bbf1",
       "sources": [
         "adzuna"
       ],
@@ -113,168 +109,8 @@
       "score": 45,
       "fit": "unscored",
       "matched": [
-        "service manager",
-        "it service manager"
-      ],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "Keyword score only — below the threshold for model scoring.",
-      "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
-      "keywordScore": 45
-    },
-    {
-      "title": "Deals Financial Services Strategy & Operations Manager",
-      "company": "PwC",
-      "location": "Zürich",
-      "remote": false,
-      "description": "Deals Financial Services Strategy & Operations Manager A career within the Deals Financial Services team with a focus on Strategy & Operations will provide you with the opportunity to help clients achieve maximum value on their deal transactions by solving transformational and other complex challenges. We focus on all operational aspects of a transaction, pre and post completion. We conduct pre deal and confirmatory due diligence, execute large-scale enterprise-wide integrations, and support co…",
-      "url": "https://www.adzuna.ch/land/ad/5830459074?se=WIcAMrKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=8209e0ff&v=D494232B2FA408B5B6673C9375D514C36D172F5B",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-06T15:18:10.000Z",
-      "source": "adzuna",
-      "sourceId": "5830459074",
-      "query": "service manager",
-      "id": "29b02295bdb3144a",
-      "sources": [
-        "adzuna"
-      ],
-      "isNew": false,
-      "score": 45,
-      "fit": "unscored",
-      "matched": [
-        "service manager",
-        "service operations manager"
-      ],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "Keyword score only — below the threshold for model scoring.",
-      "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
-      "keywordScore": 45
-    },
-    {
-      "title": "Audit Senior Associate / Assistant Manager - Trade, Industries & Services / US GAAP",
-      "company": "PwC",
-      "location": "Zürich",
-      "remote": false,
-      "description": "Audit Senior Associate / Assistant Manager - Trade, Industries & Services / US GAAP In our Audit - Trade, Industries & Services (TIS) practice, we don't just analyze numbers; we uncover insights that help businesses grow, adapt, and succeed in a rapidly changing world. We work with a diverse range of clients, from global corporations to dynamic local businesses, helping them navigate through challenges, seize opportunities, and build a sustainable future. By combining our unique perspectives an…",
-      "url": "https://www.adzuna.ch/land/ad/5840295478?se=WIcAMrKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=8209e0ff&v=15C5431AE3BE999EBE314A7F8392E6114E0C1974",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-13T15:32:04.000Z",
-      "source": "adzuna",
-      "sourceId": "5840295478",
-      "query": "service manager",
-      "id": "15ad5760c5eeb8d2",
-      "sources": [
-        "adzuna"
-      ],
-      "isNew": false,
-      "score": 45,
-      "fit": "unscored",
-      "matched": [
-        "service manager",
-        "it service manager"
-      ],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "Keyword score only — below the threshold for model scoring.",
-      "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
-      "keywordScore": 45
-    },
-    {
-      "title": "Innenarchitekt /Einrichtungs-Berater als RETAIL-MANAGER \"Sales Store & Service\"",
-      "company": "Mooser & Partner AG Personalberatung",
-      "location": "Zürich",
-      "remote": false,
-      "description": "Innenarchitekt /Einrichtungs-Berater als RETAIL-MANAGER \"Sales Store & Service\" (w/m) Premium-Konsumgüter im Fokus Ihrer neuen, Herausforderung! Moderne Designs, innovative Kreationen und eine überzeugende Marktstellung zeichnen die qualitäts- und trendmässig einzigartigen Produkte und Dienstleistungen meines Kunden, ein national bestens bekanntes und lokal verankertes Unternehmen mit Pionierstatus im Segment von hochwertigen und langlebigen Konsumgütern aus dem Büro- und Wohnbereich mit grosse…",
-      "url": "https://www.adzuna.ch/land/ad/5853478073?se=WIcAMrKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=8209e0ff&v=5EBBAD855E09EBAA93EE690F0E4C2232F32BA443",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-23T11:02:52.000Z",
-      "source": "adzuna",
-      "sourceId": "5853478073",
-      "query": "service manager",
-      "id": "01a805de49f558e9",
-      "sources": [
-        "adzuna"
-      ],
-      "isNew": false,
-      "score": 45,
-      "fit": "unscored",
-      "matched": [
-        "service manager",
-        "it service manager"
-      ],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "Keyword score only — below the threshold for model scoring.",
-      "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
-      "keywordScore": 45
-    },
-    {
-      "title": "Audit Manager - Assurance Financial Services EMEIA - Insurance Zurich",
-      "company": "EY",
-      "location": "Zürich",
-      "remote": false,
-      "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. Die Abteilung Assurance Financial Services erbringt Prüfungs- und Beratungsdienstleistungen für nationale und internationale Finanzdienstleister. Mit unseren innovativen Dienstleistungen in der Wirtschaftsprüfung von global und regional tätigen Bank- und (Sozial-)Ver…",
-      "url": "https://www.adzuna.ch/details/5851029144?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-21T15:00:27.000Z",
-      "source": "adzuna",
-      "sourceId": "5851029144",
-      "query": "service manager",
-      "id": "23640954e0ac2a02",
-      "sources": [
-        "adzuna"
-      ],
-      "isNew": false,
-      "score": 45,
-      "fit": "unscored",
-      "matched": [
-        "service manager",
-        "it service manager"
-      ],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "Keyword score only — below the threshold for model scoring.",
-      "next_action": "Read the advertisement yourself before deciding.",
-      "scoredBy": "prefilter",
-      "keywordScore": 45
-    },
-    {
-      "title": "(Junior) Category Manager (IT and Professional Services)",
-      "company": "Job-Room",
-      "location": "Zürich",
-      "remote": false,
-      "description": "* Exciting opportunity to work for a world-class international organization * Temporary 6-12 month contract with option to extend or go permanent. About Our Client Exciting opportunity to work for a world-class international organization Job Description * Develop and execute sourcing strategies for indirect procurement categories, primarily IT and Professional Services. * Lead RFx processes, supplier evaluations, negotiations, and contract management activities. * Partner with internal stak…",
-      "url": "https://www.adzuna.ch/details/5858191643?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-27T13:03:55.000Z",
-      "source": "adzuna",
-      "sourceId": "5858191643",
-      "query": "service manager",
-      "id": "0547381847ce3538",
-      "sources": [
-        "adzuna"
-      ],
-      "isNew": false,
-      "score": 45,
-      "fit": "unscored",
-      "matched": [
-        "service manager",
-        "it service manager"
+        "servicenow consultant",
+        "servicenow"
       ],
       "gaps": [],
       "disqualifiers": [],
