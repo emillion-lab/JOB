@@ -8,7 +8,7 @@
   "prefilterKeep": 60,
   "minimumScore": 45,
 
-  "useLlm": true,
+  "useLlm": false,
   "llmMinKeywordScore": 55,
   "maxLlmJobs": 10,
   "publicReport": true,
