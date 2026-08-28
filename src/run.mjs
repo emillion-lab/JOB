@@ -15,10 +15,16 @@ const settings = await loadSettings();
 const redactJob = job => settings.publicReport !== true ? job
   : { ...job, reason: '', next_action: '', matched: [], gaps: [], disqualifiers: [] };
 
-// A scheduled run must be able to build its own profile. The placeholder that
-// ships with the repository is not a profile, and parsing it is not a success.
+// data/profile.json is machine-built and gitignored; config/profile.json is the
+// hand-written fallback, which is what makes a run with no API key possible.
 let profile = await readJson('data/profile.json');
-if (process.env.REBUILD_PROFILE === 'true' || !profileIsUsable(profile)) {
+if (!profileIsUsable(profile)) profile = await readJson('config/profile.json');
+
+const wantsRebuild = process.env.REBUILD_PROFILE === 'true';
+if (settings.useLlm === false) {
+  if (!profileIsUsable(profile)) throw new Error('useLlm is false and there is no usable profile. Fill in config/profile.json by hand.');
+  if (wantsRebuild) warn('useLlm is false, so the profile was not rebuilt from the CV.');
+} else if (wantsRebuild || !profileIsUsable(profile)) {
   log(profileIsUsable(profile) ? 'Rebuilding profile from CV.' : 'No usable profile on disk, building one from the CV.');
   profile = await buildProfile();
 }
