@@ -45,8 +45,16 @@ test('stale advertisements are dropped', () => {
 
 test('vocabulary is taken from the profile, not a fixed taxonomy', () => {
   const v = profileVocabulary(profile);
-  assert.ok(v.skills.includes('itil'));
-  assert.ok(v.titles.includes('service delivery manager'));
+  assert.ok(v.skills.some(s => s.text === 'itil'));
+  assert.ok(v.titles.some(t => t.text === 'service delivery manager'));
+});
+
+test('matching is by whole word, not by substring', () => {
+  // "it" hides inside "facility", "sla" hides inside "translate".
+  const decoy = ad({ title: 'Facility Services Manager', company: 'FM AG',
+    description: 'Translate building requirements into service contracts.', url: 'https://example.com/9' });
+  const { kept } = prefilter([decoy], profile, { prefilterKeep: 10 });
+  assert.equal(kept[0].prefilter.score, 0);
 });
 
 test('excluded terms remove a job outright', () => {
