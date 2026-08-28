@@ -1,4 +1,4 @@
-import { getJson, getText, warn, log } from '../lib.mjs';
+import { http, getText, warn, log } from '../lib.mjs';
 import { toJob } from '../normalize.mjs';
 
 /**
@@ -14,33 +14,60 @@ import { toJob } from '../normalize.mjs';
 const BASE = 'https://pam-stilling-feed.nav.no/api/v1';
 
 async function token() {
-  if (process.env.NAV_TOKEN) return process.env.NAV_TOKEN;
-  const t = (await getText('https://pam-stilling-feed.nav.no/api/publicToken', { label: 'nav:publicToken' }) || '').trim();
-  if (t) warn('nav: using the rotating public token. Request your own from nav.team.arbeidsplassen@nav.no');
-  return t || null;
+  if (process.env.NAV_TOKEN) {
+    log('  nav: using NAV_TOKEN');
+    return process.env.NAV_TOKEN;
+  }
+  const raw = await getText('https://pam-stilling-feed.nav.no/api/publicToken', { label: 'nav:publicToken' });
+  const t = (raw || '').trim().replace(/^"|"$/g, '');
+  if (!t) { warn('nav: could not fetch the public token'); return null; }
+  warn(`nav: using the rotating public token (${t.length} chars). Request your own from nav.team.arbeidsplassen@nav.no`);
+  return t;
 }
 
 const text = v => (typeof v === 'string' ? v : '');
 
+/** The feed has changed shape before; find the ad wherever it is nested. */
+const adOf = item => item?.content?.ad || item?.ad || item?.content || item || {};
+
 export default {
   id: 'nav',
-  async collect({ queries, settings, config }) {
+  async collect({ queries, config }) {
     const key = await token();
-    if (!key) { warn('nav: no token available, skipping'); return []; }
+    if (!key) return [];
 
     const headers = { authorization: `Bearer ${key}` };
     const pages = Math.max(1, Math.min(config.pages ?? 4, 20));
     const terms = queries.map(q => q.toLowerCase());
     const jobs = [];
     let url = `${BASE}/feed?size=100`;
+    let seen = 0;
+    let described = false;
 
     for (let page = 0; page < pages && url; page++) {
-      const data = await getJson(url, { headers, label: `nav:feed:${page}` });
-      const items = data?.items || [];
-      if (!items.length) break;
+      const res = await http(url, { headers, label: `nav:feed:${page}` });
+      if (!res) { warn(`nav: feed page ${page} returned nothing — check the token`); break; }
+
+      let data;
+      try { data = await res.json(); } catch { warn('nav: feed did not return JSON'); break; }
+
+      const items = data?.items || data?.entries || data?.content || [];
+      if (!Array.isArray(items) || !items.length) {
+        warn(`nav: page ${page} had no items; top-level keys were ${Object.keys(data || {}).join(', ') || 'none'}`);
+        break;
+      }
+      seen += items.length;
+
+      // One line, once, so a shape change is visible in the log instead of
+      // showing up as a silent zero three runs later.
+      if (!described) {
+        const ad = adOf(items[0]);
+        log(`  nav: item keys ${Object.keys(items[0]).slice(0, 8).join(',')} | ad keys ${Object.keys(ad).slice(0, 10).join(',')}`);
+        described = true;
+      }
 
       for (const item of items) {
-        const ad = item.content?.ad || item.ad || item.content || {};
+        const ad = adOf(item);
         const title = text(ad.title);
         if (!title) continue;
         const body = `${title} ${text(ad.description)}`.toLowerCase();
@@ -66,7 +93,8 @@ export default {
       url = next ? (next.startsWith('http') ? next : `https://pam-stilling-feed.nav.no${next}`) : null;
     }
 
-    log(`  nav: ${jobs.length} after local filtering`);
+    log(`  nav: ${seen} feed entries seen, ${jobs.length} matched the queries`);
+    if (seen && !jobs.length) warn('nav: entries arrived but none matched — the queries may all be English while the feed is Norwegian');
     return jobs;
   }
 };
