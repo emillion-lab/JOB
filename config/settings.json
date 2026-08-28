@@ -22,6 +22,7 @@
   "sources": {
     "adzuna": { "enabled": true, "maxRequests": 60 },
     "nav": { "enabled": true, "pages": 4 },
+    "jobtech": { "enabled": true },
     "arbeitnow": { "enabled": true, "pages": 3 },
     "remotive": { "enabled": false },
     "feeds": { "enabled": false, "urls": [] },
