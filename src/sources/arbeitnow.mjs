@@ -21,8 +21,9 @@ export default {
         if (job) jobs.push(job);
       }
     }
-    // Board-wide feed: keep only what is plausibly in scope.
-    const wanted = (settings.locations || []).map(x => x.toLowerCase());
+    // Board-wide feed, so it must be narrowed to the configured markets. The
+    // cities come from markets; without them this source returns all of Europe.
+    const wanted = (settings.markets || []).flatMap(m => m.locations || []).map(x => x.toLowerCase());
     return wanted.length
       ? jobs.filter(j => j.remote || wanted.some(w => `${j.location}`.toLowerCase().includes(w)))
       : jobs;
