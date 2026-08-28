@@ -30,7 +30,7 @@ export async function http(url, { retries = 3, timeout = 20000, label = '', ...i
       const r = await fetch(url, {
         ...init,
         signal: ac.signal,
-        headers: { 'user-agent': 'universal-career-agent/0.6', accept: 'application/json, text/xml, */*', ...(init.headers || {}) }
+        headers: { 'user-agent': 'universal-career-agent/0.7', accept: 'application/json, text/xml, */*', ...(init.headers || {}) }
       });
       if (r.ok) return r;
       if (r.status === 429 || r.status >= 500) {
@@ -134,7 +134,7 @@ const DEFAULTS = {
   markets: [], remote: true,
   maxQueries: 8, resultsPerQuery: 25, maxJobAgeDays: 30,
   prefilterKeep: 60, minimumScore: 45,
-  excludedTerms: [], preferredTerms: [],
+  excludedTerms: [], preferredTerms: [], languages: [],
   sources: {}
 };
 
@@ -168,6 +168,10 @@ export async function loadSettings() {
   };
   num('OVERRIDE_MIN_SCORE', 'minimumScore');
   num('OVERRIDE_MAX_AGE_DAYS', 'maxJobAgeDays');
+  const langs = (process.env.OVERRIDE_LANGUAGES || '').trim().toLowerCase();
+  if (langs && langs !== 'as configured') {
+    settings.languages = langs === 'any' ? [] : langs.split(',').map(s => s.trim()).filter(Boolean);
+  }
   const useLlm = (process.env.OVERRIDE_USE_LLM || '').trim().toLowerCase();
   if (useLlm === 'true') settings.useLlm = true;
   if (useLlm === 'false') settings.useLlm = false;
