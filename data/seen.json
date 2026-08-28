@@ -1,902 +1,1165 @@
 {
   "fbd969f275c68687": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "ServiceNow Project Manager - ITSM, Agile",
     "company": "RM IT Professional Resources AG",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 43,
+      "score": 56,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager",
+        "it service manager",
+        "itsm manager",
+        "it project manager",
+        "servicenow",
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "642a017c5ea5909a": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Facility Services Manager 100%",
     "company": "Job-Room",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 35,
+      "score": 45,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager",
+        "it service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "29b02295bdb3144a": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Deals Financial Services Strategy & Operations Manager",
     "company": "PwC",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 35,
+      "score": 45,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager",
+        "service operations manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "15ad5760c5eeb8d2": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Audit Senior Associate / Assistant Manager - Trade, Industries & Services / US GAAP",
     "company": "PwC",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 35,
+      "score": 45,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager",
+        "it service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "01a805de49f558e9": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Innenarchitekt /Einrichtungs-Berater als RETAIL-MANAGER \"Sales Store & Service\"",
     "company": "Mooser & Partner AG Personalberatung",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 35,
+      "score": 45,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager",
+        "it service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "23640954e0ac2a02": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Audit Manager - Assurance Financial Services EMEIA - Insurance Zurich",
     "company": "EY",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 35,
+      "score": 45,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager",
+        "it service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "0547381847ce3538": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "(Junior) Category Manager (IT and Professional Services)",
     "company": "Job-Room",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 35,
+      "score": 45,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager",
+        "it service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "6acd0c71df8b9cf1": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Applications-Manager/Service-Manager",
     "company": "Coopers Group AG",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 24,
+      "score": 31,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager",
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "355c99ef6c39bbf1": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Consultant ServiceNow - Technology Strategy & Transformation",
     "company": "Job-Room",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 24,
+      "score": 31,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "servicenow consultant",
+        "servicenow"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "159b2c48ba2713bf": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Claims & Office Services Manager temporär",
     "company": "elipsLife",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "c9b73fd9f8428d99": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Claims & Office Services Manager Heilungskosten",
     "company": "elipsLife",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "85002fa37c171e23": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Service Operation Manager/-in",
     "company": "Kantonale Verwaltung Zürich",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "dacc53a93ebb527a": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Claims & Office Services Manager temporär (80% -100%)",
     "company": "elipsLife",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "8c9490194af66e96": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Claims & Office Services Manager Heilungskosten (80-100%)",
     "company": "elipsLife",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "ff1b9481bb09bc5b": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Engagement Manager, Professional Services, AWSI HCLS, Engagement Manager HCLS AWSI",
     "company": "AWS EMEA SARL",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "c145b48825b4898a": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Principal Engagement Manager, Professional Services, AWSI",
     "company": "AWS EMEA SARL",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "548ae222ce403cc2": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior Product Manager Payment Fraud Services",
     "company": "Job-Room",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "127d756e61f230ef": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Manager - Tax Services - Indirect Tax/VAT (Zug or Luzern)",
     "company": "EY",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "173e25babc8c0bb1": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "(Senior) Manager - Private Clients Services Tax (Zurich)",
     "company": "EY",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "b2d9e7b4a1c5bebb": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Manager - Tax Services - Indirect Tax/VAT (Zurich, Bern oder Basel)",
     "company": "EY",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "41c88b42e6c02f27": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Manager - Fund Tax Reporting Services (Zurich)",
     "company": "EY",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "5bc0a4a038d6bad8": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior Engagement Manager, Professional Services, AWSI HCLS, Professional Services, AWSI HCLS",
     "company": "AWS EMEA SARL",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 20,
+      "score": 25,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service manager"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "d6e57f752e5852b0": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Technischer Senior Projektmanager (m/w/d)",
     "company": "Vitagroup",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla",
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "f43939cea45bfa0f": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "(Senior) Manager Business Value Chain",
     "company": "Eraneos",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "stakeholder management",
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "1826b025f7b5cf17": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Grafikdesigner:in mit Schwerpunkt Shopify und E-Commerce (m/w/d)",
     "company": "Abihome GmbH",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla",
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "f721461938feabff": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior Product Manager — Platform Experiences",
     "company": "Matrix42",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service desk",
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "5339d9a264347c0a": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Freelance Graphic & Motion Designer - (all genders)",
     "company": "fino data services GmbH",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla",
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "689a9968ea45f6d7": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior Salesforce Developer (m/f/d)",
     "company": "Auxmoney Gmbh",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla",
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "8057a7c6ac0a1a0b": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "SaaS - Startup sucht: Onboarding & Customer Support Manager mit Paid / Social Media Marketing Erfahrung (w/m/d) remote",
     "company": "DatAds",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla",
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "4b7fa8e8d4418c4c": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Content Reviewer - English US",
     "company": "TELUS Digital",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla",
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "0f22e6c60096dcc2": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Tier III Service Desk Engineer",
     "company": "Unio Digital",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "service desk",
+        "it service management"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "9157ac7554aa9b1e": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "SaaS Product Support Jedi",
     "company": "Creative Force",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 13,
+      "score": 16,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla",
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "5bd40211c8c78208": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior HR Service & Process Specialist",
     "company": "Swisslinx AG",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "process improvement"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "19ed28cf8b86b7cd": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior ServiceNow KI Engineer 80-100 % Zürich-Flughafen",
     "company": "Job-Room",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "servicenow"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "dcc3cd7b30572f3a": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "ServiceNow Engineer KI & Automation 80-100% Zürich-Flughafen",
     "company": "Job-Room",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "servicenow"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "71dafa7e67f73688": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Technical Analyst:in (w/m/d) - HomeOffice",
     "company": "Enpal",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "fe969ed1b14b20d6": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "(Junior) Baubegleiter:in PV (w/m/d) | Quereinsteiger:innen willkommen",
     "company": "Enpal",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "381e783172bf94bc": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Talent Acquisition German Fluency: Germany",
     "company": "Avomind",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "53ae306957ad6444": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Data Engineer (all genders)",
     "company": "Eraneos",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "c8b29ffa4063dd85": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior AI Engineer – Notebooks",
     "company": "Datadog",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "a8f9e606d21ebe7d": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Corporate FP&A – Financial Planning",
     "company": "Codeway",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "ca2fc44d176f95bc": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Lead-Entwickler Java Backend (m/w/d)",
     "company": "virtual7 GmbH",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "jira"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "ca0095299d89d994": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Principal Implementation Engineer, Customer Support",
     "company": "Bitwarden",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "ddf8b84236910fd3": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "IAM Fullstack Engineer",
     "company": "SoSafe",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "8ce73f66ba3d3b7d": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior Analytics Engineer",
     "company": "SoSafe",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "8ce5fe7be8ef0a6d": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Contract Manager (m/w/d) - Erneuerbare Energien",
     "company": "feld.energy GmbH",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "75d383b29b867cc3": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Flutter & Node.js Fullstack Engineer (f/m/d) - Fully Remote",
     "company": "memodio",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "6e58352f40e4946e": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Solution Architect (all genders)",
     "company": "Contabo",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "d4fa5659cd39a6cd": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "People Operations Specialist (m/w/d) für den Klimaschutz gesucht!",
     "company": "Perspectives Climate Group GmbH",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "e825c83d3558f2a9": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Principal Data Scientist",
     "company": "Faculty",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "b1cdf65b01bac918": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior ServiceNow Engineer",
     "company": "Baringa",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "servicenow"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "70598ce7b81fb598": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Business Development (BDR) | DACH Remote (d/f/m)",
     "company": "Luminovo GmbH",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "de9aaf94b3ee5966": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Solutions Architect, Lead",
     "company": "Notabene",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "697503887b9b63bd": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Head of Sales (m/w/d)",
     "company": "Leafworks GmbH",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "8d82cb3662659bf0": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "(Senior) Fullstack Entwickler (m/w/d) Node.js",
     "company": "ticket i/O GmbH",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "99788f37a1bc3ad7": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Principal Developer (a)",
     "company": "Eticor GmbH",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "0edca45072e7c2bf": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior DevOps Engineer",
     "company": "Lemon.io",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "04de85d74bcd27e9": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior Golang Developer",
     "company": "Lemon.io",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "c4ec742fa03b6b15": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Senior Data Engineer",
     "company": "Lemon.io",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "english"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   },
   "57ec93590a256df9": {
     "firstSeen": "2026-08-28T07:23:58.615Z",
-    "lastSeen": "2026-08-28T07:23:58.615Z",
+    "lastSeen": "2026-08-28T07:29:27.122Z",
     "title": "Inside Sales Contractor",
     "company": "Credit Wellness, LLC",
+    "by": "prefilter",
+    "v": 2,
     "match": {
-      "score": 9,
+      "score": 11,
       "fit": "unscored",
-      "matched": [],
+      "matched": [
+        "sla"
+      ],
       "gaps": [],
       "disqualifiers": [],
-      "reason": "",
-      "next_action": ""
+      "reason": "Keyword score only — below the threshold for model scoring.",
+      "next_action": "Read the advertisement yourself before deciding."
     }
   }
 }
