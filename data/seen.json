@@ -3946,5 +3946,311 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "0fa2fdb9cf7dd9c1": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Facility Service Manager needed!",
+    "company": "Perido AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ec7dfb15c28d2756": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Client Service Manager (m/f/x)",
+    "company": "Scalable GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "da7781a8abfd1ec3": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Senior Growth Marketing Manager (m/f/d)",
+    "company": "limehome",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f96f6478c875080a": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Maintenance System Engineering Intern",
+    "company": "Tozero",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1f02367ddc6a440b": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Technical Product Owner (m/f/d)",
+    "company": "Letmeship",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "371960c308d98e5c": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Management Consultant Enterprise Architecture (all genders)",
+    "company": "Eraneos",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d6ca3ff95d17654b": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Associate Product Manager, Delivery (m/f/d)",
+    "company": "Future Demand",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e90dd0f5c4b0bac7": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "(Senior) Finance & Accounting Manager (f/m/d) – bunch capital",
+    "company": "Moore TK",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "16e6b2deb7f45929": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Managing Director, UK",
+    "company": "Everfield",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f1200952526f507f": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Product Owner – SDV Data Products (f/m/d)",
+    "company": "Adsquare",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "dc9d5a9c6659ad35": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "(Senior) Operational Risk Manager (f/m/d)",
+    "company": "raisin",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b14f810b33282a8b": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Product Manager Customer Care (f/m/d) | Fixed-Term Parental Leave Cover",
+    "company": "Thermondo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6f18091b969103b9": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "(Senior) Earth Observation Data Supplier Manager (f/m/x)",
+    "company": "LiveEO GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c4b37b763569d9b7": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Senior Project Analyst – Business Performance (m/f/d)",
+    "company": "TYTAN Technologies GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2d2749d340b54fc5": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "AI Software Engineer",
+    "company": "Avaloq",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c2175101c22b88b3": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Procurement Specialist (Indirect Procurement)",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "edfa82a0806094f7": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "(Senior) Associate - U.S. Tax (Financial Services)",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "646fc77f4fa06110": {
+    "firstSeen": "2026-08-31T11:37:28.443Z",
+    "lastSeen": "2026-08-31T11:37:28.443Z",
+    "title": "Senior HR Service & Process Specialist",
+    "company": "Swisslinx AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
