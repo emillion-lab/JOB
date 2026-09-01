@@ -4252,5 +4252,362 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "f12b349868b21995": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Senior Professional Services Project Manager (EMEA)",
+    "company": "gitlab",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 17,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f1c2b823bd5c3725": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Client Solutions Director (Advertising & Creative Operations)",
+    "company": "OLIVER Agency",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "62ca6e97c8d7d31c": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Client Solutions Director (Advertising & Creative Operations)",
+    "company": "OLIVER Agency",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a32c526a9078c1e4": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Expert IT Architect in Consumer Finance Service Domain",
+    "company": "Nordea Bank Abp, filial i Sverige",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "65b263735b9e41f9": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Cyber Defence Expert - Incident Management & Response",
+    "company": "Aktiebolaget Electrolux",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "22082d984bc54e7b": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Deployment Lead - ERP Solutions",
+    "company": "Rillet",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e2099469b520cc8c": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Accounting Solutions Consultant",
+    "company": "Rillet",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c938f2a4eef3f004": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Deployment Lead - Accounting Solutions",
+    "company": "Rillet",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9247a8b2b6f00be2": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Team Lead - Site Reliability Engineering (all genders)",
+    "company": "FactFinder",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0ae4bba23ab8e8c6": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Senior Talent Partner - Generalist",
+    "company": "The Rec Hub",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d35500bc4f3d8957": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Senior Talent Acquisition Partner – Technology (Data, ML & AI)",
+    "company": "The Rec Hub",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c57eb0c0a4c95dee": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Knit - Research Manager",
+    "company": "Eleve Talent",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b16d46fe98056b1f": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Knit - Research Director",
+    "company": "Eleve Talent",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "33f74befccac8541": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Endear - Onboarding Manager",
+    "company": "Eleve Talent",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "981ab1b4bbbf4039": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Recruiter (GTM & Business)",
+    "company": "Whitecircle",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cf0dc1b2c2e9183a": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Billing Manager (FitMe)",
+    "company": "Gismart",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0d7fe4d0e8a5f1a1": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Site Reliability Engineers (SRE)",
+    "company": "Xm",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "32d762cb73a5f44e": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "(Senior) Factory Planning & Design Engineer",
+    "company": "Hypersonica",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e7d0cb960b490db2": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "IT System Administrator (all genders)",
+    "company": "NFON",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0103e7910e8c3b4e": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Software IV&V Lead",
+    "company": "Stark",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cefec5a844cc32a8": {
+    "firstSeen": "2026-09-01T10:09:35.766Z",
+    "lastSeen": "2026-09-01T10:09:35.766Z",
+    "title": "Sr. Project MG, Network Transformation",
+    "company": "Johnson and Johnson",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

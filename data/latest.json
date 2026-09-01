@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T11:37:28.445Z",
+  "generatedAt": "2026-09-01T10:09:35.768Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 210,
+      "collected": 216,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 80,
+      "collected": 75,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 150,
+      "collected": 167,
       "status": "ok"
     },
     {
@@ -127,83 +127,21 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 148,
-  "totalBeforeLanguageFilter": 357,
+  "totalCollected": 180,
+  "totalBeforeLanguageFilter": 376,
   "byLanguage": {
-    "de": 175,
-    "en": 146,
-    "unknown": 2,
+    "de": 161,
+    "en": 175,
+    "unknown": 5,
+    "fr": 2,
     "it": 1,
-    "fr": 1,
     "no": 32
   },
-  "totalScored": 18,
+  "totalScored": 21,
   "llmScored": 0,
   "totalMatched": 16,
-  "totalNew": 2,
+  "totalNew": 0,
   "jobs": [
-    {
-      "title": "Facility Service Manager needed!",
-      "company": "Perido AB",
-      "location": "Göteborg, Västra Götalands län",
-      "remote": false,
-      "description": "Do you have solid experience in property and facility management, combined with a broad understanding of operational and maintenance-related matters? This position offers a unique opportunity to combine technical facility management expertise with stakeholder engagement, communication, and service leadership in a dynamic and evolving environment. About the position Perido is looking for a Facility Service Manager for our client, a large and well-known company in the automotive industry. The position is based in Gothenburg. You will be part of a highly competent and collaborative team, bringing together expertise in workplace strategy, real estate development, and facility management. You will work in a dynamic, international environment where initiative, accountability, and knowledge sharing are key to success. Your daily tasks As a Facility Service Manager, you will play a key role in shaping the future workplace experience with our client. You will act as a trusted partner to our stakeholders, ensuring high-quality facility services that support business needs and create value for our employees. In this role, you will: Act as the main point of contact for facility-related matters, ensuring clear communication and a high level of customer satisfaction Lead and coordinate the delivery of Hard Facility Management services, including technical building systems and short-term maintenance Have overall responsibility for facility service budgets, forecasting, and cost control within your area of responsibility Monitor supplier performance and ensure services are delivered in accordance with contractual agreements and agreed service levels Ensure that inspections, maintenance activities, and service operations are properly documented, planned, and executed according to applicable contracts and requirements Collaborate with project teams, technical property managers, operations contractors, and support functions to secure efficient and integrated service delivery Identify improvement opportunities and drive initiatives that enhance service quality, operational efficiency, and workplace functionality Order, coordinate, and follow up on maintenance and service assignments to ensure timely and quality-assured delivery Support strategic workplace and real estate initiatives by combining technical expertise with a customer-focused approach Foster a culture of collaboration, accountability, and continuous improvement Your characteristics We are looking for someone with solid experience in property and facility management, combined with a broad understanding of operational and maintenance-related matters. You are service-minded, enjoy working with people, and have the ability to drive progress and deliver results, even when managing multiple priorities simultaneously. As a person, you are self-driven, structured, and detail-oriented. You take a pragmatic and solution-focused approach, work collaboratively across different functions and teams, and are comfortable building strong relationships with a wide range of stakeholders. Most importantly, we are looking for someone who brings enthusiasm, curiosity, and a willingness to grow and develop together with the company. Does this sound like an exciting opportunity? We look forward to reading your application! Qualifications: Degree in Construction Management, Real Estate Management, Engineering, or equivalent professional experience At least five years of relevant experience in similar roles with overall responsibility for both technical operations and financial management Proven ability to manage matters related to a property portfolio and drive initiatives from identified needs through to implementation Communicate clearly and follow up professionally with internal stakeholders, business representatives, and suppliers Build and maintain strong relationships with colleagues, customers, and external partners Be comfortable leading meetings, coordinating activities, and creating clarity around ",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31415624",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-31T09:30:55.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31415624",
-      "query": "service manager",
-      "id": "0fa2fdb9cf7dd9c1",
-      "sources": [
-        "jobtech"
-      ],
-      "isNew": true,
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 60
-    },
-    {
-      "title": "Client Service Manager (m/f/x)",
-      "company": "Scalable GmbH",
-      "location": "München, München (Kreis)",
-      "remote": false,
-      "description": "Job Description You act as the primary and reliable point of contact for our customers and prospects, handling inquiries via email and phone. You work closely with other departments to find quick, comprehensive solutions for more complex customer questions. You continuously expand your financial knowledge through internal training and self-motivated learning. You leverage customer feedback to identify areas for improvement in both our product and internal processes. → This position is initially…",
-      "url": "https://www.adzuna.de/details/5860576154?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-29T04:22:40.000Z",
-      "language": "en",
-      "country": "de",
-      "source": "adzuna",
-      "sourceId": "5860576154",
-      "query": "service manager",
-      "id": "ec7dfb15c28d2756",
-      "sources": [
-        "adzuna"
-      ],
-      "isNew": true,
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 55
-    },
     {
       "title": "IT INCIDENT MANAGER",
       "company": "Scandinavian Airlines System Denmark -Norway-Swe",
@@ -234,37 +172,6 @@
       "firstSeen": "2026-08-28T12:24:18.990Z",
       "isNew": false,
       "keywordScore": 90
-    },
-    {
-      "title": "Senior Operational Lead / Service Delivery Manager",
-      "company": "Norvion Systems AB",
-      "location": "Göteborg, Västra Götalands län",
-      "remote": false,
-      "description": "About Norvion Systems AB Headquartered in Gothenburg, Sweden, Norvion Systems AB is an innovative engineering company dedicated to deploying cutting-edge AI, robotics, and embedded systems solutions across the Nordic region and Europe. We bridge advanced technological innovation with successful real-world deployments, serving as Europe’s trusted engineering partner. Our leadership and core technical teams comprise industry veterans and technical experts from global tech pioneers, Tier 1 suppliers, and intelligent cockpit fields. We cultivate a practical, reliable, and quality-driven Nordic engineering culture. At Norvion, you will work at the forefront of Embodied AI and advanced edge platform engineering, collaborating with top-tier research institutions and industrial leaders to push the limits of technology. The Opportunity: To ensure the seamless delivery and robust operational performance of our core enterprise systems, we are currently supporting a premier client in Gothenburg in the search for an experienced Senior Operational Lead / Service Delivery Manager. 🎯 Key Focus Areas In this role, you will bridge the gap between technical operations and business expectations, driving excellence across the following areas: Operational Excellence: Leading operational delivery, driving continuous improvements, and ensuring high-availability service delivery in a modern DevOps environment. Incident & Coordination: Orchestrating incident management, production support, and fast-paced operational coordination. Stakeholder & Customer Success: Managing complex stakeholder environments and maintaining transparent, high-level customer communication. Team Leadership: Coaching, mentoring, and guiding cross-functional teams toward operational maturity and collaborative success. 👤 Profile & Qualifications We are looking for a senior professional who thrives in dynamic environments and possesses a strong delivery mindset: Proven Leadership: Extensive experience as a Service Delivery Manager, Operational Lead, or a closely related senior operational role. Tech Ecosystem Knowledge: Hands-on understanding of DevOps environments, production support setups, and IT service management (ITSM) frameworks. Communication & Influence: Exceptional stakeholder management skills and the ability to articulate complex technical status into clear customer communications. Language Skills: Fluent in English (both written and spoken) is a mandatory requirement. Work Authorization: The legal right to work in Sweden by the project start date (or possessing an active permit that allows an immediate start without a new application process) is strongly preferred due to the August 2026 timeline. 🎁 Why Choose Norvion? A Stage to Push Boundaries: \"Engineering Beyond Boundaries\" — We provide direct, hands-on exposure to the future of advanced automotive systems, general-purpose robotics, and embodied intelligence. Work with Tech Experts: Collaborate closely with a highly skilled engineering team boasting deep European delivery experience. No red tape, just pure engineering excellence. Nordic Work Culture: Embrace a flexible, flat, and results-oriented environment that values work-life balance and individual growth.",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31270904",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-07-13T19:56:15.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31270904",
-      "query": "service delivery manager",
-      "id": "fde552bd15001cbd",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 75,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-08-28T12:24:18.990Z",
-      "isNew": false,
-      "keywordScore": 75
     },
     {
       "title": "HR IT Service Delivery Manager - 18881 - Upplands Väsby",
@@ -360,6 +267,37 @@
       "keywordScore": 65
     },
     {
+      "title": "Facility Service Manager needed!",
+      "company": "Perido AB",
+      "location": "Göteborg, Västra Götalands län",
+      "remote": false,
+      "description": "Do you have solid experience in property and facility management, combined with a broad understanding of operational and maintenance-related matters? This position offers a unique opportunity to combine technical facility management expertise with stakeholder engagement, communication, and service leadership in a dynamic and evolving environment. About the position Perido is looking for a Facility Service Manager for our client, a large and well-known company in the automotive industry. The position is based in Gothenburg. You will be part of a highly competent and collaborative team, bringing together expertise in workplace strategy, real estate development, and facility management. You will work in a dynamic, international environment where initiative, accountability, and knowledge sharing are key to success. Your daily tasks As a Facility Service Manager, you will play a key role in shaping the future workplace experience with our client. You will act as a trusted partner to our stakeholders, ensuring high-quality facility services that support business needs and create value for our employees. In this role, you will: Act as the main point of contact for facility-related matters, ensuring clear communication and a high level of customer satisfaction Lead and coordinate the delivery of Hard Facility Management services, including technical building systems and short-term maintenance Have overall responsibility for facility service budgets, forecasting, and cost control within your area of responsibility Monitor supplier performance and ensure services are delivered in accordance with contractual agreements and agreed service levels Ensure that inspections, maintenance activities, and service operations are properly documented, planned, and executed according to applicable contracts and requirements Collaborate with project teams, technical property managers, operations contractors, and support functions to secure efficient and integrated service delivery Identify improvement opportunities and drive initiatives that enhance service quality, operational efficiency, and workplace functionality Order, coordinate, and follow up on maintenance and service assignments to ensure timely and quality-assured delivery Support strategic workplace and real estate initiatives by combining technical expertise with a customer-focused approach Foster a culture of collaboration, accountability, and continuous improvement Your characteristics We are looking for someone with solid experience in property and facility management, combined with a broad understanding of operational and maintenance-related matters. You are service-minded, enjoy working with people, and have the ability to drive progress and deliver results, even when managing multiple priorities simultaneously. As a person, you are self-driven, structured, and detail-oriented. You take a pragmatic and solution-focused approach, work collaboratively across different functions and teams, and are comfortable building strong relationships with a wide range of stakeholders. Most importantly, we are looking for someone who brings enthusiasm, curiosity, and a willingness to grow and develop together with the company. Does this sound like an exciting opportunity? We look forward to reading your application! Qualifications: Degree in Construction Management, Real Estate Management, Engineering, or equivalent professional experience At least five years of relevant experience in similar roles with overall responsibility for both technical operations and financial management Proven ability to manage matters related to a property portfolio and drive initiatives from identified needs through to implementation Communicate clearly and follow up professionally with internal stakeholders, business representatives, and suppliers Build and maintain strong relationships with colleagues, customers, and external partners Be comfortable leading meetings, coordinating activities, and creating clarity around ",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31415624",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-31T09:30:55.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31415624",
+      "query": "service manager",
+      "id": "0fa2fdb9cf7dd9c1",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-31T11:37:28.443Z",
+      "isNew": false,
+      "keywordScore": 60
+    },
+    {
       "title": "IT Project Manager & Project Management Office (w/m/d)",
       "company": "River Advice AG",
       "location": "Basel, Basel-Stadt",
@@ -418,6 +356,37 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-08-28T08:16:02.689Z",
+      "isNew": false,
+      "keywordScore": 55
+    },
+    {
+      "title": "Client Service Manager (m/f/x)",
+      "company": "Scalable GmbH",
+      "location": "München, München (Kreis)",
+      "remote": false,
+      "description": "Job Description You act as the primary and reliable point of contact for our customers and prospects, handling inquiries via email and phone. You work closely with other departments to find quick, comprehensive solutions for more complex customer questions. You continuously expand your financial knowledge through internal training and self-motivated learning. You leverage customer feedback to identify areas for improvement in both our product and internal processes. → This position is initially…",
+      "url": "https://www.adzuna.de/details/5860576154?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-29T04:22:40.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5860576154",
+      "query": "service manager",
+      "id": "ec7dfb15c28d2756",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-31T11:37:28.443Z",
       "isNew": false,
       "keywordScore": 55
     },
@@ -544,6 +513,37 @@
       "firstSeen": "2026-08-28T08:16:02.689Z",
       "isNew": false,
       "keywordScore": 5
+    },
+    {
+      "title": "ServiceNow Project Manager - ITSM, Agile",
+      "company": "RM IT Professional Resources AG",
+      "location": "Zürich",
+      "remote": false,
+      "description": "ServiceNow Project Manager - ITSM, Agile vacancy for our Zurich based client in the Banking sector. Your tasks: Lead the end-to-end delivery of ServiceNow-related programmes and projects, from feasibility through to execution, ensuring scope, timeline, and budget are met. Translate project objectives into clear work packages and manage planning, progress tracking, resources, costs, and timelines. Coordinate release planning, upgrade activities, and platform dependencies with the ServiceNow plat…",
+      "url": "https://www.adzuna.ch/details/5848229092?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-19T16:37:48.000Z",
+      "language": "en",
+      "country": "ch",
+      "source": "adzuna",
+      "sourceId": "5848229092",
+      "query": "itsm manager",
+      "id": "fbd969f275c68687",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T07:23:58.615Z",
+      "isNew": false,
+      "keywordScore": 60
     },
     {
       "title": "Consultant ServiceNow - Technology Strategy & Transformation",
