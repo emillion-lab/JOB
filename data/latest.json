@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:09:35.768Z",
+  "generatedAt": "2026-09-02T09:40:04.787Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 216,
+      "collected": 204,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 167,
+      "collected": 170,
       "status": "ok"
     },
     {
@@ -127,19 +127,17 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 180,
-  "totalBeforeLanguageFilter": 376,
+  "totalCollected": 161,
+  "totalBeforeLanguageFilter": 355,
   "byLanguage": {
-    "de": 161,
-    "en": 175,
-    "unknown": 5,
-    "fr": 2,
-    "it": 1,
-    "no": 32
+    "de": 167,
+    "en": 157,
+    "unknown": 4,
+    "no": 27
   },
-  "totalScored": 21,
+  "totalScored": 18,
   "llmScored": 0,
-  "totalMatched": 16,
+  "totalMatched": 14,
   "totalNew": 0,
   "jobs": [
     {
@@ -329,37 +327,6 @@
       "keywordScore": 55
     },
     {
-      "title": "IT Project Manager & Project Management Office",
-      "company": "River Advice AG",
-      "location": "Basel, Basel-Stadt",
-      "remote": false,
-      "description": "IT Project Manager & Project Management Office (w/m/d) It’s time for boarding! Join us as IT Project Manager & Project Management Office (PMO) and lead the planning, governance, and successful execution of strategic IT projects, while establishing and advancing a best-in-class Project Management Office that delivers transparency, efficiency, and business value. River Advice is the world’s leading independent manager of river vessels. Under the umbrella of UNITED WATERWAYS, the group—with over 4…",
-      "url": "https://www.adzuna.ch/details/5848593602?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-19T18:33:17.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5848593602",
-      "query": "it service management",
-      "id": "2eca64d889daed60",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-08-28T08:16:02.689Z",
-      "isNew": false,
-      "keywordScore": 55
-    },
-    {
       "title": "Client Service Manager (m/f/x)",
       "company": "Scalable GmbH",
       "location": "München, München (Kreis)",
@@ -513,37 +480,6 @@
       "firstSeen": "2026-08-28T08:16:02.689Z",
       "isNew": false,
       "keywordScore": 5
-    },
-    {
-      "title": "ServiceNow Project Manager - ITSM, Agile",
-      "company": "RM IT Professional Resources AG",
-      "location": "Zürich",
-      "remote": false,
-      "description": "ServiceNow Project Manager - ITSM, Agile vacancy for our Zurich based client in the Banking sector. Your tasks: Lead the end-to-end delivery of ServiceNow-related programmes and projects, from feasibility through to execution, ensuring scope, timeline, and budget are met. Translate project objectives into clear work packages and manage planning, progress tracking, resources, costs, and timelines. Coordinate release planning, upgrade activities, and platform dependencies with the ServiceNow plat…",
-      "url": "https://www.adzuna.ch/details/5848229092?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-19T16:37:48.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5848229092",
-      "query": "itsm manager",
-      "id": "fbd969f275c68687",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 45,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-08-28T07:23:58.615Z",
-      "isNew": false,
-      "keywordScore": 60
     },
     {
       "title": "Consultant ServiceNow - Technology Strategy & Transformation",

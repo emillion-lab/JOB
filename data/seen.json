@@ -4609,5 +4609,311 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "d517cd75dc09bc83": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Senior PeopleSoft Consultant",
+    "company": "JobBusters Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c871f2e7ab91a2bb": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Product Manager Westwing Collection (m/f/d)",
+    "company": "Westwing Group SE",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ee96f6c6f71ac306": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Working Student IT",
+    "company": "Hypatos Gmbh",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b8229e3c95315637": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Senior Software Engineer, Data",
+    "company": "Circonomit",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "db085be07a728a97": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Product Owner Locker.OS",
+    "company": "GLS/NXT",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b9223c91f96fea2a": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Manager, Financial Services - Audit",
+    "company": "Deloitte AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7e36a717de64f9fa": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Crisis & Resilience Manager, Cyber Risk Services",
+    "company": "Deloitte AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c2e7c0d6c2eb8a49": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Senior Consultant / Manager, Financial Consolidation & Reporting / EPM",
+    "company": "Deloitte AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2b47f3966d357198": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Manager - Tax Services - Indirect Tax/VAT",
+    "company": "EY",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0df803c9db5dd3ef": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "DevEx Consultant",
+    "company": "Swedium Global Services AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "543e10ccf31cdc8d": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Solution Consultant",
+    "company": "Benifex Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9d4f729ea7928292": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "IT Consultant",
+    "company": "Luday AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8e2faba4075ad51d": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Senior SAP Consultant",
+    "company": "Acumant AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "144fd4c4e1755843": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Senior Technical Consultant",
+    "company": "Avaron AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "59387eccf17424fe": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Senior Application Consultant",
+    "company": "Vattenfall AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2bd3aaff290b9ad4": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Freelance/Consultant Roles",
+    "company": "BøthOfUs AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "51baae618ac8ca22": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "Analyst/Consultant Stockholm",
+    "company": "Applied Value Consulting Kommanditbolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "86e7cd64c13d448f": {
+    "firstSeen": "2026-09-02T09:40:04.785Z",
+    "lastSeen": "2026-09-02T09:40:04.785Z",
+    "title": "IT Consultant, Developer",
+    "company": "Netlight Consulting AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
