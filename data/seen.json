@@ -4915,5 +4915,158 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "3ba7b82a7b26ab43": {
+    "firstSeen": "2026-09-03T09:53:10.176Z",
+    "lastSeen": "2026-09-03T09:53:10.176Z",
+    "title": "Senior ServiceNow AI Engineer",
+    "company": "Finders SA",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "dbf5075d1c01a471": {
+    "firstSeen": "2026-09-03T09:53:10.176Z",
+    "lastSeen": "2026-09-03T09:53:10.176Z",
+    "title": "Senior ServiceNow AI Engineer",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3fa1478745ca22c9": {
+    "firstSeen": "2026-09-03T09:53:10.176Z",
+    "lastSeen": "2026-09-03T09:53:10.176Z",
+    "title": "Project Manager, Gaming Localization Production",
+    "company": "LILT (Production)",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a97bd9d8af6a641e": {
+    "firstSeen": "2026-09-03T09:53:10.176Z",
+    "lastSeen": "2026-09-03T09:53:10.176Z",
+    "title": "Atlassian Senior Consultant - Cloud Practice",
+    "company": "Valiantys",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "be10f0b042aaca83": {
+    "firstSeen": "2026-09-03T09:53:10.176Z",
+    "lastSeen": "2026-09-03T09:53:10.176Z",
+    "title": "IT Cloud Administrator (f/m/d)",
+    "company": "Munich Electrification",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "17562c0aa622b04b": {
+    "firstSeen": "2026-09-03T09:53:10.176Z",
+    "lastSeen": "2026-09-03T09:53:10.176Z",
+    "title": "Full Stack Engineer (100% Remote United Kingdom)",
+    "company": "InnoCraft",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "76ebd67392495cab": {
+    "firstSeen": "2026-09-03T09:53:10.176Z",
+    "lastSeen": "2026-09-03T09:53:10.176Z",
+    "title": "(Senior) FP&A Manager",
+    "company": "gropyus",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "93a11237ff567f33": {
+    "firstSeen": "2026-09-03T09:53:10.176Z",
+    "lastSeen": "2026-09-03T09:53:10.176Z",
+    "title": "Office Administrator",
+    "company": "Sportradar",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6b4fad5a86122686": {
+    "firstSeen": "2026-09-03T09:53:10.176Z",
+    "lastSeen": "2026-09-03T09:53:10.176Z",
+    "title": "Senior Network Security Consultant",
+    "company": "Cuebid Syd AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
