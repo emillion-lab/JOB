@@ -5068,5 +5068,209 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "86e04c48fde1a007": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Service Delivery Manager",
+    "company": "H & M Hennes & Mauritz GBC AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e2007c0746536341": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Senior Application Product Manager - Supply Chain - Procurement",
+    "company": "celonis",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e6bb9dc97ad4e474": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Senior Technical Project Manager - PMO (all genders)",
+    "company": "Contabo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "43ee2b74ac19522c": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Senior Manager, Clinical Operations",
+    "company": "Precisionmedicinegroup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "76097fb81eaec2b4": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Senior Site Reliability Engineer / SRE – Kubernetes & Hybrid Cloud (m/f/d)",
+    "company": "FactFinder",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "61252fc77921e13d": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Product Manager - Payments",
+    "company": "ThriveCart",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fdf7346d6a5166f3": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Full Stack Engineer (100% Remote Germany)",
+    "company": "Innocraft",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "53ce0294b47a5f75": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Senior Account Manager- Kraken Flexibility",
+    "company": "Kraken",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8bff4642d30db698": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Security-/Cloud Engineer (m/w) 100%",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a5ae3089a6215897": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Apprenticeship IT specialist Federal VET Diploma in platform development",
+    "company": "bildxzug - Lehre im Verbund",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "95910e0b47ccb5d3": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "Apprenticeship IT specialist Federal VET Diploma way up in platform development",
+    "company": "bildxzug - Lehre im Verbund",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ac467812ac961e28": {
+    "firstSeen": "2026-09-04T09:41:45.874Z",
+    "lastSeen": "2026-09-04T09:41:45.874Z",
+    "title": "IT Operations Engineer",
+    "company": "TEAM Marketing AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

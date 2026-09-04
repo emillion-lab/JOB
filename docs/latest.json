@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T09:53:10.177Z",
+  "generatedAt": "2026-09-04T09:41:45.876Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 205,
+      "collected": 222,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 75,
+      "collected": 77,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 151,
+      "collected": 170,
       "status": "ok"
     },
     {
@@ -127,41 +127,41 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 131,
-  "totalBeforeLanguageFilter": 342,
+  "totalCollected": 168,
+  "totalBeforeLanguageFilter": 385,
   "byLanguage": {
-    "de": 182,
-    "en": 128,
+    "de": 188,
+    "en": 165,
     "unknown": 3,
     "no": 29
   },
-  "totalScored": 9,
+  "totalScored": 12,
   "llmScored": 0,
-  "totalMatched": 16,
+  "totalMatched": 18,
   "totalNew": 2,
   "jobs": [
     {
-      "title": "Senior ServiceNow AI Engineer",
-      "company": "Finders SA",
-      "location": "Zürich",
+      "title": "Service Delivery Manager",
+      "company": "H & M Hennes & Mauritz GBC AB",
+      "location": "Stockholm, Stockholms län",
       "remote": false,
-      "description": "What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now Assist, AI Agents and Service…",
-      "url": "https://www.adzuna.ch/details/5866889965?utm_medium=api&utm_source=8209e0ff",
+      "description": "Job Description H&M is continuing to shape the future of digital commerce by creating stable, connected, and customer-focused experiences across our global digital landscape. Within Digital Transaction, we are strengthening our end-to-end technical coordination across key customer journeys such as login, cart, checkout, payment, order management, and returns. We are now looking for a Service Delivery Manager to help safeguard end-to-end technical coherence, integration integrity, and operational readiness across the Digital Transaction area. This role supports the Area Tech Manager by ensuring that independently accountable product teams collectively deliver a stable, resilient, and customer-safe end-to-end solution. This is not a governance layer. It is a coordinating and enabling role focused on transparency, early risk visibility, and technical alignment across teams, products, platforms, and external vendor integrations. WHAT YOU’LL DO Maintain a holistic end-to-end technical view across the Digital Transaction customer journey. Continuously update and communicate the E2E integration landscape across products and components. Identify cross-component risks, integration breakpoints, and architectural drift before they impact customers. Safeguard critical customer journeys, including login, cart, checkout, payment, order management, and returns. Ensure integration sequencing, dependency transparency, and API contract discipline across teams and vendors. Support coordinated E2E go-live readiness for multi-component releases. Validate E2E test readiness, deployment coordination, and operational preparedness across product areas. Ensure observability, traceability, resilience, and error handling consistency across the full customer journey. Surface technical debt and structural misalignment that may impact customer-facing stability. Support incident analysis by helping teams treat issues as end-to-end journey concerns rather than isolated product failures. Provide the Area Tech Manager with clear E2E risk visibility, early escalation points, and proactive recommendations. WHO YOU’LL WORK WITH You will work closely with the Area Tech Manager, Solution Architects, Engineering Managers, Product Managers, Operations, Program Managers, and multiple product teams across the Digital Transaction area. You will play an important role in connecting technical perspectives across teams and making sure that dependencies, risks, and customer impact are visible early. You will support alignment across independently accountable teams without taking over their mandate or decision authority. We are looking for someone who enjoys collaboration, complexity, and problem-solving across teams. You are comfortable working in a dynamic environment where technical coordination, clear communication, and proactive risk management are key to delivering stable customer experiences. WHO YOU ARE You have solid experience working in complex digital, ecommerce, platform, or transaction-heavy technology environments. You understand end-to-end customer journeys and how technical dependencies across systems can impact customer experience. You have experience coordinating technical delivery, integration readiness, or operational readiness across multiple teams. You have strong knowledge of microservices, APIs, distributed systems, integration patterns, and cloud-based architectures. You understand observability, monitoring, tracing, error handling, resilience, and production stability. You are experienced in identifying cross-team dependencies, integration risks, and technical gaps. You can translate complex technical risks into clear, actionable insights for senior stakeholders. You are comfortable working with Engineering Managers, Solution Architects, Product Managers, Operations, and Program Managers. You have strong communication and stakeholder management skills. WHO WE ARE H&M Group is a global company of strong fashion brands and ventures. Our goal is to pro",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31434230",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-09-02T12:30:46.000Z",
+      "posted": "2026-09-03T13:15:20.000Z",
       "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5866889965",
-      "query": "servicenow consultant",
-      "id": "3ba7b82a7b26ab43",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31434230",
+      "query": "service delivery manager",
+      "id": "86e04c48fde1a007",
       "sources": [
-        "adzuna"
+        "jobtech"
       ],
       "isNew": true,
-      "score": 60,
+      "score": 65,
       "fit": "unscored",
       "matched": [],
       "gaps": [],
@@ -169,30 +169,30 @@
       "reason": "",
       "next_action": "",
       "scoredBy": "prefilter",
-      "keywordScore": 60
+      "keywordScore": 65
     },
     {
-      "title": "Senior ServiceNow AI Engineer",
-      "company": "Job-Room",
-      "location": "Zürich",
+      "title": "Senior Application Product Manager - Supply Chain - Procurement",
+      "company": "celonis",
+      "location": "Munich",
       "remote": false,
-      "description": "Senior ServiceNow AI Engineer What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80\\\\-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using N…",
-      "url": "https://www.adzuna.ch/details/5867055575?utm_medium=api&utm_source=8209e0ff",
+      "description": "<div class=\"content-intro\"><p>Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.</p></div><p><strong>The Team:</strong></p> <p>The Celonis Business Apps Supply Chain team is an innovative group of product and technology enthusiasts focused on creating and deploying next-generation solutions in the Supply Chain domain. We are transforming how enterprise solutions are built driven by our customers' business critical problems. Our team strikes an ideal balance between deep technical execution (including advanced data engineering and AI tooling) and a sharp customer focus to create highly impactful products that accelerate value realization across our customer base.</p> <p><strong>The Role:</strong></p> <p>You will gain experience in the Supply Chain and related processes and act as the interface between customers, our Go-To-Market and our Product &amp; Engineering teams, shaping the future of Celonis’ product offering in this domain. Take this chance to rethink the way companies run their Supply Chain processes, with a specific focus on Procurement and help our customers to accelerate their value realization with Celonis.</p> <p>As an Application Product Manager for Procurement, you will operate at the intersection of customer-facing solution engineering and core product innovation to architect and deploy cutting-edge enterprise AI solutions. In this hybrid role, you will partner directly with strategic customers to build bespoke, composable procurement and supply chain architectures using the Celonis Context Model (CCM) and advanced decision intelligence. By leveraging modern AI tooling and LLM-based coding agents, you will abstract field insights into reusable semantic libraries, directly accelerating Celonis' global agentic deployment workflows. You get hands-on: prototyping on the platform, wiring up data, building AI-driven solutions, and iterating directly with the people who'll use them.</p> <p><strong>The work you’ll do:</strong></p> <p>Your mission is to make the vision of AI-powered solutions a reality by building products that turn the cutting edge capabilities of the Celonis&nbsp; Platform from strategy into solutions that customers use to run their Procurement processes.</p> <ul> <li><strong>Discovery &amp; Solution Blueprinting:</strong> Conduct collaborative discovery workshops to uncover root-causes and operational inefficiencies, mapping ambiguous customer needs into clear technical scopes and comprehensive solution blueprints.</li> <li><strong>Context Model &amp; Solution Deployment:</strong> Execute hands-on deployments of customer-specific context models, data structures, and end-to-end supply chain blueprints within the Celonis platform.</li> <li><strong>Project Management &amp; Customer Value:</strong> Own customer deployments end-to-end from initial kickoff to live production, presenting complex architectural solutions and strategic value narratives directly to cross-functional stakeholders and executive teams.</li> <li><strong>Prototype &amp; Test Functions:</strong> Design, validate, and test use-case-specific decision intelligence functions, including e.g. optimization algorithms and predictive models.</li> <li><strong>Context Generation:</strong> Deconstruct monolithic application architectures and translate deployment ",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-application-product-manager-supply-chain-procurement-munich-95849",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-09-02T13:41:57.000Z",
+      "posted": "2026-09-04T05:55:08.000Z",
       "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5867055575",
-      "query": "servicenow consultant",
-      "id": "dbf5075d1c01a471",
+      "country": "de",
+      "source": "arbeitnow",
+      "sourceId": "senior-application-product-manager-supply-chain-procurement-munich-95849",
+      "query": null,
+      "id": "e2007c0746536341",
       "sources": [
-        "adzuna"
+        "arbeitnow"
       ],
       "isNew": true,
-      "score": 60,
+      "score": 40,
       "fit": "unscored",
       "matched": [],
       "gaps": [],
@@ -200,7 +200,7 @@
       "reason": "",
       "next_action": "",
       "scoredBy": "prefilter",
-      "keywordScore": 60
+      "keywordScore": 40
     },
     {
       "title": "IT INCIDENT MANAGER",
@@ -325,6 +325,68 @@
       "firstSeen": "2026-08-28T12:24:18.990Z",
       "isNew": false,
       "keywordScore": 65
+    },
+    {
+      "title": "Senior ServiceNow AI Engineer",
+      "company": "Finders SA",
+      "location": "Zürich",
+      "remote": false,
+      "description": "What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now Assist, AI Agents and Service…",
+      "url": "https://www.adzuna.ch/details/5866889965?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-02T12:30:46.000Z",
+      "language": "en",
+      "country": "ch",
+      "source": "adzuna",
+      "sourceId": "5866889965",
+      "query": "servicenow consultant",
+      "id": "3ba7b82a7b26ab43",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-09-03T09:53:10.176Z",
+      "isNew": false,
+      "keywordScore": 60
+    },
+    {
+      "title": "Senior ServiceNow AI Engineer",
+      "company": "Job-Room",
+      "location": "Zürich",
+      "remote": false,
+      "description": "Senior ServiceNow AI Engineer What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80\\\\-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using N…",
+      "url": "https://www.adzuna.ch/details/5867055575?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-02T13:41:57.000Z",
+      "language": "en",
+      "country": "ch",
+      "source": "adzuna",
+      "sourceId": "5867055575",
+      "query": "servicenow consultant",
+      "id": "dbf5075d1c01a471",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-09-03T09:53:10.176Z",
+      "isNew": false,
+      "keywordScore": 60
     },
     {
       "title": "Facility Service Manager needed!",
