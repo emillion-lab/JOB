@@ -5272,5 +5272,209 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "fe434199ae07f900": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Service Sales Manager (78076)",
+    "company": "Vestas Northern Europe AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "281640cf453a2c97": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Manager - Product Development, Service & Parts Assortment Engineering",
+    "company": "Volvo Business Services Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0ea37fa4dfd0513b": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Head of AI Engineering (f/m/x)",
+    "company": "neoshare",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "da8d6739789ec15f": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Global Talent Acquisition Partner, GTM (all genders)",
+    "company": "Distribusion Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6ce8eab080c935f0": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Global Talent Acquisition Partner, Product (all genders)",
+    "company": "Distribusion Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2242fcb18a8782cc": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "(Senior) DevOps Engineer (m/f/x)",
+    "company": "Aer Group",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "653f539952dacf55": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Senior Product Manager - Software Solutions",
+    "company": "Proglove",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "66262a731f7735e3": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Senior Systems Engineer Avaloq Platform",
+    "company": "coni+partner AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2f2109b5b3920d02": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Facilities & Office Assistant (Part-Time)",
+    "company": "Axalta",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e4d10b4847bd38ca": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Field Service Team Lead",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f314250daeb89d67": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "Global Supply Planner",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c23b24dde8524471": {
+    "firstSeen": "2026-09-07T10:21:37.328Z",
+    "lastSeen": "2026-09-07T10:21:37.328Z",
+    "title": "HR Specialist Accommodations Consultant with German and English - 12-months (fixed-term) contract, Global Medical Accommodations Team",
+    "company": "Amazon",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
