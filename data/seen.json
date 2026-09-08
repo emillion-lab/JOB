@@ -5476,5 +5476,175 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "1fdf74b03d3e952a": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Senior Manager, Clinical Operations - Clinical Process Owner",
+    "company": "Precisionmedicinegroup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fb2c03a8b11064ad": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Senior SAP SuccessFactors Consultant",
+    "company": "MultiMind Holding AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7a0f7dac950c4513": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Senior Site Reliability Engineer / SRE – Kubernetes & Hybrid Cloud (m/f/d)",
+    "company": "Fact Finder",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b66b815ca8bc60cf": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Staff Mobile Engineer - Retail",
+    "company": "Wolt - English",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "438088a895a22323": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Senior Domain Engineering Specialist",
+    "company": "veeamsoftware",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a882a7b0f227b886": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Sales Development Representative - French Speaking (Europe)",
+    "company": "Nivoda",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3d66174cad33494a": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Enterprise Sales Development Representative (Europe)",
+    "company": "Nivoda",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c3ad4f4fc2bfcca2": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Sales Development Representative - German Speaking (Europe)",
+    "company": "Nivoda",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1ef7deb1ce6ad3fe": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Sales Development Representative - Italian Speaking (Europe)",
+    "company": "Nivoda",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7639cc8dbab823d3": {
+    "firstSeen": "2026-09-08T09:43:47.668Z",
+    "lastSeen": "2026-09-08T09:43:47.668Z",
+    "title": "Sales Development Representative (UK)",
+    "company": "Nivoda",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

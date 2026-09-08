@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:21:37.330Z",
+  "generatedAt": "2026-09-08T09:43:47.670Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 215,
+      "collected": 211,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 76,
+      "collected": 74,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 203,
+      "collected": 207,
       "status": "ok"
     },
     {
@@ -127,83 +127,21 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 191,
-  "totalBeforeLanguageFilter": 400,
+  "totalCollected": 201,
+  "totalBeforeLanguageFilter": 406,
   "byLanguage": {
-    "de": 177,
-    "en": 188,
+    "de": 173,
+    "en": 198,
     "unknown": 3,
-    "fr": 3,
-    "no": 28,
+    "fr": 4,
+    "no": 27,
     "it": 1
   },
-  "totalScored": 12,
+  "totalScored": 10,
   "llmScored": 0,
-  "totalMatched": 19,
-  "totalNew": 2,
+  "totalMatched": 17,
+  "totalNew": 0,
   "jobs": [
-    {
-      "title": "Service Sales Manager (78076)",
-      "company": "Vestas Northern Europe AB",
-      "location": "MALMÖ, Skåne län",
-      "remote": false,
-      "description": "Do you enjoy building strong customer relationships and turning opportunities into long-term business growth? Help build the future of sustainable energy while growing strategic customer partnerships across the Nordics by applying to be our next Service Sales Manager. Join Vestas and help accelerate the world's transition to sustainable energy. Region NCE and Global Offshore > NCE > Service Sales Nordics Vestas is the energy industry's global partner in sustainable energy solutions. We design, manufacture, install, and service wind turbines across onshore and offshore markets worldwide. Our Northern and Central Europe (NCE) Service Commercial team leads service-related commercial activities, building close customer partnerships, developing value-adding solutions, and securing profitable growth through service contracts and aftermarket offerings. We are now looking for a commercially minded Service Sales Manager to join our Nordic team. Responsibilities As a Service Sales Manager, you will: Build and maintain customer relationships, acting as a trusted advisor and key commercial contact Own and deliver service sales targets through contract renewals, upselling, new contracts, and business growth initiatives Develop and execute account strategies that support customer needs and long-term partnership objectives Identify and convert opportunities for value-added services, optimizing customer value and commercial performance Manage commercial negotiations and secure competitive, sustainable service agreements Collaborate closely with sales, operations, technical, legal, and finance teams to deliver customer-focused solutions Monitor market trends, competitor activity, and customer feedback to identify opportunities and grow our market share Qualifications Solid commercial and sales experience, possibly within services, aftersales, industrial, energy, or other long-term service-based business models Documented experience in customer relationship management, contract negotiations, and creating win-win solutions A customer-focused and solution-oriented mindset with solid commercial acumen Highly experienced in communication and stakeholder management An entrepreneurial approach to value creation and business growth Experience with Salesforce and the renewable energy sector Fluent English skills, both written and spoken Competencies Goal-focused, motivated, and curious, with sharp business insight Customer-centric, with demonstrated sales capability and a solution-oriented mindset- Demonstrated ability to manage multiple projects and engage effectively with diverse stakeholders Well-developed written and spoken communication skills, along with engaging presentation experience Solid commercial acumen, with sound awareness of cost and risk Highly organized and structured, with experience and willingness to work in internal IT landscape including Salesforce and Excel based applications Willingness to travel (approximately 1-3 days once or twice a month in average, as required) What we offer We offer an exciting job with great opportunities for professional and personal development in an inspiring, collaborative, and international work environment in the renewable energy sector. We highly value initiative, accountability, and the right balance between creativity and quality in all solutions. You will have good opportunities to build your career in Vestas, when demonstrating aspiration, capacity, and potential. Additional information Your primary work location will be Malmö, Sweden.You should expect some travel activity, approximately up to three days twice a month. If the above match your skills and qualifications, please apply no later than 06.10.2026. Please note: We do amend or withdraw our jobs and reserve the right to do so at any time, including prior to the advertised closing date. For additional information about the position, please contact: Recruiter Rebecka Thorell at rbthr@vestas.com",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31443505",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-07T08:38:45.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31443505",
-      "query": "service manager",
-      "id": "fe434199ae07f900",
-      "sources": [
-        "jobtech"
-      ],
-      "isNew": true,
-      "score": 45,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 45
-    },
-    {
-      "title": "Manager - Product Development, Service & Parts Assortment Engineering",
-      "company": "Volvo Business Services Aktiebolag",
-      "location": "Göteborg, Västra Götalands län",
-      "remote": false,
-      "description": "Company description: \"Founded in 1927, the Volvo Group is committed to driving prosperity and shaping the future landscape through sustainable transport, mobility, and infrastructure solutions. By offering trucks, buses, construction equipment, power solutions for marine and industrial applications, financing and services that increase our customers’ uptime and productivity. Our headquarters are in Gothenburg, Sweden. Volvo Group shares are listed on Nasdaq Stockholm.\" Job description:Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. Who are we? Uptime & Service Technology is a group function with the mission to provide Volvo Group’s brands with leading aftermarket solutions. Uptime & Service Technology provides solutions directly to Volvo Trucks, Renault Trucks, Mack Trucks. It supports Volvo Bus Corporation, Volvo Construction Equipment, Volvo Penta. It also provides solutions to Partners and Joint Ventures. Service Market is the category that entails the job areas involved in how the Volvo Group manages the lifecycle of its offering (both hard and soft) by providing diagnostic, maintenance, repair, standard times and spare parts for sold products, dealer support and assistance to secure customer satisfaction.What will you work with?You drive the strategy of service and parts product domain transformation taking steps in modernization and developing services, continuous improvement and change management in collaboration with relevant functions and stakeholders. As a leader, you develop people to support future challenges contributing to UST strategic focus and business. You drive, initiate and prepare the development of activities related to future technologies incorporation into our products for enhancing customer and business success. In this role, you secure alignment, engagement and collaboration with stakeholders for implementing new solutions for our products. You drive operational excellence, leverage synergies and harmonized product solutions in close collaboration with global functions. You foster an innovative, engagement and competitive culture where we attract and retain talents to develop future technologies for uptime services, and you will drive teams’ efficiency and effectiveness in close collaboration with a global management team. In this role, you will be a member of the Service and Parts Assortment Engineering global management team and report to the Head of Service & Parts Assortment Engineering. Who are you? To succeed in this role, we see that you are passionate about new technologies and that you work with simplicity, empowerment and accountability. Growing competences, knowledge and professionalism is close to your heart, and you have a strong customer focus. We believe that you have previous experience in leading technology, people and that you are curious to learn and develop yourself in a global/multi-cultural organization. You are structured and analytical, and through your coaching leadership, you influence, instill trust, and build effective teams. You have proven excellent organizational skills, as well as the ability to manage different requirements and expectations through strong negotiation and networking skills. You are proactive and responsive to new challenges, with a can-do attitude.To succeed in this role, we also believe you have: A master’s degree in engineering or equivalent 8-10 years of experience from globally working in product and business development within automotive industry Experience and knowledge of the Volvo Group, particularly in technology and/or business Knowledge and deep insight into our customer usage of our products High level of personal integrity and capability to act as a team player Last application date: 1",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31440038",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-04T14:25:02.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31440038",
-      "query": "service manager",
-      "id": "281640cf453a2c97",
-      "sources": [
-        "jobtech"
-      ],
-      "isNew": true,
-      "score": 45,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 45
-    },
     {
       "title": "IT INCIDENT MANAGER",
       "company": "Scandinavian Airlines System Denmark -Norway-Swe",
@@ -364,49 +302,18 @@
       "company": "Finders SA",
       "location": "Zürich",
       "remote": false,
-      "description": "What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now Assist, AI Agents and Service…",
-      "url": "https://www.adzuna.ch/details/5866889965?utm_medium=api&utm_source=8209e0ff",
+      "description": "Senior ServiceNow AI Engineer What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now…",
+      "url": "https://www.adzuna.ch/details/5866883784?utm_medium=api&utm_source=8209e0ff",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-09-02T12:30:46.000Z",
+      "posted": "2026-09-02T12:29:40.000Z",
       "language": "en",
       "country": "ch",
       "source": "adzuna",
-      "sourceId": "5866889965",
+      "sourceId": "5866883784",
       "query": "servicenow consultant",
       "id": "3ba7b82a7b26ab43",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-09-03T09:53:10.176Z",
-      "isNew": false,
-      "keywordScore": 60
-    },
-    {
-      "title": "Senior ServiceNow AI Engineer",
-      "company": "Job-Room",
-      "location": "Zürich",
-      "remote": false,
-      "description": "Senior ServiceNow AI Engineer What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80\\\\-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using N…",
-      "url": "https://www.adzuna.ch/details/5867055575?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-02T13:41:57.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5867055575",
-      "query": "servicenow consultant",
-      "id": "dbf5075d1c01a471",
       "sources": [
         "adzuna"
       ],
@@ -670,35 +577,66 @@
       "keywordScore": 60
     },
     {
-      "title": "Project Manager Service",
-      "company": "RaySearch Laboratories AB (publ)",
-      "location": "Stockholm, Stockholms län",
+      "title": "Service Sales Manager (78076)",
+      "company": "Vestas Northern Europe AB",
+      "location": "MALMÖ, Skåne län",
       "remote": false,
-      "description": "RaySearch develops innovative software solutions to improve cancer care. About 1000 clinics in more than 40 countries use RaySearch software to improve treatments and quality of life for patients. RaySearch was founded in 2000 and is listed on Nasdaq Stockholm. The headquarters is located in Stockholm, with subsidiaries in the US, Europe and Asia - Pacific. Today we are more than 400 employees with a common vision of improving cancer care with innovative software. Our great staff is crucial for our success and we offer a fantastic working environment in modern offices, flexibility and good opportunities for development. We believe in equal opportunities, value diversity and work actively to prevent discrimination. Do you want to improve cancer care with innovative software? As Project Manager at RaySearch's Service Department, you will work with full product delivery and project implementation while collaborating with customers and colleagues globally. Join us in a quest to fight cancer! About the role As our Project Manager, you will belong to an expanding service organization and be part of our Global Service team. You will work with product deliveries across the RaySearch product suite, supporting clinics in Europe in implementing and deploying our oncology software solutions. You will lead several projects in parallel and work closely with Application Specialists, IT Specialists and other Project Managers. You will also collaborate with colleagues in Development, Finance and Sales Operations throughout your projects. When you start your position, you will get an introduction by your manager and work closely with a mentor who will help you familiarize yourself with our organization and ways of working. You will be part of a growing Service department in a growing company that drives innovation in the MedTech industry. This is a full-time position at RaySearch’s head office located in Stockholm. Your main tasks: Be the link between RaySearch and our customers during projects + lead the implementation and upgrade of projects. Be responsible for planning and coordination as well as follow-up on actions and deadlines. Act as intermediary between team members from Service, Development and Sales to coordinate the projects, and to participate in the allocation of resources in collaboration with Team Managers. Communicate with customers and internal stakeholders. Participate in activities to continuously improve internal processes and routines. Your profile To be successful in this position we think that you are a team player with excellent interpersonal skills who understand the importance of communication. Also, we believe that you are interested in innovative technology and curious to learn more about our products and the use and utility for our customers. You are not afraid of challenges, and you easily adapt to new situations and solve problems as they arise. Multitasking comes natural for you as you are both a strong organizer and administrator. Requirements: 2+ years’ experience from project delivery management within IT/MedTech. University degree (or equivalent) in relevant field. Experience in leadership and from working with structured project methodology. Great verbal and written communication skills in English. A service minded, positive attitude and ability to work independently. Experience from maintaining compliance and project documentation. It is meriting if you have: Experience from the medtech and/or healthcare industry. Project management certifications. Our Culture Culture at RaySeach is the driving force behind our organization, where everything we do is driven by a shared passion for innovation and the fight against cancer. Our dedication is reflected in our ability to deliver exceptional results, pay close attention to detail, and consistently go the extra mile. Our employees stand out as experts in their field, driven by a relentless focus on solving problems, no matter how complex. At RaySearch, we take pr",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31334244",
+      "description": "Do you enjoy building strong customer relationships and turning opportunities into long-term business growth? Help build the future of sustainable energy while growing strategic customer partnerships across the Nordics by applying to be our next Service Sales Manager. Join Vestas and help accelerate the world's transition to sustainable energy. Region NCE and Global Offshore > NCE > Service Sales Nordics Vestas is the energy industry's global partner in sustainable energy solutions. We design, manufacture, install, and service wind turbines across onshore and offshore markets worldwide. Our Northern and Central Europe (NCE) Service Commercial team leads service-related commercial activities, building close customer partnerships, developing value-adding solutions, and securing profitable growth through service contracts and aftermarket offerings. We are now looking for a commercially minded Service Sales Manager to join our Nordic team. Responsibilities As a Service Sales Manager, you will: Build and maintain customer relationships, acting as a trusted advisor and key commercial contact Own and deliver service sales targets through contract renewals, upselling, new contracts, and business growth initiatives Develop and execute account strategies that support customer needs and long-term partnership objectives Identify and convert opportunities for value-added services, optimizing customer value and commercial performance Manage commercial negotiations and secure competitive, sustainable service agreements Collaborate closely with sales, operations, technical, legal, and finance teams to deliver customer-focused solutions Monitor market trends, competitor activity, and customer feedback to identify opportunities and grow our market share Qualifications Solid commercial and sales experience, possibly within services, aftersales, industrial, energy, or other long-term service-based business models Documented experience in customer relationship management, contract negotiations, and creating win-win solutions A customer-focused and solution-oriented mindset with solid commercial acumen Highly experienced in communication and stakeholder management An entrepreneurial approach to value creation and business growth Experience with Salesforce and the renewable energy sector Fluent English skills, both written and spoken Competencies Goal-focused, motivated, and curious, with sharp business insight Customer-centric, with demonstrated sales capability and a solution-oriented mindset- Demonstrated ability to manage multiple projects and engage effectively with diverse stakeholders Well-developed written and spoken communication skills, along with engaging presentation experience Solid commercial acumen, with sound awareness of cost and risk Highly organized and structured, with experience and willingness to work in internal IT landscape including Salesforce and Excel based applications Willingness to travel (approximately 1-3 days once or twice a month in average, as required) What we offer We offer an exciting job with great opportunities for professional and personal development in an inspiring, collaborative, and international work environment in the renewable energy sector. We highly value initiative, accountability, and the right balance between creativity and quality in all solutions. You will have good opportunities to build your career in Vestas, when demonstrating aspiration, capacity, and potential. Additional information Your primary work location will be Malmö, Sweden.You should expect some travel activity, approximately up to three days twice a month. If the above match your skills and qualifications, please apply no later than 06.10.2026. Please note: We do amend or withdraw our jobs and reserve the right to do so at any time, including prior to the advertised closing date. For additional information about the position, please contact: Recruiter Rebecka Thorell at rbthr@vestas.com",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31443505",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-08-10T11:35:33.000Z",
+      "posted": "2026-09-07T08:38:45.000Z",
       "language": "en",
       "country": "se",
       "source": "jobtech",
-      "sourceId": "31334244",
+      "sourceId": "31443505",
       "query": "service manager",
-      "id": "74058b84fc1ec975",
+      "id": "fe434199ae07f900",
       "sources": [
         "jobtech"
       ],
-      "score": 40,
+      "score": 45,
       "fit": "unscored",
       "matched": [],
       "gaps": [],
       "disqualifiers": [],
       "reason": "",
       "next_action": "",
-      "firstSeen": "2026-08-28T12:24:18.990Z",
+      "firstSeen": "2026-09-07T10:21:37.328Z",
       "isNew": false,
-      "keywordScore": 40
+      "keywordScore": 45
+    },
+    {
+      "title": "Manager - Product Development, Service & Parts Assortment Engineering",
+      "company": "Volvo Business Services Aktiebolag",
+      "location": "Göteborg, Västra Götalands län",
+      "remote": false,
+      "description": "Company description: \"Founded in 1927, the Volvo Group is committed to driving prosperity and shaping the future landscape through sustainable transport, mobility, and infrastructure solutions. By offering trucks, buses, construction equipment, power solutions for marine and industrial applications, financing and services that increase our customers’ uptime and productivity. Our headquarters are in Gothenburg, Sweden. Volvo Group shares are listed on Nasdaq Stockholm.\" Job description:Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. Who are we? Uptime & Service Technology is a group function with the mission to provide Volvo Group’s brands with leading aftermarket solutions. Uptime & Service Technology provides solutions directly to Volvo Trucks, Renault Trucks, Mack Trucks. It supports Volvo Bus Corporation, Volvo Construction Equipment, Volvo Penta. It also provides solutions to Partners and Joint Ventures. Service Market is the category that entails the job areas involved in how the Volvo Group manages the lifecycle of its offering (both hard and soft) by providing diagnostic, maintenance, repair, standard times and spare parts for sold products, dealer support and assistance to secure customer satisfaction.What will you work with?You drive the strategy of service and parts product domain transformation taking steps in modernization and developing services, continuous improvement and change management in collaboration with relevant functions and stakeholders. As a leader, you develop people to support future challenges contributing to UST strategic focus and business. You drive, initiate and prepare the development of activities related to future technologies incorporation into our products for enhancing customer and business success. In this role, you secure alignment, engagement and collaboration with stakeholders for implementing new solutions for our products. You drive operational excellence, leverage synergies and harmonized product solutions in close collaboration with global functions. You foster an innovative, engagement and competitive culture where we attract and retain talents to develop future technologies for uptime services, and you will drive teams’ efficiency and effectiveness in close collaboration with a global management team. In this role, you will be a member of the Service and Parts Assortment Engineering global management team and report to the Head of Service & Parts Assortment Engineering. Who are you? To succeed in this role, we see that you are passionate about new technologies and that you work with simplicity, empowerment and accountability. Growing competences, knowledge and professionalism is close to your heart, and you have a strong customer focus. We believe that you have previous experience in leading technology, people and that you are curious to learn and develop yourself in a global/multi-cultural organization. You are structured and analytical, and through your coaching leadership, you influence, instill trust, and build effective teams. You have proven excellent organizational skills, as well as the ability to manage different requirements and expectations through strong negotiation and networking skills. You are proactive and responsive to new challenges, with a can-do attitude.To succeed in this role, we also believe you have: A master’s degree in engineering or equivalent 8-10 years of experience from globally working in product and business development within automotive industry Experience and knowledge of the Volvo Group, particularly in technology and/or business Knowledge and deep insight into our customer usage of our products High level of personal integrity and capability to act as a team player Last application date: 1",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31440038",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-04T14:25:02.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31440038",
+      "query": "service manager",
+      "id": "281640cf453a2c97",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-09-07T10:21:37.328Z",
+      "isNew": false,
+      "keywordScore": 45
     },
     {
       "title": "Cybersecurity Project Manager - Service",
