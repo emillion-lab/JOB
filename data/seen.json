@@ -5646,5 +5646,192 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "5de51dd809d304f0": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "AI Product Owner (Lyon, France)",
+    "company": "Archimed",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d8615a3cbbb12563": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "Lead Business Analyst, Process & automation (London | remote)",
+    "company": "Lightspeedhq",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7e78e2965250c5bf": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "Lead Business Analyst, Process & Automation (Belfast | remote)",
+    "company": "Lightspeedhq",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f4b2150259322113": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "Junior Production Engineer",
+    "company": "RobCo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a84fe239870a3581": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "(Senior) Manager Business Value Chain (all genders)",
+    "company": "Eraneos",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c36d94f2cf360ffc": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "Working Student Data Collection",
+    "company": "Statista",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2edce95af3dccc8f": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "Senior Product Owner - Data & Analytics (m/f/d)",
+    "company": "Yepoda",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "afea5296cf0b1b40": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "Product Manager (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4e2ec00719d9df59": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "Working Student - Product & QA (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "03d38594386fb8a5": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "Consulting Manager (m/f/d) Data & AI Strategy",
+    "company": "Artefactlinkedin",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "63409db16516d76f": {
+    "firstSeen": "2026-09-09T09:48:54.208Z",
+    "lastSeen": "2026-09-09T09:48:54.208Z",
+    "title": "Structured Products Sales Support",
+    "company": "Evooq",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
