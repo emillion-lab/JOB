@@ -5833,5 +5833,294 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "a08b9e9c2ed4d862": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Senior Consultant / Manager ServiceNow - Technology Strategy & Transformation",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "79274cd2577623e3": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Service Project Manager Network Control Service",
+    "company": "Hitachi Energy Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "261945979263bbbe": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Service Sales Manager (78080)",
+    "company": "Vestas Northern Europe AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bd3621dc42bac388": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Principal Site Reliability Engineer (m/f/x)",
+    "company": "commercetools",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "823703661d204bb3": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Lead Business Analyst, Process & Automation (Berlin | remote)",
+    "company": "Lightspeedhq",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f2b823a581ad955e": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Product Manager (Evergreen - Talent Pool)",
+    "company": "Tangible",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1d0807963272ec47": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Associate Account Executive Germany (f/m/d)",
+    "company": "Upvest",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cc66ba3030cd9d61": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Market Fleet Manager - DACH",
+    "company": "Roadsurfer",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "84c5136fb74e0162": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Product Analyst (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c8e61cee5ec6511a": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Senior Solution Architect (Germany)",
+    "company": "veeamsoftware",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7366b14cb7f3f790": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "(Senior) Frontend Engineer - Visual Experiences",
+    "company": "celonis",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5029a68b1ea6acd0": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Analytics Engineer (m/f/d)",
+    "company": "Enpal",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "73d3c7670d1cf820": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Working Student - Junior Solutions Consultant (m/f/d)",
+    "company": "AMX Consulting - Personio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "149124f4bfa0b674": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Senior Commercial Finance Manager",
+    "company": "freenow",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "38cc5a03d60b4f22": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Senior Commercial Finance Manager",
+    "company": "freenow",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e3b6226958ef7e43": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Senior Product Manager Digital Health (m/f/d)",
+    "company": "Vivira Health Lab",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "678f1ce67b6b7640": {
+    "firstSeen": "2026-09-10T09:47:36.551Z",
+    "lastSeen": "2026-09-10T09:47:36.551Z",
+    "title": "Manager - Financial Accounting Advisory Services - US focused markets group 100%",
+    "company": "EY",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

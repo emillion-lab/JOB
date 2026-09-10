@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T09:48:54.210Z",
+  "generatedAt": "2026-09-10T09:47:36.553Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 209,
+      "collected": 205,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 73,
+      "collected": 76,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 221,
+      "collected": 212,
       "status": "ok"
     },
     {
@@ -127,21 +127,113 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 198,
-  "totalBeforeLanguageFilter": 423,
+  "totalCollected": 206,
+  "totalBeforeLanguageFilter": 410,
   "byLanguage": {
-    "de": 194,
-    "en": 195,
-    "unknown": 3,
+    "de": 175,
+    "en": 202,
+    "unknown": 4,
     "fr": 3,
-    "no": 27,
-    "it": 1
+    "no": 26
   },
-  "totalScored": 11,
+  "totalScored": 17,
   "llmScored": 0,
-  "totalMatched": 17,
-  "totalNew": 0,
+  "totalMatched": 20,
+  "totalNew": 3,
   "jobs": [
+    {
+      "title": "Senior Consultant / Manager ServiceNow - Technology Strategy & Transformation",
+      "company": "Job-Room",
+      "location": "Zürich",
+      "remote": false,
+      "description": "Basic information Business line Technology & Transformation City Zurich Experience level Experienced Working time percentage 80% - 100% Date published 25-Aug-2026 Req \\\\ 24788 Job description Location: Zurich Switzerland Work Pattern Percentage: 80-100% Advance cutting-edge business areas with your expertise Deloitte Consulting, you support organizations together with our other specialists in technology strategy and transformation to develop strategies and implement systems that create bus…",
+      "url": "https://www.adzuna.ch/details/5877098985?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-09T14:14:49.000Z",
+      "language": "en",
+      "country": "ch",
+      "source": "adzuna",
+      "sourceId": "5877098985",
+      "query": "it service management",
+      "id": "a08b9e9c2ed4d862",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 60
+    },
+    {
+      "title": "Service Project Manager Network Control Service",
+      "company": "Hitachi Energy Sweden AB",
+      "location": "Västerås, Västmanlands län",
+      "remote": false,
+      "description": "The opportunity Are you passionate about delivering outstanding service while managing complex projects and building strong customer relationships? We are strengthening our Network Control Service team and are now looking for an experienced Service Project Manager to join us. We offer full flexibility regarding location. You can be based anywhere and work remotely. As a Service Project Manager within Network Control Service, Europe, you will be responsible for multiple Network Manager SCADA service projects for English and French speaking customers. You will act as the key link between customers, internal teams, and external partners, ensuring high-quality service delivery, commercial excellence, and long-term customer satisfaction. This role offers a dynamic, international environment with close collaboration across the global Hitachi Energy organization. How you’ll make an impact Act as Single Point of Contact for assigned customers, ensuring their needs are understood and addressed Lead and deliver service projects with full responsibility for scope, schedule, cost, resources, and quality Manage commercial aspects of customer contracts, including planning, risk management, opportunities, and add-on sales Drive continuous improvement initiatives to enhance customer experience and system performance Collaborate globally and travel as needed to meet customers and work closely with colleagues worldwide, living Hitachi Energy’s values of safety and integrity Your background University degree in a technical field or equivalent practical experience 3-5 years proven experience of project management, preferably in service-oriented or complex technical projects. Experience with SCADA systems, digitalization, or related technologies is highly desirable Proven ability to manage customer relationships and work independently with limited supervision Fluency in English and French, written and spoken mandatory; additional languages and willingness to travel are considered an advantage What we offer Collective agreement Flexible working time Health care and wellness allowance Fantastic career possibilities within Hitachi Energy both within Sweden and globally Mentor to support you throughout onboard phase Various trainings and education supporting employee development​ Diversified company with over 70+ nationalities working in Sweden Supplementary compensation for parental leave Employee Benefit Portal with thousands of discounts and perks More about us Are you ready for a new exciting challenge? Does the above description sound like you? Welcome to apply! Applications will be reviewed on an ongoing basis, so don’t delay – apply today! Union representatives - Sveriges Ingenjörer: Adnan Glibo, +46 107-38 63 78; Unionen: Karin Ulvemark, +46 107 38 51 42; Ledarna: Frank Hollstedt, +46 10 738 70 43. All other questions can be directed to Talent Acquisition Partner Carina Riström, carina.ristrom@hitachienergy.com",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31457531",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-09T15:02:20.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31457531",
+      "query": "service manager",
+      "id": "79274cd2577623e3",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 45
+    },
+    {
+      "title": "Service Sales Manager (78080)",
+      "company": "Vestas Northern Europe AB",
+      "location": "MALMÖ, Skåne län",
+      "remote": false,
+      "description": "Do you enjoy building strong customer relationships and turning opportunities into long-term business growth? Help build the future of sustainable energy while growing strategic customer partnerships across the Nordics by applying to be our next Service Sales Manager. Join Vestas and help accelerate the world's transition to sustainable energy. Region NCE and Global Offshore > NCE > Service Sales Nordics Vestas is the energy industry's global partner in sustainable energy solutions. We design, manufacture, install, and service wind turbines across onshore and offshore markets worldwide.Our Northern and Central Europe (NCE) Service Commercial team leads service-related commercial activities, building close customer partnerships, developing value-adding solutions, and securing profitable growth through service contracts and aftermarket offerings. We are now looking for a commercially minded Service Sales Manager to join our Nordic team. Responsibilities As a Service Sales Manager, you will: Build and maintain customer relationships, acting as a trusted advisor and key commercial contact Own and deliver service sales targets through contract renewals, upselling, new contracts, and business growth initiatives Develop and execute account strategies that support customer needs and long-term partnership objectives Identify and convert opportunities for value-added services, optimizing customer value and commercial performance Manage commercial negotiations and secure competitive, sustainable service agreements Collaborate closely with sales, operations, technical, legal, and finance teams to deliver customer-focused solutions Monitor market trends, competitor activity, and customer feedback to identify opportunities and grow our market share Qualifications Solid commercial and sales experience, possibly within services, aftersales, industrial, energy, or other long-term service-based business models Documented experience in customer relationship management, contract negotiations, and creating win-win solutions A customer-focused and solution-oriented mindset with solid commercial acumen Highly experienced in communication and stakeholder management An entrepreneurial approach to value creation and business growth Experience with Salesforce and the renewable energy sector Fluent English and Danish skills, both written and spoken Competencies Goal-focused, motivated, and curious, with sharp business insight Customer-centric, with demonstrated sales capability and a solution-oriented mindset Demonstrated ability to manage multiple projects and engage effectively with diverse stakeholders Well-developed written and spoken communication skills, along with engaging presentation experience Solid commercial acumen, with sound awareness of cost and risk Highly organized and structured, with experience and willingness to work in internal IT landscape including Salesforce and Excel based applications Willingness to travel (approximately 1-3 days once or twice a month in average, as required) What we offer We offer an exciting job with great opportunities for professional and personal development in an inspiring, collaborative, and international work environment in the renewable energy sector. We highly value initiative, accountability, and the right balance between creativity and quality in all solutions. You will have good opportunities to build your career in Vestas, when demonstrating aspiration, capacity, and potential. Additional information Your primary work location will be in Videbæk, Denmark but could also be in Malmö, Sweden.You should expect some travel activity, approximately up to three days twice a month. If the above match your skills and qualifications, please apply no later than 08.10.2026. Please note: We do amend or withdraw our jobs and reserve the right to do so at any time, including prior to the advertised closing date. For additional information about the position, please contact: Recruiter Rebecka Thorell at rbthr@vesta",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31457615",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-09T15:08:45.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31457615",
+      "query": "service manager",
+      "id": "261945979263bbbe",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 45
+    },
     {
       "title": "IT INCIDENT MANAGER",
       "company": "Scandinavian Airlines System Denmark -Norway-Swe",
@@ -302,16 +394,16 @@
       "company": "Finders SA",
       "location": "Zürich",
       "remote": false,
-      "description": "Senior ServiceNow AI Engineer What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now…",
-      "url": "https://www.adzuna.ch/land/ad/5866883784?se=TkqvmTOs8RGqpLIJCcqMQA&utm_medium=api&utm_source=8209e0ff&v=D8AEA783666B7751528027A3E0A917175ADC30D0",
+      "description": "What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now Assist, AI Agents and Service…",
+      "url": "https://www.adzuna.ch/details/5866889965?utm_medium=api&utm_source=8209e0ff",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-09-02T12:29:40.000Z",
+      "posted": "2026-09-02T12:30:46.000Z",
       "language": "en",
       "country": "ch",
       "source": "adzuna",
-      "sourceId": "5866883784",
+      "sourceId": "5866889965",
       "query": "servicenow consultant",
       "id": "3ba7b82a7b26ab43",
       "sources": [
