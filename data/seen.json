@@ -6122,5 +6122,175 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "93812aaae538ec02": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "Consultant ServiceNow Governance, Risk & Compliance (all genders)",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "abb8fb45d6be106c": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "Strategic Pursuit Manager",
+    "company": "ServiceNow, Inc.",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "50a986a8ef2f8a2a": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "(Senior) Manager Accounting and Finance Operations",
+    "company": "Hypersonica",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "431d5aca517d93fc": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "Director Sales DACH (f/m/d)",
+    "company": "Trusted Shops SE (DE)",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "07fa2ece530c19a9": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "Senior Business Development Manager - New Business, UK & Europe",
+    "company": "Valsoft Corp",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d3632b49d3ff7709": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "Business Analyst / Product Owner",
+    "company": "Trinetix",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "98c3c75d3c032329": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "Senior Product Owner / Program Manager (m/f/d)",
+    "company": "Oh So",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9ab8622289ab1685": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "Microsoft 365 Engineer",
+    "company": "Foxmont Talent",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "189d0477da84e47f": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "Team Leader of Enterprise Collaboration & Voice Solutions 100% (f/m/d)",
+    "company": "Julius Baer",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6156a3b11cc70cf0": {
+    "firstSeen": "2026-09-11T09:43:53.410Z",
+    "lastSeen": "2026-09-11T09:43:53.410Z",
+    "title": "IT Service Engineer",
+    "company": "Össur Nordic AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
