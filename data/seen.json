@@ -6292,5 +6292,226 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "4001a52984723950": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "IT Service Delivery Manager",
+    "company": "Nordic Investin Group Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 70,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1b0cb85f132e7ecb": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "IT Service Manager (Senior)",
+    "company": "Regma IT AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e2984e35433e4cd7": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "ServiceNow Developer",
+    "company": "Nordic Investin Group Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "99f9e520e0c07173": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "Technical Architect - ServiceNow (m/f/d)*",
+    "company": "Unknown company",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "52a619f782923c59": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "SAP S/4HANA Finance Application Manager",
+    "company": "Foxmont Talent",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c4ba9d1daac61172": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "Collaborateur/trice Service Desk 80-100%",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "50aa790b0785560b": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "Project Manager - SAP SuccessFactors (m/f/d)*",
+    "company": "Unknown company",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "728084710fc4dba2": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "Account Executive – Full-Cycle, New Business (m/f/d)",
+    "company": "Mute Labs Gmbh",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "66d7a857535dd491": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "Senior Systems Engineer Avaloq",
+    "company": "coni+partner AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1ac979abd8dcdf2c": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "Payroll Manager Switzerland 80-100% (m/w/d)",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bafd1c6e59feb2b0": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "Microsoft Workplace Administrator",
+    "company": "Foxmont Talent",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1911b5e1174d9f9d": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "Cisco Telephony Specialist (Onsite)",
+    "company": "Gramian Consulting Group",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7d4ed6bd2a1d9177": {
+    "firstSeen": "2026-09-14T10:42:48.537Z",
+    "lastSeen": "2026-09-14T10:42:48.537Z",
+    "title": "Director, Medical Science Liaison, Germany",
+    "company": "Revolution Medicines",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
