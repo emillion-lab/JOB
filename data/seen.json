@@ -6513,5 +6513,141 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "72593a6052b518e0": {
+    "firstSeen": "2026-09-15T10:06:51.136Z",
+    "lastSeen": "2026-09-15T10:06:51.136Z",
+    "title": "Senior Regulatory Consultant",
+    "company": "JobBusters Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4fe3f4e2a1980990": {
+    "firstSeen": "2026-09-15T10:06:51.136Z",
+    "lastSeen": "2026-09-15T10:06:51.136Z",
+    "title": "Senior Account Executive (Europe, 100% remote)",
+    "company": "LimeFlight",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9b2321241b75ca8d": {
+    "firstSeen": "2026-09-15T10:06:51.136Z",
+    "lastSeen": "2026-09-15T10:06:51.136Z",
+    "title": "Senior Operations Manager (f/m/d)",
+    "company": "Alemi Zurich",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8be1a17802521cd0": {
+    "firstSeen": "2026-09-15T10:06:51.136Z",
+    "lastSeen": "2026-09-15T10:06:51.136Z",
+    "title": "Working Student – Content and Data Management (all genders)",
+    "company": "Ctrl Qs",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e1711f92931eea22": {
+    "firstSeen": "2026-09-15T10:06:51.136Z",
+    "lastSeen": "2026-09-15T10:06:51.136Z",
+    "title": "Global Talent Acquisition Partner, Product (all genders)",
+    "company": "Distribusion Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c00d7b612b4c1fab": {
+    "firstSeen": "2026-09-15T10:06:51.136Z",
+    "lastSeen": "2026-09-15T10:06:51.136Z",
+    "title": "Management Consultant - Associate",
+    "company": "McKinsey & Company Service AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6b48040b7dfd8272": {
+    "firstSeen": "2026-09-15T10:06:51.136Z",
+    "lastSeen": "2026-09-15T10:06:51.136Z",
+    "title": "Management Consultant - Junior Associate",
+    "company": "McKinsey & Company Service AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "674943abb7fb76de": {
+    "firstSeen": "2026-09-15T10:06:51.136Z",
+    "lastSeen": "2026-09-15T10:06:51.136Z",
+    "title": "IAM Consultant",
+    "company": "Epical Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
