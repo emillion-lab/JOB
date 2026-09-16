@@ -6649,5 +6649,226 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "a156e58dcc56ca5a": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Project Director",
+    "company": "Precisionmedicinegroup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "68993c6ef6b35b7f": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Senior Infrastructure & Network Engineer - Germany",
+    "company": "Sungrow Europe - Welcome traveler!",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e3458ed7e11f6618": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Senior Management Consultant Feasibility Studies | Stockholm",
+    "company": "I-Ray IT Solutions AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1555a2826f9fff76": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Senior PeopleSoft Consultant",
+    "company": "Avaron AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "09a20671d15b9584": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Axiomsl Implementation Consultant / Developer",
+    "company": "ExcelGens Consulting Sverige AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "511513fed5cc40f8": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Working Student, Growth & Strategy (m/f/d)",
+    "company": "Chaos",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "238bf31f3e11f5f3": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Senior CRM Manager (F/M/D)",
+    "company": "freenow",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "17d2d5623d9ff8c6": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Senior CRM Manager (F/M/D)",
+    "company": "freenow",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "774c52f86d324fad": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Forward Deployed Engineering Manager",
+    "company": "Auterion",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0c973a9b2835201e": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Quality Assurance Engineer (Berlin)",
+    "company": "GeneralMind",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f7a650cd09ba7fb9": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Tech Operations Analyst - Graduate (all genders)",
+    "company": "Distribusion Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "85f81b7cd81aaf24": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Senior Customer Success Manager (f/m/d)",
+    "company": "remberg",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "acac140d4f198451": {
+    "firstSeen": "2026-09-16T09:58:39.790Z",
+    "lastSeen": "2026-09-16T09:58:39.790Z",
+    "title": "Sales Operations Manager (m/f/x)",
+    "company": "Statista",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
