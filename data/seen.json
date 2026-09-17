@@ -6870,5 +6870,209 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "df97b596fec34b28": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Senior Consultant – IT Operations Management, ServiceNow",
+    "company": "The Bench",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "63ca0a1a50bafc26": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Customer Success Manager - AMER",
+    "company": "Camunda",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a9d111bcd6cdcc5e": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Senior Backend Engineer (Ruby), AI Engineering: AI Coding",
+    "company": "gitlab",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "195e678122064761": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Senior SharePoint Migration Lead (EDMS)",
+    "company": "Excelya",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "51d9e9822dd6a268": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Senior Product Manager - Salesforce & Internal Enablement (all genders)",
+    "company": "Aroundhome",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f41b88a01c72139b": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Senior Backend Engineer (m/w/d)",
+    "company": "caronsale",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0321959acc3e2a9f": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Senior Backend Engineer (m/w/d)",
+    "company": "caronsale",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "66d6219478bfc20f": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Associate Director International Procurement",
+    "company": "hellofresh",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5d414f9f39e3e41a": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Manager Financial Services Consulting",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "91768cae18319576": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "Engineering Analyst, Account and Device Intelligence - Google Careers",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8b44485c6f92108e": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "SENIOR PROJECT MANAGER - TRANSFORMATION & ORGANISATIONAL CHANGE",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "febe0db9f750e62b": {
+    "firstSeen": "2026-09-17T10:01:57.633Z",
+    "lastSeen": "2026-09-17T10:01:57.633Z",
+    "title": "SENIOR PROJECT MANAGER - BRAND IMPLEMENTATION & REGULATORY GOVERNANCE",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

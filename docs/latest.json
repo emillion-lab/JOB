@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T09:58:39.793Z",
+  "generatedAt": "2026-09-17T10:01:57.635Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 210,
+      "collected": 214,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 90,
+      "collected": 93,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 174,
+      "collected": 185,
       "status": "ok"
     },
     {
@@ -127,50 +127,50 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 159,
-  "totalBeforeLanguageFilter": 380,
+  "totalCollected": 183,
+  "totalBeforeLanguageFilter": 399,
   "byLanguage": {
-    "de": 194,
-    "en": 155,
-    "unknown": 4,
+    "de": 187,
+    "en": 178,
+    "unknown": 5,
     "fr": 2,
-    "no": 25
+    "no": 27
   },
-  "totalScored": 13,
+  "totalScored": 12,
   "llmScored": 0,
   "totalMatched": 20,
-  "totalNew": 0,
+  "totalNew": 1,
   "jobs": [
     {
-      "title": "IT INCIDENT MANAGER",
-      "company": "Scandinavian Airlines System Denmark -Norway-Swe",
-      "location": "Solna, Stockholms län",
+      "title": "Senior Consultant – IT Operations Management, ServiceNow",
+      "company": "The Bench",
+      "location": "München, München (Kreis)",
       "remote": false,
-      "description": "Company description: Scandinavian Airlines System SAS Job description: Challenges you will work on: Some roles prevent disruption before it happens. Others take charge when it does. As Incident Manager at SAS, you will coordinate the response to major IT incidents, helping restore critical services while keeping stakeholders informed and operations moving. You will act as the central point of coordination during major incidents, bringing together technical teams, suppliers, and business stakeholders to manage critical situations effectively. In a fast-paced and business-critical environment, you will help minimize disruption, support operational stability, and drive continuous improvement across incident management processes. Success in this role requires a calm, structured, and collaborative approach, with the ability to make informed decisions and communicate clearly under pressure. Your responsibilities include: Lead and coordinate the response to major IT incidents until services are restored and stabilized. Assess business impact and urgency, ensuring the right technical teams and suppliers are engaged quickly. Facilitate incident bridges and coordinate actions, escalations, decisions, and communications throughout the incident lifecycle. Maintain focus on service restoration while supporting investigation, workaround, and recovery activities. Provide timely and audience-appropriate communication to business stakeholders, operational teams, and IT leadership. Escalate incidents to senior leadership, suppliers, and external partners when required. Ensure that incident records, timelines, decisions, and communications are accurately maintained in ServiceNow. Drive effective handover to Problem Management and support Root Cause Analysis and post-incident reviews. Monitor incident trends, recurring issues, and response performance to identify opportunities for improvement. Develop and maintain incident playbooks, communication templates, readiness exercises, and operational procedures. Contribute to strengthening SAS’ incident response capabilities and service management practices. The Team You will be part of the Service Management organization and work closely with Service Desk, IT Operations, Infrastructure, Cloud, Network, Cybersecurity, and Application teams. The role involves extensive collaboration with Service Owners, Product Owners, business stakeholders, technology suppliers, and operational functions across SAS. Together, you will help ensure that critical services remain available, resilient, and capable of supporting business-critical airline operations. As SAS continues to strengthen its operational service management capabilities, effective incident management plays an increasingly important role in delivering stable and reliable technology services. To be successful we believe you have Experience managing incidents in a large, complex, and business-critical IT environment. Strong understanding of ITIL Incident Management, with working knowledge of Problem Management and Change Management. Experience coordinating multiple technical teams and suppliers during high-pressure situations. Excellent communication skills, including the ability to provide clear updates to both technical teams and senior stakeholders. The ability to make structured decisions with incomplete information and remain calm during operational disruptions. Experience working with ServiceNow or a similar IT Service Management platform. Experience from aviation, transportation, or other 24/7 mission-critical environments is considered an advantage. Strong stakeholder management, facilitation, and collaboration skills. A proactive mindset with a passion for continuous improvement and operational excellence. ITIL certification, or equivalent practical experience, is considered an advantage. Our Culture at SAS At SAS, we are dedicated to caring for each other, delighting our travelers, and driving the transformation towards sustainable aviation. As",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31400974",
+      "description": "Aachen, Berlin, Dortmund, Dresden, Erlangen, Frankfurt, Hamburg, Munich or Stuttgart (Hybrid) | Full-time | €75,000–100,000 gross/year We're hiring a Senior ITOM Consultant to join the largest ServiceNow partner in the DACH region. This role requires hands-on ServiceNow ITOM and CMDB expertise built over several years — not general ITSM exposure. Responsibilities Assess clients' current IT infrastructure and ITOM processes Independently lead ITOM projects and sub-projects Design future-state IT…",
+      "url": "https://www.adzuna.de/details/5885983576?utm_medium=api&utm_source=8209e0ff",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-08-26T15:25:04.000Z",
+      "posted": "2026-09-16T12:47:31.000Z",
       "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31400974",
-      "query": "incident manager",
-      "id": "f8ac282810405834",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5885983576",
+      "query": "servicenow consultant",
+      "id": "df97b596fec34b28",
       "sources": [
-        "jobtech"
+        "adzuna"
       ],
-      "score": 90,
+      "isNew": true,
+      "score": 60,
       "fit": "unscored",
       "matched": [],
       "gaps": [],
       "disqualifiers": [],
       "reason": "",
       "next_action": "",
-      "firstSeen": "2026-08-28T12:24:18.990Z",
-      "isNew": false,
-      "keywordScore": 90
+      "scoredBy": "prefilter",
+      "keywordScore": 60
     },
     {
       "title": "HR IT Service Delivery Manager - 18881 - Upplands Väsby",
@@ -328,37 +328,6 @@
       "keywordScore": 65
     },
     {
-      "title": "Senior ServiceNow Consultant",
-      "company": "Cognizant Technology Solutions Sweden AB",
-      "location": "Stockholm, Stockholms län",
-      "remote": false,
-      "description": "About Cognizant Cognizant (Nasdaq: CTSH) is one of the world's leading professional services companies — an AI Builder bridging the gap between investment and enterprise value through full-stack solutions built on deep industry, process, and engineering expertise. With over 300,000 associates globally, we bring together technical excellence and a genuinely collaborative culture. Learn more at cognizant.ai. About the Role We are looking for a Senior ServiceNow Consultant to join our growing practice in Sweden. This is a role for someone who leads — not just delivers. You will own requirements gathering, solution design, and end-to-end implementation for clients across the Nordic region, working across CMDB, Discovery, Service Mapping, and platform integrations, with the stakeholder confidence to do so independently. You will translate client needs into scalable ServiceNow architectures, design and develop integrations — including e-bonding with third-party platforms — write custom scripts and automation, and provide technical leadership across full project lifecycles. Contribution to pre-sales solutioning and effort estimation is also part of the picture. What You Bring You have solid hands-on experience with CSDM implementation and governance, CMDB, Discovery, Service Mapping, and ServiceNow platform administration. Your technical toolkit includes ServiceNow integrations via REST and SOAP APIs, JavaScript scripting, Business Rules, Script Includes, Flow Designer, and e-bonding implementations. You are experienced in enterprise-scale environments, comfortable operating independently, and bring strong stakeholder management skills. Prior Nordic region experience is a meaningful advantage. Experience with HAM or SAM is a welcome plus. Fluency in English is required. Proficiency in Swedish or Norwegian is highly desirable. Certifications Required: ServiceNow Certified System Administrator (CSA) · CIS – Data Foundation Nice to Have: ServiceNow Certified Application Developer (CAD) · Additional CIS certifications Additional Information Compensation information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law. Applicants may be required to attend interviews in person or by video conference. In addition, candidates may be required to present their current state or government issued ID during each interview. Cognizant is an equal opportunity employer. Your application and candidacy will not be considered based on race, color, sex, religion, creed, sexual orientation, gender identity, national origin, disability, genetic information, pregnancy, veteran status or any other characteristic protected by federal, state or local laws. If you have a disability that requires reasonable accommodation to search for a job opening or submit an application, please email CareersNA2@cognizant.com for roles based in the Americas or CareersIndia2@cognizant.com for roles based in India.",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31360857",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-17T14:39:45.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31360857",
-      "query": "servicenow consultant",
-      "id": "2fdf9088084f4c7f",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 65,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-08-28T12:24:18.990Z",
-      "isNew": false,
-      "keywordScore": 65
-    },
-    {
       "title": "ServiceNow Developer",
       "company": "Nordic Investin Group Aktiebolag",
       "location": "Stockholm, Stockholms län",
@@ -456,16 +425,16 @@
       "company": "Finders SA",
       "location": "Zürich",
       "remote": false,
-      "description": "What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now Assist, AI Agents and Service…",
-      "url": "https://www.adzuna.ch/details/5866889965?utm_medium=api&utm_source=8209e0ff",
+      "description": "Senior ServiceNow AI Engineer Senior ServiceNow AI Engineer What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to produc…",
+      "url": "https://www.adzuna.ch/land/ad/5866883784?se=fIvHp36y8RG9etnJjMYYkA&utm_medium=api&utm_source=8209e0ff&v=D8AEA783666B7751528027A3E0A917175ADC30D0",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-09-02T12:30:46.000Z",
+      "posted": "2026-09-02T12:29:40.000Z",
       "language": "en",
       "country": "ch",
       "source": "adzuna",
-      "sourceId": "5866889965",
+      "sourceId": "5866883784",
       "query": "servicenow consultant",
       "id": "3ba7b82a7b26ab43",
       "sources": [
@@ -479,6 +448,37 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-09-03T09:53:10.176Z",
+      "isNew": false,
+      "keywordScore": 60
+    },
+    {
+      "title": "Technical Architect - ServiceNow (m/f/d)*",
+      "company": "Unknown company",
+      "location": "München, München (Kreis)",
+      "remote": false,
+      "description": "Successful candidates must be prepared to relocate to the specified job location in the job posting and will be employed directly under the hiring entity's contractual terms. Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions . New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management pr…",
+      "url": "https://www.adzuna.de/land/ad/5887258441?se=4tKBvX6y8RGRr_JonSYGrg&utm_medium=api&utm_source=8209e0ff&v=B7EDF4691AA0A71BB4AEC644E2234204F067C31A",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-17T07:57:25.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5887258441",
+      "query": "service delivery manager",
+      "id": "99f9e520e0c07173",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-09-14T10:42:48.537Z",
       "isNew": false,
       "keywordScore": 60
     },
