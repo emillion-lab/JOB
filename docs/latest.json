@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:01:57.635Z",
+  "generatedAt": "2026-09-18T09:47:50.052Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 214,
+      "collected": 212,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 93,
+      "collected": 92,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 185,
+      "collected": 181,
       "status": "ok"
     },
     {
@@ -127,51 +127,20 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 183,
-  "totalBeforeLanguageFilter": 399,
+  "totalCollected": 151,
+  "totalBeforeLanguageFilter": 349,
   "byLanguage": {
-    "de": 187,
-    "en": 178,
-    "unknown": 5,
-    "fr": 2,
-    "no": 27
+    "de": 166,
+    "en": 147,
+    "unknown": 4,
+    "fr": 3,
+    "no": 29
   },
-  "totalScored": 12,
+  "totalScored": 7,
   "llmScored": 0,
   "totalMatched": 20,
-  "totalNew": 1,
+  "totalNew": 0,
   "jobs": [
-    {
-      "title": "Senior Consultant – IT Operations Management, ServiceNow",
-      "company": "The Bench",
-      "location": "München, München (Kreis)",
-      "remote": false,
-      "description": "Aachen, Berlin, Dortmund, Dresden, Erlangen, Frankfurt, Hamburg, Munich or Stuttgart (Hybrid) | Full-time | €75,000–100,000 gross/year We're hiring a Senior ITOM Consultant to join the largest ServiceNow partner in the DACH region. This role requires hands-on ServiceNow ITOM and CMDB expertise built over several years — not general ITSM exposure. Responsibilities Assess clients' current IT infrastructure and ITOM processes Independently lead ITOM projects and sub-projects Design future-state IT…",
-      "url": "https://www.adzuna.de/details/5885983576?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-16T12:47:31.000Z",
-      "language": "en",
-      "country": "de",
-      "source": "adzuna",
-      "sourceId": "5885983576",
-      "query": "servicenow consultant",
-      "id": "df97b596fec34b28",
-      "sources": [
-        "adzuna"
-      ],
-      "isNew": true,
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 60
-    },
     {
       "title": "HR IT Service Delivery Manager - 18881 - Upplands Väsby",
       "company": "Veritaz AB",
@@ -426,7 +395,7 @@
       "location": "Zürich",
       "remote": false,
       "description": "Senior ServiceNow AI Engineer Senior ServiceNow AI Engineer What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to produc…",
-      "url": "https://www.adzuna.ch/land/ad/5866883784?se=fIvHp36y8RG9etnJjMYYkA&utm_medium=api&utm_source=8209e0ff&v=D8AEA783666B7751528027A3E0A917175ADC30D0",
+      "url": "https://www.adzuna.ch/land/ad/5866883784?se=-p7K8EWz8RGcMc0HYqAkKw&utm_medium=api&utm_source=8209e0ff&v=D8AEA783666B7751528027A3E0A917175ADC30D0",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
@@ -457,7 +426,7 @@
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "Successful candidates must be prepared to relocate to the specified job location in the job posting and will be employed directly under the hiring entity's contractual terms. Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions . New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management pr…",
-      "url": "https://www.adzuna.de/land/ad/5887258441?se=4tKBvX6y8RGRr_JonSYGrg&utm_medium=api&utm_source=8209e0ff&v=B7EDF4691AA0A71BB4AEC644E2234204F067C31A",
+      "url": "https://www.adzuna.de/land/ad/5887258441?se=PPwZ80Wz8RG-HvXocs6iYQ&utm_medium=api&utm_source=8209e0ff&v=B7EDF4691AA0A71BB4AEC644E2234204F067C31A",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
@@ -479,6 +448,37 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-09-14T10:42:48.537Z",
+      "isNew": false,
+      "keywordScore": 60
+    },
+    {
+      "title": "Senior Consultant – IT Operations Management, ServiceNow",
+      "company": "The Bench",
+      "location": "München, München (Kreis)",
+      "remote": false,
+      "description": "Aachen, Berlin, Dortmund, Dresden, Erlangen, Frankfurt, Hamburg, Munich or Stuttgart (Hybrid) | Full-time | €75,000–100,000 gross/year We're hiring a Senior ITOM Consultant to join the largest ServiceNow partner in the DACH region. This role requires hands-on ServiceNow ITOM and CMDB expertise built over several years — not general ITSM exposure. Responsibilities Assess clients' current IT infrastructure and ITOM processes Independently lead ITOM projects and sub-projects Design future-state IT…",
+      "url": "https://www.adzuna.de/details/5885983576?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-16T12:47:31.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5885983576",
+      "query": "servicenow consultant",
+      "id": "df97b596fec34b28",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-09-17T10:01:57.633Z",
       "isNew": false,
       "keywordScore": 60
     },

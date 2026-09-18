@@ -7074,5 +7074,124 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "33e2758218d7d464": {
+    "firstSeen": "2026-09-18T09:47:50.049Z",
+    "lastSeen": "2026-09-18T09:47:50.049Z",
+    "title": "Support Coordinators",
+    "company": "LILT (Production)",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3a74e8d1a14c9d32": {
+    "firstSeen": "2026-09-18T09:47:50.049Z",
+    "lastSeen": "2026-09-18T09:47:50.049Z",
+    "title": "Engineering Manager (m/f/d)",
+    "company": "Unzer",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "71703f6e088c9c8f": {
+    "firstSeen": "2026-09-18T09:47:50.049Z",
+    "lastSeen": "2026-09-18T09:47:50.049Z",
+    "title": "Customer Success Manager (Remote-London)",
+    "company": "DeepJudge",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5ab08a5561f83228": {
+    "firstSeen": "2026-09-18T09:47:50.049Z",
+    "lastSeen": "2026-09-18T09:47:50.049Z",
+    "title": "Senior VP Sales (f/m/d)",
+    "company": "Clariness",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e463cbb571ce1909": {
+    "firstSeen": "2026-09-18T09:47:50.049Z",
+    "lastSeen": "2026-09-18T09:47:50.049Z",
+    "title": "Senior Business Development Director (f/m/d)",
+    "company": "Clariness",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9f2c660b9988c29b": {
+    "firstSeen": "2026-09-18T09:47:50.049Z",
+    "lastSeen": "2026-09-18T09:47:50.049Z",
+    "title": "Senior Business Development Director (f/m/d)",
+    "company": "Clariness",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d458282731b01b96": {
+    "firstSeen": "2026-09-18T09:47:50.049Z",
+    "lastSeen": "2026-09-18T09:47:50.049Z",
+    "title": "Billing Manager",
+    "company": "trawa",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
