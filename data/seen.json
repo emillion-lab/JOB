@@ -7193,5 +7193,379 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "45dbd6d451cd56dc": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "IT Project Manager (m/f/d)",
+    "company": "Retarus",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ebdd1d1302f3e287": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Support Analyst (German Speaking)",
+    "company": "Hawk",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d09cf91645e81ba3": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Salesforce Product Owner",
+    "company": "Andercore",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f24d42b6c8a526bd": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Technical Product Manager (d/f/m) - People Intelligence Apps",
+    "company": "Taxfix",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "baf6343c5ba4ab69": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Senior Commercial Leader / Entrepreneur in Residence (d/f/m)",
+    "company": "Taxfix",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1c559a74981e3877": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "(Senior / Staff) Product Manager - Growth (f/m/d)",
+    "company": "bunch",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d1de4f2b6727cfd2": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "(Senior) Information Security Officer (German)",
+    "company": "Hawk",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3871bfecde3ec06b": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Senior Product Manager - Finance Automation (f/m/d)",
+    "company": "Zeal Network",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "76a923e6502a5980": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Agent Deployment Manager",
+    "company": "Zauber Technology GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9407c1034d58a162": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Junior Cyber Security Consultant (m/f/x)",
+    "company": "Eye Security",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ba5398f642a80cf6": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Strategic Accounts Manager (m/f/d)",
+    "company": "Sereact GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8434c3d32772d78d": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Business Operations Associate",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "242aa66dd5689fd9": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Founder's Office Lead",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c509d95f94490227": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Head of Strategy and Product",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c5508a35a797751f": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Lead, Strategy",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "57400b61b80827b2": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Strategy & Operations Lead",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8a0371738e45542c": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Strategy & Operations Associate",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a9582b35e4d68f73": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Founder's Associate",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0bc69d49bb24a56b": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Care Expert - Customer Training (m/f/d)",
+    "company": "Voize",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "028eb5f7d0eee761": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Senior Collection Specialist Quality (m/w/d)",
+    "company": "Pair",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9b39352935c9cc8c": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Senior Systems Engineer | Avaloq Specialist",
+    "company": "coni+partner AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b59796fe9b8b0bd8": {
+    "firstSeen": "2026-09-21T10:46:07.805Z",
+    "lastSeen": "2026-09-21T10:46:07.805Z",
+    "title": "Risk & Security Coordinator",
+    "company": "Michael Bailey Associates",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
