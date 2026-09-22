@@ -7567,5 +7567,277 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "81715e2a8e045197": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Senior IT Consultant",
+    "company": "Beyond Tech AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "19db9f8d71f2184c": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Senior Embedded DevOps & Engineering Platform Engineer - Aviation (all genders)",
+    "company": "væridion",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6e15e72e62515c0e": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Financial Controller (all genders)",
+    "company": "væridion",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "35f1f815fcc8612e": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Technical Project Manager - ERP Implementation (all genders)",
+    "company": "væridion",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "109115b19835a8e2": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Sr Marketing Manager - DACH",
+    "company": "Legora",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d77d2bfbc2e813ef": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Senior HR IT Project Lead - SAP HCM / Integrations / Carve-out (Freelance only, Nearshore)",
+    "company": "Sidekick Network GmbH & Co. KG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "37f64379f5b62b0c": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Senior ERP Solutions Consultant",
+    "company": "Zip",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c053de09c9d6c96e": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Fullstack Engineer - Mid Level - Actions Team",
+    "company": "Staffbase",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fced7612c07b85c6": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Manager of Data Science & Analytics, Help Experience",
+    "company": "Vinteden",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4f121506d4c88d65": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "PTW Consultant",
+    "company": "Eccoci AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9130160349d68b87": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Cisco Networking consultant",
+    "company": "Bumbli Group AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a3be3315923f2632": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Software / Platform Engineer Consultant",
+    "company": "Sigma Connectivity Engineering AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "387c11982551f5bc": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Backend Developer Berlin (m/f/d)",
+    "company": "Doopic GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6fa2fecc197a32f9": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Staff Engineer (m/f/d)",
+    "company": "Solactive AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4b7087887e33598d": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Senior Backend Engineer - Databases - Analytics | Germany | Remote",
+    "company": "grafanalabs",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6f739fc6b3a2318e": {
+    "firstSeen": "2026-09-22T09:59:54.746Z",
+    "lastSeen": "2026-09-22T09:59:54.746Z",
+    "title": "Engineering Manager - Observability | Germany | Remote",
+    "company": "grafanalabs",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

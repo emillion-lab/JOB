@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T10:46:07.808Z",
+  "generatedAt": "2026-09-22T09:59:54.748Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 215,
+      "collected": 212,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 167,
+      "collected": 184,
       "status": "ok"
     },
     {
@@ -127,50 +127,19 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 191,
-  "totalBeforeLanguageFilter": 382,
+  "totalCollected": 184,
+  "totalBeforeLanguageFilter": 401,
   "byLanguage": {
-    "de": 160,
-    "en": 190,
-    "unknown": 1,
-    "no": 31
+    "de": 183,
+    "en": 180,
+    "unknown": 4,
+    "no": 34
   },
-  "totalScored": 22,
+  "totalScored": 16,
   "llmScored": 0,
   "totalMatched": 18,
-  "totalNew": 1,
+  "totalNew": 0,
   "jobs": [
-    {
-      "title": "IT Project Manager (m/f/d)",
-      "company": "Retarus",
-      "location": "München, München (Kreis)",
-      "remote": false,
-      "description": "Become IT Project Manager (m/f/d) at Retarus. Retarus is a worldwide provider of cloud-based messaging solutions at enterprise scale. We serve over 40% of the companies listed on the S&P Global 100, e.g. Adidas, Bayer, SAP, BNP Paribas, Goldman Sachs, T-Systems, Swarovski & UPS , as well as governmental agencies and major players in markets across the world. Privately owned and founder-managed for over thirty years, Retarus is customer-oriented, stable, a fair employer, and a strategic business…",
-      "url": "https://www.adzuna.de/details/5891907402?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-20T18:23:09.000Z",
-      "language": "en",
-      "country": "de",
-      "source": "adzuna",
-      "sourceId": "5891907402",
-      "query": "incident manager",
-      "id": "45dbd6d451cd56dc",
-      "sources": [
-        "adzuna"
-      ],
-      "isNew": true,
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 55
-    },
     {
       "title": "HR IT Service Delivery Manager - 18881 - Upplands Väsby",
       "company": "Veritaz AB",
@@ -393,16 +362,16 @@
       "company": "Finders SA",
       "location": "Zürich",
       "remote": false,
-      "description": "Senior ServiceNow AI Engineer Senior ServiceNow AI Engineer What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to produc…",
-      "url": "https://www.adzuna.ch/land/ad/5866883784?se=WjGrlKm18RGgyPAuug4ABg&utm_medium=api&utm_source=8209e0ff&v=D8AEA783666B7751528027A3E0A917175ADC30D0",
+      "description": "What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now Assist, AI Agents and Service…",
+      "url": "https://www.adzuna.ch/details/5866889965?utm_medium=api&utm_source=8209e0ff",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-09-02T12:29:40.000Z",
+      "posted": "2026-09-02T12:30:46.000Z",
       "language": "en",
       "country": "ch",
       "source": "adzuna",
-      "sourceId": "5866883784",
+      "sourceId": "5866889965",
       "query": "servicenow consultant",
       "id": "3ba7b82a7b26ab43",
       "sources": [
@@ -425,7 +394,7 @@
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "Successful candidates must be prepared to relocate to the specified job location in the job posting and will be employed directly under the hiring entity's contractual terms. Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions . New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management pr…",
-      "url": "https://www.adzuna.de/land/ad/5887258441?se=1Jdmmam18RGc5IY_8jS9tg&utm_medium=api&utm_source=8209e0ff&v=B7EDF4691AA0A71BB4AEC644E2234204F067C31A",
+      "url": "https://www.adzuna.de/land/ad/5887258441?se=dkT5Tmy28RG_ufLnE1x16Q&utm_medium=api&utm_source=8209e0ff&v=B7EDF4691AA0A71BB4AEC644E2234204F067C31A",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
@@ -540,6 +509,37 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-08-28T08:16:02.689Z",
+      "isNew": false,
+      "keywordScore": 55
+    },
+    {
+      "title": "IT Project Manager (m/f/d)",
+      "company": "Retarus",
+      "location": "München, München (Kreis)",
+      "remote": false,
+      "description": "Become IT Project Manager (m/f/d) at Retarus. Retarus is a worldwide provider of cloud-based messaging solutions at enterprise scale. We serve over 40% of the companies listed on the S&P Global 100, e.g. Adidas, Bayer, SAP, BNP Paribas, Goldman Sachs, T-Systems, Swarovski & UPS , as well as governmental agencies and major players in markets across the world. Privately owned and founder-managed for over thirty years, Retarus is customer-oriented, stable, a fair employer, and a strategic business…",
+      "url": "https://www.adzuna.de/details/5891907402?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-20T18:23:09.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5891907402",
+      "query": "incident manager",
+      "id": "45dbd6d451cd56dc",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-09-21T10:46:07.805Z",
       "isNew": false,
       "keywordScore": 55
     },
