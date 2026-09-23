@@ -7839,5 +7839,260 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "444c619fb0ee9135": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "(Senior) Controller",
+    "company": "YAZIO",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "768451b561700905": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Engineering Manager - Go-to-Market (m/f/d)",
+    "company": "Statista",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5373046c978f8c3f": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Desktop Support Engineer Level 1",
+    "company": "H-Tech Supports",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ca3ea05cde1f047f": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Senior Data Scientist, Forecasting & Elasticity (m/f/x)",
+    "company": "rebuy",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a3ee8e7173057ee2": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Senior Data Scientist, Forecasting & Elasticity (m/f/x) Freelance",
+    "company": "rebuy",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "326a3b9c1e3d0eaa": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Senior Security Engineer I, Customer Trust EMEA (Remote Eligible in the UK)",
+    "company": "smartsheet",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "daa51924b5a33923": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Sales Operations Manager (B2B)",
+    "company": "AMBOSS",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "30bcf1045d8d6b5a": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Functional Safety Programmer",
+    "company": "RobCo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fbdd2f9007f164ea": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Workplace and Company Operations Manager (m/f/d)",
+    "company": "RobCo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d8ed24325b9670b7": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Working Student Procurement",
+    "company": "Statista",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cec840f42480d6e1": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Revenue Operations Process Manager (m/f/d)",
+    "company": "Statista",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cb2e80b1873a64b7": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "(Senior) Controller (m/f/d)",
+    "company": "Statista",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4e7585d1200b4ac4": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Senior Technical Product Manager - Carbon and Environmental Models (all genders)",
+    "company": "Klim",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f2d5cfeea4719855": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Consulting Manager (m/f/d) Data & AI Strategy",
+    "company": "Artefact",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d7fe6be410a94c9e": {
+    "firstSeen": "2026-09-23T10:01:58.326Z",
+    "lastSeen": "2026-09-23T10:01:58.326Z",
+    "title": "Management Consultant",
+    "company": "The Boston Consulting Group Nordic AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
