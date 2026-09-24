@@ -8094,5 +8094,277 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "820b98b2b0b30bc8": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Supply Chain Manager",
+    "company": "Auterion",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "76dbf266c57b0aa2": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Logistics Manager - Retail & D2C (m/f/d)",
+    "company": "Holy",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cc07f9be4748034b": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Senior Product Manager (all genders) | B2B",
+    "company": "Real Digital",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f0439204b69d9e77": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Account Executive, Enterprise",
+    "company": "Creatio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "713d28a5e4f950f9": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Marketing Manager",
+    "company": "Dandy",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fbce4815e2b36b93": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Founders Associate – COO Office -Product Communication & Change Management (all genders)",
+    "company": "Lio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ac859002f044e957": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "AML Oversight Working Student",
+    "company": "Trading212",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "79a868c8ba52070c": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Associate - U.S. Tax",
+    "company": "PwC",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bd7f3ae36ca7b9d1": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Solution Architect - M365 Collaboration & SharePoint Online (m/f/d)*",
+    "company": "Unknown company",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5a877f14f5b87c34": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Strategic Account Manager (m/w/d)",
+    "company": "Richard Hönig Wirtschaftsberatungen",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a3aed55b54aae30e": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Senior AI Search engineer(m/f/x)",
+    "company": "commercetools",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d3a992930d9c5abc": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Working Student - IT Asset & Stock Management (x/f/m)",
+    "company": "Doctolib",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "95e40c42c0825c5f": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Medical Data Intern (x/f/m)",
+    "company": "Doctolib",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "38fe0425a9c6a35a": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Senior Software Engineer, Data",
+    "company": "engelhart",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "24b6398b5b2e634f": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Client Solutions Director / Solution Design Architect",
+    "company": "OLIVER",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "931cfabf92b31add": {
+    "firstSeen": "2026-09-24T10:03:48.140Z",
+    "lastSeen": "2026-09-24T10:03:48.140Z",
+    "title": "Working Student Integrations",
+    "company": "Dataleap",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

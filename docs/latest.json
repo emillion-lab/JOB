@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T10:01:58.328Z",
+  "generatedAt": "2026-09-24T10:03:48.142Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 211,
+      "collected": 213,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 89,
+      "collected": 90,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 227,
+      "collected": 214,
       "status": "ok"
     },
     {
@@ -127,17 +127,18 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 245,
-  "totalBeforeLanguageFilter": 439,
+  "totalCollected": 182,
+  "totalBeforeLanguageFilter": 432,
   "byLanguage": {
-    "de": 160,
-    "en": 244,
+    "de": 212,
+    "en": 181,
     "unknown": 1,
-    "no": 34
+    "no": 35,
+    "fr": 3
   },
-  "totalScored": 15,
+  "totalScored": 16,
   "llmScored": 0,
-  "totalMatched": 18,
+  "totalMatched": 17,
   "totalNew": 0,
   "jobs": [
     {
@@ -296,37 +297,6 @@
       "keywordScore": 65
     },
     {
-      "title": "Senior Consultant / Manager ServiceNow - Technology Strategy & Transformation",
-      "company": "Job-Room",
-      "location": "Zürich",
-      "remote": false,
-      "description": "Basic information Business line Technology & Transformation City Zurich Experience level Experienced Working time percentage 80% - 100% Date published 25-Aug-2026 Req \\\\ 24788 Job description Location: Zurich Switzerland Work Pattern Percentage: 80-100% Advance cutting-edge business areas with your expertise Deloitte Consulting, you support organizations together with our other specialists in technology strategy and transformation to develop strategies and implement systems that create bus…",
-      "url": "https://www.adzuna.ch/details/5877098985?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-09T14:14:49.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5877098985",
-      "query": "it service management",
-      "id": "a08b9e9c2ed4d862",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-09-10T09:47:36.551Z",
-      "isNew": false,
-      "keywordScore": 60
-    },
-    {
       "title": "Consultant ServiceNow Governance, Risk & Compliance (all genders)",
       "company": "Job-Room",
       "location": "Zürich",
@@ -362,16 +332,16 @@
       "company": "Finders SA",
       "location": "Zürich",
       "remote": false,
-      "description": "Senior ServiceNow AI Engineer Senior ServiceNow AI Engineer What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to produc…",
-      "url": "https://www.adzuna.ch/land/ad/5866883784?se=lEThpjW38RGnz51WYixMjA&utm_medium=api&utm_source=8209e0ff&v=D8AEA783666B7751528027A3E0A917175ADC30D0",
+      "description": "What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now Assist, AI Agents and Service…",
+      "url": "https://www.adzuna.ch/land/ad/5866889965?se=jDJ_Jv-38RGD1MY5miX6gw&utm_medium=api&utm_source=8209e0ff&v=5A670DB92EC774BFDFC96450A4F8CD303C6787DB",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-09-02T12:29:40.000Z",
+      "posted": "2026-09-02T12:30:46.000Z",
       "language": "en",
       "country": "ch",
       "source": "adzuna",
-      "sourceId": "5866883784",
+      "sourceId": "5866889965",
       "query": "servicenow consultant",
       "id": "3ba7b82a7b26ab43",
       "sources": [
@@ -394,7 +364,7 @@
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "Successful candidates must be prepared to relocate to the specified job location in the job posting and will be employed directly under the hiring entity's contractual terms. Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions . New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management pr…",
-      "url": "https://www.adzuna.de/land/ad/5887258441?se=IoS7vTW38RGZdMljNo-j9A&utm_medium=api&utm_source=8209e0ff&v=B7EDF4691AA0A71BB4AEC644E2234204F067C31A",
+      "url": "https://www.adzuna.de/details/5887258441?utm_medium=api&utm_source=8209e0ff",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
