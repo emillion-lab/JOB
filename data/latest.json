@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:03:48.142Z",
+  "generatedAt": "2026-09-25T10:13:35.062Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 213,
+      "collected": 210,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 90,
+      "collected": 88,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 214,
+      "collected": 158,
       "status": "ok"
     },
     {
@@ -127,51 +127,20 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 182,
-  "totalBeforeLanguageFilter": 432,
+  "totalCollected": 135,
+  "totalBeforeLanguageFilter": 372,
   "byLanguage": {
-    "de": 212,
-    "en": 181,
+    "de": 193,
+    "en": 134,
     "unknown": 1,
-    "no": 35,
-    "fr": 3
+    "no": 40,
+    "fr": 4
   },
-  "totalScored": 16,
+  "totalScored": 24,
   "llmScored": 0,
-  "totalMatched": 17,
+  "totalMatched": 14,
   "totalNew": 0,
   "jobs": [
-    {
-      "title": "HR IT Service Delivery Manager - 18881 - Upplands Väsby",
-      "company": "Veritaz AB",
-      "location": "Sweden",
-      "remote": false,
-      "description": "Veritaz is a leading IT staffing solutions provider in Sweden, committed to advancing individual careers and aiding employers in ensuring the perfect talent fit. With a proven track record of successful partnerships with top companies, we have rapidly grown our presence in the USA, Europe, and Sweden as a dependable and trusted resource within the IT industry. Assignment Description We are looking for an experienced HR IT Service Manager What You Will Work On Act as the main IT contact and coordinator for HR-related IT matters Collect, structure and prioritize HR business requirements Manage and develop HR systems, integrations and related services Support incident management, changes and continuous improvements Coordinate vendors and external suppliers Manage and coordinate IT activities related to Workday implementation Coordinate Workday integrations and support transition from project to operations Support decommissioning of legacy systems and integrations after go-live Support HR-related aspects of the SiteVision intranet transformation Support configuration and development activities in Quinyx Handle escalated cases in Freshservice Maintain HR system documentation and architecture information in Confluence Develop and maintain SAD documentation for Workday Support demand management and establish operational forums Follow up budgets, invoices and financial activities Perform and follow up ITGC controls Work closely with HR specialists, super users, IT teams and suppliers Drive improvements in HR, IT, service management and system governance What You Bring Documented experience as an IT Service Manager, Application Manager, System Manager, Service Delivery Manager or similar Strong experience working between business and IT Good understanding of HR processes and HR Master Data Experience with HR systems and system management Experience with requirements gathering, prioritization and vendor management Strong understanding of integrations, incidents, changes and operational support Experience working with business stakeholders, IT teams, specialists and external suppliers Strong documentation, coordination and organizational skills Experience with Workday, particularly implementation, administration, integrations or vendor management Workday certification or equivalent experience Very good Swedish and English, both written and spoken",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31391984",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-25T08:53:00.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31391984",
-      "query": "service delivery manager",
-      "id": "5c300c8be7bb46bd",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 75,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-08-28T12:24:18.990Z",
-      "isNew": false,
-      "keywordScore": 75
-    },
     {
       "title": "IT Service Delivery Manager",
       "company": "Nordic Investin Group Aktiebolag",
@@ -295,68 +264,6 @@
       "firstSeen": "2026-09-14T10:42:48.537Z",
       "isNew": false,
       "keywordScore": 65
-    },
-    {
-      "title": "Consultant ServiceNow Governance, Risk & Compliance (all genders)",
-      "company": "Job-Room",
-      "location": "Zürich",
-      "remote": false,
-      "description": "Shape the future of risk and compliance in one of Switzerland's leading banking transformations. Bring your ServiceNow IRM expertise to complex projects and help organizations build resilient, compliant digital operations. Your Mission Join our growing ServiceNow practice and help drive a major transformation program for a leading Swiss financial institution. As a Consultant specializing in ServiceNow Governance, Risk & Compliance, you will work at the intersection of business, technology, and …",
-      "url": "https://www.adzuna.ch/details/5878440301?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-10T14:06:26.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5878440301",
-      "query": "servicenow consultant",
-      "id": "93812aaae538ec02",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-09-11T09:43:53.410Z",
-      "isNew": false,
-      "keywordScore": 60
-    },
-    {
-      "title": "Senior ServiceNow AI Engineer",
-      "company": "Finders SA",
-      "location": "Zürich",
-      "remote": false,
-      "description": "What we are looking ? Senior ServiceNow AI Engineer Location: Zurich Workload: 80-100% Employment: Permanent Our client, a leading Swiss IT services organisation, is looking for an experienced Senior ServiceNow AI Engineer to drive AI, GenAI and intelligent automation within its ServiceNow platform. Your responsibilities: Develop and implement the ServiceNow AI and automation roadmap Identify and deliver AI use cases from PoC to production Build solutions using Now Assist, AI Agents and Service…",
-      "url": "https://www.adzuna.ch/land/ad/5866889965?se=jDJ_Jv-38RGD1MY5miX6gw&utm_medium=api&utm_source=8209e0ff&v=5A670DB92EC774BFDFC96450A4F8CD303C6787DB",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-02T12:30:46.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5866889965",
-      "query": "servicenow consultant",
-      "id": "3ba7b82a7b26ab43",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-09-03T09:53:10.176Z",
-      "isNew": false,
-      "keywordScore": 60
     },
     {
       "title": "Technical Architect - ServiceNow (m/f/d)*",
