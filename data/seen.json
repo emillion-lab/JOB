@@ -8774,5 +8774,430 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "fcfd6f3811f1f1cd": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Executive, Office of the CEO",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3dbd3bcd426ee736": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Technical Program Manager",
+    "company": "SoSafe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cac154509f26647a": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Sr. Manager, Quality Assurance",
+    "company": "Acadia Job Listings",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "de8970c681afed1c": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Technical Program Manager (AI/ML)",
+    "company": "Cuspai",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d477f698a5eecbf8": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Technical Founder's Associate (Berlin, on-site)",
+    "company": "Sensmore",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5a5e40a8227230c0": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Site Reliability Engineer / SRE (all genders)",
+    "company": "Lio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a21f873c72c8807c": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Senior Systems Engineer Avaloq System",
+    "company": "coni+partner AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3d2892d45171c46d": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Senior Manager Life Insurance - Actuarial Services, Audit & Assurance (22037)",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d97d814476464189": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Fund Research Analyst",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bd62864c6d988231": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Senior Relationship Manager - International Clients",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "17b3b0a3095017b1": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Operations Manager/Site Lead",
+    "company": "RIVR",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a3fcb50bd5fbd944": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Security Guard",
+    "company": "Helsing",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "98b30de3791f1719": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "UX Design Consultant",
+    "company": "Embark Studios AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4d0b258dacea5b22": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Tech & Engineering Investment Consultant",
+    "company": "Vacker Sten AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9cd438b38c610b44": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Software Engineer",
+    "company": "Preiswecker",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "31dcd964590c2873": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Global Talent Acquisition & People Operations Partner (m/f/x)",
+    "company": "Progyny Global",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a91783ccf44976dc": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Influencer Marketing Manager (m/f/d) | German Speaking",
+    "company": "Yepoda",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2010b319e9b6fa4d": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Lead, Special Projects",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "560b5d3c44a7ede8": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Chief of Staff",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5733ee94b628df9b": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Director, Office of the CEO",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4fd1087b89bd84c6": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Director, Business Operations",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "418e6fc1c5cd12f9": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Senior DevOps Engineer (AWS + CDK)",
+    "company": "JTL-Software-GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0039c3b0f3e2b690": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Senior Digital Creative (gn) AI Focus",
+    "company": "Bikeleasing",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f61888cff80d2910": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Digital Marketing Executive",
+    "company": "Transreport Limited",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1dbe56c82eacf865": {
+    "firstSeen": "2026-09-28T11:43:22.067Z",
+    "lastSeen": "2026-09-28T11:43:22.067Z",
+    "title": "Chief Financial Officer (all genders)",
+    "company": "deskbird Careers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

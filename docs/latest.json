@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:13:35.062Z",
+  "generatedAt": "2026-09-28T11:43:22.070Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 210,
+      "collected": 200,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 88,
+      "collected": 87,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 158,
+      "collected": 214,
       "status": "ok"
     },
     {
@@ -127,18 +127,16 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 135,
-  "totalBeforeLanguageFilter": 372,
+  "totalCollected": 164,
+  "totalBeforeLanguageFilter": 407,
   "byLanguage": {
-    "de": 193,
-    "en": 134,
-    "unknown": 1,
-    "no": 40,
-    "fr": 4
+    "de": 207,
+    "en": 164,
+    "no": 36
   },
-  "totalScored": 24,
+  "totalScored": 25,
   "llmScored": 0,
-  "totalMatched": 14,
+  "totalMatched": 13,
   "totalNew": 0,
   "jobs": [
     {
@@ -293,37 +291,6 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-09-14T10:42:48.537Z",
-      "isNew": false,
-      "keywordScore": 60
-    },
-    {
-      "title": "Senior Consultant – IT Operations Management, ServiceNow",
-      "company": "The Bench",
-      "location": "München, München (Kreis)",
-      "remote": false,
-      "description": "Aachen, Berlin, Dortmund, Dresden, Erlangen, Frankfurt, Hamburg, Munich or Stuttgart (Hybrid) | Full-time | €75,000–100,000 gross/year We're hiring a Senior ITOM Consultant to join the largest ServiceNow partner in the DACH region. This role requires hands-on ServiceNow ITOM and CMDB expertise built over several years — not general ITSM exposure. Responsibilities Assess clients' current IT infrastructure and ITOM processes Independently lead ITOM projects and sub-projects Design future-state IT…",
-      "url": "https://www.adzuna.de/details/5885983576?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-16T12:47:31.000Z",
-      "language": "en",
-      "country": "de",
-      "source": "adzuna",
-      "sourceId": "5885983576",
-      "query": "servicenow consultant",
-      "id": "df97b596fec34b28",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-09-17T10:01:57.633Z",
       "isNew": false,
       "keywordScore": 60
     },
