@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T11:43:22.070Z",
+  "generatedAt": "2026-09-29T11:23:33.557Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 200,
+      "collected": 205,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 214,
+      "collected": 211,
       "status": "ok"
     },
     {
@@ -127,18 +127,80 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 164,
-  "totalBeforeLanguageFilter": 407,
+  "totalCollected": 171,
+  "totalBeforeLanguageFilter": 422,
   "byLanguage": {
-    "de": 207,
-    "en": 164,
-    "no": 36
+    "de": 213,
+    "en": 171,
+    "no": 38
   },
-  "totalScored": 25,
+  "totalScored": 19,
   "llmScored": 0,
-  "totalMatched": 13,
-  "totalNew": 0,
+  "totalMatched": 14,
+  "totalNew": 2,
   "jobs": [
+    {
+      "title": "Team Manager - Service",
+      "company": "Silex Microsystems AB",
+      "location": "Järfälla, Stockholms län",
+      "remote": false,
+      "description": "Silex Microsystems is the world’s leading pure-play MEMS foundry. We customize MEMS solutions for prominent global clients in industries such as pharmaceuticals, consumer electronics, and the automotive industry. We were founded in 2000 in a KTH lab by, among others, current CEO Edvard Kälvesten. Our headquarters and factory are located in Järfälla. About the role Silex team is growing and to support our growing organisation we are now adding four experienced and structured Team Managers to lead and develop our Service Team within Manufacturing. We are looking for Team managers for below areas: Plasma etch and DRIE Plasma Dep and Furnace Lithography and Bond Wet Chemistry, Analysis and Backend In this role, you will have a key responsibility for your team’s performance, development, and daily operations. You will combine people leadership with planning, coordination, and follow-up of maintenance and service activities, working closely with colleagues across Manufacturing to ensure reliable and efficient production. You will be responsible for a team of about 10 Service Technicians. You will be part of a highly collaborative production environment where clear communication, structured planning, and continuous improvement are important. The role is well suited for someone who enjoys leading people while also having a big interest and experience in technology, maintenance, and production. Key Responsibilities As a Team Manager, you will lead and support a team of Service Technicians and ensure that the team has the right conditions to perform and develop. You will work closely with Area Managers, Engineers and other functions to coordinate activities, priorities, and resources. Besides the personnel responsibility, you will also be expected to work hands-on in the clean room together with your team. Your responsibilities will include, but are not limited to: Lead, support, and develop Service Technicians through clear communication, feedback, and regular follow-up. Set and follow up individual and team goals and support competence development. Plan, coordinate and if needed, perform, maintenance activities and allocate work based on priorities, competence, and available resources. Coordinate activities and priorities with other teams and shifts. Follow up KPIs, maintenance activities, and agreed improvement actions. Identify and escalate issues, risks, and resource needs when required. Coordinate with external suppliers and service partners when needed. Contribute to a safe, reliable, and continuously improving production environment. We are looking for someone who We believe you have experience leading or coordinating people in a technical, production, or maintenance environment. You are comfortable taking responsibility, creating structure, and working with different stakeholders to move activities forward. You have: A bachelor’s degree in engineering or at least 10 years of relevant experience within mechanical, electrical, or industrial maintenance. Technical experience of equipment, maintenance, and production environments from a similar industry. Experience in leadership, coordination, and people management. Strong communication skills and the ability to support and develop others. Strong planning and organizational skills. The ability to prioritize and coordinate several activities in a dynamic environment. A structured and solution-oriented way of working. The ability to build good relationships and collaborate across teams and organizational levels. Fluency in English, spoken and written. Swedish is considered highly beneficial. More about the recruitment process We apply an ongoing recruitment process and therefore encourage you to submit your application as soon as possible. To apply, please attach your CV and answer a few questions. In the process, we work with a competence-based approach, which will include a personality and logic test, as well as reference checks. We will also conduct both a background check and a d",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31528298",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-28T15:11:01.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31528298",
+      "query": "service manager",
+      "id": "7e602872e278c26d",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 40
+    },
+    {
+      "title": "Customer Service / Account Manager",
+      "company": "Swedish Nutra AB",
+      "location": "MALMÖ, Skåne län",
+      "remote": false,
+      "description": "About Us: Swedish Nutra is a Malmö-based family company and a leading provider of premium liquid vitamins and nutritional supplements. We are a growing company with distribution all over the world. We offer a warm and pleasant work environment and care that each individual thrives. Swedish Nutra offers an enterprising environment with good opportunities to develop and grow in the work role. Position Overview: As part of our exciting expansion, we’re on the lookout for a energetic and organized colleague to join our team. In this role, you will be the a contact for our customers, helping them with inquiries, resolving issues, and promoting our range of products. A large part of this role is Sales. You will actively drive sales and upsales i your day to day business. You will play a critical role in enhancing customer satisfaction and driving sales! Key Responsibilities: Deliver outstanding customer service that delights our clients. Efficiently handle customer inquiries and resolve any complaints. Process orders and manage customer accounts. Maintain a deep understanding of our product line to effectively assist customers. Drive inhouse sales Requirements: Communication and interpersonal skills. Ability to build and maintain positive customer relationships. Basic knowledge within logistics (aka you don´t have to be an expert) Problem-solving skills and attention to detail. Strong work ethic and the ability to work independently. Fluent in English How to Apply: Please send your resume and a cover letter highlighting your relevant experience to: hr@swedishnutra.com Important: add job title \"Customer Service / Account Manager\" in the subject line when applying.",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31530848",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-29T10:16:40.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31530848",
+      "query": "service manager",
+      "id": "efdfa6dc7e70cbb0",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 40
+    },
     {
       "title": "IT Service Delivery Manager",
       "company": "Nordic Investin Group Aktiebolag",
@@ -510,37 +572,6 @@
       "firstSeen": "2026-09-07T10:21:37.328Z",
       "isNew": false,
       "keywordScore": 45
-    },
-    {
-      "title": "Cybersecurity Project Manager - Service",
-      "company": "Hitachi Energy Sweden AB",
-      "location": "Västerås, Västmanlands län",
-      "remote": false,
-      "description": "The opportunity You will be a part of the future Energy Transformation as a Cybersecurity project manager at Hitachi Energy. You will be responsible for overseeing and driving the successful execution of various cybersecurity activities within our delivery projects You will ensure that activities are performed on time, within budget and meet the high-security standards expected from a global technology leader. “We are proud to deliver HVDC system solutions that are supporting the energy transition all over the world. As a Cybersecurity Project Manager, you will be an important player in our delivery of Critical National Infrastructure, CNI, and support the Project Director and the team with customer activities as well as making sure Cybersecurity activities are on time. This is your chance to make a difference”- Björn Stenberg, Cybersecurity Operations Manager at HVDC How you’ll make an impact Lead the planning, execution, and closing of cybersecurity activities, including but not limited to security incident response, customer dialogue in relation to requirements for Cybersecurity and standards, vulnerability management, risk assessments, and operational security process improvements. Execute project activities according to base time schedule and targets. Define resource requirements in collaboration with stakeholders across various technical disciplines. Manage comprehensive project plans, schedules, and budgets, tracking progress and reporting on key milestones and risks to Project Directors and management. Identify, assess, and mitigate project risks and issues, developing contingency plans and escalating critical concerns as necessary Facilitate effective communication and collaboration among project team members, vendors, and internal and external stakeholders. Your background As a Project Manager you are structured, open-minded and communicative. Proven working experience in relevant field e.g. within HVDC Project Management, Cybersecurity, or similar. Bachelor’s degree in a technical field or have equivalent work experience. As you will be part of a company that operates on a global arena, fluency in English is required. Swedish is strongly preferable for collaboration with local stakeholders. Good communication skills in Swedish and English, both written and verbal. You are a curious person with the drive to challenge yourself and the organization for continuous development in both short and long term. Contract Management experience and experience from field operations, C&P engineering and main circuit equipment is considered valuable What we offer Collective agreement Flexible working time Health care and wellness allowance Fantastic career possibilities within Hitachi Energy both within Sweden and globally Mentor to support you throughout onboard phase Various trainings and education supporting employee development​ Diversified company with over 70+ nationalities working in Sweden Supplementary compensation for parental leave Employee Benefit Portal with thousands of discounts and perks More about us Are you ready for a new exciting challenge? Does the above description sound like you? Welcome to apply! Applications will be reviewed on an ongoing basis, so don’t delay – apply today! Recruiting Manager Björn Stenberg bjorn.c.stenberg@hitachienergy.com will answer your questions about the position. Union representatives - Sveriges Ingenjörer: Nawzad Rashid , +46 107-38 91 48; Unionen: Ingrid Rinaldo, +46 107-38 58 19; Ledarna: Frank Hollstedt, +46 107-38 70 43. All other questions can be directed to Talent Acquisition Partner Fredrik Söder, fredrik.soder@hitachienergy.com.",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31343810",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-08-12T11:16:30.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31343810",
-      "query": "service manager",
-      "id": "9dad23340d0bccfc",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-08-28T12:24:18.990Z",
-      "isNew": false,
-      "keywordScore": 40
     }
   ]
 }

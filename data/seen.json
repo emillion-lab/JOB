@@ -9199,5 +9199,328 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "7e602872e278c26d": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Team Manager - Service",
+    "company": "Silex Microsystems AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "efdfa6dc7e70cbb0": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Customer Service / Account Manager",
+    "company": "Swedish Nutra AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fed7df4f6fa6bf5f": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Senior Operations Specialist",
+    "company": "Precisionmedicinegroup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4f2a31977920a38f": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Principal Managed Services Consultant",
+    "company": "Valiantys",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a6eccbec4eca51ad": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Cloud Operations Lead",
+    "company": "Xelon AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4cc5139342d39772": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Founding Engineer - Application & Deployment Lead",
+    "company": "Anton Robotics",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a6f34dafec3cd0ee": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Sales Development Representative (all genders)",
+    "company": "Lio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fa4ae88fbf9b5785": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Staff Product Designer",
+    "company": "Superhuman",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a18831f4cd450f12": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Senior Frontend Engineer (Kotlin) - Frontend Core",
+    "company": "Trading212",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "374f2af7c2232896": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Full Stack Product Engineer (100% Remote - Germany | UK | Ireland)",
+    "company": "Innocraft",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1556e1b5e09e93da": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Senior Strategist Data & AI (m/f/d)",
+    "company": "Jung von Matt",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0a380f2b6b06c1d8": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Senior Strategist (d/f/m)",
+    "company": "Jung von Matt",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a1763d6f0fc03c09": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Senior Sales Consultant Smart Grids (all genders)",
+    "company": "Envelio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0a8e718e9593e13b": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Chief of Staff / Director CEO Office",
+    "company": "Hypersonica",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cef5a2aa2024b0b6": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Senior Engineering Manager, Ad Performance Recommendation",
+    "company": "Smartly",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6d0831d6bec1634a": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Senior Analytics Engineer (Multiple Domains)",
+    "company": "Wolt - English",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b03e9963a9dc8fd5": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Senior Medical Writer/Principal Medical Writer",
+    "company": "Precisionmedicinegroup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7bd66ff19d54b35f": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Senior Account Manager",
+    "company": "Precisionmedicinegroup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a1106a228327439d": {
+    "firstSeen": "2026-09-29T11:23:33.553Z",
+    "lastSeen": "2026-09-29T11:23:33.553Z",
+    "title": "Engineering Director",
+    "company": "Precisionmedicinegroup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
