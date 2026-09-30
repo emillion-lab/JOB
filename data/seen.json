@@ -9522,5 +9522,260 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "91e9c60101b3a1a4": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Filed Service Manager - Scanjet in Gothenburg or Sjöbo",
+    "company": "Alfa Laval Technologies AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f8e3d1d91b069619": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Change Manager (m/w/d)",
+    "company": "Rohlik",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fc30f19cd22dc681": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "MSP Engineer, Network and Security - Rotating shifts",
+    "company": "Brixio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "94ea6fcf0f8daab7": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Head of Customer Service (all genders)",
+    "company": "Sunday Natural",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2a4159b04d3370be": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Engineering Manager, Dedicated Integrations",
+    "company": "gitlab",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "09b0162a665ac7fd": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Professional Services Engineer - Cloudflare Implementation",
+    "company": "Brixio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9b33bf1da0d6b75a": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Customer Success Manager, Managed Services and Support",
+    "company": "Brixio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "440b0817deaf4116": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "AI Automation Specialist",
+    "company": "BLP Digital AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8abf19fbfb5d33e3": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Senior Engineering Project Manager -Automotive Systems (M/W/D)",
+    "company": "Mobileye",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "24b2ee9fb28b8778": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Senior Operations Manager (f/m/d)",
+    "company": "Clariness",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bd049d23958fd94e": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Senior Operations Manager (f/m/d)",
+    "company": "Clariness",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8f19228a89a8a9dd": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Finance Data & Systems Analyst (FP&A)",
+    "company": "Lovehoney Group",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6a703465a80b4bb4": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Director – Strategic Growth & Business Development",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "dbb9ef62a144b097": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Lead Generation & Growth Specialist",
+    "company": "Goodstag a Brand of todo GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2c7ab3111c27bcaf": {
+    "firstSeen": "2026-09-30T11:11:56.135Z",
+    "lastSeen": "2026-09-30T11:11:56.135Z",
+    "title": "Video Systems Engineer",
+    "company": "Zattoo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
