@@ -10168,5 +10168,158 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "535296f75e3d2d31": {
+    "firstSeen": "2026-10-02T11:09:49.119Z",
+    "lastSeen": "2026-10-02T11:09:49.119Z",
+    "title": "Engineering Manager - Grafana Application Security | EMEA | (Remote, UK)",
+    "company": "grafanalabs",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bb31b31252861e1c": {
+    "firstSeen": "2026-10-02T11:09:49.119Z",
+    "lastSeen": "2026-10-02T11:09:49.119Z",
+    "title": "Associate Consultant",
+    "company": "HCL Technologies Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f232435ddb004645": {
+    "firstSeen": "2026-10-02T11:09:49.119Z",
+    "lastSeen": "2026-10-02T11:09:49.119Z",
+    "title": "Change Manager (m/f/d)",
+    "company": "Rohlik",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "903bb634500df42a": {
+    "firstSeen": "2026-10-02T11:09:49.119Z",
+    "lastSeen": "2026-10-02T11:09:49.119Z",
+    "title": "Senior IT Solution Architect",
+    "company": "Teliogroup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "02e278f3585f1c22": {
+    "firstSeen": "2026-10-02T11:09:49.119Z",
+    "lastSeen": "2026-10-02T11:09:49.119Z",
+    "title": "Senior Go Backend Developer (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ab8241cd4bcd1092": {
+    "firstSeen": "2026-10-02T11:09:49.119Z",
+    "lastSeen": "2026-10-02T11:09:49.119Z",
+    "title": "Manager - Fund Tax Reporting Services",
+    "company": "EY",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f168e8bef3806d8d": {
+    "firstSeen": "2026-10-02T11:09:49.119Z",
+    "lastSeen": "2026-10-02T11:09:49.119Z",
+    "title": "Senior Industrial Designer | Robotics",
+    "company": "Cell Labs",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1fcfe69ebe3addc8": {
+    "firstSeen": "2026-10-02T11:09:49.119Z",
+    "lastSeen": "2026-10-02T11:09:49.119Z",
+    "title": "Brand & Graphic Designer",
+    "company": "Cell Labs",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "505427925aeeb0bc": {
+    "firstSeen": "2026-10-02T11:09:49.119Z",
+    "lastSeen": "2026-10-02T11:09:49.119Z",
+    "title": "Working Student System Administration (all genders)",
+    "company": "Helpling GmbH & Co. KG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
