@@ -10321,5 +10321,345 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "defbb6c14b7edf3f": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "SERVICE DELIVERY MANAGER",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ab6ab0c8b0c0e304": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Incident & Problem Manager (80 - 100%)",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2915124fd734a261": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Munich Re Service GmbH - Principal Key Account Manager - Financial Services (m/f/d)* - Inklusiver Job",
+    "company": "Unknown company",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3752a1cb0880e5cb": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Global VP Food Ingredients m/f/d",
+    "company": "GFIC",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "376cef8820df5ae8": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Senior IT Engineer Avaloq",
+    "company": "coni+partner AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bea09f9e040a519f": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Remote Maintenance Engineer",
+    "company": "Gauss Fusion",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9ca3c0c111c46fe5": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "HR Generalist - EMEA",
+    "company": "Applied",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3fc22c509b4ac066": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Founding Engineer",
+    "company": "Sanovio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "19be976aeec9fc15": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Software Engineering Intern (Full-Stack)",
+    "company": "Sanovio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8b08aad4bc0b0ff3": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "AI Engineering Intern",
+    "company": "Sanovio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "305f842616ca271e": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Platform Engineer: Platform Enablement",
+    "company": "Constructor",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e6781718929b6777": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Account Director (Public Sector DACH)",
+    "company": "Deepsetai",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "734ab1820390f931": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Head of Product (f/m/d)",
+    "company": "plancraft",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5e925cafca3d32bc": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Staff Engineer (f/m/d) AI",
+    "company": "plancraft",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bff92f9207e10e06": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Engineer - Data & Platforms (m/f/d)",
+    "company": "Bitcap",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b7fad2e9ec3f94fb": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Account Executive | Automotive - Enterprise SaaS",
+    "company": "Carbmee",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1896f07109beec6d": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "(Senior) Key Account Manager - Automotive | Enterprise SaaS",
+    "company": "Carbmee",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5d11a0468bf26142": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Full Stack Engineer (m/f/d)",
+    "company": "Glassdollar",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4e34d5da9920628e": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Associate Product Owner",
+    "company": "Glassdollar",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "54548b5c10aa0615": {
+    "firstSeen": "2026-10-05T12:18:44.143Z",
+    "lastSeen": "2026-10-05T12:18:44.143Z",
+    "title": "Chief Technology Officer (all identities)",
+    "company": "Caspar Health",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
