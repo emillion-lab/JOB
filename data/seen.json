@@ -10661,5 +10661,277 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "353f24d447749a57": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Service Delivery Manager - Airline Industry Experience is a Must",
+    "company": "Mullers Solutions 1",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 75,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8fdffe1343a23e35": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Senior Project Manager, Professional Services (German Speaking)",
+    "company": "Rubrik",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 32,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "754fae64e2ed5284": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Marketing Data Scientist",
+    "company": "Elevenlabs",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "65b64c18e8b8b71d": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Director of Talent Acquisition (f/m/d)",
+    "company": "Focused",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7d293785b9a70ad2": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "E-Commerce Campaign Manager (All Genders)",
+    "company": "Ahead Gmbh",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "44629ea6eee6e826": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Manager - Tax Data Analytics Engineer",
+    "company": "Wolt - English",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9f9c9ed4d7272db4": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Global Category Manager Production Services",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9e0aae8bb24f7dc3": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Software Engineer - Systems Modeling (all genders)",
+    "company": "Reflex Aerospace GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "db9340e79d38ebf9": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Hardware Development Engineer - Data Handling System (all genders)",
+    "company": "Reflex Aerospace GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d254dd1c7912d6ec": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Senior Marketing Specialist (w/m/d)",
+    "company": "Opentas",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "84020442220b46c0": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Systems Integration & QA Engineer (All genders)",
+    "company": "Stark",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2eaf669c25e57b2c": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Senior AI & Flight Dynamics Integration Engineer (All genders)",
+    "company": "Stark",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7f518dd649a7efe6": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "HR AI and Automation Lead (all genders)",
+    "company": "Stark",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "247e5e828d30f676": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Director Minerva Frontline Applications",
+    "company": "Stark",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4fdc9d21fbe7db7e": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Data / Software Engineer (All Genders)",
+    "company": "Stark",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e1fad772257fd1a7": {
+    "firstSeen": "2026-10-06T12:04:04.578Z",
+    "lastSeen": "2026-10-06T12:04:04.578Z",
+    "title": "Technical Product Owner (m/w/d)",
+    "company": "Mway",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

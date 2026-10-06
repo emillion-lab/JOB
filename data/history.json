@@ -2142,5 +2142,69 @@
         "status": "ok"
       }
     ]
+  },
+  {
+    "at": "2026-10-06T12:04:04.582Z",
+    "collected": 187,
+    "matched": 18,
+    "new": 1,
+    "llmCalls": 0,
+    "sources": [
+      {
+        "source": "adzuna",
+        "collected": 206,
+        "status": "ok"
+      },
+      {
+        "source": "nav",
+        "collected": 0,
+        "status": "ok"
+      },
+      {
+        "source": "jobtech",
+        "collected": 85,
+        "status": "ok"
+      },
+      {
+        "source": "arbeitsagentur",
+        "collected": 0,
+        "status": "ok"
+      },
+      {
+        "source": "arbeitnow",
+        "collected": 258,
+        "status": "ok"
+      },
+      {
+        "source": "greenhouse",
+        "collected": 0,
+        "status": "ok"
+      },
+      {
+        "source": "lever",
+        "collected": 0,
+        "status": "ok"
+      },
+      {
+        "source": "ashby",
+        "collected": 0,
+        "status": "ok"
+      },
+      {
+        "source": "workable",
+        "collected": 0,
+        "status": "ok"
+      },
+      {
+        "source": "smartrecruiters",
+        "collected": 0,
+        "status": "ok"
+      },
+      {
+        "source": "recruitee",
+        "collected": 0,
+        "status": "ok"
+      }
+    ]
   }
 ]
