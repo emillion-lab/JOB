@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:04:04.582Z",
+  "generatedAt": "2026-10-07T11:49:06.885Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 206,
+      "collected": 214,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 258,
+      "collected": 270,
       "status": "ok"
     },
     {
@@ -127,51 +127,20 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 187,
-  "totalBeforeLanguageFilter": 415,
+  "totalCollected": 219,
+  "totalBeforeLanguageFilter": 474,
   "byLanguage": {
-    "en": 184,
-    "de": 183,
-    "unknown": 3,
+    "en": 215,
+    "de": 209,
+    "unknown": 4,
     "fr": 2,
-    "no": 43
+    "no": 44
   },
-  "totalScored": 16,
+  "totalScored": 13,
   "llmScored": 0,
   "totalMatched": 18,
-  "totalNew": 1,
+  "totalNew": 0,
   "jobs": [
-    {
-      "title": "Service Delivery Manager - Airline Industry Experience is a Must",
-      "company": "Mullers Solutions 1",
-      "location": "Berlin, Germany",
-      "remote": false,
-      "description": "Müller’s Solutions is a leading technology and consulting company delivering innovative IT solutions and professional services across the EMEA region. We work with organizations to support digital transformation, IT modernization, and high-quality technology service delivery. Job Summary Müller’s Solutions is looking for an experienced Service Delivery Manager with mandatory experience in the Airline/Aviation industry to work in Saudi Arabia The successful candidate will be responsible for managing end-to-end service delivery, maintaining strong client relationships, ensuring SLA and KPI compliance, and coordinating technical and operational teams to deliver high-quality IT services. Key Responsibilities Manage end-to-end IT service delivery for airline/aviation clients. Act as the primary point of contact for clients and key stakeholders. Ensure services are delivered according to agreed SLAs, KPIs, and quality standards . Monitor service performance and identify opportunities for continuous improvement. Coordinate with technical, operational, and support teams to resolve service issues. Manage incidents, problems, escalations, and service requests. Prepare and present service performance reports to clients and management. Conduct regular service reviews and stakeholder meetings. Identify risks and implement corrective and preventive actions. Ensure effective communication between business stakeholders and technical teams. Support ITIL-based service management processes and best practices. Manage escalations and ensure timely resolution of critical issues. Requirements Mandatory: Proven experience working within the Airline/Aviation industry. Proven experience as a Service Delivery Manager or in a similar IT service management role. Strong knowledge of IT Service Management / ITIL principles. Experience managing SLAs, KPIs, service performance, and escalations . Strong stakeholder and client management skills. Experience coordinating cross-functional technical and operational teams. Excellent communication and presentation skills. Strong problem-solving and analytical abilities. Ability to manage multiple priorities in a fast-paced environment. Excellent English communication skills. Preferred ITIL certification. Experience with airline IT systems, aviation technology, or airport environments. Experience managing large-scale IT services or enterprise clients. Experience working with international or EMEA-based clients. Important Airline/Aviation industry experience is a MUST for this position. Candidates without relevant Airline/Aviation experience will not be considered. Find more English Speaking Jobs in Germany on Arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/mullers-solutions-1/service-delivery-manager-airline-industry-experience-is-a-must-berlin-40322",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-05T23:20:09.000Z",
-      "language": "en",
-      "country": "de",
-      "source": "arbeitnow",
-      "sourceId": "service-delivery-manager-airline-industry-experience-is-a-must-berlin-40322",
-      "query": null,
-      "id": "353f24d447749a57",
-      "sources": [
-        "arbeitnow"
-      ],
-      "isNew": true,
-      "score": 75,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 75
-    },
     {
       "title": "IT Service Delivery Manager",
       "company": "Nordic Investin Group Aktiebolag",
@@ -390,6 +359,37 @@
       "keywordScore": 55
     },
     {
+      "title": "SAP S/4HANA Finance Application Manager",
+      "company": "Foxmont Talent",
+      "location": "Zürich",
+      "remote": false,
+      "description": "SAP S/4HANA Finance Application Manager Zurich | Hybrid | Permanent CHF 120,000 – CHF 125,000 Bonus & Benefits About the Opportunity A major Swiss organisation with a sophisticated technology landscape is looking for an SAP S/4HANA Application Manager to take ownership of its Finance platform. The business operates within a fast-moving, highly regulated environment where technology supports complex financial processes and continued digital development. You will take responsibility for the stab…",
+      "url": "https://www.adzuna.ch/details/5881964404?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": 120000,
+      "salary_max": 125000,
+      "salary_text": null,
+      "posted": "2026-09-13T02:08:20.000Z",
+      "language": "en",
+      "country": "ch",
+      "source": "adzuna",
+      "sourceId": "5881964404",
+      "query": "incident manager",
+      "id": "52a619f782923c59",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-09-14T10:42:48.537Z",
+      "isNew": false,
+      "keywordScore": 55
+    },
+    {
       "title": "Customer Service Manager (m/w/d)",
       "company": "Edenred",
       "location": "München, München (Kreis)",
@@ -545,37 +545,6 @@
       "keywordScore": 45
     },
     {
-      "title": "Service Sales Manager (78076)",
-      "company": "Vestas Northern Europe AB",
-      "location": "MALMÖ, Skåne län",
-      "remote": false,
-      "description": "Do you enjoy building strong customer relationships and turning opportunities into long-term business growth? Help build the future of sustainable energy while growing strategic customer partnerships across the Nordics by applying to be our next Service Sales Manager. Join Vestas and help accelerate the world's transition to sustainable energy. Region NCE and Global Offshore > NCE > Service Sales Nordics Vestas is the energy industry's global partner in sustainable energy solutions. We design, manufacture, install, and service wind turbines across onshore and offshore markets worldwide. Our Northern and Central Europe (NCE) Service Commercial team leads service-related commercial activities, building close customer partnerships, developing value-adding solutions, and securing profitable growth through service contracts and aftermarket offerings. We are now looking for a commercially minded Service Sales Manager to join our Nordic team. Responsibilities As a Service Sales Manager, you will: Build and maintain customer relationships, acting as a trusted advisor and key commercial contact Own and deliver service sales targets through contract renewals, upselling, new contracts, and business growth initiatives Develop and execute account strategies that support customer needs and long-term partnership objectives Identify and convert opportunities for value-added services, optimizing customer value and commercial performance Manage commercial negotiations and secure competitive, sustainable service agreements Collaborate closely with sales, operations, technical, legal, and finance teams to deliver customer-focused solutions Monitor market trends, competitor activity, and customer feedback to identify opportunities and grow our market share Qualifications Solid commercial and sales experience, possibly within services, aftersales, industrial, energy, or other long-term service-based business models Documented experience in customer relationship management, contract negotiations, and creating win-win solutions A customer-focused and solution-oriented mindset with solid commercial acumen Highly experienced in communication and stakeholder management An entrepreneurial approach to value creation and business growth Experience with Salesforce and the renewable energy sector Fluent English skills, both written and spoken Competencies Goal-focused, motivated, and curious, with sharp business insight Customer-centric, with demonstrated sales capability and a solution-oriented mindset- Demonstrated ability to manage multiple projects and engage effectively with diverse stakeholders Well-developed written and spoken communication skills, along with engaging presentation experience Solid commercial acumen, with sound awareness of cost and risk Highly organized and structured, with experience and willingness to work in internal IT landscape including Salesforce and Excel based applications Willingness to travel (approximately 1-3 days once or twice a month in average, as required) What we offer We offer an exciting job with great opportunities for professional and personal development in an inspiring, collaborative, and international work environment in the renewable energy sector. We highly value initiative, accountability, and the right balance between creativity and quality in all solutions. You will have good opportunities to build your career in Vestas, when demonstrating aspiration, capacity, and potential. Additional information Your primary work location will be Malmö, Sweden.You should expect some travel activity, approximately up to three days twice a month. If the above match your skills and qualifications, please apply no later than 06.10.2026. Please note: We do amend or withdraw our jobs and reserve the right to do so at any time, including prior to the advertised closing date. For additional information about the position, please contact: Recruiter Rebecka Thorell at rbthr@vestas.com",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31443505",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-07T08:38:45.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31443505",
-      "query": "service manager",
-      "id": "fe434199ae07f900",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 45,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-09-07T10:21:37.328Z",
-      "isNew": false,
-      "keywordScore": 45
-    },
-    {
       "title": "Senior Consultant/Manager, Global Trade Service (GTS)",
       "company": "Job-Room",
       "location": "Zürich",
@@ -612,7 +581,7 @@
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "About us Passion is the force that guides us in everything we do - for our family, friends, art, sport and, above all, our work. At Munich Re Risk Management Partners (RMP), the climate change and risk management solutions unit of the world's leading reinsurer, this passion is what drives us to rethink climate risk solutions on a global scale. Our modular product offering is aimed at insurance companies, banks, asset managers, businesses and real estate investors. We use our SaaS platform, Loca…",
-      "url": "https://www.adzuna.de/land/ad/5905921520?se=jDkV7X3B8RG0XaaqcZpEpA&utm_medium=api&utm_source=8209e0ff&v=A20542F8C7A0283A2C5B31A8CF455334EFF39AD5",
+      "url": "https://www.adzuna.de/land/ad/5905921520?se=rDkSA0XC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=8209e0ff&v=A20542F8C7A0283A2C5B31A8CF455334EFF39AD5",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
@@ -696,6 +665,37 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-09-29T11:23:33.553Z",
+      "isNew": false,
+      "keywordScore": 40
+    },
+    {
+      "title": "Cybersecurity Project Manager - Service",
+      "company": "Hitachi Energy Sweden AB",
+      "location": "Västerås, Västmanlands län",
+      "remote": false,
+      "description": "The opportunity You will be a part of the future Energy Transformation as a Cybersecurity project manager at Hitachi Energy. You will be responsible for overseeing and driving the successful execution of various cybersecurity activities within our delivery projects You will ensure that activities are performed on time, within budget and meet the high-security standards expected from a global technology leader. “We are proud to deliver HVDC system solutions that are supporting the energy transition all over the world. As a Cybersecurity Project Manager, you will be an important player in our delivery of Critical National Infrastructure, CNI, and support the Project Director and the team with customer activities as well as making sure Cybersecurity activities are on time. This is your chance to make a difference”- Björn Stenberg, Cybersecurity Operations Manager at HVDC How you’ll make an impact Lead the planning, execution, and closing of cybersecurity activities, including but not limited to security incident response, customer dialogue in relation to requirements for Cybersecurity and standards, vulnerability management, risk assessments, and operational security process improvements. Execute project activities according to base time schedule and targets. Define resource requirements in collaboration with stakeholders across various technical disciplines. Manage comprehensive project plans, schedules, and budgets, tracking progress and reporting on key milestones and risks to Project Directors and management. Identify, assess, and mitigate project risks and issues, developing contingency plans and escalating critical concerns as necessary Facilitate effective communication and collaboration among project team members, vendors, and internal and external stakeholders. Your background As a Project Manager you are structured, open-minded and communicative. Proven working experience in relevant field e.g. within HVDC Project Management, Cybersecurity, or similar. Bachelor’s degree in a technical field or have equivalent work experience. As you will be part of a company that operates on a global arena, fluency in English is required. Swedish is strongly preferable for collaboration with local stakeholders. Good communication skills in Swedish and English, both written and verbal. You are a curious person with the drive to challenge yourself and the organization for continuous development in both short and long term. Contract Management experience and experience from field operations, C&P engineering and main circuit equipment is considered valuable What we offer Collective agreement Flexible working time Health care and wellness allowance Fantastic career possibilities within Hitachi Energy both within Sweden and globally Mentor to support you throughout onboard phase Various trainings and education supporting employee development​ Diversified company with over 70+ nationalities working in Sweden Supplementary compensation for parental leave Employee Benefit Portal with thousands of discounts and perks More about us Are you ready for a new exciting challenge? Does the above description sound like you? Welcome to apply! Applications will be reviewed on an ongoing basis, so don’t delay – apply today! Recruiting Manager Björn Stenberg bjorn.c.stenberg@hitachienergy.com will answer your questions about the position. Union representatives - Sveriges Ingenjörer: Nawzad Rashid , +46 107-38 91 48; Unionen: Ingrid Rinaldo, +46 107-38 58 19; Ledarna: Frank Hollstedt, +46 107-38 70 43. All other questions can be directed to Talent Acquisition Partner Fredrik Söder, fredrik.soder@hitachienergy.com.",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31343810",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-08-12T11:16:30.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31343810",
+      "query": "service manager",
+      "id": "9dad23340d0bccfc",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-08-28T12:24:18.990Z",
       "isNew": false,
       "keywordScore": 40
     }
