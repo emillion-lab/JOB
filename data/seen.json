@@ -11154,5 +11154,209 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "7b28ddf2240a4995": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "Software Engineer ServiceNow",
+    "company": "Tele2 Sverige Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4136fb29341f0036": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "Service Sales Account Manager",
+    "company": "Vertiv Group",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b36e448e96eb47b0": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "Senior Manager Service & Solutions",
+    "company": "Seco Tools Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f43db2661f991735": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "Senior Project Management*",
+    "company": "Myty",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d6ea12356aa7611f": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "(Senior) Commercial Producer (m/f/d)",
+    "company": "Westwing Group SE",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "63260e93bb048b42": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "Senior Consultant, Tracking Strategy & Insights",
+    "company": "Quantilope Gmbh",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "979012633f191a66": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "Senior Partner Success Manager DACH",
+    "company": "Companial",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d849fe46e6e97ac9": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "O&M Data Engineer – Munich (Fixed Term 2 years)",
+    "company": "Sungrow Europe - Welcome traveler!",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "17aa52a40cc1e6d4": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "Product Manager – MarTech",
+    "company": "Justwatch",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "239e68073901e0b5": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "Operations Manager, RIVR",
+    "company": "RIVR Technologies AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "26c5902d60426337": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "Sales Manager Cloud & Managed Services (m/w/d)",
+    "company": "netgo group GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ee0c3b562162126a": {
+    "firstSeen": "2026-10-08T12:04:57.539Z",
+    "lastSeen": "2026-10-08T12:04:57.539Z",
+    "title": "CMDB Application Developer & Reporting Specialist",
+    "company": "Gramian Consulting Group",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

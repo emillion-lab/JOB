@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T11:49:06.885Z",
+  "generatedAt": "2026-10-08T12:04:57.542Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 214,
+      "collected": 213,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 85,
+      "collected": 81,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 270,
+      "collected": 230,
       "status": "ok"
     },
     {
@@ -127,20 +127,113 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 219,
-  "totalBeforeLanguageFilter": 474,
+  "totalCollected": 199,
+  "totalBeforeLanguageFilter": 445,
   "byLanguage": {
-    "en": 215,
-    "de": 209,
-    "unknown": 4,
-    "fr": 2,
+    "en": 194,
+    "de": 198,
+    "unknown": 5,
+    "fr": 4,
     "no": 44
   },
-  "totalScored": 13,
+  "totalScored": 12,
   "llmScored": 0,
-  "totalMatched": 18,
-  "totalNew": 0,
+  "totalMatched": 22,
+  "totalNew": 3,
   "jobs": [
+    {
+      "title": "Software Engineer ServiceNow",
+      "company": "Tele2 Sverige Aktiebolag",
+      "location": "Kista, Stockholms län",
+      "remote": false,
+      "description": "We are currently looking for high performing individuals with experience of Service Now, wanting to be a part of our future journey! Are you the one we’re looking for? We are a small and dedicated team with a high level of independence and responsibility to ensure that we provide stabile operations and enable a great customer experience across segments, countries, brands and infrastructures. You will have great colleagues, always striving to improve working in a high pace environment, and at the same time have fun. If this sounds like the right challenge for you, don’t hesitate to apply! About the role As a member of the IT & Enterprise Service Management team, your role as a Software Engineer ServiceNow means you will have the full responsibility to operate, maintain and develop the ServiceNow on-prem platform and its capabilities, from infrastructure, application, kafka, integrations and other adjacent areas to the platform. The role includes on-call availability for critical incidents during non-business hours. The aim is to: Meet Tele2 business needs for highly available, reliable and secure services. This includes developing and enhancing our ServiceNow platform Achieve and improve the Service Level Requirements and Incident handling Full life-cycle management of solution Improve and retain service quality, stability and performance Continuously drive automation and improvements coming in from the users and stakeholders of the platform Continuously standardize and document capabilities to minimize dependency on individuals Ensure support services are delivered with minimal disruption to systems, services, and overall platform operations. Manage all Software upgrades, patches and additions of new Software and/or applications to the existing solution including security To be successful in this role, it’s key to be curious and understand the underlying processes and business needs for improvements to be able to proactively suggest improvements and solutions that are optimal to manage and support over time. This means focusing on ServiceNow capabilities that are out-of-the box for ease of maintenance and stability. Collaboration is key and a solution oriented and forward leaning attitude are an important part that defines our work culture. What we look for We believe you have a strong drive and the ability to be self-motivated. You thrive in a fast-paced environment, taking full responsibility for solutions end-to-end. You have prior experience operating, developing and managing a ServiceNow on-premises instance and are well-versed in the prerequisites and operating procedures required. Your collaborative spirit shines through, making you an excellent team player who contributes effectively to group efforts and connecting with various parts of the organization as well as external parties. You communicate clearly and with ease, setting right expectations and enabling seamless interaction both individually and in group/project settings. Your ability to engage with other people and navigate successfully within diverse teams makes you an asset to any professional environment. You have a passion for enabling improvements and finding new ways to enable them. Qualifications 3–6 years of experience with ServiceNow software development and operations, especially ITSM, FSM, CSM, CMDB, CSDM, and third‑party integrations Strong understanding of ServiceNow software developmentas well as principles and best practices for on-prem ServiceNow deployments including patching, upgrades and cloning of environments Knowledge from working with end-to-end processes in an IT environment covering multiple dependencies and stakeholders, preferably from larger IT-organizations Proved ability to understand complex requirements and turn them into workable items Fluent in English University degree in IT or a related field Relevant certifications in ServiceNow and operations management connected to areas above A few words from the manager As a member of the",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31569281",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-08T09:24:47.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31569281",
+      "query": "servicenow consultant",
+      "id": "7b28ddf2240a4995",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 60
+    },
+    {
+      "title": "Service Sales Account Manager",
+      "company": "Vertiv Group",
+      "location": "München, München (Kreis)",
+      "remote": false,
+      "description": "Description The Service Sales Account Manager is accountable for driving growth and profitability in Service Sales with assigned and new accounts, towards defined short- and long-term targets, securing Vertiv is the account’s preferred partner during the entire product lifecycle period. Working together with the account managers, this person will manage the relationship with assigned accounts in a long-term perspective owning the service account plan/reviews process and representing the company…",
+      "url": "https://www.adzuna.de/details/5886405338?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-09-16T18:26:46.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5886405338",
+      "query": "service manager",
+      "id": "4136fb29341f0036",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 40
+    },
+    {
+      "title": "Senior Manager Service & Solutions",
+      "company": "Seco Tools Aktiebolag",
+      "location": "Fagersta, Västmanlands län",
+      "remote": false,
+      "description": "Shape the future of our services and solutions business. We’re looking for a strategic, commercially driven leader who can turn customer needs into scalable offers, profitable growth and long-term value. About the job You set the direction for our current and future offer portfolio. Combining a strong customer perspective with commercial ownership, you develop services, solutions and business models that support Seco’s strategy and deliver measurable results. Working across teams, you establish the governance, capabilities and ways of working needed to scale the business globally. Job responsibilities Set and execute the strategy and plan for the services and solutions portfolio. Develop the portfolio and its business models, including Solva, reconditioning, Tool as a Service and technical training. Drive commercial and organizational transformation from product-focused offers to scalable services and solutions. Own financial forecasting and performance follow-up, taking corrective action to secure profitability, growth and return on investment. Develop strategic partnerships and external ecosystems that support business growth. Build and develop a high-performing global team with the capabilities required to meet current and future demands. Location and flexibility The location for this position is flexible globally. The role sits within Customized Offer, Offer and Innovation at Seco, and travel is a natural part of the job. Your profile You have extensive relevant experience in offer and portfolio management, supported by strong commercial and business development expertise. You translate strategy into measurable financial and operational results and use sound judgment to prioritize investments, create business value and strengthen long-term competitiveness. You also bring Business performance ownership and commercial acumen, including forecasting, pricing, cost structures, margin improvement and corrective action. A growth and market development mindset, connecting customer needs, market trends, the services and solutions offering and business priorities. The ability to shape and govern an offer portfolio throughout its lifecycle, balancing customer value, complexity, scalability, innovation and long-term strategic fit. A track record of improving responsive and consistent customer value delivery through scalable ways of working, clear governance and cross-functional collaboration. The ability to lead and develop global teams, strengthening the competencies, capacity and ways of working needed for current and future business demands. A relevant university degree, such as an MSc in engineering, business development or an MBA, or equivalent professional experience. Strong written and spoken English and a willingness to travel. Strategic and customer-focused, you identify opportunities and move them forward with clarity. You build effective networks, align stakeholders across functions and divisions, and bring structure to complex decisions. As a leader, you develop people and capabilities while maintaining focus on customer value, profitable growth and sustainable performance. The team You lead a global team of Offer Managers responsible for reconditioning, Solva, Tool as a Service, training and future offerings.. The team works closely with customers and stakeholders across Seco and with other services and solutions organizations within Machining. Our Seco culture At Seco, we’re united by collaboration and a shared curiosity to learn and grow. We take responsibility for our actions, stay focused on our customers and believe in winning together. Our diversity provides a strong foundation for achieving great results. Curious about our workplace and benefits? Read more on our website. You’re also welcome to visit us on LinkedIn or Facebook to learn more about us and our products. Contact information For further information about this position, please contact Peter Skäringer, hiring manager, peter.skaringer@secotools.com. We hav",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31569699",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-08T10:11:30.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31569699",
+      "query": "service manager",
+      "id": "b36e448e96eb47b0",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 40
+    },
     {
       "title": "IT Service Delivery Manager",
       "company": "Nordic Investin Group Aktiebolag",
@@ -282,6 +375,37 @@
       "sourceId": "5904348906",
       "query": "servicenow consultant",
       "id": "983f0767805a4c70",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-10-01T11:39:00.267Z",
+      "isNew": false,
+      "keywordScore": 60
+    },
+    {
+      "title": "Technical Architect - ServiceNow (m/f/d)* - Inklusiver Job",
+      "company": "Unknown company",
+      "location": "München, München (Kreis)",
+      "remote": false,
+      "description": "Successful candidates must be prepared to relocate to the specified job location in the job posting and will be employed directly under the hiring entity's contractual terms. Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions . New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management pr…",
+      "url": "https://www.adzuna.de/land/ad/5915474000?se=rArwXxDD8RG_0amnAxLpFQ&utm_medium=api&utm_source=8209e0ff&v=C1396C0BFA4F32E0E08C03B7B6A650B6F214AB54",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-07T06:44:57.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5915474000",
+      "query": "service delivery manager",
+      "id": "9aad6810aed188a5",
       "sources": [
         "adzuna"
       ],
@@ -581,15 +705,15 @@
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "About us Passion is the force that guides us in everything we do - for our family, friends, art, sport and, above all, our work. At Munich Re Risk Management Partners (RMP), the climate change and risk management solutions unit of the world's leading reinsurer, this passion is what drives us to rethink climate risk solutions on a global scale. Our modular product offering is aimed at insurance companies, banks, asset managers, businesses and real estate investors. We use our SaaS platform, Loca…",
-      "url": "https://www.adzuna.de/land/ad/5905921520?se=rDkSA0XC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=8209e0ff&v=A20542F8C7A0283A2C5B31A8CF455334EFF39AD5",
+      "url": "https://www.adzuna.de/land/ad/5901268534?se=4MiTYBDD8RGZrtr1kasdFg&utm_medium=api&utm_source=8209e0ff&v=9850DB6C5DA3A945AD1A6FCC53EA62375D6CE618",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-10-01T18:00:03.000Z",
+      "posted": "2026-09-28T08:08:03.000Z",
       "language": "en",
       "country": "de",
       "source": "adzuna",
-      "sourceId": "5905921520",
+      "sourceId": "5901268534",
       "query": "service manager",
       "id": "2915124fd734a261",
       "sources": [
