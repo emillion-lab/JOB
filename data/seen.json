@@ -11358,5 +11358,209 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "a08d57fe5aa73897": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Senior CRM Administrator",
+    "company": "sumup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a5abde932730ddc8": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Senior Strategic Procurement Engineer (m/f/d)",
+    "company": "TYTAN Technologies GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "61681cd60a95cdd6": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Senior Internal Auditor",
+    "company": "sumup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "190a8508b5e15cd5": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Senior Backend Engineer - MarTech",
+    "company": "sumup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "50da851b9e96c95b": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Senior Partner",
+    "company": "True Talent Solutions Partners",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3665a26af2fd1d9b": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Senior Solutions Engineer",
+    "company": "True Talent Solutions Partners",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b341c84e8e02d964": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "(Senior) Purchasing Manager / Strategic Buyer (all genders)",
+    "company": "Sunday Natural",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d3286ad9e61fa955": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Technical Product Owner",
+    "company": "NetBird",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "16dad75bf322b4d3": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Technical Customer Success Manager",
+    "company": "Redpanda Data",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f9c4b77c6e545162": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Working Student Deposit Integration Operations (m/f/d)",
+    "company": "raisin",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "42c5e5924633a1f9": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "Senior Manager - Client Services - LS",
+    "company": "Infosys",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0eb918a3757498f3": {
+    "firstSeen": "2026-10-09T11:56:27.580Z",
+    "lastSeen": "2026-10-09T11:56:27.580Z",
+    "title": "House Manager",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
