@@ -11562,5 +11562,175 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "667a3cdd6588ae7c": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "Field Service Manager - Scanjet in Gothenburg or Sjöbo",
+    "company": "Alfa Laval Technologies AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "feba1c26d5b7e8cc": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "IT Service Coordinator - Sales & Marketing",
+    "company": "Sandvik Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3f53918b32559817": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "Senior Backend Engineer (IoT) (all genders)",
+    "company": "Tonies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e39d2737068f6e01": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "Revenue Operations Manager",
+    "company": "DeepJudge",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5c17b21bfc919f5d": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "Associate Director/ Director FP&A EMEA",
+    "company": "Scholarrock",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "43a6bf094caf6d2d": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "Test Manager – Quality Assurance | Europe | Fully Remote",
+    "company": "Escapevelocityentertainmentinc",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "293d64627bf43754": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "People Business Partner",
+    "company": "Superhuman",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1ecd66b255883cd3": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "IT Systems Engineer / Avaloq",
+    "company": "coni+partner AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "03596f59e3f131d7": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "Senior Delivery Manager - Insurance Domain",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b4b9f1eb8cc7e748": {
+    "firstSeen": "2026-10-12T13:13:20.153Z",
+    "lastSeen": "2026-10-12T13:13:20.153Z",
+    "title": "Senior SEA Manager (m/f/d)",
+    "company": "Westwing Group SE",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
