@@ -11732,5 +11732,192 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "60243dd74265e294": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Senior Project Manager",
+    "company": "INDG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fef5dca45d41bd1f": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Technical Account Manager — EMEA",
+    "company": "Aisle",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d143f69910391ad3": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Senior Accounting Manager (f/m/d)",
+    "company": "Focused",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6a7bc5dc64036ea0": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "B2B2C Marketing Manager (Global)",
+    "company": "AMBOSS",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cf583e3be468a19d": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Partnerships Manager",
+    "company": "Vio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "856a9c70bdcfd7f7": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Key Accounts Director (Strategic Supply)",
+    "company": "Vio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d04a96dd606a39ea": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Order Management Specialist",
+    "company": "ABB AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4fe30b5bbad81c42": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Manager, Delivery Management",
+    "company": "Kognic AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "417ba4da06422409": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Consultant Routing/Switching - Cisco",
+    "company": "Bumbli Group AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "da19459946e344fb": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Cisco Security Consultant - Hybrid",
+    "company": "Bumbli Group AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "81d977341519f8a9": {
+    "firstSeen": "2026-10-13T12:44:34.256Z",
+    "lastSeen": "2026-10-13T12:44:34.256Z",
+    "title": "Finance Manager (m/f/d)",
+    "company": "much. GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
