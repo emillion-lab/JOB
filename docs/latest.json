@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T12:44:34.260Z",
+  "generatedAt": "2026-10-14T10:15:51.099Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 201,
+      "collected": 197,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 282,
+      "collected": 271,
       "status": "ok"
     },
     {
@@ -127,11 +127,11 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 219,
-  "totalBeforeLanguageFilter": 436,
+  "totalCollected": 240,
+  "totalBeforeLanguageFilter": 473,
   "byLanguage": {
-    "en": 216,
-    "de": 172,
+    "en": 237,
+    "de": 188,
     "unknown": 3,
     "fr": 3,
     "no": 42
@@ -139,8 +139,39 @@
   "totalScored": 11,
   "llmScored": 0,
   "totalMatched": 17,
-  "totalNew": 0,
+  "totalNew": 1,
   "jobs": [
+    {
+      "title": "Working Student (f/m/d) Service Manager and Value Assessment Assistant",
+      "company": "Siemens AG",
+      "location": "Altstadt-Lehel, München",
+      "remote": false,
+      "description": "Aufgaben: You support the preparation and execution of application value assessments, ensuring structured value reporting for our internal stakeholders Subsequently, you actively assist the service management team, for example by conducting application portfolio analyses and identifying optimization potentials Building on this, you contribute to service-related marketing efforts, such as drafting newsletter articles or creating concise application one-pagers Throughout your tasks, you bring you…",
+      "url": "https://www.adzuna.de/details/5926884896?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-14T06:26:16.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5926884896",
+      "query": "service manager",
+      "id": "edc70b804f234fea",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
     {
       "title": "IT Service Manager (Senior)",
       "company": "Regma IT AB",
@@ -220,37 +251,6 @@
       "sourceId": "5904348906",
       "query": "servicenow consultant",
       "id": "983f0767805a4c70",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-01T11:39:00.267Z",
-      "isNew": false,
-      "keywordScore": 60
-    },
-    {
-      "title": "Technical Architect - ServiceNow (m/f/d)* - Inklusiver Job",
-      "company": "Unknown company",
-      "location": "München, München (Kreis)",
-      "remote": false,
-      "description": "Successful candidates must be prepared to relocate to the specified job location in the job posting and will be employed directly under the hiring entity's contractual terms. Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions . New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management pr…",
-      "url": "https://www.adzuna.de/land/ad/5915474000?se=wMG7wgPH8RG9mdWSWWKgBg&utm_medium=api&utm_source=8209e0ff&v=C1396C0BFA4F32E0E08C03B7B6A650B6F214AB54",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-07T06:44:57.000Z",
-      "language": "en",
-      "country": "de",
-      "source": "adzuna",
-      "sourceId": "5915474000",
-      "query": "service delivery manager",
-      "id": "9aad6810aed188a5",
       "sources": [
         "adzuna"
       ],
@@ -483,37 +483,6 @@
       "keywordScore": 55
     },
     {
-      "title": "Field Service Manager - Scanjet in Gothenburg or Sjöbo",
-      "company": "Alfa Laval Technologies AB",
-      "location": "Gothenburg, Västra Götalands län",
-      "remote": false,
-      "description": "About Scanjet Scanjet Marine & System AB, a part of the Alfa Laval Group, is a world-leading and innovative company working with equipment for cleaning and level sensing for marine and land-based oil and chemical tanks. Scanjet was started in 1987 in Sweden where the headquarter remains today. Scanjet has sister companies with sites in Bulgaria, the Netherlands, Poland, Norway, the UK, Shanghai and Indonesia. With these strategic geographical locations and a strong customer focus, we have successfully established ourselves as a world leader in our sector. We have a major focus on future products designed to meet strict industry standards as well as environmental requirements. In our everyday work we are guided by our core values; customer-focused, professional and committed, cost-efficient, and keeping our promises. We are a workplace for everyone, and our success is built on a culture of diversity and inclusion. We welcome applicants from various backgrounds and experiences. Scanjet is now looking for Field Service Manager to join our After sales organisation. About the role This role is responsible for leading Scanjet's Service organisation consisting of 20 employees, Field Service Engineers and Service Coordinators, across Europe and Asia. In this role you will report to the CEO, work closely with other managers within Aftersales and other parts of Scanjet as well as interact with Alfa Laval service & AS organisations. The position is full-time and will be based in either Gothenburg or Sjöbo in Sweden. In this role you can expect to travel approximately 60 days per year. Key responsibilities Lead Scanjet's global Service organisation, with overall responsibility for people, performance, budget, and sustainable business growth. Drive Scanjets cooperation with Alfa Laval's Marine A/S organization in Business Unit MAS and Framo and make sure that best practice is used. Develop and maintain a professional, customer-focused service network for Tank Management. Foster a strong customer-centric culture across the Service organisation. Drive the continuous development of global service operations, ensuring efficiency, safety, regulatory compliance, and high service quality. Lead the implementation of tools, processes, and ways of working that improve operational effectiveness and customer value. Lead, coach, and support team members throughout the employee lifecycle, creating an engaging and inclusive work environment. Oversee service partner agreements, competence development, and service documentation to ensure quality and consistency. Qualifications To succeed in this role, we believe you have the following required qualifications: Relevant education or equivalent work experience. Proven experience leading a service organisation or a company where service is a core business offering. Strong business acumen and commercial mindset. Excellent interpersonal and communication skills, with the ability to work effectively across different countries, cultures, and regulatory environments. Solution-oriented, positive, and collaborative, prestige-free attitude. Proactive, and results-driven with a hands-on approach. Flexible mindset and ability to adapt and thrive in an international environment. Professional proficiency in both English and Swedish, with the ability to communicate effectively in an international business environment. Not a requirement but nice to have: Experience in a leadership or manager role, with demonstrated responsibility for driving business performance and organizational development Hands-on experience managing field service operations within a mechanical and/or electrical engineering environment. What we offer At Scanjet, you will join a friendly and dynamic workplace with an entrepreneurial spirit. You will have the chance to collaborate and grow together with committed colleagues and to contribute toward the future development and success of Scanjet. We have a strong track record of internal career development ",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31538645",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-30T17:35:54.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31538645",
-      "query": "service manager",
-      "id": "667a3cdd6588ae7c",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-12T13:13:20.153Z",
-      "isNew": false,
-      "keywordScore": 55
-    },
-    {
       "title": "Service Project Manager Network Control Service",
       "company": "Hitachi Energy Sweden AB",
       "location": "Västerås, Västmanlands län",
@@ -572,6 +541,37 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-10-01T11:39:00.267Z",
+      "isNew": false,
+      "keywordScore": 40
+    },
+    {
+      "title": "Munich Re Service GmbH - Principal Key Account Manager - Financial Services (m/f/d)* - Inklusiver Job",
+      "company": "Unknown company",
+      "location": "München, München (Kreis)",
+      "remote": false,
+      "description": "About us Passion is the force that guides us in everything we do - for our family, friends, art, sport and, above all, our work. At Munich Re Risk Management Partners (RMP), the climate change and risk management solutions unit of the world's leading reinsurer, this passion is what drives us to rethink climate risk solutions on a global scale. Our modular product offering is aimed at insurance companies, banks, asset managers, businesses and real estate investors. We use our SaaS platform, Loca…",
+      "url": "https://www.adzuna.de/land/ad/5905921520?se=2FV7JLjH8RGghcfl051iWw&utm_medium=api&utm_source=8209e0ff&v=A20542F8C7A0283A2C5B31A8CF455334EFF39AD5",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-01T18:00:03.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5905921520",
+      "query": "service manager",
+      "id": "2915124fd734a261",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-10-05T12:18:44.143Z",
       "isNew": false,
       "keywordScore": 40
     },

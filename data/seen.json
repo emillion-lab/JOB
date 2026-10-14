@@ -11919,5 +11919,192 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "edc70b804f234fea": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Working Student (f/m/d) Service Manager and Value Assessment Assistant",
+    "company": "Siemens AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a9b92191c433315b": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Application Consultant",
+    "company": "Industri-Matematik International AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4741dd622c3175a6": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Solutions Engineer",
+    "company": "True Talent Solutions Partners",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "12495eb0c444baf2": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Senior Account Executive - Airline or Airline Catering (Europe, 100% remote)",
+    "company": "LimeFlight",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "83d34ca8350da982": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "[Munich] Investment & Strategy Analyst",
+    "company": "Dedale Intelligence",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3d1b9688b41ec87e": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Senior Analyst, Pricing & Revenue Optimization (m/f/x)",
+    "company": "rebuy",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a84475fdf8df0c8c": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Senior Director, Provider Experience Operations",
+    "company": "Spring Health",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b5353844d615c503": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Enterprise Account Manager",
+    "company": "Haut Ai",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2b731d242d80c27a": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Field Test Engineer (m/w/d)",
+    "company": "MOTOR Ai",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d9d93d3ddaf8d8b4": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Senior Infrastructure Engineer",
+    "company": "Reactive Markets",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "31f0a84d16b31231": {
+    "firstSeen": "2026-10-14T10:15:51.096Z",
+    "lastSeen": "2026-10-14T10:15:51.096Z",
+    "title": "Executive Protection Lead",
+    "company": "Sportradar",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
