@@ -12106,5 +12106,498 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "a42ebd78ffae7498": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "ServiceNow AI Architect",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "86ee52e867d1f7cc": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "ServiceNow CRM Architect",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3fd4bc7036ddd75e": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Service Sales Manager",
+    "company": "Valmet Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ec025dd12dff0392": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Project Delivery Lead (m/f/d)",
+    "company": "Tandem Health",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e07ffd53ac1f8a0c": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Brand Data Production Manager (m/f/d)",
+    "company": "Statista",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0d239fe777771706": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Senior Engineering Manager, Infrastructure (all genders)",
+    "company": "Distribusion Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6c611fa076212e58": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Cloud Operations Lead",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b332408f9187d775": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Senior Associate, Internal Communications, International",
+    "company": "Wolt - English",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2cbe709b7702153e": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Chief of Staff",
+    "company": "Eye Security",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "30a2c2c64aec78ae": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Senior Business Analyst – Exchange Trading & Financial Markets",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a6e7cc7c25fc02f9": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Senior Business Analyst – Digital Pension Solutions",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d3ea2a27c7f32552": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Head of Product Management & Transformation (Risk, Finance & Compliance)",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0fd676637074a0a9": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Senior Java/Angular Engineer",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5183d2c4f5c8a003": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Business Engineer Investment and Pension",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a67c7be20dae6d40": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Business Engineer Banking Processes",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "124d191f8e844a30": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Business Analyst Processes and Data",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "edf131521bed84e4": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Head of Investment Fund Operations",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8295620a8b1f4d7b": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Senior Business Analyst – Pricing & Billing",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fd0299ab9e9e8005": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Associate Director/ Director, Sales Force Effectiveness, International",
+    "company": "Bridgebio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9119756281a530c4": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "HR Partner",
+    "company": "Applike Group",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7d371c610e4828f2": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Senior Account Director - Strategic Account in Maritime Logistics for SITA",
+    "company": "Sound People BV",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1a5ba18baa2d3e08": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Engagement Manager Data & AI Solutions (m/w/d)",
+    "company": "Rewire",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f2afb038a2ee2031": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Director Engineering - Investment & Pension domain (m/f/d)",
+    "company": "raisin",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ca0e2a0a359fd0a1": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Senior Data Scientist, Workforce Management Analytics",
+    "company": "Wolt - English",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "734f4cf1d22dca3a": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Senior Backend Engineer (f/x/m) Checkout & After Sales in Tech & Data Team",
+    "company": "Thomann.io",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3aae9b8e19eebdab": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Data & Analytics Manager (f/m/x)",
+    "company": "Enpal",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0e1b8f1ae58609ed": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "BI & Data Analytics Team Lead (f/m/x)",
+    "company": "Enpal",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d4c00d7415d2c80f": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Application Responsible (AR) / System Architect",
+    "company": "INSIGHT INTERNATIONAL Limited",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a0148e7af33a37c8": {
+    "firstSeen": "2026-10-15T09:57:57.559Z",
+    "lastSeen": "2026-10-15T09:57:57.559Z",
+    "title": "Office Management Manager",
+    "company": "AECOM",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T10:15:51.099Z",
+  "generatedAt": "2026-10-15T09:57:57.562Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 197,
+      "collected": 204,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 271,
+      "collected": 263,
       "status": "ok"
     },
     {
@@ -127,42 +127,42 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 240,
+  "totalCollected": 235,
   "totalBeforeLanguageFilter": 473,
   "byLanguage": {
-    "en": 237,
-    "de": 188,
-    "unknown": 3,
+    "en": 231,
+    "de": 195,
+    "unknown": 4,
     "fr": 3,
-    "no": 42
+    "no": 40
   },
-  "totalScored": 11,
+  "totalScored": 29,
   "llmScored": 0,
-  "totalMatched": 17,
-  "totalNew": 1,
+  "totalMatched": 18,
+  "totalNew": 3,
   "jobs": [
     {
-      "title": "Working Student (f/m/d) Service Manager and Value Assessment Assistant",
-      "company": "Siemens AG",
-      "location": "Altstadt-Lehel, München",
-      "remote": false,
-      "description": "Aufgaben: You support the preparation and execution of application value assessments, ensuring structured value reporting for our internal stakeholders Subsequently, you actively assist the service management team, for example by conducting application portfolio analyses and identifying optimization potentials Building on this, you contribute to service-related marketing efforts, such as drafting newsletter articles or creating concise application one-pagers Throughout your tasks, you bring you…",
-      "url": "https://www.adzuna.de/details/5926884896?utm_medium=api&utm_source=8209e0ff",
+      "title": "ServiceNow AI Architect",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "remote": true,
+      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a strategic partner in the rapidly evolving AI landscape . They work with organisations on complex transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow and AI solutions . We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and AI expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing innovative ServiceNow and AI solutions Taking a leading role in the architecture, implementation and further development of AI-powered solutions and AI agents Developing intelligent AI agents that can interact with and support customers Using previous customer and business expertise to support the development of effective customer-facing AI solutions Translating complex business and customer requirements into scalable technical and AI-driven solutions Working with modern AI technologies, Large Language Models and agent-based solutions Designing innovative solutions across customer service, CRM and customer experience environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex AI, automation and digital transformation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and Artificial Intelligence , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Experience with Artificial Intelligence, Generative AI or AI-powered solutions Experience developing or working with AI agents or agentic AI Experience with technologies such as Claude, Claude 4 or similar AI technologies Experience as a ServiceNow Architect, Technical Architect, Solution Architect, AI Architect or Senior Consultant Strong understanding of customer processes, CRM, customer service or customer experience Experience transferring previous customer or business expertise into the development of intelligent AI agents would be highly beneficial Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical and AI-driven solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find Jobs in Switzerland on Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-248913",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-10-14T06:26:16.000Z",
+      "posted": "2026-10-14T20:32:27.000Z",
       "language": "en",
-      "country": "de",
-      "source": "adzuna",
-      "sourceId": "5926884896",
-      "query": "service manager",
-      "id": "edc70b804f234fea",
+      "country": null,
+      "source": "arbeitnow",
+      "sourceId": "remote-servicenow-ai-architect-zurich-248913",
+      "query": null,
+      "id": "a42ebd78ffae7498",
       "sources": [
-        "adzuna"
+        "arbeitnow"
       ],
       "isNew": true,
-      "score": 55,
+      "score": 65,
       "fit": "unscored",
       "matched": [],
       "gaps": [],
@@ -170,7 +170,69 @@
       "reason": "",
       "next_action": "",
       "scoredBy": "prefilter",
-      "keywordScore": 55
+      "keywordScore": 65
+    },
+    {
+      "title": "ServiceNow CRM Architect",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "remote": true,
+      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions. We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and CRM expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing ServiceNow CRM solutions and architectures Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms Advising customers on the optimisation and digitalisation of their customer processes and customer experience Translating complex business and customer requirements into scalable technical solutions Designing innovative solutions across CRM and customer service environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex customer transformation and digitalisation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and CRM , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Strong experience in ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions Experience as a ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant Strong understanding of CRM processes, customer journeys and customer experience Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find more English Speaking Jobs in Switzerland on Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-296402",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-14T20:32:27.000Z",
+      "language": "en",
+      "country": null,
+      "source": "arbeitnow",
+      "sourceId": "remote-servicenow-crm-architect-zurich-296402",
+      "query": null,
+      "id": "86ee52e867d1f7cc",
+      "sources": [
+        "arbeitnow"
+      ],
+      "isNew": true,
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 65
+    },
+    {
+      "title": "Service Sales Manager",
+      "company": "Valmet Aktiebolag",
+      "location": "Sundsbruk, Västernorrlands län",
+      "remote": false,
+      "description": "Build Customer Relationships and Grow Service Business as a Service Sales Manager Are you an energetic and results-oriented person who wants to move our customers’ performance forward? Join us as a Service Sales Manager and play a key role in strengthening our service presence across Sweden. In this position, you will work closely with customers in the process industry, develop long-term relationships, and identify new service opportunities that improve plant reliability, safety, and performance. You will be an important part of our Nordic service organization, helping customers get the most out of their installed valve base while contributing to the continued growth of our service business. Flexible location within Sweden, preferably in Northern Sweden. Your responsibilities You will drive service sales activities across Sweden, with a primary focus on customers in the northern parts of the country. You will build and maintain strong relationships with existing and new customers, identifying opportunities to support their reliability and performance goals. You will collaborate closely with our service organization and authorized service partners to expand our service presence and strengthen customer support. You will promote and sell maintenance, repair, and operational services, as well as develop opportunities for long-term service agreements. You will act as a trusted partner to customers, understanding their business needs and translating them into value-adding service solutions. Expectations for you You have a technical background within the process industry. You are customer-focused and skilled at building long-term customer relationships and identifying business opportunities. Experience in valve technology, flow control solutions, or the process industry is considered an advantage. You hold a valid driver’s license. You communicate confidently in Swedish and English. Willingness and ability to travel and actively visit customers. To succeed in this role To succeed, you need a strong understanding of industrial service business and the ability to create trust-based customer relationships. You combine commercial drive with technical curiosity and enjoy spending time close to customers to understand their challenges and future plans. Experience from valves, maintenance services, or process industries will help you identify opportunities where our services can improve reliability, safety, and operational performance. We offer You will join Valmet’s Sales and Services Region within Flow Control Scandinavia, Sweden, where the focus is on growing the installed base business and helping customers achieve their safety, availability, and reliability goals. The team works closely with customers throughout the lifecycle of their equipment, developing service solutions that maximize plant uptime and performance. A key part of the strategy is expanding local service presence and building strong customer relationships through dedicated teams and a network of service partners. This is an opportunity to have a real impact on the growth of the service business while working in a customer-focused and international environment. Valmet offers an inspiring and challenging position with excellent opportunities for professional growth. We value our employees and provide modern tools, learning opportunities, flexible ways of working, and a collaborative culture where innovation and customer success go hand in hand. Want to know more? Did we catch your interest? Please submit your application as soon as possible via the link below, as interviews will be conducted on an ongoing basis. The final application deadline is November 8, 2026. For further information about the position, please contact Torbjörn Mattsson, Manager Sub-Regional Sales & Service at torbjorn.mattsson@valmet.com. We conduct background checks as well as alcohol and drug testing for all employees, in line with our commitment to maintaining a safe and secure workplace. When every",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31598936",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-15T08:49:30.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31598936",
+      "query": "service manager",
+      "id": "3fd4bc7036ddd75e",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 40
     },
     {
       "title": "IT Service Manager (Senior)",
@@ -251,6 +313,37 @@
       "sourceId": "5904348906",
       "query": "servicenow consultant",
       "id": "983f0767805a4c70",
+      "sources": [
+        "adzuna"
+      ],
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-10-01T11:39:00.267Z",
+      "isNew": false,
+      "keywordScore": 60
+    },
+    {
+      "title": "Technical Architect - ServiceNow (m/f/d)* - Inklusiver Job",
+      "company": "Unknown company",
+      "location": "München, München (Kreis)",
+      "remote": false,
+      "description": "Successful candidates must be prepared to relocate to the specified job location in the job posting and will be employed directly under the hiring entity's contractual terms. Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions . New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management pr…",
+      "url": "https://www.adzuna.de/land/ad/5928481000?se=1FuOz37I8RGIsNw29cNR7w&utm_medium=api&utm_source=8209e0ff&v=32C15C9671C754EA245393233C1F857445DBC2A6",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-15T06:21:22.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5928481000",
+      "query": "service delivery manager",
+      "id": "9aad6810aed188a5",
       "sources": [
         "adzuna"
       ],
@@ -512,68 +605,6 @@
       "firstSeen": "2026-09-10T09:47:36.551Z",
       "isNew": false,
       "keywordScore": 45
-    },
-    {
-      "title": "Senior Consultant/Manager, Global Trade Service (GTS)",
-      "company": "Job-Room",
-      "location": "Zürich",
-      "remote": false,
-      "description": "Basic information Business line Technology & Transformation City Zurich Experience level Experienced Working time percentage 80% - 100% Date published 15-Jun-2026 Req \\\\ 19033 Job description Location: Zurich Work Pattern Percentage: 80-100% Help our clients realise their full potential through technology Our Deloitte SAP consultants evaluate, develop and implement SAP systems for business clients. They determine clients' business needs, create customized SAP solutions, and smoothly integra…",
-      "url": "https://www.adzuna.ch/details/5903873554?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-30T13:47:14.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5903873554",
-      "query": "service manager",
-      "id": "1c56ab986a647a9f",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-01T11:39:00.267Z",
-      "isNew": false,
-      "keywordScore": 40
-    },
-    {
-      "title": "Munich Re Service GmbH - Principal Key Account Manager - Financial Services (m/f/d)* - Inklusiver Job",
-      "company": "Unknown company",
-      "location": "München, München (Kreis)",
-      "remote": false,
-      "description": "About us Passion is the force that guides us in everything we do - for our family, friends, art, sport and, above all, our work. At Munich Re Risk Management Partners (RMP), the climate change and risk management solutions unit of the world's leading reinsurer, this passion is what drives us to rethink climate risk solutions on a global scale. Our modular product offering is aimed at insurance companies, banks, asset managers, businesses and real estate investors. We use our SaaS platform, Loca…",
-      "url": "https://www.adzuna.de/land/ad/5905921520?se=2FV7JLjH8RGghcfl051iWw&utm_medium=api&utm_source=8209e0ff&v=A20542F8C7A0283A2C5B31A8CF455334EFF39AD5",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-01T18:00:03.000Z",
-      "language": "en",
-      "country": "de",
-      "source": "adzuna",
-      "sourceId": "5905921520",
-      "query": "service manager",
-      "id": "2915124fd734a261",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-05T12:18:44.143Z",
-      "isNew": false,
-      "keywordScore": 40
     },
     {
       "title": "Team Manager - Service",
