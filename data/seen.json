@@ -12599,5 +12599,141 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "2e7c28fe5ebba414": {
+    "firstSeen": "2026-10-16T09:53:02.112Z",
+    "lastSeen": "2026-10-16T09:53:02.112Z",
+    "title": "Senior Coaching & Advice Service Manager - (Remote)",
+    "company": "Moneybox",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "10fb65c82c9efbd9": {
+    "firstSeen": "2026-10-16T09:53:02.112Z",
+    "lastSeen": "2026-10-16T09:53:02.112Z",
+    "title": "Senior Engagement Manager",
+    "company": "Clickup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bac6d383fdd0affb": {
+    "firstSeen": "2026-10-16T09:53:02.112Z",
+    "lastSeen": "2026-10-16T09:53:02.112Z",
+    "title": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform",
+    "company": "Hopper",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0e297f478b0cd038": {
+    "firstSeen": "2026-10-16T09:53:02.112Z",
+    "lastSeen": "2026-10-16T09:53:02.112Z",
+    "title": "Join our Talent Community",
+    "company": "Zattoo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8435b9e2e2be7146": {
+    "firstSeen": "2026-10-16T09:53:02.112Z",
+    "lastSeen": "2026-10-16T09:53:02.112Z",
+    "title": "Accounts Payable Manager (f/m/d)",
+    "company": "Focused",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "acf128e8330cb083": {
+    "firstSeen": "2026-10-16T09:53:02.112Z",
+    "lastSeen": "2026-10-16T09:53:02.112Z",
+    "title": "Fixed Asset Manager (f/m/d)",
+    "company": "Focused",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "57fd3b9465b800cd": {
+    "firstSeen": "2026-10-16T09:53:02.112Z",
+    "lastSeen": "2026-10-16T09:53:02.112Z",
+    "title": "IT M&A Transaction Manager",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "458c908a23bfdf99": {
+    "firstSeen": "2026-10-16T09:53:02.112Z",
+    "lastSeen": "2026-10-16T09:53:02.112Z",
+    "title": "Manager, Medical Operations, Germany",
+    "company": "Revolution Medicines",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
