@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:53:02.115Z",
+  "generatedAt": "2026-10-19T10:48:38.388Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 204,
+      "collected": 234,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 78,
+      "collected": 79,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 307,
+      "collected": 204,
       "status": "ok"
     },
     {
@@ -127,42 +127,42 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 242,
-  "totalBeforeLanguageFilter": 527,
+  "totalCollected": 161,
+  "totalBeforeLanguageFilter": 441,
   "byLanguage": {
-    "en": 238,
-    "de": 242,
+    "de": 232,
+    "en": 157,
     "unknown": 4,
-    "fr": 3,
-    "no": 40
+    "fr": 10,
+    "no": 38
   },
-  "totalScored": 8,
+  "totalScored": 21,
   "llmScored": 0,
-  "totalMatched": 19,
+  "totalMatched": 16,
   "totalNew": 1,
   "jobs": [
     {
-      "title": "Senior Coaching & Advice Service Manager - (Remote)",
-      "company": "Moneybox",
-      "location": "Remote",
-      "remote": true,
-      "description": "About Moneybox: At Moneybox, our mission is to give everyone the means to get more out of life. We’re guided by our belief that wealth isn’t about the money, it’s about the means to more: more freedom, opportunities, possibilities, and peace of mind. Moneybox is an award-winning wealth management platform, helping nearly two million people build wealth throughout their lives, whether they're saving and investing, buying their first home, or planning for retirement. And now Moneybox is building the means to help more people in more ways - through personal financial advice. We believe that great advice should be available to everyone, at every stage of life, and that technology can help us deliver it with the care, clarity and accountability people deserve. We're building a new kind of advice service from the ground up, and the people who join us now will help shape how millions of people plan for their future. The Senior Coaching & Advice Service Manager leads Moneybox's team of Financial Coaches and Advice Coaches — the shared service that gives customers a human relationship alongside our digital capability, whether they're being coached through a non-advised decision or guided through our regulated advice journey. This is a deliberately shared service. Coaches provide non-advised coaching to customers on behalf of Digital Moneybox Limited, segmented by conversation complexity and qualification level; Advice Coaches support customers through our regulated advice journey, and can flex into coaching activity based on capacity. You'll own the team, its competence and quality standards, and how technology — including video calls and AI — supports every customer conversation, before, during and after the call. You will report directly to the Director of Advice, working closely with the Senior Financial Advisers and the Head of Proposition across the wider Advice leadership team. What you'll be doing You'll lead and grow the Coaches and Advice Coaches team end-to-end — from day-to-day people leadership and competence, through to the technology and processes that shape the customer experience they deliver. Team leadership & competence Line manage the Coaches and Advice Coaches team, providing day-to-day leadership, coaching and support to a growing group of customer-facing colleagues. Build and own the T&C scheme for the Coaches and Advice Coaches team — training standards, sign-off criteria and record-keeping — working in partnership with the Director of Advice, who holds overall T&C oversight, so every Coach and Advice Coach is signed off for the conversations they're qualified to have. Design and build out development pathways and onboarding plans as the team scales, giving new joiners a fast, confident ramp and existing team members a clear route to progress. Manage performance against KPIs, coaching individuals and the team as a whole to consistently strong outcomes. Support team development plans and career conversations, including the natural progression from Financial Coach through Advice Coach towards a Financial Adviser pathway. Customer outcomes & quality Own service quality across both the coaching and advice-service experience — the standards the team is held to, and how consistently they're delivered. Ensure the team delivers good customer outcomes consistent with Consumer Duty, across both non-advised coaching and advice-service support. Monitor and report against agreed SLAs and customer satisfaction scores (CSAT), identifying trends early and acting on them. Feed insight from customer interactions back to the wider Moneybox team — Product, Risk & Compliance, Investment and the Advice leadership team — to drive continuous improvement. Growing the team Own recruitment for the Coaches and Advice Coaches team, building the pipeline and capability needed as Moneybox's coaching and advice services scale. Build out the Adviser & Coach Academy — a structured development and progression route from Coach to Advice Coach to Fi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/moneybox/senior-coaching-advice-service-manager-remote-394210",
+      "title": "Delivery Manager Software Development & Service Delivery - 20156",
+      "company": "Veritaz AB",
+      "location": "Malmö, Skåne län",
+      "remote": false,
+      "description": "Veritaz is a leading IT staffing solutions provider in Sweden, committed to advancing individual careers and aiding employers in ensuring the perfect talent fit. With a proven track record of successful partnerships with top companies, we have rapidly grown our presence in the USA, Europe, and Sweden as a dependable and trusted resource within the IT industry. Job Overview Assignment Description We are looking for a Delivery Manager. What You Will Work On Coordinate daily delivery activities and manage operational delivery communication. Lead sprint planning, estimation, sprint commitments, and structured follow-up with customer team leads. Conduct biweekly reviews of sprint performance, delivery outcomes, lessons learned, deviations, and agreed performance criteria. Hold individual discussions with developers as needed, coordinating with customer team leads. Coordinate multiple team leads, delivery managers, and other stakeholders involved in team performance. Manage operational escalations and raise critical issues to the Key Account Manager (KAM) when required. Work with the Resource Manager to prioritise capacity and competence requirements across teams. Provide delivery data and risk assessments for forecasts, invoicing, quarterly reviews, and business follow-ups. Manage and approve consultant holidays and work-from-home requests. Monitor team sickness absence and ensure relevant information reaches the appropriate stakeholders. What You Bring Experience in delivery management, project management, or IT service delivery. Experience coordinating software development teams and multiple stakeholders. Strong understanding of Agile delivery, sprint planning, estimation, and performance follow-up. Ability to manage operational risks, escalations, and delivery commitments. Experience with capacity planning, resource coordination, and delivery reporting. Strong communication, coordination, and leadership skills. Ability to work in a structured, client-facing environment and drive continuous improvement. Meritorious Experience managing software development deliveries across multiple teams. Experience with contractual delivery commitments, forecasting, and invoicing support. Experience working with Key Account Managers and Resource Managers. Experience with performance reviews, risk management, and quarterly business follow-ups.",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31613542",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-10-16T02:30:13.000Z",
+      "posted": "2026-10-19T12:07:05.000Z",
       "language": "en",
-      "country": null,
-      "source": "arbeitnow",
-      "sourceId": "senior-coaching-advice-service-manager-remote-394210",
-      "query": null,
-      "id": "2e7c28fe5ebba414",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31613542",
+      "query": "service delivery manager",
+      "id": "dd7dff176bc35702",
       "sources": [
-        "arbeitnow"
+        "jobtech"
       ],
       "isNew": true,
-      "score": 55,
+      "score": 45,
       "fit": "unscored",
       "matched": [],
       "gaps": [],
@@ -170,7 +170,7 @@
       "reason": "",
       "next_action": "",
       "scoredBy": "prefilter",
-      "keywordScore": 55
+      "keywordScore": 45
     },
     {
       "title": "IT Service Manager (Senior)",
@@ -202,99 +202,6 @@
       "firstSeen": "2026-09-14T10:42:48.537Z",
       "isNew": false,
       "keywordScore": 65
-    },
-    {
-      "title": "ServiceNow AI Architect",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Remote job",
-      "remote": true,
-      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a strategic partner in the rapidly evolving AI landscape . They work with organisations on complex transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow and AI solutions . We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and AI expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing innovative ServiceNow and AI solutions Taking a leading role in the architecture, implementation and further development of AI-powered solutions and AI agents Developing intelligent AI agents that can interact with and support customers Using previous customer and business expertise to support the development of effective customer-facing AI solutions Translating complex business and customer requirements into scalable technical and AI-driven solutions Working with modern AI technologies, Large Language Models and agent-based solutions Designing innovative solutions across customer service, CRM and customer experience environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex AI, automation and digital transformation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and Artificial Intelligence , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Experience with Artificial Intelligence, Generative AI or AI-powered solutions Experience developing or working with AI agents or agentic AI Experience with technologies such as Claude, Claude 4 or similar AI technologies Experience as a ServiceNow Architect, Technical Architect, Solution Architect, AI Architect or Senior Consultant Strong understanding of customer processes, CRM, customer service or customer experience Experience transferring previous customer or business expertise into the development of intelligent AI agents would be highly beneficial Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical and AI-driven solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find more English Speaking Jobs in Switzerland on Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-248913",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-14T20:32:27.000Z",
-      "language": "en",
-      "country": null,
-      "source": "arbeitnow",
-      "sourceId": "remote-servicenow-ai-architect-zurich-248913",
-      "query": null,
-      "id": "a42ebd78ffae7498",
-      "sources": [
-        "arbeitnow"
-      ],
-      "score": 65,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-15T09:57:57.559Z",
-      "isNew": false,
-      "keywordScore": 65
-    },
-    {
-      "title": "ServiceNow CRM Architect",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Remote job",
-      "remote": true,
-      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions. We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and CRM expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing ServiceNow CRM solutions and architectures Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms Advising customers on the optimisation and digitalisation of their customer processes and customer experience Translating complex business and customer requirements into scalable technical solutions Designing innovative solutions across CRM and customer service environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex customer transformation and digitalisation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and CRM , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Strong experience in ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions Experience as a ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant Strong understanding of CRM processes, customer journeys and customer experience Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find Jobs in Switzerland on Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-296402",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-14T20:32:27.000Z",
-      "language": "en",
-      "country": null,
-      "source": "arbeitnow",
-      "sourceId": "remote-servicenow-crm-architect-zurich-296402",
-      "query": null,
-      "id": "86ee52e867d1f7cc",
-      "sources": [
-        "arbeitnow"
-      ],
-      "score": 65,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-15T09:57:57.559Z",
-      "isNew": false,
-      "keywordScore": 65
-    },
-    {
-      "title": "SERVICE DELIVERY MANAGER",
-      "company": "Job-Room",
-      "location": "Zürich",
-      "remote": false,
-      "description": "Job Applicant Privacy Notice SERVICE DELIVERY MANAGER Publication Date: Sep 12, 2026 Ref. No: 550075 Location: Zurich, CH About Atos Group Atos Group is a global leader in digital transformation with c. 54,000 employees and annual revenue of c. -7.2 billion (at the go-forward perimeter), operating in 54 countries under two brands - Atos for services and Eviden for products and systems. European number one in cybersecurity and a leader in cloud, Atos Group is committed to a secure and decarb…",
-      "url": "https://www.adzuna.ch/details/5908030309?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-02T14:32:01.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5908030309",
-      "query": "service delivery manager",
-      "id": "defbb6c14b7edf3f",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-05T12:18:44.143Z",
-      "isNew": false,
-      "keywordScore": 60
     },
     {
       "title": "Junior ServiceNow Consultant",
@@ -333,7 +240,7 @@
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "Successful candidates must be prepared to relocate to the specified job location in the job posting and will be employed directly under the hiring entity's contractual terms. Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions . New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management pr…",
-      "url": "https://www.adzuna.de/land/ad/5928481000?se=8MNySEfJ8RG9M9wzK9dbKw&utm_medium=api&utm_source=8209e0ff&v=32C15C9671C754EA245393233C1F857445DBC2A6",
+      "url": "https://www.adzuna.de/details/5928481000?utm_medium=api&utm_source=8209e0ff",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
