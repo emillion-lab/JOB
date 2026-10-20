@@ -13092,5 +13092,107 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "f91c0202dc40d74f": {
+    "firstSeen": "2026-10-20T10:07:00.983Z",
+    "lastSeen": "2026-10-20T10:07:00.983Z",
+    "title": "Senior HR Business Partner France",
+    "company": "Everfield",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "be73033cbe74eaad": {
+    "firstSeen": "2026-10-20T10:07:00.983Z",
+    "lastSeen": "2026-10-20T10:07:00.983Z",
+    "title": "Team Lead Customer Success - Southern Europe",
+    "company": "Constructor",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3b758b53f6e7b62c": {
+    "firstSeen": "2026-10-20T10:07:00.983Z",
+    "lastSeen": "2026-10-20T10:07:00.983Z",
+    "title": "Data Privacy Compliance Specialist",
+    "company": "DeepHealth",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1f9fc3f398c9e08a": {
+    "firstSeen": "2026-10-20T10:07:00.983Z",
+    "lastSeen": "2026-10-20T10:07:00.983Z",
+    "title": "Senior Events Manager- EMEA",
+    "company": "Camunda",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f8bbcabec3157f7e": {
+    "firstSeen": "2026-10-20T10:07:00.983Z",
+    "lastSeen": "2026-10-20T10:07:00.983Z",
+    "title": "Senior Software Engineer",
+    "company": "Fender",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f7f5e1c536d32a28": {
+    "firstSeen": "2026-10-20T10:07:00.983Z",
+    "lastSeen": "2026-10-20T10:07:00.983Z",
+    "title": "Associate Product Manager, Salesforce (6-7 months Maternity Cover) (all genders)",
+    "company": "Lightspeedhq",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

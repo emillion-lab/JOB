@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:48:38.388Z",
+  "generatedAt": "2026-10-20T10:07:00.986Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 234,
+      "collected": 226,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 79,
+      "collected": 80,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 204,
+      "collected": 231,
       "status": "ok"
     },
     {
@@ -127,51 +127,20 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 161,
-  "totalBeforeLanguageFilter": 441,
+  "totalCollected": 186,
+  "totalBeforeLanguageFilter": 464,
   "byLanguage": {
-    "de": 232,
-    "en": 157,
-    "unknown": 4,
-    "fr": 10,
-    "no": 38
+    "de": 233,
+    "en": 183,
+    "unknown": 3,
+    "no": 40,
+    "fr": 5
   },
-  "totalScored": 21,
+  "totalScored": 6,
   "llmScored": 0,
-  "totalMatched": 16,
-  "totalNew": 1,
+  "totalMatched": 17,
+  "totalNew": 0,
   "jobs": [
-    {
-      "title": "Delivery Manager Software Development & Service Delivery - 20156",
-      "company": "Veritaz AB",
-      "location": "Malmö, Skåne län",
-      "remote": false,
-      "description": "Veritaz is a leading IT staffing solutions provider in Sweden, committed to advancing individual careers and aiding employers in ensuring the perfect talent fit. With a proven track record of successful partnerships with top companies, we have rapidly grown our presence in the USA, Europe, and Sweden as a dependable and trusted resource within the IT industry. Job Overview Assignment Description We are looking for a Delivery Manager. What You Will Work On Coordinate daily delivery activities and manage operational delivery communication. Lead sprint planning, estimation, sprint commitments, and structured follow-up with customer team leads. Conduct biweekly reviews of sprint performance, delivery outcomes, lessons learned, deviations, and agreed performance criteria. Hold individual discussions with developers as needed, coordinating with customer team leads. Coordinate multiple team leads, delivery managers, and other stakeholders involved in team performance. Manage operational escalations and raise critical issues to the Key Account Manager (KAM) when required. Work with the Resource Manager to prioritise capacity and competence requirements across teams. Provide delivery data and risk assessments for forecasts, invoicing, quarterly reviews, and business follow-ups. Manage and approve consultant holidays and work-from-home requests. Monitor team sickness absence and ensure relevant information reaches the appropriate stakeholders. What You Bring Experience in delivery management, project management, or IT service delivery. Experience coordinating software development teams and multiple stakeholders. Strong understanding of Agile delivery, sprint planning, estimation, and performance follow-up. Ability to manage operational risks, escalations, and delivery commitments. Experience with capacity planning, resource coordination, and delivery reporting. Strong communication, coordination, and leadership skills. Ability to work in a structured, client-facing environment and drive continuous improvement. Meritorious Experience managing software development deliveries across multiple teams. Experience with contractual delivery commitments, forecasting, and invoicing support. Experience working with Key Account Managers and Resource Managers. Experience with performance reviews, risk management, and quarterly business follow-ups.",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31613542",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-19T12:07:05.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31613542",
-      "query": "service delivery manager",
-      "id": "dd7dff176bc35702",
-      "sources": [
-        "jobtech"
-      ],
-      "isNew": true,
-      "score": 45,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 45
-    },
     {
       "title": "IT Service Manager (Senior)",
       "company": "Regma IT AB",
@@ -200,6 +169,68 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-09-14T10:42:48.537Z",
+      "isNew": false,
+      "keywordScore": 65
+    },
+    {
+      "title": "ServiceNow AI Architect",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "remote": true,
+      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a strategic partner in the rapidly evolving AI landscape . They work with organisations on complex transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow and AI solutions . We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and AI expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing innovative ServiceNow and AI solutions Taking a leading role in the architecture, implementation and further development of AI-powered solutions and AI agents Developing intelligent AI agents that can interact with and support customers Using previous customer and business expertise to support the development of effective customer-facing AI solutions Translating complex business and customer requirements into scalable technical and AI-driven solutions Working with modern AI technologies, Large Language Models and agent-based solutions Designing innovative solutions across customer service, CRM and customer experience environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex AI, automation and digital transformation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and Artificial Intelligence , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Experience with Artificial Intelligence, Generative AI or AI-powered solutions Experience developing or working with AI agents or agentic AI Experience with technologies such as Claude, Claude 4 or similar AI technologies Experience as a ServiceNow Architect, Technical Architect, Solution Architect, AI Architect or Senior Consultant Strong understanding of customer processes, CRM, customer service or customer experience Experience transferring previous customer or business expertise into the development of intelligent AI agents would be highly beneficial Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical and AI-driven solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find more English Speaking Jobs in Switzerland on Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-117232",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-19T17:31:28.000Z",
+      "language": "en",
+      "country": null,
+      "source": "arbeitnow",
+      "sourceId": "remote-servicenow-ai-architect-zurich-117232",
+      "query": null,
+      "id": "a42ebd78ffae7498",
+      "sources": [
+        "arbeitnow"
+      ],
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-10-15T09:57:57.559Z",
+      "isNew": false,
+      "keywordScore": 65
+    },
+    {
+      "title": "ServiceNow CRM Architect",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "remote": true,
+      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions. We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and CRM expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing ServiceNow CRM solutions and architectures Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms Advising customers on the optimisation and digitalisation of their customer processes and customer experience Translating complex business and customer requirements into scalable technical solutions Designing innovative solutions across CRM and customer service environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex customer transformation and digitalisation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and CRM , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Strong experience in ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions Experience as a ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant Strong understanding of CRM processes, customer journeys and customer experience Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find Jobs in Switzerland on Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-146244",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-19T17:31:28.000Z",
+      "language": "en",
+      "country": null,
+      "source": "arbeitnow",
+      "sourceId": "remote-servicenow-crm-architect-zurich-146244",
+      "query": null,
+      "id": "86ee52e867d1f7cc",
+      "sources": [
+        "arbeitnow"
+      ],
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-10-15T09:57:57.559Z",
       "isNew": false,
       "keywordScore": 65
     },
@@ -328,37 +359,6 @@
       "keywordScore": 60
     },
     {
-      "title": "Incident & Problem Manager (80 - 100%)",
-      "company": "Job-Room",
-      "location": "Zürich",
-      "remote": false,
-      "description": "SIX drives the transformation of financial markets. What sets us apart drives us ahead: between local roots and global relevance, we are a unique blend of tradition and future, of foundation and growth. We value bright minds and inspire them to grow with their ideas. Come and shape the future of finance with us. Incident & Problem Manager (80 - 100%) Zurich | up to 40% Home office possible | Reference 8293 Do you want to work in a highly dynamic environment? Are you motivated to ensure relia…",
-      "url": "https://www.adzuna.ch/details/5911521777?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-04T14:36:27.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5911521777",
-      "query": "it service management",
-      "id": "ab6ab0c8b0c0e304",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-05T12:18:44.143Z",
-      "isNew": false,
-      "keywordScore": 55
-    },
-    {
       "title": "SAP S/4HANA Finance Application Manager",
       "company": "Foxmont Talent",
       "location": "Zürich",
@@ -481,6 +481,37 @@
       "firstSeen": "2026-09-30T11:11:56.135Z",
       "isNew": false,
       "keywordScore": 55
+    },
+    {
+      "title": "Delivery Manager Software Development & Service Delivery - 20156",
+      "company": "Veritaz AB",
+      "location": "Malmö, Skåne län",
+      "remote": false,
+      "description": "Veritaz is a leading IT staffing solutions provider in Sweden, committed to advancing individual careers and aiding employers in ensuring the perfect talent fit. With a proven track record of successful partnerships with top companies, we have rapidly grown our presence in the USA, Europe, and Sweden as a dependable and trusted resource within the IT industry. Job Overview Assignment Description We are looking for a Delivery Manager. What You Will Work On Coordinate daily delivery activities and manage operational delivery communication. Lead sprint planning, estimation, sprint commitments, and structured follow-up with customer team leads. Conduct biweekly reviews of sprint performance, delivery outcomes, lessons learned, deviations, and agreed performance criteria. Hold individual discussions with developers as needed, coordinating with customer team leads. Coordinate multiple team leads, delivery managers, and other stakeholders involved in team performance. Manage operational escalations and raise critical issues to the Key Account Manager (KAM) when required. Work with the Resource Manager to prioritise capacity and competence requirements across teams. Provide delivery data and risk assessments for forecasts, invoicing, quarterly reviews, and business follow-ups. Manage and approve consultant holidays and work-from-home requests. Monitor team sickness absence and ensure relevant information reaches the appropriate stakeholders. What You Bring Experience in delivery management, project management, or IT service delivery. Experience coordinating software development teams and multiple stakeholders. Strong understanding of Agile delivery, sprint planning, estimation, and performance follow-up. Ability to manage operational risks, escalations, and delivery commitments. Experience with capacity planning, resource coordination, and delivery reporting. Strong communication, coordination, and leadership skills. Ability to work in a structured, client-facing environment and drive continuous improvement. Meritorious Experience managing software development deliveries across multiple teams. Experience with contractual delivery commitments, forecasting, and invoicing support. Experience working with Key Account Managers and Resource Managers. Experience with performance reviews, risk management, and quarterly business follow-ups.",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31613542",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-19T12:07:05.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31613542",
+      "query": "service delivery manager",
+      "id": "dd7dff176bc35702",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-10-19T10:48:38.384Z",
+      "isNew": false,
+      "keywordScore": 45
     },
     {
       "title": "Service Project Manager Network Control Service",
