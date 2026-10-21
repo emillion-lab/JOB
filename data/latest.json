@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:07:00.986Z",
+  "generatedAt": "2026-10-21T10:12:23.064Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 226,
+      "collected": 229,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 231,
+      "collected": 241,
       "status": "ok"
     },
     {
@@ -127,20 +127,50 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 186,
-  "totalBeforeLanguageFilter": 464,
+  "totalCollected": 207,
+  "totalBeforeLanguageFilter": 457,
   "byLanguage": {
-    "de": 233,
-    "en": 183,
-    "unknown": 3,
-    "no": 40,
-    "fr": 5
+    "de": 205,
+    "en": 207,
+    "no": 41,
+    "fr": 4
   },
-  "totalScored": 6,
+  "totalScored": 13,
   "llmScored": 0,
   "totalMatched": 17,
-  "totalNew": 0,
+  "totalNew": 1,
   "jobs": [
+    {
+      "title": "Systems Analyst/ IT Project Manager as Freelancer (all genders)",
+      "company": "Vexcash AG",
+      "location": "Berlin",
+      "remote": true,
+      "description": "About Vexcash AGVEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our service. Thanks to our innovative approach, they can secure financial liquidity without having to commit to a long-term arrangement. Tasks We are looking for a IT Project Manager as freelancer to support the development and improvement of business applications and systems within a banking and financial services environment. You will work closely with business stakeholders, developers, product teams, and external providers to analyze requirements, document processes, and ensure that systems meet business needs. Key Responsibilities Gather and analyze business and system requirements. Translate business needs into clear functional specifications. Create and maintain process flows, workflows, user journeys, and system diagrams. Analyze data flows, APIs, system integrations, and dependencies. Work with developers and vendors to implement and improve solutions. Support system testing and User Acceptance Testing, including defect identification and resolution. Analyze and document business processes and identify opportunities for improvement. Maintain functional and technical documentation. Support integrations with banking, lending, credit, KYC/AML, and other financial systems. Act as a bridge between business and technical teams. Requirements Freelancers must meet the requirements for working on a freelance basis and include their proposed monthly rate in their application. 3+ years of experience as a Systems Analyst, Business Analyst, or similar role. Strong requirements gathering and process analysis skills. Experience with workflows, process mapping, and system documentation. Good understanding of web applications, APIs, integrations, and data flows. Experience with system testing and User Acceptance Testing. Strong analytical, organizational, and communication skills. Experience with tools such as Jira, Confluence, Visio, Miro, Lucidchart, or Draw.io is an advantage. Experience in banking, lending, fintech, or financial services is preferred. If you are motivated and excited about taking on this responsible role and becoming part of our success story, we encourage you to apply today! We look forward to hearing from you! Find more English Speaking Jobs in Germany on Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/systems-analyst-it-project-manager-as-freelancer-all-genders-berlin-466967",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-20T12:00:50.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "arbeitnow",
+      "sourceId": "systems-analyst-it-project-manager-as-freelancer-all-genders-berlin-466967",
+      "query": null,
+      "id": "d5190906f67b38ca",
+      "sources": [
+        "arbeitnow"
+      ],
+      "isNew": true,
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 60
+    },
     {
       "title": "IT Service Manager (Senior)",
       "company": "Regma IT AB",
@@ -208,7 +238,7 @@
       "company": "SwissPeak Partners GmbH",
       "location": "Remote job",
       "remote": true,
-      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions. We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and CRM expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing ServiceNow CRM solutions and architectures Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms Advising customers on the optimisation and digitalisation of their customer processes and customer experience Translating complex business and customer requirements into scalable technical solutions Designing innovative solutions across CRM and customer service environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex customer transformation and digitalisation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and CRM , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Strong experience in ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions Experience as a ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant Strong understanding of CRM processes, customer journeys and customer experience Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find Jobs in Switzerland on Arbeitnow",
+      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions. We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and CRM expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing ServiceNow CRM solutions and architectures Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms Advising customers on the optimisation and digitalisation of their customer processes and customer experience Translating complex business and customer requirements into scalable technical solutions Designing innovative solutions across CRM and customer service environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex customer transformation and digitalisation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and CRM , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Strong experience in ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions Experience as a ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant Strong understanding of CRM processes, customer journeys and customer experience Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find more English Speaking Jobs in Switzerland on Arbeitnow",
       "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-146244",
       "salary_min": null,
       "salary_max": null,
@@ -448,37 +478,6 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-09-21T10:46:07.805Z",
-      "isNew": false,
-      "keywordScore": 55
-    },
-    {
-      "title": "Filed Service Manager - Scanjet in Gothenburg or Sjöbo",
-      "company": "Alfa Laval Technologies AB",
-      "location": "Gothenburg, Västra Götalands län",
-      "remote": false,
-      "description": "About Scanjet Scanjet Marine & System AB, a part of the Alfa Laval Group, is a world-leading and innovative company working with equipment for cleaning and level sensing for marine and land-based oil and chemical tanks. Scanjet was started in 1987 in Sweden where the headquarter remains today. Scanjet has sister companies with sites in Bulgaria, the Netherlands, Poland, Norway, the UK, Shanghai and Indonesia. With these strategic geographical locations and a strong customer focus, we have successfully established ourselves as a world leader in our sector. We have a major focus on future products designed to meet strict industry standards as well as environmental requirements. In our everyday work we are guided by our core values; customer-focused, professional and committed, cost-efficient, and keeping our promises. We are a workplace for everyone, and our success is built on a culture of diversity and inclusion. We welcome applicants from various backgrounds and experiences. Scanjet is now looking for Field Service Manager to join our After sales organisation. About the role This role is responsible for leading Scanjet's Service organisation consisting of 20 employees, Field Service Engineers and Service Coordinators, across Europe and Asia. In this role you will report to the CEO, work closely with other managers within Aftersales and other parts of Scanjet as well as interact with Alfa Laval service & AS organisations. The position is full-time and will be based in either Gothenburg or Sjöbo in Sweden. In this role you can expect to travel approximately 60 days per year. Key responsibilities Lead Scanjet's global Service organisation, with overall responsibility for people, performance, budget, and sustainable business growth. Drive Scanjets cooperation with Alfa Laval's Marine A/S organization in Business Unit MAS and Framo and make sure that best practice is used. Develop and maintain a professional, customer-focused service network for Tank Management. Foster a strong customer-centric culture across the Service organisation. Drive the continuous development of global service operations, ensuring efficiency, safety, regulatory compliance, and high service quality. Lead the implementation of tools, processes, and ways of working that improve operational effectiveness and customer value. Lead, coach, and support team members throughout the employee lifecycle, creating an engaging and inclusive work environment. Oversee service partner agreements, competence development, and service documentation to ensure quality and consistency. Qualifications To succeed in this role, we believe you have the following required qualifications: Relevant education or equivalent work experience. Proven experience leading a service organisation or a company where service is a core business offering. Strong business acumen and commercial mindset. Excellent interpersonal and communication skills, with the ability to work effectively across different countries, cultures, and regulatory environments. Solution-oriented, positive, and collaborative, prestige-free attitude. Proactive, and results-driven with a hands-on approach. Flexible mindset and ability to adapt and thrive in an international environment. Professional proficiency in both English and Swedish, with the ability to communicate effectively in an international business environment. Not a requirement but nice to have: Experience in a leadership or manager role, with demonstrated responsibility for driving business performance and organizational development Hands-on experience managing field service operations within a mechanical and/or electrical engineering environment. What we offer At Scanjet, you will join a friendly and dynamic workplace with an entrepreneurial spirit. You will have the chance to collaborate and grow together with committed colleagues and to contribute toward the future development and success of Scanjet. We have a strong track record of internal career development ",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31534300",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-29T23:22:33.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31534300",
-      "query": "service manager",
-      "id": "91e9c60101b3a1a4",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-09-30T11:11:56.135Z",
       "isNew": false,
       "keywordScore": 55
     },
