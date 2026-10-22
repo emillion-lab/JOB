@@ -13415,5 +13415,362 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "490245b0fbcfe59b": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Director Technical Support & Field Service",
+    "company": "Sereact GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ae8713dce4158b4b": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "(Senior) HR Tech Business Analyst — Automation & AI (m/f/d)",
+    "company": "Flix",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6113df252cb31afe": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Lead Consultant",
+    "company": "Infosys Technologies (Sweden) AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5d23f47c0ff78b57": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Product Manager (English/French)",
+    "company": "unframe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8e94cd04e3d4a19e": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Senior Full-Stack Engineer (Web + Infrastructure)",
+    "company": "Searoutes",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "24c66a1bf010fd6a": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Team Lead Customer Success - Southern Europe",
+    "company": "Constructor",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c06e0183526ae344": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Executive, Office of the CEO",
+    "company": "Bjak",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f1bcc3d98e63dccc": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Director, Public Affairs",
+    "company": "Teneo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f73b3a6e2d001797": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Regionalleiter Werkstatt & Instandhaltung (m/f/d) - North-East",
+    "company": "Roadsurfer",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "472358b227c5c14b": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Regional Manager Maintenance & Repair (m/f/d) - North-East",
+    "company": "Roadsurfer",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6b2b13fbaa477025": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Head of Technical Fleet Operations - DACH",
+    "company": "Roadsurfer",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b63f3bc567e44dd3": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d",
+    "company": "charlesriverassociates",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "13d4f44491dbf4f1": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Fraud Prevention Engineer",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cfb139220b0c7381": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Software Engineer II, Applications",
+    "company": "Fender",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ed92aef886f5c7e1": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Food safety coordinator (f/m/d)",
+    "company": "PlantaCorp GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f30360c3c56d248d": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Senior HR Tech Business Analyst – Workday & Process Optimization (m/f/d)",
+    "company": "Flix",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d70c494d2760df39": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Commercial Customer Success Manager (m/f/d)",
+    "company": "much. GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "607e6e5775c91f19": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Flight Data Monitoring Manager",
+    "company": "OnTarget Communications",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c0c86687a2d3de93": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Enterprise Field Engineer - Pre-sales - Southeast (Atlanta)",
+    "company": "CodeRabbit",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "53a9fbd3c8bc76ca": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "Remote SAP S/4HANA Finance &#38; Tax Consultant",
+    "company": "PROSTAFF Schweiz GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b9e0eead758b0c83": {
+    "firstSeen": "2026-10-22T10:14:01.036Z",
+    "lastSeen": "2026-10-22T10:14:01.036Z",
+    "title": "T24 Application Support / Operation Engineer 100% (f/m/d)",
+    "company": "Julius Baer",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
