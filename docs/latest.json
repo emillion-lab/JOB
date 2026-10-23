@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:14:01.038Z",
+  "generatedAt": "2026-10-23T10:06:48.347Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 229,
+      "collected": 224,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 80,
+      "collected": 81,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 285,
+      "collected": 257,
       "status": "ok"
     },
     {
@@ -127,20 +127,50 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 244,
-  "totalBeforeLanguageFilter": 513,
+  "totalCollected": 214,
+  "totalBeforeLanguageFilter": 481,
   "byLanguage": {
-    "de": 226,
-    "en": 243,
-    "no": 41,
-    "fr": 2,
-    "unknown": 1
+    "de": 216,
+    "en": 214,
+    "no": 48,
+    "fr": 3
   },
-  "totalScored": 21,
+  "totalScored": 16,
   "llmScored": 0,
-  "totalMatched": 15,
-  "totalNew": 0,
+  "totalMatched": 14,
+  "totalNew": 1,
   "jobs": [
+    {
+      "title": "ServiceNow Lead / Project managers",
+      "company": "Darwin Recruitment",
+      "location": "Allach-Untermenzing, München",
+      "remote": false,
+      "description": "Location: Hamburg, Germany Working Model: Hybrid Employment Type: Permanent, Full-Time Language Requirements: Fluent German and good English proficiency About Opportunity We are seeking an experienced Senior ServiceNow Project Lead to join a leading ServiceNow partner delivering innovative digital workflow and IT service management solutions to enterprise clients. This is an opportunity for a technically strong and commercially aware professional to take ownership of ServiceNow implementation p…",
+      "url": "https://www.adzuna.de/details/5938629324?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-23T04:17:25.000Z",
+      "language": "en",
+      "country": "de",
+      "source": "adzuna",
+      "sourceId": "5938629324",
+      "query": "servicenow consultant",
+      "id": "37392c31b236039a",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 65
+    },
     {
       "title": "IT Service Manager (Senior)",
       "company": "Regma IT AB",
@@ -169,68 +199,6 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-09-14T10:42:48.537Z",
-      "isNew": false,
-      "keywordScore": 65
-    },
-    {
-      "title": "ServiceNow AI Architect",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Remote job",
-      "remote": true,
-      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a strategic partner in the rapidly evolving AI landscape . They work with organisations on complex transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow and AI solutions . We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and AI expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing innovative ServiceNow and AI solutions Taking a leading role in the architecture, implementation and further development of AI-powered solutions and AI agents Developing intelligent AI agents that can interact with and support customers Using previous customer and business expertise to support the development of effective customer-facing AI solutions Translating complex business and customer requirements into scalable technical and AI-driven solutions Working with modern AI technologies, Large Language Models and agent-based solutions Designing innovative solutions across customer service, CRM and customer experience environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex AI, automation and digital transformation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and Artificial Intelligence , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Experience with Artificial Intelligence, Generative AI or AI-powered solutions Experience developing or working with AI agents or agentic AI Experience with technologies such as Claude, Claude 4 or similar AI technologies Experience as a ServiceNow Architect, Technical Architect, Solution Architect, AI Architect or Senior Consultant Strong understanding of customer processes, CRM, customer service or customer experience Experience transferring previous customer or business expertise into the development of intelligent AI agents would be highly beneficial Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical and AI-driven solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find more English Speaking Jobs in Switzerland on Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-117232",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-19T17:31:28.000Z",
-      "language": "en",
-      "country": null,
-      "source": "arbeitnow",
-      "sourceId": "remote-servicenow-ai-architect-zurich-117232",
-      "query": null,
-      "id": "a42ebd78ffae7498",
-      "sources": [
-        "arbeitnow"
-      ],
-      "score": 65,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-15T09:57:57.559Z",
-      "isNew": false,
-      "keywordScore": 65
-    },
-    {
-      "title": "ServiceNow CRM Architect",
-      "company": "SwissPeak Partners GmbH",
-      "location": "Remote job",
-      "remote": true,
-      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions. We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and CRM expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing ServiceNow CRM solutions and architectures Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms Advising customers on the optimisation and digitalisation of their customer processes and customer experience Translating complex business and customer requirements into scalable technical solutions Designing innovative solutions across CRM and customer service environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex customer transformation and digitalisation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and CRM , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Strong experience in ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions Experience as a ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant Strong understanding of CRM processes, customer journeys and customer experience Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find Jobs in Switzerland on Arbeitnow",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-146244",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-19T17:31:28.000Z",
-      "language": "en",
-      "country": null,
-      "source": "arbeitnow",
-      "sourceId": "remote-servicenow-crm-architect-zurich-146244",
-      "query": null,
-      "id": "86ee52e867d1f7cc",
-      "sources": [
-        "arbeitnow"
-      ],
-      "score": 65,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-15T09:57:57.559Z",
       "isNew": false,
       "keywordScore": 65
     },

@@ -13772,5 +13772,277 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "37392c31b236039a": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "ServiceNow Lead / Project managers",
+    "company": "Darwin Recruitment",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cb5c277ac4964c08": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "ITOM consultants",
+    "company": "Darwin Recruitment",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8a7b11f8651dd58b": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Chief of Staff (f/m/d)",
+    "company": "Moonfare",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "739628b54cb8a7a3": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Senior Android Developer (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f388c8f65e0e8519": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "IT Security Engineer (all genders)",
+    "company": "Getolo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "144aaa563c62f5b9": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Senior Geospatial Consultant (FME)",
+    "company": "VertiGIS GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "be6f127a26314530": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Senior Voice Routing Specialist",
+    "company": "Talk360",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ba35eb7972f890f3": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Solutions Manager- (German Fluency)",
+    "company": "Zip",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e9ce412ddf877c97": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Senior IT Engineer, MDM Tech (f/m/x)",
+    "company": "hellofresh",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "23e024764f84cbcb": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Manager, Forward Deployed Engineering",
+    "company": "databricks",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "bad6f82ac6f68056": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Senior Product Manager Growth (f/m/d)",
+    "company": "Trusted Shops SE (DE)",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "595d7760da1c9657": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Senior Full-Stack Engineer (Web + Infrastructure)",
+    "company": "Searoutes",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2929322d59c4e8bc": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Senior Project Engineer, Systems Engineering",
+    "company": "Brainlab",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fd05f929e7c2ce2a": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Principal Consultant",
+    "company": "Infosys Technologies (Sweden) AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d376f50f9115b2cf": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Managing Applications Consultant",
+    "company": "Capgemini Sverige AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "714c7d1f04c47577": {
+    "firstSeen": "2026-10-23T10:06:48.345Z",
+    "lastSeen": "2026-10-23T10:06:48.345Z",
+    "title": "Senior Application Consultant",
+    "company": "Capgemini Sverige AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
