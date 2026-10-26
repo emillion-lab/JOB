@@ -14044,5 +14044,328 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "a6ca731851d282d2": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Customer Service Manager",
+    "company": "Omaze",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e192dc3d40fbd772": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Process Manager ITSM ITIL & Service Catalog",
+    "company": "I-Ray IT Solutions AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9545bc20229f6d05": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "F&B Service Manager (m/f/d)",
+    "company": "Marriott Hotels Resorts",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5ee0da10c2ef4f92": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "F&B Service Manager (m/f/d)",
+    "company": "Marriott",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "89521c39ab01932c": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "SAP Consultant",
+    "company": "Avigna AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "759dfe84f3b8b839": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Finance Manager Europe / Head of Finance (m/f/x)",
+    "company": "Dreamlines GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4b104a0f31d1bf75": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Senior Engineering Manager, Supply Domain (all genders)",
+    "company": "Distribusion Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ad90efed99438214": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "(Senior) Talent Acquisition Partner - Tech (f/m/d)",
+    "company": "Moss",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "91c300f45367649b": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "(Senior) Enterprise Account Executive (f/m/d)",
+    "company": "remberg",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cdced6ca7ab5f2fd": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Site Reliability Engineer",
+    "company": "Delinea",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5b5aaf3c514ebc43": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Senior Demand Partnerships Manager - Apps (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f51322e1b5ed4a28": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Global Category Manager - Decentralized Trials",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "05b9de6802b4fb64": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Restaurant Manager - Fine Dining (M/F/D)",
+    "company": "Mandarin Oriental Savoy, Zurich",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f850de0e3cd050df": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Senior Consultant /Assistant Manager - Customer Transformation",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "dfa8838abbddcf7b": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Commissioning Manager - Electrical",
+    "company": "Global Certification & Verification Group",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "db0150e62c023c7e": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Artwork Creation Manager",
+    "company": "ITech Consult AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "332549a7d9ad1fc9": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Remote Junior Account Manager (m/f/d) Laboratory Services Sales (German and French-speaker)",
+    "company": "Agilent",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e642c98d1b9a5cdf": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Artwork Creation Manager",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d807bd6e02f207d4": {
+    "firstSeen": "2026-10-26T11:09:35.482Z",
+    "lastSeen": "2026-10-26T11:09:35.482Z",
+    "title": "Senior DevOps Engineer C5I",
+    "company": "C5I",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
