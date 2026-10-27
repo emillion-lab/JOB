@@ -14367,5 +14367,175 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "d2e5da0b4918f849": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "IT Service Portfolio Manager Part-time/Full-time",
+    "company": "Helvetia Versicherungen",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2dda74a5238f0038": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "SAP PLM Consultant",
+    "company": "Pertemps ERP",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "53cfc5855c9c7eab": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "SAP Inhouse Consultant CO (m/f/d)",
+    "company": "Pertemps ERP",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9fe7df25a97d2d41": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "Risk and Change Manager - Alpha Delivery PMO",
+    "company": "Proxima Fusion GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "edf27acc827e91fd": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "SAP HCM Consultant (TM, OM & PA)",
+    "company": "Market Cloud",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "453d582960d25812": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "Integration Engineer (French Speaker)",
+    "company": "Constructor",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a053d601e287418d": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "Senior Platform Engineer",
+    "company": "DSwiss",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "682720d1bf2933f3": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "Head of Fund Governance & Oversight",
+    "company": "Albedis",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "433d429ebe731ea6": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "Head of Fund Governance & Oversight",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "99cd0b3f15b0e3db": {
+    "firstSeen": "2026-10-27T10:37:35.924Z",
+    "lastSeen": "2026-10-27T10:37:35.924Z",
+    "title": "Senior Full-Stack Engineer – AI, Cloud & Platform",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
