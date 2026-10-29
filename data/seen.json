@@ -14809,5 +14809,124 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "fc4d667dfed73860": {
+    "firstSeen": "2026-10-29T11:33:05.023Z",
+    "lastSeen": "2026-10-29T11:33:05.023Z",
+    "title": "Senior Site Reliability Engineer (f/m/d)",
+    "company": "Upvest",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5b54c6a689fa0970": {
+    "firstSeen": "2026-10-29T11:33:05.023Z",
+    "lastSeen": "2026-10-29T11:33:05.023Z",
+    "title": "Senior QA Engineer (m/f/d)",
+    "company": "Boardwise GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d37435f0177fdd85": {
+    "firstSeen": "2026-10-29T11:33:05.023Z",
+    "lastSeen": "2026-10-29T11:33:05.023Z",
+    "title": "Founder's Associate (Working Student)",
+    "company": "Limatica",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8c05914d9264ce3f": {
+    "firstSeen": "2026-10-29T11:33:05.023Z",
+    "lastSeen": "2026-10-29T11:33:05.023Z",
+    "title": "Senior Director Functional Planning & OnePlan Transformation",
+    "company": "Excelya",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "82b06da5a142915a": {
+    "firstSeen": "2026-10-29T11:33:05.023Z",
+    "lastSeen": "2026-10-29T11:33:05.023Z",
+    "title": "Application Support Specialist - 2nd Level Support 100% (f/m/d)",
+    "company": "Julius Baer",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1379c10973aada70": {
+    "firstSeen": "2026-10-29T11:33:05.023Z",
+    "lastSeen": "2026-10-29T11:33:05.023Z",
+    "title": "Quality Assurance Manager Proximity and Hospital Laboratories - Schweiz",
+    "company": "Unilabs laboratoire d'analyses médicales SA",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "eca96ce5bba21c3d": {
+    "firstSeen": "2026-10-29T11:33:05.023Z",
+    "lastSeen": "2026-10-29T11:33:05.023Z",
+    "title": "Senior Associate Consultant",
+    "company": "Bain & Company Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
