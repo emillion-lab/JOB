@@ -14928,5 +14928,226 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "171f539d05cad729": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "IT Service Portfolio Manager (f/m/d) Part-time/Full-time",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cb778ab10f92759e": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Senior Project Manager – Grant Projects (all genders)",
+    "company": "væridion",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0493cf01c15bf9dd": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Senior SAP AMS Support Consultant (SAP PP & SAP MM)",
+    "company": "The Config Team",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "36e3f876f520fb90": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Senior iOS Developer (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "949e4cee2e336554": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Senior Finance Manager",
+    "company": "Global Reporting Initiative",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2ca79c7a3e075519": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Senior Product Manager",
+    "company": "Shopfully",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c3ccc7fe9670bcab": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Senior Customer Success Manager, Life Sciences",
+    "company": "Tulip Interfaces",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f10ba5b792209e92": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Director B2B2C Growth Partnerships",
+    "company": "Urban Sports Club",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d63b4245aa974b64": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Quality Associate (m/w/d) for CSL Behring",
+    "company": "We make it GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e187374dae64e377": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Working Student - Product & Project Management (all genders)",
+    "company": "Getolo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "06b4c8633eebd74b": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "People & Culture - Working Student (all genders)",
+    "company": "Gotphoto",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a85f0af9767af59b": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Relationship Manager - International UHNWI",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7eef13c45439d613": {
+    "firstSeen": "2026-10-30T11:26:05.564Z",
+    "lastSeen": "2026-10-30T11:26:05.564Z",
+    "title": "Head of Regional Implementation",
+    "company": "Solera",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

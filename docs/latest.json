@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T11:33:05.026Z",
+  "generatedAt": "2026-10-30T11:26:05.567Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 251,
+      "collected": 246,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 261,
+      "collected": 288,
       "status": "ok"
     },
     {
@@ -127,49 +127,49 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 181,
-  "totalBeforeLanguageFilter": 509,
+  "totalCollected": 242,
+  "totalBeforeLanguageFilter": 521,
   "byLanguage": {
-    "de": 274,
-    "en": 181,
+    "de": 223,
+    "en": 242,
     "no": 51,
-    "fr": 3
+    "fr": 5
   },
-  "totalScored": 7,
+  "totalScored": 13,
   "llmScored": 0,
   "totalMatched": 15,
-  "totalNew": 0,
+  "totalNew": 1,
   "jobs": [
     {
-      "title": "ServiceNow Lead / Project managers",
-      "company": "Darwin Recruitment",
-      "location": "Allach-Untermenzing, München",
+      "title": "IT Service Portfolio Manager (f/m/d) Part-time/Full-time",
+      "company": "Job-Room",
+      "location": "Basel, Basel-Stadt",
       "remote": false,
-      "description": "Location: Hamburg, Germany Working Model: Hybrid Employment Type: Permanent, Full-Time Language Requirements: Fluent German and good English proficiency About Opportunity We are seeking an experienced Senior ServiceNow Project Lead to join a leading ServiceNow partner delivering innovative digital workflow and IT service management solutions to enterprise clients. This is an opportunity for a technically strong and commercially aware professional to take ownership of ServiceNow implementation p…",
-      "url": "https://www.adzuna.de/details/5938629324?utm_medium=api&utm_source=8209e0ff",
+      "description": "Set new standards and shaping the future together. With us, you don't just tick tasks off a list. You work alongside people who take responsibility, set high standards and have the courage to try new approaches. We believe trust and performance go hand in hand. Your ideas, your initiative and your contributions are what really matter to us. You will have the opportunity to make a difference for our customers, your team and your own personal development. In this role, you create the transparency…",
+      "url": "https://www.adzuna.ch/details/5946032349?utm_medium=api&utm_source=8209e0ff",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-10-23T04:17:25.000Z",
+      "posted": "2026-10-29T19:37:12.000Z",
       "language": "en",
-      "country": "de",
+      "country": "ch",
       "source": "adzuna",
-      "sourceId": "5938629324",
-      "query": "servicenow consultant",
-      "id": "37392c31b236039a",
+      "sourceId": "5946032349",
+      "query": "service manager",
+      "id": "171f539d05cad729",
       "sources": [
         "adzuna"
       ],
-      "score": 65,
+      "isNew": true,
+      "score": 40,
       "fit": "unscored",
       "matched": [],
       "gaps": [],
       "disqualifiers": [],
       "reason": "",
       "next_action": "",
-      "firstSeen": "2026-10-23T10:06:48.345Z",
-      "isNew": false,
-      "keywordScore": 65
+      "scoredBy": "prefilter",
+      "keywordScore": 40
     },
     {
       "title": "IT Service Manager (Senior)",
@@ -199,6 +199,68 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-09-14T10:42:48.537Z",
+      "isNew": false,
+      "keywordScore": 65
+    },
+    {
+      "title": "ServiceNow AI Architect",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "remote": true,
+      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow AI Architects, Senior Consultants and professionals with experience in AI agents and customer-focused AI solutions to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a strategic partner in the rapidly evolving AI landscape . They work with organisations on complex transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow and AI solutions . We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and AI expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing innovative ServiceNow and AI solutions Taking a leading role in the architecture, implementation and further development of AI-powered solutions and AI agents Developing intelligent AI agents that can interact with and support customers Using previous customer and business expertise to support the development of effective customer-facing AI solutions Translating complex business and customer requirements into scalable technical and AI-driven solutions Working with modern AI technologies, Large Language Models and agent-based solutions Designing innovative solutions across customer service, CRM and customer experience environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex AI, automation and digital transformation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and Artificial Intelligence , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Experience with Artificial Intelligence, Generative AI or AI-powered solutions Experience developing or working with AI agents or agentic AI Experience with technologies such as Claude, Claude 4 or similar AI technologies Experience as a ServiceNow Architect, Technical Architect, Solution Architect, AI Architect or Senior Consultant Strong understanding of customer processes, CRM, customer service or customer experience Experience transferring previous customer or business expertise into the development of intelligent AI agents would be highly beneficial Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical and AI-driven solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find Jobs in Switzerland on Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-341724",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-30T00:31:24.000Z",
+      "language": "en",
+      "country": null,
+      "source": "arbeitnow",
+      "sourceId": "remote-servicenow-ai-architect-zurich-341724",
+      "query": null,
+      "id": "a42ebd78ffae7498",
+      "sources": [
+        "arbeitnow"
+      ],
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-10-15T09:57:57.559Z",
+      "isNew": false,
+      "keywordScore": 65
+    },
+    {
+      "title": "ServiceNow CRM Architect",
+      "company": "SwissPeak Partners GmbH",
+      "location": "Remote job",
+      "remote": true,
+      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions. We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and CRM expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing ServiceNow CRM solutions and architectures Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms Advising customers on the optimisation and digitalisation of their customer processes and customer experience Translating complex business and customer requirements into scalable technical solutions Designing innovative solutions across CRM and customer service environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex customer transformation and digitalisation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and CRM , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Strong experience in ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions Experience as a ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant Strong understanding of CRM processes, customer journeys and customer experience Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find Jobs in Switzerland on Arbeitnow",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-281720",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-30T00:31:24.000Z",
+      "language": "en",
+      "country": null,
+      "source": "arbeitnow",
+      "sourceId": "remote-servicenow-crm-architect-zurich-281720",
+      "query": null,
+      "id": "86ee52e867d1f7cc",
+      "sources": [
+        "arbeitnow"
+      ],
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-10-15T09:57:57.559Z",
       "isNew": false,
       "keywordScore": 65
     },
@@ -482,37 +544,6 @@
       "keywordScore": 45
     },
     {
-      "title": "IT Service Portfolio Manager Part-time/Full-time",
-      "company": "Helvetia Versicherungen",
-      "location": "Basel, Basel-Stadt",
-      "remote": false,
-      "description": "IT Service Portfolio Manager (f/m/d) Part-time/Full-time IT Service Portfolio Manager (f/m/d) Part-time/Full-time 50 - 100% Set new standards and shaping the future together. With us, you don't just tick tasks off a list. You work alongside people who take responsibility, set high standards and have the courage to try new approaches. We believe trust and performance go hand in hand. Your ideas, your initiative and your contributions are what really matter to us. You will have the opportunity to…",
-      "url": "https://www.adzuna.ch/land/ad/5942675647?se=goTIaYzT8RGUC9PL-Qf2Hw&utm_medium=api&utm_source=8209e0ff&v=4B0B8BE3A7E083C2625EF17626C95CEE04B7F99F",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-26T19:37:50.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5942675647",
-      "query": "service manager",
-      "id": "d2e5da0b4918f849",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-27T10:37:35.924Z",
-      "isNew": false,
-      "keywordScore": 40
-    },
-    {
       "title": "Service Sales Manager",
       "company": "Valmet Aktiebolag",
       "location": "Sundsbruk, Västernorrlands län",
@@ -560,37 +591,6 @@
       "sourceId": "31528298",
       "query": "service manager",
       "id": "7e602872e278c26d",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-09-29T11:23:33.553Z",
-      "isNew": false,
-      "keywordScore": 40
-    },
-    {
-      "title": "Customer Service / Account Manager",
-      "company": "Swedish Nutra AB",
-      "location": "MALMÖ, Skåne län",
-      "remote": false,
-      "description": "About Us: Swedish Nutra is a Malmö-based family company and a leading provider of premium liquid vitamins and nutritional supplements. We are a growing company with distribution all over the world. We offer a warm and pleasant work environment and care that each individual thrives. Swedish Nutra offers an enterprising environment with good opportunities to develop and grow in the work role. Position Overview: As part of our exciting expansion, we’re on the lookout for a energetic and organized colleague to join our team. In this role, you will be the a contact for our customers, helping them with inquiries, resolving issues, and promoting our range of products. A large part of this role is Sales. You will actively drive sales and upsales i your day to day business. You will play a critical role in enhancing customer satisfaction and driving sales! Key Responsibilities: Deliver outstanding customer service that delights our clients. Efficiently handle customer inquiries and resolve any complaints. Process orders and manage customer accounts. Maintain a deep understanding of our product line to effectively assist customers. Drive inhouse sales Requirements: Communication and interpersonal skills. Ability to build and maintain positive customer relationships. Basic knowledge within logistics (aka you don´t have to be an expert) Problem-solving skills and attention to detail. Strong work ethic and the ability to work independently. Fluent in English How to apply Selection is ongoing, so apply as soon as possible by submitting your resume, including your cover letter in the same document (one file for CV and cover letter). Start date: As soon as possible. Workplace: Swedish Nutra AB, Lodgatan 19, 211 24 Malmö.",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31530848",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-29T10:16:40.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31530848",
-      "query": "service manager",
-      "id": "efdfa6dc7e70cbb0",
       "sources": [
         "jobtech"
       ],
