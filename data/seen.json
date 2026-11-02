@@ -15149,5 +15149,226 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "3527bf52e9bcc9c7": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "ServiceNow Developer",
+    "company": "Click to Hire AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5db8e3bd5b5810a1": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Line manager HVDC Service Warranty & Care",
+    "company": "Hitachi Energy Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "12b0dc0633e22b3a": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Staff Technical Program Manager (f/m/d)",
+    "company": "Orbem",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8cf55d2125d11583": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Senior Customer Success Manager (m/f/d)",
+    "company": "Boardwise GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fb853885e8aa8cd7": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Principal Program Manager - Operations Management - London (hybrid) or UK remote",
+    "company": "Convera",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7dfa44254a0935cf": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Director, Clinical Study Management",
+    "company": "Alimentiv",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6381c01bfef2bd55": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Senior Infrastructure DevOps Engineer (100% Remote Germany)",
+    "company": "Innocraft",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b8fffbc587485ac1": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Delivery Solutions Architect",
+    "company": "databricks",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "413b75ab59f0663b": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Director Licensing Sales (m/f/d)",
+    "company": "Statista",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c2c66a2866b40f2c": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Crisis & Resilience Manager, Cyber Risk Services",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e2681ab45e1d8263": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Senior Manager - Financial Accounting Advisory Services - US Focused Markets Group Zurich or Basel",
+    "company": "EY",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "020061dc31255f1e": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Delivery Manager",
+    "company": "World Food Programme",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "90ec83d620731f90": {
+    "firstSeen": "2026-11-02T13:32:35.183Z",
+    "lastSeen": "2026-11-02T13:32:35.183Z",
+    "title": "Deskside Engineer",
+    "company": "Astreya",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
