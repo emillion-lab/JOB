@@ -15676,5 +15676,124 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "99e1d21f56abbe80": {
+    "firstSeen": "2026-11-04T13:01:50.050Z",
+    "lastSeen": "2026-11-04T13:01:50.050Z",
+    "title": "Manager, Tissue Field Service",
+    "company": "Valmet Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 50,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "03c4c238ea14d332": {
+    "firstSeen": "2026-11-04T13:01:50.050Z",
+    "lastSeen": "2026-11-04T13:01:50.050Z",
+    "title": "BMC Remedy / Helix Specialist – ITSM Consultant",
+    "company": "Maxitech AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "17e21d574418395f": {
+    "firstSeen": "2026-11-04T13:01:50.050Z",
+    "lastSeen": "2026-11-04T13:01:50.050Z",
+    "title": "Senior QA Manager - Fully Remote",
+    "company": "SOFTGAMES",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "55771306a5926b97": {
+    "firstSeen": "2026-11-04T13:01:50.050Z",
+    "lastSeen": "2026-11-04T13:01:50.050Z",
+    "title": "Demand Growth Manager (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f4488cf460953149": {
+    "firstSeen": "2026-11-04T13:01:50.050Z",
+    "lastSeen": "2026-11-04T13:01:50.050Z",
+    "title": "Senior Requirements Engineer (all genders)",
+    "company": "væridion",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9f0d38dc6a4237c6": {
+    "firstSeen": "2026-11-04T13:01:50.050Z",
+    "lastSeen": "2026-11-04T13:01:50.050Z",
+    "title": "Senior Sales Coordinator - Berlin (m/w/d)",
+    "company": "Lightspeedhq",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "49e8f140fe7d7ff4": {
+    "firstSeen": "2026-11-04T13:01:50.050Z",
+    "lastSeen": "2026-11-04T13:01:50.050Z",
+    "title": "Director, Advisory and Risk Consulting",
+    "company": "Control Risks 6",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
