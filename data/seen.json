@@ -16118,5 +16118,107 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "8943732acf808c7a": {
+    "firstSeen": "2026-11-06T12:58:43.178Z",
+    "lastSeen": "2026-11-06T12:58:43.178Z",
+    "title": "Assistant F&B Service Manager (m/f/d)",
+    "company": "Marriott Hotels Resorts",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ca59f80add7f57ac": {
+    "firstSeen": "2026-11-06T12:58:43.178Z",
+    "lastSeen": "2026-11-06T12:58:43.178Z",
+    "title": "People Ops Intern",
+    "company": "Taktile",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "116b309415800799": {
+    "firstSeen": "2026-11-06T12:58:43.178Z",
+    "lastSeen": "2026-11-06T12:58:43.178Z",
+    "title": "Chief of Staff (f/m/d)",
+    "company": "Tactiliarobotics",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "67fb982ba64635ac": {
+    "firstSeen": "2026-11-06T12:58:43.178Z",
+    "lastSeen": "2026-11-06T12:58:43.178Z",
+    "title": "Client Sales Director (m/f/d)",
+    "company": "Wellhub",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "285bbac3deed60ad": {
+    "firstSeen": "2026-11-06T12:58:43.178Z",
+    "lastSeen": "2026-11-06T12:58:43.178Z",
+    "title": "GTM Engineer - Sales Operations CRM Management",
+    "company": "Pergolux",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f2634d55f5adee02": {
+    "firstSeen": "2026-11-06T12:58:43.178Z",
+    "lastSeen": "2026-11-06T12:58:43.178Z",
+    "title": "Senior Modern Workplace & Endpoint Management Specialist",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
