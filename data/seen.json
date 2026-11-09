@@ -16220,5 +16220,277 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "9253cf8a7da77746": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Assistant F&B Service Manager (m/f/d)",
+    "company": "Marriott",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "99b4704cf4bdc483": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Product Manager – Atlassian Service Management",
+    "company": "XALT Business Consulting GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 50,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7ae28a0324920e82": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Project Manager – IT & AI Projects",
+    "company": "XALT Business Consulting GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 45,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ee9e12e4abd46db6": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Manager HVDC Service Warranty & Care",
+    "company": "Hitachi Energy Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1f5c66c7d60f9381": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Head of GTM Systems & AI",
+    "company": "360Learning",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9fd008976cbbff4c": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Head of GTM Systems & AI (m/f/d)",
+    "company": "360Learning",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8ef8bd8bdac7195d": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Senior Tech Operations Specialist (all genders)",
+    "company": "Distribusion Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ef9f34509f65fbd9": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Atlassian Administrator – Jira & Confluence",
+    "company": "XALT Business Consulting GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b1b2921777d9701c": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Senior Atlassian Consultant",
+    "company": "XALT Business Consulting GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0cba097a655eaae6": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Senior DevOps Engineer",
+    "company": "XALT Business Consulting GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "23441246ca16bbcd": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Senior Lead Claims Operations (m/f/x)",
+    "company": "Progyny Global",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2be3d465ab201bb6": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Process Engineer (m/f/d)",
+    "company": "Rohlik",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b00661080bff11b8": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Senior IT & Cybersecurity Auditor",
+    "company": "SwissPeak Partners GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "dfb122705e29d172": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Senior GMP Manufacturing & AI Advisor (remote)",
+    "company": "Coopers Group AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "07b75e8c96e92bdf": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Senior Product Manager - International Custody (80-100%)",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "14183410312cf06c": {
+    "firstSeen": "2026-11-09T13:56:33.805Z",
+    "lastSeen": "2026-11-09T13:56:33.805Z",
+    "title": "Art Advisor",
+    "company": "HELVETIKA 1575 AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
