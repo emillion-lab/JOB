@@ -16492,5 +16492,124 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "bfbf2422ef83fa5b": {
+    "firstSeen": "2026-11-10T13:30:09.800Z",
+    "lastSeen": "2026-11-10T13:30:09.800Z",
+    "title": "Senior Technical Product Manager, Rail Integrations (all genders)",
+    "company": "Distribusion Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "18c35e896f4b9b23": {
+    "firstSeen": "2026-11-10T13:30:09.800Z",
+    "lastSeen": "2026-11-10T13:30:09.800Z",
+    "title": "Senior Machine Learning Engineer, AI Platform",
+    "company": "smartlyio",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e7550b639ac5cdce": {
+    "firstSeen": "2026-11-10T13:30:09.800Z",
+    "lastSeen": "2026-11-10T13:30:09.800Z",
+    "title": "(Senior) Robotics Testing and Applications Engineer (m/f/d)",
+    "company": "Agilerobotsse",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8587d2e6ea2f739a": {
+    "firstSeen": "2026-11-10T13:30:09.800Z",
+    "lastSeen": "2026-11-10T13:30:09.800Z",
+    "title": "Senior Tax Accountant, EMEA",
+    "company": "Hims And Hers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b0a8a9ba40bacf3c": {
+    "firstSeen": "2026-11-10T13:30:09.800Z",
+    "lastSeen": "2026-11-10T13:30:09.800Z",
+    "title": "Technical Account Manager",
+    "company": "veeamsoftware",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3172be67902b19ae": {
+    "firstSeen": "2026-11-10T13:30:09.800Z",
+    "lastSeen": "2026-11-10T13:30:09.800Z",
+    "title": "(Senior) Recruiting Partner (m/f/d) | German Required",
+    "company": "Yoummday",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e47c8629785a33f0": {
+    "firstSeen": "2026-11-10T13:30:09.800Z",
+    "lastSeen": "2026-11-10T13:30:09.800Z",
+    "title": "Senior Consultant / Manager Business Strategy M&A Focus (m/f/d) | German Required",
+    "company": "Yoummday",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
