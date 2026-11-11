@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T13:30:09.805Z",
+  "generatedAt": "2026-11-11T12:44:55.720Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 234,
+      "collected": 239,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 85,
+      "collected": 84,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 312,
+      "collected": 248,
       "status": "ok"
     },
     {
@@ -127,19 +127,50 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 187,
-  "totalBeforeLanguageFilter": 462,
+  "totalCollected": 200,
+  "totalBeforeLanguageFilter": 478,
   "byLanguage": {
-    "de": 219,
-    "en": 187,
-    "no": 50,
-    "fr": 6
+    "de": 224,
+    "en": 200,
+    "no": 52,
+    "fr": 2
   },
-  "totalScored": 7,
+  "totalScored": 14,
   "llmScored": 0,
-  "totalMatched": 21,
-  "totalNew": 0,
+  "totalMatched": 22,
+  "totalNew": 1,
   "jobs": [
+    {
+      "title": "Senior Incident & Problem Manager 100% (f/m/d)",
+      "company": "Julius Baer",
+      "location": "Zürich",
+      "remote": false,
+      "description": "At Julius Baer, we celebrate and value the individual qualities you bring, enabling you to be impactful, to be entrepreneurial, to be empowered, and to create value beyond wealth. Let’s shape the future of wealth management together. The Senior Incident & Problem Manager is responsible for leading Major Incidents and Problems to ensure service stability, rapid service restoration, and continuous reduction of recurring incidents. The role drives operational resilience by facilitating effective i…",
+      "url": "https://www.adzuna.ch/details/5960978133?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-11-11T04:45:55.000Z",
+      "language": "en",
+      "country": "ch",
+      "source": "adzuna",
+      "sourceId": "5960978133",
+      "query": "it service management",
+      "id": "cca83c54b99341e5",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
     {
       "title": "IT Service Manager (Senior)",
       "company": "Regma IT AB",
@@ -238,7 +269,7 @@
       "company": "SwissPeak Partners GmbH",
       "location": "Remote job",
       "remote": true,
-      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions. We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and CRM expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing ServiceNow CRM solutions and architectures Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms Advising customers on the optimisation and digitalisation of their customer processes and customer experience Translating complex business and customer requirements into scalable technical solutions Designing innovative solutions across CRM and customer service environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex customer transformation and digitalisation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and CRM , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Strong experience in ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions Experience as a ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant Strong understanding of CRM processes, customer journeys and customer experience Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find Jobs in Switzerland on Arbeitnow",
+      "description": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions. We are particularly interested in speaking with experienced professionals who combine strong ServiceNow and CRM expertise with a strategic, consulting-oriented and customer-focused mindset. Your Responsibilities Depending on your background and area of expertise, your responsibilities may include: Designing and developing ServiceNow CRM solutions and architectures Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms Advising customers on the optimisation and digitalisation of their customer processes and customer experience Translating complex business and customer requirements into scalable technical solutions Designing innovative solutions across CRM and customer service environments Working closely with customers, business stakeholders and technical teams Contributing your expertise to complex customer transformation and digitalisation projects Acting as a trusted advisor and supporting customers throughout the project lifecycle Your Profile We are interested in candidates with a strong background in ServiceNow and CRM , ideally with experience in one or more of the following areas: Several years of experience working with ServiceNow Strong experience in ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions Experience as a ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant Strong understanding of CRM processes, customer journeys and customer experience Experience designing and implementing complex and scalable platform solutions The ability to understand customer requirements and translate them into effective technical solutions Strong consulting, communication and stakeholder management skills Experience working with complex customer or international environments would be an advantage Languages We are particularly interested in candidates with either: German and English , or French and English Location & Working Model We are open to candidates based in: Switzerland Germany France United Kingdom Ireland United States Working Model Fully remote Employment Options We are open to speaking with candidates interested in: Permanent employment Contracting / freelance opportunities Interested in this opportunity? We look forward to receiving your application! Find more English Speaking Jobs in Switzerland on Arbeitnow",
       "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-crm-architect-zurich-336784",
       "salary_min": null,
       "salary_max": null,
@@ -281,37 +312,6 @@
       "sourceId": "5904348906",
       "query": "servicenow consultant",
       "id": "983f0767805a4c70",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-01T11:39:00.267Z",
-      "isNew": false,
-      "keywordScore": 60
-    },
-    {
-      "title": "Technical Architect - ServiceNow (m/f/d)* - Inklusiver Job",
-      "company": "Unknown company",
-      "location": "München, München (Kreis)",
-      "remote": false,
-      "description": "Successful candidates must be prepared to relocate to the specified job location in the job posting and will be employed directly under the hiring entity's contractual terms. Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions . New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management pr…",
-      "url": "https://www.adzuna.de/land/ad/5928481000?se=EMOexgrd8RGQSetvOP7YHw&utm_medium=api&utm_source=8209e0ff&v=32C15C9671C754EA245393233C1F857445DBC2A6",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-15T06:21:22.000Z",
-      "language": "en",
-      "country": "de",
-      "source": "adzuna",
-      "sourceId": "5928481000",
-      "query": "service delivery manager",
-      "id": "9aad6810aed188a5",
       "sources": [
         "adzuna"
       ],
@@ -642,15 +642,15 @@
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "Working at Freudenberg: \"We will wow your world!\" This is our promise. As a global technology group, we not only make the world cleaner, healthier and more comfortable, but also offer our 52,000 employees a networked and diverse environment where everyone can thrive individually. Be surprised and experience your own wow moments. Klüber Lubrication is a global leader in specialty lubrication and part of the Freudenberg Group. With subsidiaries in 30 countries and partners worldwide, our custom s…",
-      "url": "https://www.adzuna.de/land/ad/5951214649?se=2FeWxwrd8RGJsp4C7CldMA&utm_medium=api&utm_source=8209e0ff&v=D78ADF7C6A8038AC3F7EBF8455D819FCCE5C69D2",
+      "url": "https://www.adzuna.de/land/ad/5950864202?se=BKRHns3d8RGDz_yCA39Obg&utm_medium=api&utm_source=8209e0ff&v=1CEEEF9E5EDFB23DC1ABAA5C6C0C46044E72D3C2",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-11-03T03:28:52.000Z",
+      "posted": "2026-11-02T19:37:39.000Z",
       "language": "en",
       "country": "de",
       "source": "adzuna",
-      "sourceId": "5951214649",
+      "sourceId": "5950864202",
       "query": "it service management",
       "id": "d7aabf68fdeaaaef",
       "sources": [
@@ -788,6 +788,37 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-11-09T13:56:33.805Z",
+      "isNew": false,
+      "keywordScore": 40
+    },
+    {
+      "title": "Line manager HVDC Service Warranty & Care",
+      "company": "Hitachi Energy Sweden AB",
+      "location": "Ludvika, Dalarnas län",
+      "remote": false,
+      "description": "The opportunity HVDC (High Voltage Direct Current) is a product group in Hitachi Energy, which develops, manufactures, and sells DC transmission systems on a global market. HVDC technology is used to transmit electricity over long distances and for power transmission via submarine cables. It is also used to connect power systems. HVDC Service, based in Ludvika, Sweden, is now looking for a Line Manager to take on the role as the leader for the Service Warranty & Care to support and develop the individuals and the group. In this role, you will have personnel responsibility for a team of 10-20 professionals reporting directly to you. You will be tasked with ensuring that engineering teams are adequately resourced, developed, and equipped to meet business needs, as well as ensuring that the company's culture and values are reflected in all employee practices and policies. Your primary objective will be to motivate and engage your team and to support them to achieve their full potential, while ensuring compliance with all relevant regulations. Your Responsibilities HVDC Services core is to lead and manage employee relations, development and engage relations to foster a sense of community among employees. Building and developing the team and the individuals in it by managing employee training and development initiatives Providing strategic direction, leadership, and coordination of the function and operational work together with technical specialists. Providing insight and managing priorities for the team while ensuring activities’ performance and quality goals are met during all project phases. Taking a proactive approach and actively participating in recruiting activities. Planning for project staffing and adjusting it according to business needs, as well as planning for both short-term and more strategic long-term changes in the team structure. Partnering with the management team to develop, improve, and implement strategic people management initiatives and ensuring processes are in place to capture and share best practices and operational experiences. Your Background Experience as a people manager, or other relevant leadership or management experience with personnel responsibility, is highly qualifying. Experience in technology, engineering, electrical design, hardware design, or similar is required (if you have worked with HVDC technology before it is a plus). Strong communication, social, and interpersonal skills, with the ability to build strong relationships with employees and management. Clear in decision making and have the right inner drive to take on full responsibility for your scope and deliver on time in a dynamic environment. Fluency in Swedish and English is a must. More About Us​ We believe great work thrives in an environment where people feel genuinely supported and fairly rewarded. Our benefits are designed to create real value for every individual – fueling engagement, performance, and growth. By prioritizing well‑being, we build a workplace where personal and organizational success grow together. ​ Our benefits offering for our roles generally includes: ​ Collective agreement, occupational pension & possibility of salary exchange to pension (for ITP1 and ITP2) ​ Group life insurance and additional insurances. ​ Flex-time and shortening of working hours in time bank ​ Hybrid work & allowances for setting up a workplace at home (in agreement with line manager) ​ Health care and wellness allowance ​ Health insurance incl. dental, spectacles & contact lenses allowance (employee pay 140 sek/month via salary deduction)​ Psychological support program ​ Supplementary compensation for parental leave ​ Various training and education supporting employee development ​ Internal career possibilities both within Sweden and globally ​ Employee Benefit Portal with thousands of discounts and perks ​ The benefits listed above are an excerpt only and may vary depending on job grade, location and contract type. Eligibility is sub",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31555086",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-10-22T14:43:30.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31555086",
+      "query": "service manager",
+      "id": "5db8e3bd5b5810a1",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-11-02T13:32:35.183Z",
       "isNew": false,
       "keywordScore": 40
     }

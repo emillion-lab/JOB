@@ -16611,5 +16611,243 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "cca83c54b99341e5": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Senior Incident & Problem Manager 100% (f/m/d)",
+    "company": "Julius Baer",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3176b98f7ead4190": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "IT Programme / Project Lead Infrastructure",
+    "company": "Swisslinx AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7353ae807f3bd7ba": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "IT Support Specialist (f/m/d)",
+    "company": "Focused",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e1bc7faab0c0cf28": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Account Executive Germany (f/m/d)",
+    "company": "Upvest",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d93d7345965a5eca": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Fullstack Engineer - Mid Level - Actions Team",
+    "company": "Staffbase",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c8d9bcf4f084d897": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Engineering Lead",
+    "company": "Causa Prima",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "070a7d9db955aff7": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Salesforce Lead",
+    "company": "Andercore",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1a2b3ed4ecb1474e": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Product Manager",
+    "company": "Connectwise",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8720300d9bc340fb": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Head of Customer Success",
+    "company": "Rivia",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8ec6993211098e55": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "C++ Software Engineer",
+    "company": "Reactive Markets",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ae3fa0c2585f4468": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Technical Delivery Analyst",
+    "company": "Reactive Markets",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "aae1f5efedeb190f": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Senior Frontend Engineer",
+    "company": "Reactive Markets",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "64b4fb7d6d34ba50": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Technical Support Engineer",
+    "company": "GLS/NXT",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c533ea517d57ef01": {
+    "firstSeen": "2026-11-11T12:44:55.716Z",
+    "lastSeen": "2026-11-11T12:44:55.716Z",
+    "title": "Tech Director - Mobile (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
