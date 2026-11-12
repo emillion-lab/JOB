@@ -16849,5 +16849,328 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "b01e5d387c5cf79f": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "IT Programme / Project Lead Infrastructure (IT Service Management)",
+    "company": "Swisslinx AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 65,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e68ad4c477658241": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Senior Professional Services Project Manager, Paris",
+    "company": "gitlab",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 17,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c8bbd4d29fb883d5": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Cyber Exposure Management Expert (m/w/d)",
+    "company": "NVISO",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "dcefd73a4ada6219": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
+    "company": "celonis",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c573649d3027a035": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Senior Value Engineer - AI & Process Optimization (Copenhagen)",
+    "company": "celonis",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0232c6e6821116a2": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Senior Game Producer (Live Games) - Fully Remote",
+    "company": "SOFTGAMES",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f61188a736e55436": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Senior Expert Compensation Manager (all genders)",
+    "company": "hellofresh",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "268eee1bf7c4c8b2": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Senior CRM Strategy Manager, Leads Capture (all genders)",
+    "company": "hellofresh",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "78f8103cfbfb541a": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "QA Engineer (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ad2e7d58ccde923a": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "SAP SuccessFactors Learning management",
+    "company": "Market Cloud",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5c0f03db8ea298d3": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Principal Connectivity Lead – Data Center Deployment",
+    "company": "Volta",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5ffbd7f3f692572b": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Product Manager PRINCE2",
+    "company": "Peoplecert",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "02da694c0a31f284": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Lead Deployment Strategist - EMEA",
+    "company": "N8N",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f2d12b115c7d407b": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Director of Human Resources",
+    "company": "CesiumAstro",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "952b22f9dadbe5a6": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Product Manager PRINCE2",
+    "company": "Peoplecert",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "83196c6abb6199ab": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Strategic Customer Success Partner Coach - France",
+    "company": "360Learning",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1987aca3ada4e935": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Cybersecurity Senior Engineer",
+    "company": "Phoeniqs Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "26bd13f9fba3cdb7": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Satellite Operations Manager (m/f/d)",
+    "company": "Rheinmetall",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fd315b79e43bdabf": {
+    "firstSeen": "2026-11-12T13:47:57.730Z",
+    "lastSeen": "2026-11-12T13:47:57.730Z",
+    "title": "Tech Consultant",
+    "company": "Mpya Digital AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
