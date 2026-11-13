@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:47:57.734Z",
+  "generatedAt": "2026-11-13T13:08:54.007Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 237,
+      "collected": 240,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 292,
+      "collected": 275,
       "status": "ok"
     },
     {
@@ -127,42 +127,40 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 202,
-  "totalBeforeLanguageFilter": 488,
+  "totalCollected": 207,
+  "totalBeforeLanguageFilter": 511,
   "byLanguage": {
-    "de": 230,
-    "en": 200,
-    "no": 54,
-    "unknown": 2,
-    "fr": 2
+    "de": 255,
+    "en": 207,
+    "no": 49
   },
-  "totalScored": 19,
+  "totalScored": 13,
   "llmScored": 0,
-  "totalMatched": 20,
-  "totalNew": 1,
+  "totalMatched": 22,
+  "totalNew": 4,
   "jobs": [
     {
-      "title": "IT Programme / Project Lead Infrastructure (IT Service Management)",
-      "company": "Swisslinx AG",
-      "location": "Zürich",
+      "title": "Senior ServiceNow Platform Architect",
+      "company": "Nordic Investin Group Aktiebolag",
+      "location": "Stockholm, Stockholms län",
       "remote": false,
-      "description": "As one of the key providers for our client, a private bank in Zurich, Swisslinx are looking for a German speaking Senior IT Program Manager/PM to lead a strategic ServiceNow programme and deliver complex ITSM projects across an enterprise environment. IT Programme / Project Lead Infrastructure (IT Service Management) Job description: Translating programme objectives into actionable work packages Managing project scope, timelines, budgets, costs, resources and delivery progress Coordinating rele…",
-      "url": "https://www.adzuna.ch/land/ad/5962018012?se=NCopk5_e8RGpxKR_77NPjw&utm_medium=api&utm_source=8209e0ff&v=F18546AD632DA60C6A9D166ECDC128F2655B27EA",
+      "description": "Nordic Investin has been asked to find a Senior ServiceNow Platform Architect for one of our partner companies. You want technical choices, delivery and production behaviour to reinforce each other, even when the constraints are difficult. The partner is strengthening its capability in scalable ServiceNow architecture for enterprise workflows and service management. You will connect ServiceNow, platform architecture and integrations while ensuring that data model and security receive appropriate discipline. The aim is practical progress that colleagues can use, leaders can evaluate and the organisation can sustain. The environment rewards early questions, visible trade-offs and engineering discipline. Security and operability belong in the design. How you will work You will work with product, architecture, security, operations and domain colleagues. The partner values short feedback loops, evidence from real systems and direct communication. This role calls for independent judgement and the ability to raise the quality around you. You are expected to make trade-offs visible, recognise when a decision needs wider expertise and move work forward without creating unnecessary process. What you will do Own the practical direction for scalable ServiceNow architecture for enterprise workflows and service management. Translate goals and constraints into a clear approach for ServiceNow and platform architecture. Establish useful standards, routines or decision artefacts around integrations. Coordinate stakeholders and dependencies affecting data model. Use evidence and measurable outcomes to improve security. Strengthen knowledge sharing and sustainable ownership through release governance. What you will bring Relevant experience delivering scalable ServiceNow architecture for enterprise workflows and service management in a demanding environment. Strong working knowledge of ServiceNow and platform architecture. Practical experience applying integrations and data model. Ability to assess priorities, risks and trade-offs involving security. Evidence of clear stakeholder communication and dependable end-to-end ownership. Professional English and the judgement to work with sensitive or business-critical information. Experience that would add value Experience from large enterprises and shared service organisations. Exposure to release governance in a cross-functional or multi-team environment. Swedish language skills or experience working across Nordic organisations. A background that can succeed here Your background may be product engineering, platform work, enterprise technology or consulting. What matters is technical depth connected to user and business consequences. Direct experience of scalable ServiceNow architecture for enterprise workflows and service management is valuable, while adjacent experience counts when it shows transferable judgement. What makes the opportunity interesting The role offers meaningful ownership and the opportunity to influence both the solution and the decisions around it. The focus on scalable ServiceNow architecture for enterprise workflows and service management gives the opportunity a clear mission and room to influence priorities and success measures. The exact partner, employment model, compensation, start date and working arrangement will be explained openly during the process. Nordic Investin will make sure you understand the opportunity before asking you to make a decision. The recruitment conversation Nordic Investin will focus on decisions you have made: the context, alternatives, result and what you would change today. You will also have room to ask direct questions and test whether the role, mandate and partner environment are right for you. How to apply Apply with your CV or LinkedIn profile and a short note about a relevant system, platform or technical change you helped improve. Nordic Investin welcomes different routes into the profession and assesses evidence, judgement and potential alon",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31724316",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-11-11T20:20:47.000Z",
+      "posted": "2026-11-12T21:19:34.000Z",
       "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5962018012",
-      "query": "itsm manager",
-      "id": "b01e5d387c5cf79f",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31724316",
+      "query": "servicenow consultant",
+      "id": "3e554b6d8d4a7c68",
       "sources": [
-        "adzuna"
+        "jobtech"
       ],
       "isNew": true,
-      "score": 65,
+      "score": 60,
       "fit": "unscored",
       "matched": [],
       "gaps": [],
@@ -170,7 +168,100 @@
       "reason": "",
       "next_action": "",
       "scoredBy": "prefilter",
-      "keywordScore": 65
+      "keywordScore": 60
+    },
+    {
+      "title": "Service Agreement Sales Manager",
+      "company": "Siemens Energy AB",
+      "location": "Finspaang, Östergötlands län",
+      "remote": false,
+      "description": "A Snapshot of Your Day Join us as a Sales Manager, where you will take the lead in selling and managing complex Service Agreements and Operating & Maintenance contracts for Medium Gas Turbines to our global customers. We call it Long Term Programs (LPT). You will collaborate closely with regional sales managers and coordinate with internal stakeholders, including engineering, finance, execution, legal, and new unit sales across Siemens Energy’s global organization. From the initiation of contracts to their closure and celebration, you will play a pivotal role in this process. Are you ready to embrace this unique and challenging global sales opportunity? Apply now for the Service Agreement Sales Manager position and help us shape the future of energy! How You’ll Make an Impact You will promote, negotiate, and market Service Agreements to potential customers and Siemens Energy’s worldwide sales organizations, engaging in financial modeling, risk management, legal compliance, and technical contract negotiations. Strategically challenge competitors by offering innovative, tailored products and solutions that meet customer needs. Develop winning market strategies to enhance Siemens Energy’s competitive positioning. You will act independently, serving as a team leader or member in various projects. Act as the customer’s extended arm within the organization in Finspång. You will lead and actively participate in customer meetings to foster strong relationships and achieve successful outcomes. What You Bring A Bachelor’s or Master’s degree in engineering and/or relevant financial or legal education. A minimum of 3 years of experience in sales and/or engineering of complex products, preferably gas turbines, with direct customer interaction. A strong interest and drive to create business solutions that meet customer needs. Well-developed communication and presentation skills. A focused, organized approach, receptive to the opinions and views of others. Drive, energy, persistence, and the ability to inspire those around you. High proficiency in verbal and written communication in English, with proficiency in Swedish being a plus. About the Team We are a dynamic team of 12 members, each bringing diverse backgrounds and extensive experience in selling Long Term Programs. As we anticipate growth and prioritize proactive succession planning, we are eager to welcome new team members who can contribute to our success. Our Gas Services division offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet. We can offer you employment benefits such as: reduction of working hours, advance vacation, health care allowance and an eventual possibility to a flexible working place. Who is Siemens Energy? At Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation. Find out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo Our Commitment to Diversity Lucky for us, we are not all the same. Through diversity, we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalitie",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31723202",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-11-12T15:50:04.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31723202",
+      "query": "service manager",
+      "id": "f98bf1c62fbc776f",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 40
+    },
+    {
+      "title": "Senior IT Service Transition Manager",
+      "company": "Nordic Investin Group Aktiebolag",
+      "location": "Göteborg, Västra Götalands län",
+      "remote": false,
+      "description": "Nordic Investin has been asked to find a Senior IT Service Transition Manager for one of our partner companies. You create pace through clarity when workstreams, decisions and dependencies must move as one, and you surface risk early. The partner is strengthening its capability in controlled transition from project delivery into sustainable operations. You will connect service design, operational readiness and support model while ensuring that knowledge transfer and acceptance receive appropriate discipline. The aim is practical progress that colleagues can use, leaders can evaluate and the organisation can sustain. Project leadership connects outcomes, plans, risks and decisions. Success is controlled change the organisation can sustain. How you will work You will work across business, technology, suppliers and operations. The partner expects shared priorities, visible decisions and an adaptable delivery model. This role calls for independent judgement and the ability to raise the quality around you. You are expected to make trade-offs visible, recognise when a decision needs wider expertise and move work forward without creating unnecessary process. What you will do Own the practical direction for controlled transition from project delivery into sustainable operations. Translate goals and constraints into a clear approach for service design and operational readiness. Establish useful standards, routines or decision artefacts around support model. Coordinate stakeholders and dependencies affecting knowledge transfer. Use evidence and measurable outcomes to improve acceptance. Strengthen knowledge sharing and sustainable ownership through early-life support. What you will bring Relevant experience delivering controlled transition from project delivery into sustainable operations in a demanding environment. Strong working knowledge of service design and operational readiness. Practical experience applying support model and knowledge transfer. Ability to assess priorities, risks and trade-offs involving acceptance. Evidence of clear stakeholder communication and dependable end-to-end ownership. Professional English and the judgement to work with sensitive or business-critical information. Experience that would add value Experience from enterprise technology programmes and managed services. Exposure to early-life support in a cross-functional or multi-team environment. Swedish language skills or experience working across Nordic organisations. A background that can succeed here Your background may be consulting, a transformation office or complex delivery. Show how you controlled uncertainty and guided difficult decisions. Direct experience of controlled transition from project delivery into sustainable operations is valuable, while adjacent experience counts when it shows transferable judgement. What makes the opportunity interesting The assignment offers visible responsibility, access to decision makers and room to shape a purposeful delivery model. The focus on controlled transition from project delivery into sustainable operations gives the opportunity a clear mission and room to influence priorities and success measures. The exact partner, employment model, compensation, start date and working arrangement will be explained openly during the process. Nordic Investin will make sure you understand the opportunity before asking you to make a decision. The recruitment conversation Nordic Investin will focus on decisions you have made: the context, alternatives, result and what you would change today. You will also have room to ask direct questions and test whether the role, mandate and partner environment are right for you. How to apply Apply with your CV or LinkedIn profile and a short note about a relevant programme, project or transformation you helped improve. Nordic Investin welcomes different routes into the profession and assesses evidence, judgement and potential alongside formal titles.",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31724514",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-11-12T23:21:34.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31724514",
+      "query": "service manager",
+      "id": "9dd5e17d47d277d6",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 40
+    },
+    {
+      "title": "Finance Manager Software as a Service",
+      "company": "Nordic Investin Group Aktiebolag",
+      "location": "Stockholm, Stockholms län",
+      "remote": false,
+      "description": "A partner company is strengthening its team, and Nordic Investin is recruiting a Finance Manager Software as a Service. You see finance as both a decision and control function, combining accuracy with the curiosity to turn numbers into action. The partner is strengthening its capability in financial management for recurring revenue and scalable growth. You will connect monthly close, revenue quality and forecasting while ensuring that unit economics and controls receive appropriate discipline. The aim is practical progress that colleagues can use, leaders can evaluate and the organisation can sustain. Finance values dependable reporting, strong controls and constructive partnership. Success means better decisions and trusted information. How you will work You will work with finance colleagues, operational leaders and system owners. The partner values early escalation, transparent assumptions and lasting improvements. This role calls for hands-on leadership and reliable follow-through. You are expected to make trade-offs visible, recognise when a decision needs wider expertise and move work forward without creating unnecessary process. What you will do Own the practical direction for financial management for recurring revenue and scalable growth. Translate goals and constraints into a clear approach for monthly close and revenue quality. Establish useful standards, routines or decision artefacts around forecasting. Coordinate stakeholders and dependencies affecting unit economics. Use evidence and measurable outcomes to improve controls. Strengthen knowledge sharing and sustainable ownership through team leadership. What you will bring Relevant experience delivering financial management for recurring revenue and scalable growth in a demanding environment. Strong working knowledge of monthly close and revenue quality. Practical experience applying forecasting and unit economics. Ability to assess priorities, risks and trade-offs involving controls. Evidence of clear stakeholder communication and dependable end-to-end ownership. Professional English and the judgement to work with sensitive or business-critical information. Experience that would add value Experience from software subscription and digital services. Exposure to team leadership in a cross-functional or multi-team environment. Swedish language skills or experience working across Nordic organisations. A background that can succeed here Your background may be group finance, operations, audit, advisory or a growing business. Show the controls and decisions you owned and the outcome. Direct experience of financial management for recurring revenue and scalable growth is valuable, while adjacent experience counts when it shows transferable judgement. What makes the opportunity interesting The role combines professional depth with meaningful business questions and room to improve the processes behind the numbers. The focus on financial management for recurring revenue and scalable growth gives the opportunity a clear mission and room to influence priorities and success measures. The exact partner, employment model, compensation, start date and working arrangement will be explained openly during the process. Nordic Investin will make sure you understand the opportunity before asking you to make a decision. The recruitment conversation Nordic Investin will focus on decisions you have made: the context, alternatives, result and what you would change today. You will also have room to ask direct questions and test whether the role, mandate and partner environment are right for you. How to apply Apply with your CV or LinkedIn profile and a short note about a relevant financial process, decision or transformation you helped improve. Nordic Investin welcomes different routes into the profession and assesses evidence, judgement and potential alongside formal titles.",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31724520",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-11-12T23:34:21.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31724520",
+      "query": "service manager",
+      "id": "0c206366ace72255",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 40
     },
     {
       "title": "ServiceNow Developer",
@@ -545,51 +636,20 @@
       "keywordScore": 45
     },
     {
-      "title": "IT Service Portfolio Manager (f/m/d) Part-time/Full-time",
-      "company": "Job-Room",
-      "location": "Basel, Basel-Stadt",
-      "remote": false,
-      "description": "Set new standards and shaping the future together. With us, you don't just tick tasks off a list. You work alongside people who take responsibility, set high standards and have the courage to try new approaches. We believe trust and performance go hand in hand. Your ideas, your initiative and your contributions are what really matter to us. You will have the opportunity to make a difference for our customers, your team and your own personal development. In this role, you create the transparency…",
-      "url": "https://www.adzuna.ch/details/5946032349?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-29T19:37:12.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5946032349",
-      "query": "service manager",
-      "id": "171f539d05cad729",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-30T11:26:05.564Z",
-      "isNew": false,
-      "keywordScore": 40
-    },
-    {
       "title": "IT Service Lead Backup Management On-Prem & Cloud (f/m/d)",
       "company": "Klüber Lubrication München GmbH & Co. KG",
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "Working at Freudenberg: \"We will wow your world!\" This is our promise. As a global technology group, we not only make the world cleaner, healthier and more comfortable, but also offer our 52,000 employees a networked and diverse environment where everyone can thrive individually. Be surprised and experience your own wow moments. Klüber Lubrication is a global leader in specialty lubrication and part of the Freudenberg Group. With subsidiaries in 30 countries and partners worldwide, our custom s…",
-      "url": "https://www.adzuna.de/land/ad/5951214649?se=yK-vmJ_e8RGpxKR_77NPjw&utm_medium=api&utm_source=8209e0ff&v=D78ADF7C6A8038AC3F7EBF8455D819FCCE5C69D2",
+      "url": "https://www.adzuna.de/land/ad/5950864202?se=VJsjTWPf8RG4C6OUcpONzw&utm_medium=api&utm_source=8209e0ff&v=1CEEEF9E5EDFB23DC1ABAA5C6C0C46044E72D3C2",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-11-03T03:28:52.000Z",
+      "posted": "2026-11-02T19:37:39.000Z",
       "language": "en",
       "country": "de",
       "source": "adzuna",
-      "sourceId": "5951214649",
+      "sourceId": "5950864202",
       "query": "it service management",
       "id": "d7aabf68fdeaaaef",
       "sources": [

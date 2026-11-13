@@ -17172,5 +17172,226 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "3e554b6d8d4a7c68": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Senior ServiceNow Platform Architect",
+    "company": "Nordic Investin Group Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f98bf1c62fbc776f": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Service Agreement Sales Manager",
+    "company": "Siemens Energy AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9dd5e17d47d277d6": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Senior IT Service Transition Manager",
+    "company": "Nordic Investin Group Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0c206366ace72255": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Finance Manager Software as a Service",
+    "company": "Nordic Investin Group Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3ed62bcb2f44c0b2": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "ITSM Project Consultant - Remote",
+    "company": "ITech Consult AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "19b7b6b64db9a396": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "(Senior) Product Manager Odoo (all genders)",
+    "company": "Sunday Natural",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0fb7a5d632c37de2": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "HR Service Management Specialist",
+    "company": "Nordic Investin Group Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b0864155efd54e91": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Senior Product Manager (Insurance)",
+    "company": "TechBiz Global GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "76fbe286b142c54f": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Senior Engineering Manager, Product Engineering",
+    "company": "Secfix",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "50e76e8db129915f": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Senior Technical Product Manager - Compliance & Recording",
+    "company": "1Global",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "8b2145e3a006a9fb": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Senior Game Producer (Live Games) - Fully Remote",
+    "company": "SOFTGAMES",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "94fa0c996af9717a": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Customer Service Specialist New",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "56c3721268d94ded": {
+    "firstSeen": "2026-11-13T13:08:54.003Z",
+    "lastSeen": "2026-11-13T13:08:54.003Z",
+    "title": "Technical Proposals Manager Drug Product Services",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
