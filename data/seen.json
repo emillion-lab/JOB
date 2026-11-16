@@ -17393,5 +17393,209 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "195ad85bcf149159": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "Client Service Manager",
+    "company": "Euroclear Bank Sweden Branch filial",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 75,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "df99055c8277596a": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "ITSM Project Consultant - Remote",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 20,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "6054fcc22d4c6179": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "(Senior) Technical Program Manager (m/f/d)",
+    "company": "RobCo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "928321acb4ad4c28": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "Linux System Engineer",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d699e191f01f9ec7": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "(Senior) Supply Growth Manager (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "33c0ac50c8445db0": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "Working Student - Supply Growth (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f5493c4084f10cb4": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "Senior ML Research Scientist – AI & Generative Recommendation (f/m/d)",
+    "company": "adjoe",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "971b60fe17beecbf": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "Growth Strategist (all genders)",
+    "company": "JustPlay GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "86f0db673b7f2b30": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "IT Administrator - (Senior) IT Administrator",
+    "company": "Apex Ai",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "a8f3b2e9880d1d70": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "Strategy Intern (f/m/d)",
+    "company": "Upvest",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b7c1c777a00bb240": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "Senior Manager / Director – Financial Services Risk Consulting",
+    "company": "KPMG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3affb632cd6be4c2": {
+    "firstSeen": "2026-11-16T13:41:42.922Z",
+    "lastSeen": "2026-11-16T13:41:42.922Z",
+    "title": "Service Order Management Specialist (m/f/d)",
+    "company": "Reinhausen Nordic AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
