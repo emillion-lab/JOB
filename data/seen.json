@@ -17597,5 +17597,600 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "bdcb4e10ea2e4466": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Global Incident Manager",
+    "company": "Sandvik Aktiebolag",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 75,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cae3273a77c0f49e": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "ServiceNow Programme Manager",
+    "company": "Manpower",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3b42cf23c74d2fec": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "ServiceNow Programme Manager",
+    "company": "Experis Switzerland",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "cb2050b1a4e7ac50": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "ITSM Process and Tool Manager",
+    "company": "Arelion Sweden AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "481f381ce9b559d6": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Senior Delivery Manager (Remote)",
+    "company": "Coopers Group AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9aca73d27fcdda62": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Senior Knowledge and Process Specialist",
+    "company": "Getyourguide",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "1becb4758e6bda46": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Team Lead Product Management (f/m/x)",
+    "company": "Patronus",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "002d9c02248f7f7b": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Head of Support (m/f/d) – Fully Remote",
+    "company": "what. AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "374e052864cdeea6": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Restaurant Operations - Hamburg",
+    "company": "Tebi",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e293734b84f4460b": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Restaurant Operations - Munich",
+    "company": "Tebi",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4955948bb640d22d": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Business Operations Associate",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9e9d76bf34796aea": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Founder's Office Lead",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2f517f1e50489433": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Head of Strategy and Product",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "30bf400ab5d3fab4": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Lead, Strategy",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "873103bb01fd18c6": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Strategy & Operations Lead",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f9687d765e36d4ff": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Strategy & Operations Associate",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "402c5060fe329f87": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Founder's Associate",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e9199d250564bd46": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Executive, Office of the CEO",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3ba545c2c89992c7": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "IT Operations Technician",
+    "company": "Getyourguide",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5104146bfe5c656d": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Senior Software Engineer, GraphQL - API Platform",
+    "company": "Getyourguide",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "75c8a335999f27fb": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Senior Decision Scientist (Fraud)",
+    "company": "Getyourguide",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f87bf957479a12c0": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Senior Internal Audit Manager",
+    "company": "Getyourguide",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "21d83a8415004009": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Senior Business Development Lead, Germany - Hivemind",
+    "company": "Shield",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "dad62f008f881e62": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Finance & Business Operations Manager - Accounting & Controlling",
+    "company": "Clear Solutions Laboratories",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "59cf8f6f66cb042a": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Business Operations Associate",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "fdfecdc4a863a8b4": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Founder's Office Lead",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d758f47ea2c1da6b": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Head of Strategy and Product",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "81d2023214c6b1e4": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Lead, Strategy",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9c97b9c31588d975": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Strategy & Operations Lead",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9056cd16a52258a6": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Strategy & Operations Associate",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "138103b537f44923": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Founder's Associate",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b4ba3e2a3155047a": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Executive, Office of the CEO",
+    "company": "Actcareers",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7221ea776f8c0833": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Applikations-Entwickler/ DevSecOps Engineer",
+    "company": "PROSTAFF Schweiz GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "faaf9bade532e8f8": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Audit Manager in Financial Services - Insurance - Zurich",
+    "company": "EY",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "19d0deffe3518765": {
+    "firstSeen": "2026-11-17T14:27:59.782Z",
+    "lastSeen": "2026-11-17T14:27:59.782Z",
+    "title": "Customer Operations Project Manager",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }

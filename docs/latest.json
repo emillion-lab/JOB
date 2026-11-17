@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:41:42.933Z",
+  "generatedAt": "2026-11-17T14:27:59.786Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 224,
+      "collected": 239,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 84,
+      "collected": 86,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 248,
+      "collected": 223,
       "status": "ok"
     },
     {
@@ -127,20 +127,144 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 203,
-  "totalBeforeLanguageFilter": 463,
+  "totalCollected": 224,
+  "totalBeforeLanguageFilter": 473,
   "byLanguage": {
-    "de": 210,
-    "en": 202,
+    "de": 199,
+    "en": 223,
+    "unknown": 1,
     "no": 49,
-    "fr": 1,
-    "unknown": 1
+    "fr": 1
   },
-  "totalScored": 12,
+  "totalScored": 35,
   "llmScored": 0,
-  "totalMatched": 21,
-  "totalNew": 1,
+  "totalMatched": 24,
+  "totalNew": 4,
   "jobs": [
+    {
+      "title": "Global Incident Manager",
+      "company": "Sandvik Aktiebolag",
+      "location": "Stockholm, Stockholms län",
+      "remote": false,
+      "description": "When critical IT incidents occur, clear coordination and decisive action make all the difference. As Global Incident Manager, you lead the response to major and high-impact incidents, bringing the right people together to restore services quickly and minimize business impact. You join Service Management and work within the Service Stability area alongside Global Incident Managers and colleagues focused on Incident, Problem and Event Management. About the job You’re the central coordination point during major and critical IT incidents, creating structure, driving progress and ensuring clear communication, escalation and decision support. Your scope covers global Incident Management operations, including major incidents, escalation support and Cybersecurity Incident Management (CSIM) when assigned. Your focus is operational incident leadership, while using hands-on experience and lessons learned to continuously improve our ways of working. Job responsibilities Lead and coordinate the end-to-end response to P1, major and other high-impact incidents. Establish effective command and control, with clear responsibilities, action tracking and decision points. Bring together resolver teams, service providers, technical specialists and business stakeholders to drive incidents toward resolution. Remove blockers and escalate when service restoration, business continuity, security or regulatory targets are at risk. Provide timely and clear communication to operational teams, business stakeholders and leadership. Facilitate post-incident reviews, follow up lessons learned and improvement actions, monitor recurring issues and contribute to improvements in processes, tools and capabilities. Take part in on-call duties and respond to incidents outside normal business hours, according to the agreed operational model. Location The position is based at the World Trade Center in Stockholm or Mossvägen in Sandviken. Your profile You’ve built solid experience in Incident Management or a similar operational IT field and know how to coordinate major incidents in complex environments. Working across multiple stakeholders comes naturally to you, and you combine operational IT knowledge with a structured approach to service management. Your background includes: Experience with IT service-management processes and tools in a global or multi-stakeholder environment. A relevant university degree or equivalent practical experience in IT operations, service management or a related field. ITIL Foundation or an equivalent service-management certification. Professional proficiency in written and spoken English. Experience in process improvement, governance, cybersecurity incident response or crisis management is beneficial. Advanced certification within ITIL, Incident Management, security, process management or crisis management, as well as additional relevant languages, are also considered an advantage. Being calm and decisive under pressure, you create clarity when situations are complex and moving quickly. You communicate clearly with technical, business and leadership audiences, take ownership and persistently drive incidents toward service restoration. You’re comfortable influencing others without formal authority while turning incidents and deviations into opportunities for learning. Our culture Our role is clear – through every action, every day, we make the shift and advance the world through engineering. We believe in an inclusive, equal and open-minded culture, and we nurture our diversities to form a solid foundation for achieving great results. Add fair and rewarding benefits, as well as many different career options. Are you intrigued? Visit our website, LinkedIn or Facebook page to get to know us further. Contact information For further information about this position, please contact Mikael Maad, hiring manager, +46 (0)70 616 28 44 We’ve already decided on which advertising channels and marketing campaigns we wish to use and respectfully decline any",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31740856",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-11-17T11:07:30.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31740856",
+      "query": "incident manager",
+      "id": "bdcb4e10ea2e4466",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 75,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 75
+    },
+    {
+      "title": "ServiceNow Programme Manager",
+      "company": "Manpower",
+      "location": "Zürich",
+      "remote": false,
+      "description": "Manpower ​ Experis® is a global leader in IT professional resourcing, permanent recruitment, project solutions, and managed services. With over 25 years of experience in Switzerland and offices in Zürich, Basel, and Geneva, we connect top IT talent with leading companies. Our mission is to help professionals unlock their potential and thrive in dynamic, future-ready careers. ​ Location: Zurich Start date: ASAP Duration: 12 months - with possibility of extension Responsibilities - Manage the Ser…",
+      "url": "https://www.adzuna.ch/details/5969038166?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-11-17T14:16:17.000Z",
+      "language": "en",
+      "country": "ch",
+      "source": "adzuna",
+      "sourceId": "5969038166",
+      "query": "it service management",
+      "id": "cae3273a77c0f49e",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 60
+    },
+    {
+      "title": "ServiceNow Programme Manager",
+      "company": "Experis Switzerland",
+      "location": "Zürich",
+      "remote": false,
+      "description": "Experis® is a global leader in IT professional resourcing, permanent recruitment, project solutions, and managed services. With over 25 years of experience in Switzerland and offices in Zürich, Basel, and Geneva, we connect top IT talent with leading companies. Our mission is to help professionals unlock their potential and thrive in dynamic, future-ready careers. Location: Zurich Start date : ASAP Duration: 12 months - with possibility of extension Responsibilities Manage the ServiceNow Progra…",
+      "url": "https://www.adzuna.ch/details/5968964233?utm_medium=api&utm_source=8209e0ff",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-11-17T12:51:17.000Z",
+      "language": "en",
+      "country": "ch",
+      "source": "adzuna",
+      "sourceId": "5968964233",
+      "query": "it service management",
+      "id": "3b42cf23c74d2fec",
+      "sources": [
+        "adzuna"
+      ],
+      "isNew": true,
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 60
+    },
+    {
+      "title": "ITSM Process and Tool Manager",
+      "company": "Arelion Sweden AB",
+      "location": "Solna, Stockholms län",
+      "remote": false,
+      "description": "Job DescriptionAs ITSM Process and Tool manager in Arelion, you will be accountable for effective ITSM processes and an ITSM platform that enable consistent incident, problem, change, and request management. The role aligns process governance, tool configuration, integrations, access, reporting, and continual improvement to reliable service delivery and evolving business needs.Arelion operates a complex IT environment consisting of a DC/IaaS hybrid running a variety of applications, both COTS and in-house developed. We depend on highly skilled people in Arelion and within our support partners to be able to follow efficient processes every day to keep lights. They need the best possible tooling to join forces to solve incidents, investigate complex problems, and handle planned changes. This is where the ITSM Process and Tool manager can make a big difference. You will take over a working foundation, govern it over time, and improve to facilitate even better collaboration and increase efficiency. ​Job RequirementsAt least five years of relevant IT service, operations, support, or ITSM experience in a managed-service environment Strong practical knowledge of ITIL processes and experience delivering service quality within an ITIL framework Experience administering and configuring ITSM platforms (preferably Freshservice), including workflows, access roles, integrations, dashboards, and reports to facilitate efficient ways of working with incidents, problems, and changes. Understanding of IT infrastructure, operating systems, AWS, data centre technologies, VMware, CMDB, monitoring, and asset-management concepts Strong written and spoken English, stakeholder communication, vendor coordination, planning, organisation, and structured problem-solving Bachelor’s degree or equivalent experience, with ITIL Foundation certification beneficial Job ResponsibilitiesGovern and improve Incident, Problem, Change, and Request Management processes within the ITIL framework Maintain and configure the ITSM platform to support approved service-management processes and workflows Align forms, workflows, dashboards, and reports with organisational and stakeholder needs Manage platform roles, permissions, and access controls for secure and appropriate use Coordinate integration of the ITSM platform with monitoring, CMDB, asset-management, event/alarm sources, and other relevant systems Monitor process and tool performance, service-level compliance, and data quality, and address identified issues Collaborate with infrastructure, application, engineering, support, service-delivery, and supplier stakeholders Maintain clear process, configuration, and operating documentation Identify and implement opportunities to simplify, standardise, and optimise IT service management Job BenefitsAnnual performance/KPI based bonus ATK - work time shortening Wellness contribution Pension plan",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31741220",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-11-17T11:42:54.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31741220",
+      "query": "itsm manager",
+      "id": "cb2050b1a4e7ac50",
+      "sources": [
+        "jobtech"
+      ],
+      "isNew": true,
+      "score": 55,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "scoredBy": "prefilter",
+      "keywordScore": 55
+    },
     {
       "title": "Client Service Manager",
       "company": "Euroclear Bank Sweden Branch filial",
@@ -161,7 +285,6 @@
       "sources": [
         "jobtech"
       ],
-      "isNew": true,
       "score": 75,
       "fit": "unscored",
       "matched": [],
@@ -169,7 +292,8 @@
       "disqualifiers": [],
       "reason": "",
       "next_action": "",
-      "scoredBy": "prefilter",
+      "firstSeen": "2026-11-16T13:41:42.922Z",
+      "isNew": false,
       "keywordScore": 75
     },
     {
@@ -550,15 +674,15 @@
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "Working at Freudenberg: \"We will wow your world!\" This is our promise. As a global technology group, we not only make the world cleaner, healthier and more comfortable, but also offer our 52,000 employees a networked and diverse environment where everyone can thrive individually. Be surprised and experience your own wow moments. Klüber Lubrication is a global leader in specialty lubrication and part of the Freudenberg Group. With subsidiaries in 30 countries and partners worldwide, our custom s…",
-      "url": "https://www.adzuna.de/land/ad/5951214649?se=5AnWXMPh8RG3UKJUaLg__w&utm_medium=api&utm_source=8209e0ff&v=D78ADF7C6A8038AC3F7EBF8455D819FCCE5C69D2",
+      "url": "https://www.adzuna.de/land/ad/5950864202?se=vH--AJPi8RG5edJbb-mHGQ&utm_medium=api&utm_source=8209e0ff&v=1CEEEF9E5EDFB23DC1ABAA5C6C0C46044E72D3C2",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-11-03T03:28:52.000Z",
+      "posted": "2026-11-02T19:37:39.000Z",
       "language": "en",
       "country": "de",
       "source": "adzuna",
-      "sourceId": "5951214649",
+      "sourceId": "5950864202",
       "query": "it service management",
       "id": "d7aabf68fdeaaaef",
       "sources": [
@@ -758,37 +882,6 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-11-13T13:08:54.003Z",
-      "isNew": false,
-      "keywordScore": 40
-    },
-    {
-      "title": "Manager HVDC Service Warranty & Care",
-      "company": "Hitachi Energy Sweden AB",
-      "location": "Ludvika, Dalarnas län",
-      "remote": false,
-      "description": "The opportunity HVDC (High Voltage Direct Current) is a product group in Hitachi Energy, which develops, manufactures, and sells DC transmission systems on a global market. HVDC technology is used to transmit electricity over long distances and for power transmission via submarine cables. It is also used to connect power systems. HVDC Service, based in Ludvika, Sweden, is now looking for a Manager to take on the role as the leader for the Service Warranty & Care to support and develop the individuals and the group and work for development of the department for a global growth. In this role, you will have personnel responsibility for a team of 15-20 professionals reporting directly to you. You will be tasked with ensuring that engineering teams are adequately resourced, developed, and equipped to meet business needs, as well as ensuring that the company's culture and values are reflected in all employee practices and policies. Your primary objective will be to motivate and engage your team and to support them to achieve their full potential, while ensuring compliance with all relevant regulations. Your Responsibilities HVDC Services core is to lead and manage employee relations, development and engage relations to foster a sense of community among employees. Building and developing the team and the individuals in it by managing employee training and development initiatives Providing strategic direction, leadership, and coordination of the function and operational work together with technical specialists. Providing insight and managing priorities for the team while ensuring activities’ performance and quality goals are met during all project phases. Taking a proactive approach and actively participate in recruiting activities. Planning for project staffing and adjusting it according to business needs, as well as planning for both short-term and more strategic long-term changes in the team structure. Partnering with the management team to develop, improve, and implement strategic people management initiatives and ensuring processes are in place to capture and share best practices and operational experiences. Your Background Experience as a people manager, or other relevant leadership or management experience with personnel responsibility, is highly qualifying. Experience in technology, engineering, electrical design, hardware design, or similar is required (if you have worked with HVDC technology before it is a plus). Strong communication, social, and interpersonal skills, with the ability to build strong relationships with employees and management. Clear in decision making and have the right inner drive to take on full responsibility for your scope and deliver on time in a dynamic environment. Fluency in Swedish and English is a must. More About Us​ We believe great work thrives in an environment where people feel genuinely supported and fairly rewarded. Our benefits are designed to create real value for every individual – fueling engagement, performance, and growth. By prioritizing well‑being, we build a workplace where personal and organizational success grow together. ​ Our benefits offering for our roles generally includes: ​ Collective agreement, occupational pension & possibility of salary exchange to pension (for ITP1 and ITP2) ​ Group life insurance and additional insurances. ​ Flex-time and shortening of working hours in time bank ​ Hybrid work & allowances for setting up a workplace at home (in agreement with line manager) ​ Health care and wellness allowance ​ Health insurance incl. dental, spectacles & contact lenses allowance (employee pay 140 sek/month via salary deduction) ​ Psychological support program ​ Supplementary compensation for parental leave ​ Various trainings and education supporting employee development ​ Internal career possibilities both within Sweden and globally ​ Employee Benefit Portal with thousands of discounts and perks ​ The benefits listed above are an excerpt only and may vary depending on",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31704069",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-11-09T12:07:00.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31704069",
-      "query": "service manager",
-      "id": "ee9e12e4abd46db6",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-11-09T13:56:33.805Z",
       "isNew": false,
       "keywordScore": 40
     }
