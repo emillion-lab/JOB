@@ -18192,5 +18192,107 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "0abff149c732b1b5": {
+    "firstSeen": "2026-11-18T14:02:58.842Z",
+    "lastSeen": "2026-11-18T14:02:58.842Z",
+    "title": "IT Service Manager",
+    "company": "NKT HV Cables AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e7e00d2c586d5dcb": {
+    "firstSeen": "2026-11-18T14:02:58.842Z",
+    "lastSeen": "2026-11-18T14:02:58.842Z",
+    "title": "SRE Platform Manager",
+    "company": "Yubo",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d22bfe16e3298d91": {
+    "firstSeen": "2026-11-18T14:02:58.842Z",
+    "lastSeen": "2026-11-18T14:02:58.842Z",
+    "title": "Customer Operations Specialist (Part Time) (f/m/x)",
+    "company": "Lemon Markets",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "773ea66cf11eabba": {
+    "firstSeen": "2026-11-18T14:02:58.842Z",
+    "lastSeen": "2026-11-18T14:02:58.842Z",
+    "title": "QA Engineer - Payments",
+    "company": "sumup",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c619512e9be93a08": {
+    "firstSeen": "2026-11-18T14:02:58.842Z",
+    "lastSeen": "2026-11-18T14:02:58.842Z",
+    "title": "Manager - Consulting - Technology Strategy and Transformation",
+    "company": "EY",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2d5bc60025d7431d": {
+    "firstSeen": "2026-11-18T14:02:58.842Z",
+    "lastSeen": "2026-11-18T14:02:58.842Z",
+    "title": "Head of IT Product Management",
+    "company": "Electrolux Professional AB (publ)",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
