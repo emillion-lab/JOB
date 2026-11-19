@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:02:58.846Z",
+  "generatedAt": "2026-11-19T14:28:27.511Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 238,
+      "collected": 235,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 87,
+      "collected": 84,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 248,
+      "collected": 267,
       "status": "ok"
     },
     {
@@ -127,42 +127,42 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 221,
-  "totalBeforeLanguageFilter": 490,
+  "totalCollected": 244,
+  "totalBeforeLanguageFilter": 508,
   "byLanguage": {
-    "de": 221,
-    "en": 218,
-    "unknown": 3,
-    "no": 47,
-    "fr": 1
+    "de": 216,
+    "en": 242,
+    "unknown": 2,
+    "no": 46,
+    "fr": 2
   },
-  "totalScored": 6,
+  "totalScored": 10,
   "llmScored": 0,
   "totalMatched": 24,
   "totalNew": 1,
   "jobs": [
     {
-      "title": "IT Service Manager",
-      "company": "NKT HV Cables AB",
-      "location": "Karlskrona (KARLS), Blekinge län",
+      "title": "Manager Breakfast, Minibar and Room Service",
+      "company": "Förvaltningsaktiebolaget Tegelbacken",
+      "location": "Stockholm, Stockholms län",
       "remote": false,
-      "description": "Company description: At NKT in Karlskrona, we develop and manufacture high voltage power cables that enable the transition to renewable energy. Here, you will be part of an international engineering centre with advanced high voltage test halls, modern cable production and the cable laying vessel NKT Victoria. As Connectors, we collaborate to develop innovative technology that connects a greener and more sustainable world. NKT is headquartered in Denmark and operates in more than 30 countries.NKT - We connect a greener world. www.NKT.com. Job description:At NKT, we are engaged in innovative projects that drive the green transition. Our complex cable installations, both offshore and onshore, utilize the latest technology to ensure quality and efficiency. Managing the entire process from production to testing requires careful planning and coordination. We’re now looking for a communicative and motivated IT Service Manager to manage business-critical IT services and digital projects. You’ll play a key role in supporting our global operations and developing scalable IT solutions that meet evolving business needs. Take responsibility for business-critical IT services and lead projectsAs a Service Manager, you will manage the full lifecycle of assigned IT services and ensure reliable, secure and cost-effective delivery. Working closely with business stakeholders, IT teams and external vendors, you will translate business requirements into effective solutions and support continuous improvement. Your main responsibilities will include: • Ensure stable IT services across on-premises and cloud environments.• Manage and coordinate changes, releases and digital projects.• Build solid stakeholder and vendor relationships.• Manage service improvements while ensuring IT governance and security. You will report to Sr Manager Digital Solutions. The location for this position is Karlskrona. Communicative IT Service Manager with digitalization experienceTo perform well in this role, you have solid knowledge of digitalization and the ability to analyze business needs and translate them into IT solutions. You are structured, cost-conscious and strategic, with good communication and collaboration skills. Knowledge of IT infrastructure is an advantage. Your CV should also include: • Relevant education in IT or equivalent experience• Professional experience in delivering and managing IT services and systems• Familiarity with agile methods and service management frameworks such as DevOps and ITIL• Experience managing external vendors• Fluency in spoken and written English. Swedish language skills are meritorious. Join a skilled team in an international environmentWe believe that a diverse organization enables sustainable performance, and that an inclusive and welcoming culture makes for a better workplace. We are committed to a diverse organization and a culture where people from different backgrounds and perspectives can thrive and be inspired to perform at their best. You will have exciting opportunities to develop your career and enjoy attractive benefits. Are you interested in a career at a growing company while contributing to the green transition? Then we would like to talk to you. Even if you don’t meet all the requirements – tell us. The opportunity to grow and contribute to our future is important, where your involvement and potential matter greatly. “Working as a Service Manager in NKT gives you the opportunity to see how many different parts of the whole NKT business works. You are not working towards one business area or function, but many. As a Service Manager you cannot know all the details, but you get a good understanding in general. Focus is always on understanding the business needs and translating them into requirements that will end up in tangible solutions. A Service Manager needs to be a strong team player who collaborates effectively, supports colleagues, and works toward shared goals” says one of the Service Managers in Digital ",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31744278",
+      "description": "Step into a role that redefines excellence at the Sheraton Stockholm Hotel, a hallmark of hospitality since 1971 in the heart of Sweden's bustling capital. Aligned with our innovative owners Archer Hotel Management and Marriott International, we merge rich cultural history with modern luxury and a deep dedication to sustainability. We are now looking for a passionate F&B leader to oversee our Breakfast, Room Service, and Minibar operations. This is a fixed-term full-time position covering parental leave, for a minimum duration of 6 months. For this role, we are looking for someone who is responsible, flexible and enjoys problem solving. You are a team player who has a passion for service to exceed our guests' expectations. As Breakfast, Room Service & Minibar Manager, you will run one of the most important parts of the guest experience and you will be the key person in ensuring that we deliver outstanding customer service. The role involves identifying areas for improvement, implementing strategic solutions and collaborating with various departments to ensure guests receive a first-class experience at all times. Main responsibilities: Take a leading role in planning, organizing and managing your operations on a daily basis. Supervise and assist in the service of quality food & beverage products to customers in the breakfast/lunch operation. Ensure that the quality of the breakfast buffet is always kept to the highest standard. Ensure guest requests are fulfilled and problems solved in a timely manner. Ensure that the mini bar operation runs smoothly in terms of visual aspect, refilling and stock control. Ensure all VIP amenities are delivered on time and according to standard. Perform admin duties such as scheduling, ordering and inventory control as requested by senior management. Do employee performances reviews whenever required. Develop a structured training plan for all team members and assure product quality and service standards are being followed at all times. Assist other F&B outlets when required by covering shifts and supporting fellow managers. Optimize profitability and work toward the restaurant´s set financial results by delivering long- and short-term efficiency goals. Lead the team towards the set guest satisfaction goals by coaching, inspiring and motivating the staff toward guest-focused results. Lead the recruitment process of new team members for your department. Qualifications: You have at least 3 years experience working in a similar position at a high-end restaurant and/or hotel where you had responsibility to lead a team. Ambitious and interested in working in a high-pace environment with great standards. Out-going personality who has the ability to communicate with ease and ensure our guests feel welcome. Structure and good organizational skills. Extensive knowledge of food and drinks. Experience with demand-driven scheduling. Knowledge within profitability optimization and cost control. Ability to work independently, pro-actively and with high professional ethics. You are passionate about service as well as have a genuine interest in food and beverage. Able to communicate verbally in Swedish and English, additional languages is a plus. Ability to motivate and inspire teams. Excellent problem-solving skills with a focus on guests' needs and expectations. What We Offer: Chance of being part of one of the biggest renovation and re-positioning projects in Stockholm’s hotel scene. Great opportunities for career growth. A dynamic and inclusive work environment. Employee discounted rates at over 8,000 hotels worldwide. Does this position sound interesting and like a good fit for you? Selection and interviews are conducted on an ongoing basis and the position may be filled before the final application deadline, so please submit your application as soon as possible. Join our team and play a key role in creating memorable experiences for our guests!",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31746677",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-11-17T17:25:05.000Z",
+      "posted": "2026-11-18T11:01:09.000Z",
       "language": "en",
       "country": "se",
       "source": "jobtech",
-      "sourceId": "31744278",
+      "sourceId": "31746677",
       "query": "service manager",
-      "id": "0abff149c732b1b5",
+      "id": "de9058f8e7cabec1",
       "sources": [
         "jobtech"
       ],
       "isNew": true,
-      "score": 60,
+      "score": 40,
       "fit": "unscored",
       "matched": [],
       "gaps": [],
@@ -170,7 +170,7 @@
       "reason": "",
       "next_action": "",
       "scoredBy": "prefilter",
-      "keywordScore": 60
+      "keywordScore": 40
     },
     {
       "title": "Client Service Manager",
@@ -386,6 +386,37 @@
       "reason": "",
       "next_action": "",
       "firstSeen": "2026-10-01T11:39:00.267Z",
+      "isNew": false,
+      "keywordScore": 60
+    },
+    {
+      "title": "IT Service Manager",
+      "company": "NKT HV Cables AB",
+      "location": "Karlskrona (KARLS), Blekinge län",
+      "remote": false,
+      "description": "Company description: At NKT in Karlskrona, we develop and manufacture high voltage power cables that enable the transition to renewable energy. Here, you will be part of an international engineering centre with advanced high voltage test halls, modern cable production and the cable laying vessel NKT Victoria. As Connectors, we collaborate to develop innovative technology that connects a greener and more sustainable world. NKT is headquartered in Denmark and operates in more than 30 countries.NKT - We connect a greener world. www.NKT.com. Job description:At NKT, we are engaged in innovative projects that drive the green transition. Our complex cable installations, both offshore and onshore, utilize the latest technology to ensure quality and efficiency. Managing the entire process from production to testing requires careful planning and coordination. We’re now looking for a communicative and motivated IT Service Manager to manage business-critical IT services and digital projects. You’ll play a key role in supporting our global operations and developing scalable IT solutions that meet evolving business needs. Take responsibility for business-critical IT services and lead projectsAs a Service Manager, you will manage the full lifecycle of assigned IT services and ensure reliable, secure and cost-effective delivery. Working closely with business stakeholders, IT teams and external vendors, you will translate business requirements into effective solutions and support continuous improvement. Your main responsibilities will include: • Ensure stable IT services across on-premises and cloud environments.• Manage and coordinate changes, releases and digital projects.• Build solid stakeholder and vendor relationships.• Manage service improvements while ensuring IT governance and security. You will report to Sr Manager Digital Solutions. The location for this position is Karlskrona. Communicative IT Service Manager with digitalization experienceTo perform well in this role, you have solid knowledge of digitalization and the ability to analyze business needs and translate them into IT solutions. You are structured, cost-conscious and strategic, with good communication and collaboration skills. Knowledge of IT infrastructure is an advantage. Your CV should also include: • Relevant education in IT or equivalent experience• Professional experience in delivering and managing IT services and systems• Familiarity with agile methods and service management frameworks such as DevOps and ITIL• Experience managing external vendors• Fluency in spoken and written English. Swedish language skills are meritorious. Join a skilled team in an international environmentWe believe that a diverse organization enables sustainable performance, and that an inclusive and welcoming culture makes for a better workplace. We are committed to a diverse organization and a culture where people from different backgrounds and perspectives can thrive and be inspired to perform at their best. You will have exciting opportunities to develop your career and enjoy attractive benefits. Are you interested in a career at a growing company while contributing to the green transition? Then we would like to talk to you. Even if you don’t meet all the requirements – tell us. The opportunity to grow and contribute to our future is important, where your involvement and potential matter greatly. “Working as a Service Manager in NKT gives you the opportunity to see how many different parts of the whole NKT business works. You are not working towards one business area or function, but many. As a Service Manager you cannot know all the details, but you get a good understanding in general. Focus is always on understanding the business needs and translating them into requirements that will end up in tangible solutions. A Service Manager needs to be a strong team player who collaborates effectively, supports colleagues, and works toward shared goals” says one of the Service Managers in Digital ",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31744278",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "posted": "2026-11-17T17:25:05.000Z",
+      "language": "en",
+      "country": "se",
+      "source": "jobtech",
+      "sourceId": "31744278",
+      "query": "service manager",
+      "id": "0abff149c732b1b5",
+      "sources": [
+        "jobtech"
+      ],
+      "score": 60,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": "",
+      "firstSeen": "2026-11-18T14:02:58.842Z",
       "isNew": false,
       "keywordScore": 60
     },
@@ -669,51 +700,20 @@
       "keywordScore": 50
     },
     {
-      "title": "Delivery Manager Software Development & Service Delivery - 20156",
-      "company": "Veritaz AB",
-      "location": "Malmö, Skåne län",
-      "remote": false,
-      "description": "Veritaz is a leading IT staffing solutions provider in Sweden, committed to advancing individual careers and aiding employers in ensuring the perfect talent fit. With a proven track record of successful partnerships with top companies, we have rapidly grown our presence in the USA, Europe, and Sweden as a dependable and trusted resource within the IT industry. Job Overview Assignment Description We are looking for a Delivery Manager. What You Will Work On Coordinate daily delivery activities and manage operational delivery communication. Lead sprint planning, estimation, sprint commitments, and structured follow-up with customer team leads. Conduct biweekly reviews of sprint performance, delivery outcomes, lessons learned, deviations, and agreed performance criteria. Hold individual discussions with developers as needed, coordinating with customer team leads. Coordinate multiple team leads, delivery managers, and other stakeholders involved in team performance. Manage operational escalations and raise critical issues to the Key Account Manager (KAM) when required. Work with the Resource Manager to prioritise capacity and competence requirements across teams. Provide delivery data and risk assessments for forecasts, invoicing, quarterly reviews, and business follow-ups. Manage and approve consultant holidays and work-from-home requests. Monitor team sickness absence and ensure relevant information reaches the appropriate stakeholders. What You Bring Experience in delivery management, project management, or IT service delivery. Experience coordinating software development teams and multiple stakeholders. Strong understanding of Agile delivery, sprint planning, estimation, and performance follow-up. Ability to manage operational risks, escalations, and delivery commitments. Experience with capacity planning, resource coordination, and delivery reporting. Strong communication, coordination, and leadership skills. Ability to work in a structured, client-facing environment and drive continuous improvement. Meritorious Experience managing software development deliveries across multiple teams. Experience with contractual delivery commitments, forecasting, and invoicing support. Experience working with Key Account Managers and Resource Managers. Experience with performance reviews, risk management, and quarterly business follow-ups.",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31613542",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-10-19T12:07:05.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31613542",
-      "query": "service delivery manager",
-      "id": "dd7dff176bc35702",
-      "sources": [
-        "jobtech"
-      ],
-      "score": 45,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-10-19T10:48:38.384Z",
-      "isNew": false,
-      "keywordScore": 45
-    },
-    {
       "title": "IT Service Lead Backup Management On-Prem & Cloud (f/m/d)",
       "company": "Klüber Lubrication München GmbH & Co. KG",
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "Working at Freudenberg: \"We will wow your world!\" This is our promise. As a global technology group, we not only make the world cleaner, healthier and more comfortable, but also offer our 52,000 employees a networked and diverse environment where everyone can thrive individually. Be surprised and experience your own wow moments. Klüber Lubrication is a global leader in specialty lubrication and part of the Freudenberg Group. With subsidiaries in 30 countries and partners worldwide, our custom s…",
-      "url": "https://www.adzuna.de/land/ad/5950864202?se=4Of5qVjj8RGvetEb-95Ieg&utm_medium=api&utm_source=8209e0ff&v=1CEEEF9E5EDFB23DC1ABAA5C6C0C46044E72D3C2",
+      "url": "https://www.adzuna.de/land/ad/5951214649?se=QAsnYyXk8RGb9ZT7lxNATw&utm_medium=api&utm_source=8209e0ff&v=D78ADF7C6A8038AC3F7EBF8455D819FCCE5C69D2",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
-      "posted": "2026-11-02T19:37:39.000Z",
+      "posted": "2026-11-03T03:28:52.000Z",
       "language": "en",
       "country": "de",
       "source": "adzuna",
-      "sourceId": "5950864202",
+      "sourceId": "5951214649",
       "query": "it service management",
       "id": "d7aabf68fdeaaaef",
       "sources": [

@@ -18294,5 +18294,175 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "de9058f8e7cabec1": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "Manager Breakfast, Minibar and Room Service",
+    "company": "Förvaltningsaktiebolaget Tegelbacken",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 40,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2eee1b2ae9eb2240": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "Senior/Staff Site Reliability Engineer (Server Infrastructure)",
+    "company": "Nebius",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ff46ba6dea6d1fc3": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "Senior Technology Audit Manager",
+    "company": "Getyourguide",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "d5fc36551a88dd9a": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "Enterprise Deployment Strategist",
+    "company": "Telli",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3e73a31da6b7af38": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "AI Operations Monitor – Digital Operations & Incident Response",
+    "company": "Lightly AG",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3d048044806be810": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "Junior Go Backend Developer (f/m/d)",
+    "company": "Applike Group",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2c5cb9c4b86760eb": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "People Associate - Working Student",
+    "company": "Wolt - English",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "70b9d6bbfa9e50b1": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "Key Account Manager - (deutschsprachig, Berlin, m/f/x)",
+    "company": "Lightspeedhq",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "7e144cd3d9adfdaf": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "Head of Client Success, EMEA (Performance Marketing Agency)",
+    "company": "Finch",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c9dd2192a86ff67f": {
+    "firstSeen": "2026-11-19T14:28:27.506Z",
+    "lastSeen": "2026-11-19T14:28:27.506Z",
+    "title": "Research Software Consultant",
+    "company": "AstraZeneca AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
