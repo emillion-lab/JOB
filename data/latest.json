@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:28:27.511Z",
+  "generatedAt": "2026-11-20T14:03:01.736Z",
   "settings": {
     "markets": [
       {
@@ -73,7 +73,7 @@
   "sources": [
     {
       "source": "adzuna",
-      "collected": 235,
+      "collected": 234,
       "status": "ok"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "source": "jobtech",
-      "collected": 84,
+      "collected": 86,
       "status": "ok"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "source": "arbeitnow",
-      "collected": 267,
+      "collected": 281,
       "status": "ok"
     },
     {
@@ -127,51 +127,20 @@
       "status": "ok"
     }
   ],
-  "totalCollected": 244,
-  "totalBeforeLanguageFilter": 508,
+  "totalCollected": 241,
+  "totalBeforeLanguageFilter": 523,
   "byLanguage": {
-    "de": 216,
-    "en": 242,
-    "unknown": 2,
-    "no": 46,
-    "fr": 2
+    "de": 232,
+    "en": 240,
+    "no": 49,
+    "fr": 1,
+    "unknown": 1
   },
-  "totalScored": 10,
+  "totalScored": 24,
   "llmScored": 0,
-  "totalMatched": 24,
-  "totalNew": 1,
+  "totalMatched": 21,
+  "totalNew": 0,
   "jobs": [
-    {
-      "title": "Manager Breakfast, Minibar and Room Service",
-      "company": "Förvaltningsaktiebolaget Tegelbacken",
-      "location": "Stockholm, Stockholms län",
-      "remote": false,
-      "description": "Step into a role that redefines excellence at the Sheraton Stockholm Hotel, a hallmark of hospitality since 1971 in the heart of Sweden's bustling capital. Aligned with our innovative owners Archer Hotel Management and Marriott International, we merge rich cultural history with modern luxury and a deep dedication to sustainability. We are now looking for a passionate F&B leader to oversee our Breakfast, Room Service, and Minibar operations. This is a fixed-term full-time position covering parental leave, for a minimum duration of 6 months. For this role, we are looking for someone who is responsible, flexible and enjoys problem solving. You are a team player who has a passion for service to exceed our guests' expectations. As Breakfast, Room Service & Minibar Manager, you will run one of the most important parts of the guest experience and you will be the key person in ensuring that we deliver outstanding customer service. The role involves identifying areas for improvement, implementing strategic solutions and collaborating with various departments to ensure guests receive a first-class experience at all times. Main responsibilities: Take a leading role in planning, organizing and managing your operations on a daily basis. Supervise and assist in the service of quality food & beverage products to customers in the breakfast/lunch operation. Ensure that the quality of the breakfast buffet is always kept to the highest standard. Ensure guest requests are fulfilled and problems solved in a timely manner. Ensure that the mini bar operation runs smoothly in terms of visual aspect, refilling and stock control. Ensure all VIP amenities are delivered on time and according to standard. Perform admin duties such as scheduling, ordering and inventory control as requested by senior management. Do employee performances reviews whenever required. Develop a structured training plan for all team members and assure product quality and service standards are being followed at all times. Assist other F&B outlets when required by covering shifts and supporting fellow managers. Optimize profitability and work toward the restaurant´s set financial results by delivering long- and short-term efficiency goals. Lead the team towards the set guest satisfaction goals by coaching, inspiring and motivating the staff toward guest-focused results. Lead the recruitment process of new team members for your department. Qualifications: You have at least 3 years experience working in a similar position at a high-end restaurant and/or hotel where you had responsibility to lead a team. Ambitious and interested in working in a high-pace environment with great standards. Out-going personality who has the ability to communicate with ease and ensure our guests feel welcome. Structure and good organizational skills. Extensive knowledge of food and drinks. Experience with demand-driven scheduling. Knowledge within profitability optimization and cost control. Ability to work independently, pro-actively and with high professional ethics. You are passionate about service as well as have a genuine interest in food and beverage. Able to communicate verbally in Swedish and English, additional languages is a plus. Ability to motivate and inspire teams. Excellent problem-solving skills with a focus on guests' needs and expectations. What We Offer: Chance of being part of one of the biggest renovation and re-positioning projects in Stockholm’s hotel scene. Great opportunities for career growth. A dynamic and inclusive work environment. Employee discounted rates at over 8,000 hotels worldwide. Does this position sound interesting and like a good fit for you? Selection and interviews are conducted on an ongoing basis and the position may be filled before the final application deadline, so please submit your application as soon as possible. Join our team and play a key role in creating memorable experiences for our guests!",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31746677",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-11-18T11:01:09.000Z",
-      "language": "en",
-      "country": "se",
-      "source": "jobtech",
-      "sourceId": "31746677",
-      "query": "service manager",
-      "id": "de9058f8e7cabec1",
-      "sources": [
-        "jobtech"
-      ],
-      "isNew": true,
-      "score": 40,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "scoredBy": "prefilter",
-      "keywordScore": 40
-    },
     {
       "title": "Client Service Manager",
       "company": "Euroclear Bank Sweden Branch filial",
@@ -282,37 +251,6 @@
       "sourceId": "5969038166",
       "query": "it service management",
       "id": "cae3273a77c0f49e",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 60,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-11-17T14:27:59.782Z",
-      "isNew": false,
-      "keywordScore": 60
-    },
-    {
-      "title": "ServiceNow Programme Manager",
-      "company": "Experis Switzerland",
-      "location": "Zürich",
-      "remote": false,
-      "description": "Experis® is a global leader in IT professional resourcing, permanent recruitment, project solutions, and managed services. With over 25 years of experience in Switzerland and offices in Zürich, Basel, and Geneva, we connect top IT talent with leading companies. Our mission is to help professionals unlock their potential and thrive in dynamic, future-ready careers. Location: Zurich Start date : ASAP Duration: 12 months - with possibility of extension Responsibilities Manage the ServiceNow Progra…",
-      "url": "https://www.adzuna.ch/details/5968964233?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-11-17T12:51:17.000Z",
-      "language": "en",
-      "country": "ch",
-      "source": "adzuna",
-      "sourceId": "5968964233",
-      "query": "it service management",
-      "id": "3b42cf23c74d2fec",
       "sources": [
         "adzuna"
       ],
@@ -607,37 +545,6 @@
       "keywordScore": 55
     },
     {
-      "title": "IT Project Manager (m/f/d)",
-      "company": "Retarus",
-      "location": "München, München (Kreis)",
-      "remote": false,
-      "description": "Become IT Project Manager (m/f/d) at Retarus. Retarus is a worldwide provider of cloud-based messaging solutions at enterprise scale. We serve over 40% of the companies listed on the S&P Global 100, e.g. Adidas, Bayer, SAP, BNP Paribas, Goldman Sachs, T-Systems, Swarovski & UPS , as well as governmental agencies and major players in markets across the world. Privately owned and founder-managed for over thirty years, Retarus is customer-oriented, stable, a fair employer, and a strategic business…",
-      "url": "https://www.adzuna.de/details/5891907402?utm_medium=api&utm_source=8209e0ff",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "posted": "2026-09-20T18:23:09.000Z",
-      "language": "en",
-      "country": "de",
-      "source": "adzuna",
-      "sourceId": "5891907402",
-      "query": "incident manager",
-      "id": "45dbd6d451cd56dc",
-      "sources": [
-        "adzuna"
-      ],
-      "score": 55,
-      "fit": "unscored",
-      "matched": [],
-      "gaps": [],
-      "disqualifiers": [],
-      "reason": "",
-      "next_action": "",
-      "firstSeen": "2026-09-21T10:46:07.805Z",
-      "isNew": false,
-      "keywordScore": 55
-    },
-    {
       "title": "ITSM Process and Tool Manager",
       "company": "Arelion Sweden AB",
       "location": "Solna, Stockholms län",
@@ -705,7 +612,7 @@
       "location": "München, München (Kreis)",
       "remote": false,
       "description": "Working at Freudenberg: \"We will wow your world!\" This is our promise. As a global technology group, we not only make the world cleaner, healthier and more comfortable, but also offer our 52,000 employees a networked and diverse environment where everyone can thrive individually. Be surprised and experience your own wow moments. Klüber Lubrication is a global leader in specialty lubrication and part of the Freudenberg Group. With subsidiaries in 30 countries and partners worldwide, our custom s…",
-      "url": "https://www.adzuna.de/land/ad/5951214649?se=QAsnYyXk8RGb9ZT7lxNATw&utm_medium=api&utm_source=8209e0ff&v=D78ADF7C6A8038AC3F7EBF8455D819FCCE5C69D2",
+      "url": "https://www.adzuna.de/land/ad/5951214649?se=NhqQAevk8RGAvJnbPgF_oA&utm_medium=api&utm_source=8209e0ff&v=D78ADF7C6A8038AC3F7EBF8455D819FCCE5C69D2",
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,

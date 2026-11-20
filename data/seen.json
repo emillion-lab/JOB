@@ -18464,5 +18464,413 @@
       "reason": "",
       "next_action": ""
     }
+  },
+  "ccdb3c29e9c008c8": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Director, Operations IT - MES, Product Management",
+    "company": "AstraZeneca AB",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "c48f2fc0c1077463": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "1218 | Senior Project Manager",
+    "company": "Intetics 2",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 15,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "164896043822bc54": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Senior CRM Account Executive – Life Sciences",
+    "company": "ServiceNow",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f9f586357f2318b2": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Senior Product Engineer (Incident Response, remote)",
+    "company": "Checkly",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "b1e3aa0adbcb1322": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Platform QA Chapter Lead (all genders)",
+    "company": "JustPlay GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "4bf363b83b7cce2b": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Director of Platform Engineering [gn] – Data Intelligence Platform",
+    "company": "Actian",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "70dec2b26c2a050f": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Head of Business Automation",
+    "company": "Anybotics",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "9d6bb1723b867f8c": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "(Senior) Field Engineer, Industrial Robotics",
+    "company": "Anybotics",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "f10d2be3a9c6a411": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Accounting & Reporting Manager (f/m/x)",
+    "company": "Enpal",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "3601d321dfea02bb": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "1220 | Solution Architect",
+    "company": "Intetics 2",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e1ea718d6ea0ac1f": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "1022.1 | Senior Business Analyst",
+    "company": "Intetics 2",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ec6259017ad16bf2": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Senior Customer Success Manager - (m/f/d)",
+    "company": "TYTAN Technologies GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e3d4278bd7c3e772": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Global Talent Acquisition Partnert (all genders)",
+    "company": "Distribusion Technologies",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e3eba766821d1cf1": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Autosar Cybersecurity Software Development (m/w/d)",
+    "company": "Mobileye",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "166269e3c139ee0f": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Senior Product Owner – Xsolla Money Account",
+    "company": "Xsolla",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "84b8281f8213d3af": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Senior Frontend Engineer (All Genders)",
+    "company": "Skdse",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "75d2aa2ad9361256": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Engineering Manager (m/f/x)",
+    "company": "Makersite GmbH",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "e8370564c161c027": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Support Engineer - AI-Driven (US Timezone)",
+    "company": "Tangible",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "2a5868e62fd9c1d2": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "IT Operations Engineer",
+    "company": "Imc",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "ea2645498763c63e": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Senior Product Manager, LiveOps – Idle Bank Tycoon (f/m/d)",
+    "company": "Kolibrigames",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "216a973630e41656": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "People Associate - Working Student",
+    "company": "wolt",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "71debf0965f7e9cb": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Senior Metallic and Material Engineer (Aerospace)",
+    "company": "OnTarget Communications",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 10,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "5c7ef7e1fa2bcb72": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Senior Delivery Manager (Remote)",
+    "company": "Job-Room",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
+  },
+  "0b2a7615d8e34efb": {
+    "firstSeen": "2026-11-20T14:03:01.733Z",
+    "lastSeen": "2026-11-20T14:03:01.733Z",
+    "title": "Sr Customer Success Engineer",
+    "company": "NetApp",
+    "by": "prefilter",
+    "v": 4,
+    "match": {
+      "score": 5,
+      "fit": "unscored",
+      "matched": [],
+      "gaps": [],
+      "disqualifiers": [],
+      "reason": "",
+      "next_action": ""
+    }
   }
 }
